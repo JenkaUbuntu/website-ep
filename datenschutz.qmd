@@ -29,4 +29,4 @@ Wenn Sie eine Berichtigung, Sperrung, Löschung oder Auskunft über die zu Ihrer
 
 ### Verantwortlicher für diese Datenschutzerklärung und diesen Onlineauftritt
 
-Verantwortlicher für die Verarbeitung personenbezogener Daten im Sinne der EU-Datenschutz-Grundverordnung (DSGVO): siehe [Impressum](./impressum.md)
+Verantwortlicher für die Verarbeitung personenbezogener Daten im Sinne der EU-Datenschutz-Grundverordnung (DSGVO): siehe [Impressum](./about.qmd)
