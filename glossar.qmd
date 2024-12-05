@@ -1,0 +1,21 @@
+---
+title: Glossar
+---
+
+::: {.callout-note collapse="true" icon="false"}
+
+## Argument
+
+:::
+
+::: {.callout-note collapse="true" icon="false"}
+
+## Argumentanalyse
+
+:::
+
+::: {.callout-note collapse="true" icon="false"}
+
+## Nachhaltige Entwicklung
+
+:::

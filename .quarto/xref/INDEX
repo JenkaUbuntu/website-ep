@@ -1,0 +1,38 @@
+{
+  "cv.qmd": {
+    "cv.html": "5570c347"
+  },
+  "about.qmd": {
+    "about.html": "04e06498"
+  },
+  "forschung.qmd": {
+    "forschung.html": "e6d3216f"
+  },
+  "index.qmd": {
+    "index.html": "04739e82"
+  },
+  "glossar.qmd": {
+    "glossar.html": "3a1ff32b"
+  },
+  "berufl-stat.qmd": {
+    "berufl-stat.html": "f479e9ca"
+  },
+  "lehre.qmd": {
+    "lehre.html": "2ea72dd5"
+  },
+  "wiss-aktivit.qmd": {
+    "wiss-aktivit.html": "ad14bad5"
+  },
+  "lebenslauf.qmd": {
+    "lebenslauf.html": "5422a248"
+  },
+  "datenschutz.qmd": {
+    "datenschutz.html": "bc3eace6"
+  },
+  "forschung2.qmd": {
+    "forschung2.html": "764a7dcb"
+  },
+  "forschung-html-accordion.qmd": {
+    "forschung-html-accordion.html": "fbc6217a"
+  }
+}

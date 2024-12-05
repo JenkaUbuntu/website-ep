@@ -1,0 +1,362 @@
+---
+title: "Eugen Pissarskoi"
+description: Dr.phil.
+lang: de
+hyphenate: true
+---
+
+::: {.columns}
+::: {.column width="50%"}
+Meine Aktivitäten verfolgen das Ziel, zur reflektierten Handlungsorientierung in Bezug auf Nachhaltige Entwicklung beizutragen. 
+
+Mein Beitrag liegt darin, [Argumente](./glossar.qmd#argument) zu [präzisieren](./glossar.qmd/argumentanalyse), mit denen über die Nachhaltigkeitstransformation innerhalb der Wissenschaft, in politischen Prozessen und in der breiten Öffentlichkeit debattiert wird. Dieser Aufgabe bin ich durch Forschungsaktivitäten sowie Politikberatung nachgegangen.
+:::
+::: {.column width="10%"}
+:::
+::: {.column width="40%"}
+```{=html}
+<div class="card border-primary" style="max-width: 20rem;">
+  <div class="card-header"><h5>Schwerpunkte</h5></div>
+  <div class="card-body">
+      <ul class="list-group list-group-flush">
+        <li class="list-group-item">Ethik Nachhaltiger Entwicklung</li>
+        <li class="list-group-item">Wirtschaftsethik</li>
+        <li class="list-group-item">Argumentanalyse</li>
+        <li class="list-group-item">Entscheidungsfindung</li>
+      </ul>
+  </div>
+</div>
+```
+:::
+::: 
+
+
+<!--adressieren das Themenfeld der Transformation zur [Nachhaltigen Entwicklung](./glossar.qmd#nachhaltige-entwicklung). Mein Fokus liegt darauf, [Argumente](./glossar.qmd#argument) zu [analysieren](./glossar.qmd/argumentanalyses), mit denen über die Nachhaltigkeitstransformation gesellschaftlich debattiert wird.--> 
+
+
+::: {.callout-note collapse="true" icon="false"}
+
+# Inhaltliche Motivation der Forschungs- und Beratungsthemen
+
+Um reflektierte Handlungsorientierung in Bezug auf Nachhaltige Entwicklung zu erlangen -- d.h. begründet zu entscheiden, was ich als Indviduum, wir als Organisation, Nationalstaat oder Menschheit tun sollen, um sowohl intergenerationell als auch global gerecht zu leben -- müssen die Konsequenzen unseres Handelns vorhergesagt und bewertet werden:
+
+i. sowohl von unseren Aktivitäten, die potentiell das Wohl zukünftiger Generationen mindern (wie Verbrauch nicht-erneuerbarer Ressourcen, anthropogen verursachte Emissionen von Treibhausgasen)
+ii. als auch von Maßnahmen, mit denen das Wohl zukünftiger Generationen gefährdende Aktivitäten reduziert werden
+
+Diese Aufgabe ist allerdings in zwei Hinsichten voraussetzungsreich:
+
+* **epistemisch**: Langfristige Auswirkungen von Eingriffen in natürliche Systeme können nicht präzise vorhergesagt werden. Die Qualität von Zukunftsprognosen (probabilistisches oder possibilistisches Zukunftswissen) hat allerdings einen signifikanten Einfluss auf die Bewertung von Handlungsoptionen.
+  * Auswirkungen von zunehmender Treibhausgaskonzentration in der Atmosphäre wie stark sich klimatische Größen wie Oberflächentemperatur, Meeresspiegelanstieg, Veränderung von Niederschlägen etc. in Abhängigkeit von einer bestimmten Treibhausgaskonzentration in der Atmosphäre verändern, ist nicht eindeutig bestimmbar. Klimawissenschaftler\*innen und Wissenschaftstheoretiker\*innen sind sich uneinig darüber, ob die Reaktion von klimatischen Größen auf zunehmende atmosphärische THG-Konzentrationen in Wahrscheinlichkeiten angegeben werden kann (d.h. probabilistisches Zukunftswissen haben) oder ob wir lediglich Bandbreiten von physikalisch möglichen Reaktionen kennen (d.h. lediglich possibilistisches Zukunftswissen haben).
+
+* **normativ**: Klimawandelfolgen werden nahezu alle Bereiche dessen betreffen, was für uns, Menschen, wertvoll ist: neben materiellen Gütern sind es geographische Verbundenheit bzw. Verwurzelung, Lebenspläne, verinnerlichte Gewohnheiten, Gesundheit, Sterblichkeit. Hinzu kommen Veränderungen für nicht-menschliche moralisch berücksichtigungswürdige Lebewesen, die bei der Kalkulation von Kosten und Nutzen von Klimaschutzpolitiken nicht außer Acht gelassen werden dürfen. 
+  * Identifikation von allen normativ relevanten Belangen, ihre Bewertung und Aggregation zu einer einheitlichen Größe (bzw. ihre Vergleichbarkeit untereinander) haben ebenfalls signifikanten Einfluss auf die Bewertung von Handlungsoptionen. 
+
+**Gesellschaftliche Kontroversen** über Ziele und Strategien Nachhaltiger Entwicklung resultieren vielfach daraus, dass
+
+* die Konsequenzen aus dem Ressourcenverbrauch und Treibhausgasemissionen nicht eindeutig vorhergesagt werden können;
+* es unsicher ist, welchen Einfluss der Ressourcenverbrauch und Treibhausgase emittierende Aktivitäten auf die Lebensqualität von Menschen hat. 
+:::
+
+## Forschungsthemen
+
+<!--
+::: {.columns}
+::: {.column width="30%"}
+```{=html}
+<a href="./forschung.qmd#handeln-angesichts-von-ungewissheiten"> 
+  <button type="button" class="btn btn-outline-primary">Handeln angesichts von Ungewissheiten</button>
+</a>
+```
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+```{=html}
+<a href="./forschung.qmd#nachhaltiges-handeln-und-lebensqualität">
+  <button type="button" class="btn btn-outline-primary">Vielfalt von Vorstellungen Guten Lebens</button>
+</a>
+```
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+```{=html}
+<a href="./forschung.qmd#methoden-praktischer-ethik">
+  <button type="button" class="btn btn-outline-primary">Methoden gesellschafts-politischer Beratung</button>
+</a>
+```
+:::
+::: 
+
+::: {.columns}
+::: {.column width="30%"}
+```{=html}
+<a href="./forschung.qmd#ziele-und-strategien-nachhaltiger-entwicklung"> 
+  <button type="button" class="btn btn-outline-primary">Ziele und Strategien Nachhaltiger Entwicklung</button>
+</a>
+```
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+```{=html}
+<a href="./forschung.qmd#sozial-ökologische-transformationspolitik">
+  <button type="button" class="btn btn-outline-primary">sozial-ökologische Transformation</button>
+</a>
+```
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+```{=html}
+<a href="./forschung.qmd#technikfolgenbewertung">
+  <button type="button" class="btn btn-outline-primary">Technikfolgen: <br>Abschätzung und Bewertung</button>
+</a>
+```
+:::
+::: 
+-->
+
+### Intrinsisch motiviert
+
+::: {.columns}
+::: {.column width="30%"}
+```{=html}
+<a href="./forschung.qmd#handeln-angesichts-von-ungewissheiten"> 
+  <button type="button" class="btn btn-outline-primary mb-3 mt-2">Handeln angesichts von Ungewissheiten</button>
+</a>
+```
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+```{=html}
+<a href="./forschung.qmd#nachhaltiges-handeln-und-lebensqualität">
+  <button type="button" class="btn btn-outline-primary mb-3 mt-2">Vielfalt von Vorstellungen Guten Lebens</button>
+</a>
+```
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+```{=html}
+<a href="./forschung.qmd#methoden-praktischer-ethik">
+  <button type="button" class="btn btn-outline-primary mb-3 mt-2">Methoden gesellschafts-politischer Beratung</button>
+</a>
+```
+:::
+::: 
+
+Meine Arbeiten kreisen um die Frage, wie sich langfristige und gesellschaftlich tiefgreifende Politikmaßnahmen begründen lassen
+
+* unter Anerkennung der **Ungewissheiten über langfristige Folgen**
+* angesichts einer **Vielfalt von Vorstellungen Guten Lebens**
+
+Darüber hinaus hat mich stets die methodologische Meta-Frage beschäftigt:
+
+* Mit welchen **Methoden** sollten an die politische Öffentlichkeit gerichtete Handlungsempfehlungen aus der Wissenschaft begründet werden?
+
+
+### Gesellschaftspolitisch motiviert
+
+::: {.columns}
+::: {.column width="30%"}
+```{=html}
+<a href="./forschung.qmd#ziele-und-strategien-nachhaltiger-entwicklung"> 
+  <button type="button" class="btn btn-outline-primary mb-3 mt-2">Ziele und Strategien Nachhaltiger Entwicklung</button>
+</a>
+```
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+```{=html}
+<a href="./forschung.qmd#sozial-ökologische-transformationspolitik">
+  <button type="button" class="btn btn-outline-primary mb-3 mt-2">sozial-ökologische Transformation</button>
+</a>
+```
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+```{=html}
+<a href="./forschung.qmd#technikfolgenbewertung">
+  <button type="button" class="btn btn-outline-primary mb-3 mt-2">Technikfolgen: <br>Abschätzung und Bewertung</button>
+</a>
+```
+:::
+::: 
+
+
+Die [intrinsisch motivierten Forschungsfragen](./forschung.qmd#intrinsisch-motivierte-forschungsthemen) haben sich mir wiederum gestellt, weil von ihren Antworten unser Umgang mit bestehenden gesellschaftlichen Herausforderungen -- 
+
+* Klimawandel oder Nachhaltige Entwicklung generell, 
+* aber auch technische Veränderungen wie Digitalisierung oder Künstliche Intelligenz --
+
+abhängt. Entsprechend habe ich die theoretischen Fragen vielfach am Beispiel von tatsächlich bestehenden [gesellschaftspolitischen Debatten und Kontroversen](./forschung.qmd#gesellschaftspolitisch-motivierte-themen) diskutiert. 
+
+<!--
+## Gesellschaftspolitische Themen 
+
+Diese theoretischen Herausforderungen habe ich in unterschiedlichen 
+Themenfeldern diskutiert:
+* Klimaschutzziele
+* Transformationstrategien
+* Technologiebewertung
+
+Darüber hinaus habe ich 
+*  Gerechtigkeitsaspekte im Naturschutz und in der Umweltpolitik
+
+## Methodische Themenfelder
+
+* Rolle von computergestützter Modellierung von umweltökonomischen Systemen in der Politikberatung
+* Argumentationsanalyse
+
+
+:::{.panel-tabset}
+
+## Ziele Nachhaltiger Entwicklung
+
+Das Ideal Nachhaltiger Entwicklung fordert, dass alle Länder weltweit so wirtschaften, dass sie ihre Bedürfnisse befriedigen, ohne die zukünftigen Generationen in der Möglichkeit einzuschränken, deren Bedürfnisse zu befriedigen. 
+
+Was genau impliziert dieses Ideal für die heute lebende Menschheit? 
+
+::::: {.columns}
+::: {.column width="47%"}
+::: {.callout-important icon="false" collapse="true"}
+### Einerseits
+nutzen Menschen natürliche Ressourcen, um ihre Bedürfnisse zu befriedigen. 
+:::
+:::
+
+::: {.column width="6%"}
+:::
+
+::: {.column width="47%"}
+::: {.callout-important icon="false" collapse="true"}
+### Andererseits
+verändern Menschen natürliche Systeme auf eine Weise, die das Wohl zukünftiger Generationen beeinträchtigen kann, beispielsweise
+* durch Verringerung der Biodiversität
+* durch Emission von anthropogen erzeugten Treibhausgasen.
+:::
+:::
+:::::
+
+Angesichts von diesem Trade-off aus der Nutzung natürlicher Ressourcen: 
+
+* wie soll die aktuell lebende Menschheit mit den verfügbaren Ressourcen umgehen? 
+* Welche Emissionen von Treibhausgasen und welche Eingriffe in die natürliche Umwelt sind verträglich mit dem Ideal Nachhaltiger Entwicklung? 
+
+Kontroversen über Antworten auf diese Fragen resultieren daraus, dass
+
+* die Konsequenzen aus dem Ressourcenverbrauch und Treibhausgasemissionen nicht eindeutig vorhergesagt werden können;
+* es unsicher ist, welchen Einfluss der Ressourcenverbrauch und Treibhausgase emittierende Aktivitäten auf die Lebensqualität von Menschen hat. 
+
+In meinen Arbeiten habe ich 
+* Argumente vorgebracht, die unter Anerkennung der Unsicherheiten über die genauen Folgen des Ressourcenverbrauchs und der Treibhausgasemissionen Handlungsorientierung liefern;
+* Kontroversen analysiert, die aus Meinungsverschiedenheiten über Vorstellungen Guten Lebens resultieren und Argumente rekonstruiert, die Handlungsorientierung angesichts der Vielfalt von Vorstellungen Guten Lebens liefern. 
+
+In meinen Arbeiten habe ich untersucht,
+
+* wie wir unter **Anerkennung der Ungewissheiten** Umwelt- und Klimaschutzziele begründen sollen;
+* welche Rolle Meinungsverschiedenheiten über Vorstellungen Guten Lebens in gesellschaftlichen Kontroversen spielen und wie wir angesichts der **Vielfalt von Vorstellungen Guten Lebens** Umwelt- und Klimaschutzziele begründen sollen.
+
+[Mehr dazu](./forschung.qmd)
+
+-->
+
+<!--
+## Forschungsthemen
+
+::::: {.columns}
+::: {.column width="73%"}
+### Intrinsisch motiviert
+
+Meine Arbeiten kreisen um die Frage, wie sich langfristige und gesellschaftlich tiefgreifende Politikmaßnahmen begründen lassen
+
+* unter Anerkennung der **Ungewissheiten über langfristige Folgen**
+* angesichts einer **Vielfalt von Vorstellungen Guten Lebens**
+
+Darüber hinaus hat mich stets die methodologische Meta-Frage beschäftigt:
+
+* Mit welchen **Methoden** sollten an die politische Öffentlichkeit gerichteten Handlungsempfehlungen aus der Wissenschaft begründet werden?
+:::
+::: {.column width="2%"}
+:::
+::: {.column width="25%"}
+```{=html}
+<style>
+  #first-button {
+    margin-top: 60px;}
+</style>
+<style>
+  .btn-outline-primary {
+    margin-bottom: 15px; /* Adjust the value as needed */
+  }
+</style>
+<a href="./forschung.qmd#handeln-angesichts-von-ungewissheiten"> 
+  <button type="button" class="btn btn-outline-primary" id="first-button">Handeln angesichts von Ungewissheiten</button>
+</a>
+
+<a href="./forschung.qmd#nachhaltiges-handeln-und-lebensqualität">
+  <button type="button" class="btn btn-outline-primary">Vielfalt von Vorstellungen Guten Lebens</button>
+</a>
+
+<a href="./forschung.qmd#methoden-praktischer-ethik">
+  <button type="button" class="btn btn-outline-primary">Methoden gesellschaftspolitischer Beratung</button>
+</a>
+```
+:::
+::::: 
+
+::::: {.columns}
+::: {.column width="73%"}
+### Gesellschaftspolitisch motiviert
+
+Die [intrinsisch motivierten Forschungsfragen](./forschung.qmd#intrinsisch-motivierte-forschungsthemen) haben sich mir wiederum gestellt, weil von ihren Antworten unser Umgang mit bestehenden gesellschaftlichen Herausforderungen -- Klimawandel oder Nachhaltige Entwicklung generell, aber auch technische Veränderungen wie Digitalisierung oder Künstliche Intelligenz -- abhängt. Entsprechend habe ich die theoretischen Fragen vielfach am Beispiel von tatsächlich bestehenden **gesellschaftspolitischen Debatten und Kontroversen** diskutiert. Hierdurch habe ich eine große Bandbreite von [gesellschaftspolitisch motivierten Themen](./forschung.qmd#gesellschaftspolitisch-motivierte-themen) bearbeitet.
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="25%"}
+
+```{=html}
+<style>
+  #first-button-gsor {
+    margin-top: 65px;}
+</style>
+<style>
+  .btn-outline-primary {
+    margin-bottom: 15px; /* Adjust the value as needed */
+  }
+</style>
+<a href="./forschung.qmd#ziele-und-strategien-nachhaltiger-entwicklung"> 
+  <button type="button" class="btn btn-outline-primary" id="first-button-gsor">Ziele und Strategien Nachhaltiger Entwicklung</button>
+</a>
+<a href="./forschung.qmd#sozial-ökologische-transformationspolitik">
+  <button type="button" class="btn btn-outline-primary">sozial-ökologische Transformationspolitik</button>
+</a>
+<a href="./forschung.qmd#technikfolgenbewertung">
+  <button type="button" class="btn btn-outline-primary">Technikfolgenbewertung</button>
+</a>
+```
+:::
+::::: 
+-->

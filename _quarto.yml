@@ -1,0 +1,37 @@
+project:
+  type: website
+
+website:
+  title: "Eugen Pissarskoi"
+  description: Ethik Nachhaltiger Entwicklung -- Argumentatanalyse
+  page-navigation: true
+  back-to-top-navigation: true
+  navbar:
+    title: false
+    left:
+      - href: index.qmd
+        text: Webseite Eugen Pissarskoi
+      - href: forschung.qmd
+        text: Inhalte
+      - href: wiss-aktivit.qmd
+        text: Aktivitäten
+      - href: lebenslauf.qmd
+        text: Über mich
+  page-footer:
+    left: "Eugen Pissarskoi, 2024"
+    center: 
+      - text: "Impressum"
+        href: about.qmd
+      - text: "Datenschutz"
+        href: datenschutz.qmd
+
+
+format:
+  html:
+    theme: sandstone
+    css: styles.css
+    toc: true
+    hyphenate: true
+
+
+
