@@ -127,6 +127,20 @@ Diese Aufgabe ist allerdings in zwei Hinsichten voraussetzungsreich:
 
 ### Intrinsisch motiviert
 
+```{=html}
+<div class="d-flex gap-2 w-100">
+  <a href="./forschung.qmd#handeln-angesichts-von-ungewissheiten">
+    <button class="btn btn-lg btn-outline-primary flex-fill mb-3 mt-2" type="button">Handlen angesichts von Ungewissheiten</button>
+  </a>
+  <a href="./forschung.qmd#nachhaltiges-handeln-und-lebensqualität">
+    <button class="btn btn-lg btn-outline-primary flex-fill mb-3 mt-2" type="button">Vielfalt von Vorstlelungen guten Lebens</button>
+  </a>
+  <a href="./forschung.qmd#methoden-praktischer-ethik">
+    <button class="btn btn-lg btn-outline-primary flex-fill mb-3 mt-2" type="button">Methoden gesellschafts-politischer Beratung</button>
+  </a>
+</div>
+```
+<!--
 ::: {.columns}
 ::: {.column width="30%"}
 ```{=html}
@@ -158,6 +172,7 @@ Diese Aufgabe ist allerdings in zwei Hinsichten voraussetzungsreich:
 ```
 :::
 ::: 
+-->
 
 Meine Arbeiten kreisen um die Frage, wie sich langfristige und gesellschaftlich tiefgreifende Politikmaßnahmen begründen lassen
 
@@ -171,6 +186,21 @@ Darüber hinaus hat mich stets die methodologische Meta-Frage beschäftigt:
 
 ### Gesellschaftspolitisch motiviert
 
+```{=html}
+
+<div class="d-flex gap-2 w-100">
+  <a href="./forschung.qmd#ziele-und-strategien-nachhaltiger-entwicklung">
+    <button class="btn btn-lg btn-outline-primary flex-fill mb-3 mt-2" type="button">Ziele und Strategien Nachhaltiger Entwicklung</button>
+  </a>
+  <a href="./forschung.qmd#sozial-ökologische-transformationspolitik">
+    <button class="btn btn-lg btn-outline-primary flex-fill mb-3 mt-2" type="button">sozial-ökologische Transformation</button>
+  </a>
+  <a href="./forschung.qmd#technikfolgenbewertung">
+    <button class="btn btn-lg btn-outline-primary flex-fill mb-3 mt-2" type="button">Technikfolgen: Abschätzung und Bewertung</button>
+  </a>
+</div>
+```
+<!--
 ::: {.columns}
 ::: {.column width="30%"}
 ```{=html}
@@ -202,7 +232,7 @@ Darüber hinaus hat mich stets die methodologische Meta-Frage beschäftigt:
 ```
 :::
 ::: 
-
+-->
 
 Die [intrinsisch motivierten Forschungsfragen](./forschung.qmd#intrinsisch-motivierte-forschungsthemen) haben sich mir wiederum gestellt, weil von ihren Antworten unser Umgang mit bestehenden gesellschaftlichen Herausforderungen -- 
 
