@@ -41,7 +41,7 @@ Mein Beitrag liegt darin, [Argumente](./glossar.qmd#argument) zu [präzisieren](
 Um reflektierte Handlungsorientierung in Bezug auf Nachhaltige Entwicklung zu erlangen -- d.h. begründet zu entscheiden, was ich als Indviduum, wir als Organisation, Nationalstaat oder Menschheit tun sollen, um sowohl intergenerationell als auch global gerecht zu leben -- müssen die Konsequenzen unseres Handelns vorhergesagt und bewertet werden:
 
 i. sowohl von unseren Aktivitäten, die potentiell das Wohl zukünftiger Generationen mindern (wie Verbrauch nicht-erneuerbarer Ressourcen, anthropogen verursachte Emissionen von Treibhausgasen)
-ii. als auch von Maßnahmen, mit denen das Wohl zukünftiger Generationen gefährdende Aktivitäten reduziert werden
+ii. als auch von Maßnahmen, mit denen  wir zu vermeiden suchen, dass das Wohl zukünftiger Generationen gefährdet wird.
 
 Diese Aufgabe ist allerdings in zwei Hinsichten voraussetzungsreich:
 
@@ -132,10 +132,10 @@ Diese Aufgabe ist allerdings in zwei Hinsichten voraussetzungsreich:
   <a href="./forschung.qmd#handeln-angesichts-von-ungewissheiten">
     <button class="btn btn-lg btn-outline-primary flex-fill mb-3 mt-2" type="button">Handlen angesichts von Ungewissheiten</button>
   </a>
-  <a href="./forschung.qmd#nachhaltiges-handeln-und-lebensqualität">
+  <a href="./forschung.qmd#vorstellungen-guten-lebens">
     <button class="btn btn-lg btn-outline-primary flex-fill mb-3 mt-2" type="button">Vielfalt von Vorstlelungen guten Lebens</button>
   </a>
-  <a href="./forschung.qmd#methoden-praktischer-ethik">
+  <a href="./forschung.qmd#methoden-der-gesellschaftspolitischen-beratung">
     <button class="btn btn-lg btn-outline-primary flex-fill mb-3 mt-2" type="button">Methoden gesellschafts-politischer Beratung</button>
   </a>
 </div>
