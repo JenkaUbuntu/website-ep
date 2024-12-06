@@ -1,5 +1,6 @@
 ---
 title: Forschungsinhalte
+number-sections: true
 ---
 ::: {.callout-note icon="false" collapse="true"}
 ## Gesellschaftliche Wohlfahrt und Klimawandel
@@ -39,7 +40,7 @@ In Blogbeiträgen habe ich gesellschaftliche Kontroversen kommentiert, die aus d
 :::
 
 ::: {.callout-note icon="false" collapse="true"}
-### Pissarskoi (unpublished): Possibly disastrous, but controllable – on dynamic decision making under uncertainty
+### Pissarskoi (unpublished): Possibly disastrous, but controllable – on dynamic decision making under uncertainty {#sec-controllability}
 
 Ich argumentiere, dass die bislang diskutierten Prinzipien für Entscheidungen unter Ungewissheit Ergebnis-abhängig (outcome-dependent) sind: sie leiten eine Handlungsempfehlung ausgehend vom Wert der möglichen Konsequenzen (Ergebnisse) der verfügbaren Entscheidungsoptionen ab.
 
@@ -72,9 +73,9 @@ In einem früh industrialisierten und heute relativ wohlhabenden Land wie Deutsc
 
 Um zu Handlungsorientierung bezüglilch dieses gesellschaftspolitischen Hemmnisses zu gelangen, habe ich mich mit den folgenden Fragen auseinandergesetzt: 
 
-* welche gesellschaftspolitischen Akteure vertreten diese Befürchtung vertreten und welche Akteure verneinen sie, und aus welchen Gründen? Werden dabei kontroverse Auffassungen Guten Lebens vertreten?: siehe 
+* welche gesellschaftspolitischen Akteure vertreten diese Befürchtung und welche Akteure verneinen sie, und aus welchen Gründen? Werden dabei kontroverse Auffassungen Guten Lebens vertreten?: siehe dazu UBA-Berichte (2018), Pissarskoi und Singo (2024)
 
-* welche theoretischen Systematisierungen von Auffassungen Guten Lebens werden in der philosophischen, ökonomischen und psychologischen Forschung unterschieden? siehe Pissarskoi 2014
+* welche theoretischen Systematisierungen von Auffassungen Guten Lebens werden in der philosophischen, ökonomischen und psychologischen Forschung unterschieden? siehe dazu Pissarskoi (2014)
 
 * Wie sollen andere Mitmenschen dazu angeregt werden werden, ihre Auffassung Guten Lebens zu verändern? -- siehe Pissrskoi (unpublished) und Kollektiv "Unleasing Fantasy for Transformation"
 
@@ -155,27 +156,27 @@ In Kapitel 7 unterbreite ich den Vorschlag, klimapolitische Maßnahmen im Hinbli
 
 ## Methoden der gesellschaftspolitischen Beratung
 
-In meinen Forschungsarbeiten begründe ich normative Behauptungen, also Aussagen darüber, welche Klimaziele gerecht bzw. erstrebenswert sind, welche Strategien gewählt werden sollen und welche nicht. 
+In meinen Forschungsarbeiten begründe ich normative Behauptungen^[beispielsweise Aussagen darüber, welche Klimaziele gerecht bzw. erstrebenswert sind, welche Strategien gewählt werden sollen und welche nicht]. 
+
+Seit ich in meinem Promotionsvorhaben mit der Aufgabe konfrontiert war, zu begründen, welches Klimaziel die Menschheit verfolgen sollte, beschäftigen mich Fragen nach angemessenen Methoden hierfür: 
 
 * Mit welchen Methoden können normative Behauptungen begründet werden? 
-* Welche Beitrag kann wissenschaftliche Forschung zur Begründung normativer Behauptungen -- wie Bewertungen oder Handlungsempfehlungen -- leisten? 
+* Welche Beitrag sollte wissenschaftliche Forschung zur Begründung normativer Behauptungen^[wie Bewertungen oder Handlungsempfehlungen] leisten? 
 * Welchen Beitrag sollten kreative Methoden -- Design Thinking, Visionieren, fiktionales Erzählen -- dabei spielen?
-
-Diese Fragen beschäftigen mich, seit ich in meinem Promotionsvorhaben mit der Aufgabe konfrontiert war, einen Beitrag dazu zu leiten, um zu begründen, welches Klimaziel die Menschheit verfolgen sollte. 
 
 :::::{.panel-tabset}
 
 ### Methoden aus der Ökonomik
 
-Umwelt- und Klimaökonom\*innen verwenden computergestützte Modelle -- so genannte Integrierte Bewertungsmodelle (IAMs für Integrated Assessment Models), die Teile ökologischer Systeme (beispielsweise den Kreislauf der Treibhausgase) mit ökonomischen Systemen koppeln -- um zu analysieren, welche umweltpolitischen Szenarien zu welchen Wohlfahrtseffekten führen werden. 
+Umwelt- und Klimaökonom\*innen verwenden computergestützte Modelle. so genannte Integrierte Bewertungsmodelle^[Integrated Assessment Models (IAM): sie koppleln Teile ökologischer Systeme (beispielsweise den Kreislauf der Treibhausgase) mit ökonomischen Systemen und können berechnen, wie ökonomische Systeme (z.B. ökonomische Wertschöpfung) in Reaktion auf Veränderungen in ökologischen Systemen reagieren], um zu analysieren, welche umweltpolitischen Szenarien zu welchen Wohlfahrtseffekten führen werden. 
 
 Ergebnisse von ökonomischen Analysen von umweltpolitischen Szenarien werden dafür verwendet, um politische Handlungsempfehlungen auszusprechen. 
 
 In meinen Arbeiten habe ich 
 
-* rekonstruiert, wie mit Hilfe von computergestützten umweltökonomischen Modellen Handlungsempfehlungen begründet werden;
-* Einwände dagegen vorgebracht, mit Hilfe von IAMs Handlungsempfehlungen zu begründen;
-* Vorschläge unterbreitet, wie computergestützte Modelle dazu genutzt werden könnten, politische Handlungsempfehlungen zu begründen.
+* rekonstruiert, wie mit Hilfe von computergestützten umweltökonomischen Modellen Handlungsempfehlungen begründet werden (Pissarskoi 2014, 2016a);
+* Einwände dagegen vorgebracht, mit Hilfe von IAMs Handlungsempfehlungen zu begründen (Pissarskoi 2014, 2016b, 2019);
+* Vorschläge unterbreitet, wie computergestützte Modelle dazu genutzt werden könnten, politische Handlungsempfehlungen zu begründen (Pissarskoi 2016a, 2016b, 2019).
 
 ::: {.callout-note icon="false" collapse="true"}
 ### Pissarskoi (2019): Was eine moderne Klimaökonomik berücksichtigen sollte
@@ -208,6 +209,8 @@ In diesem Aufsatz
 * Ich kritisiere, dass die Veröffentlichungen in den Policy Papers zu Missverständnissen bezüglich der bestehenden Unsicherheiten über die analysierten Szenarien einladen. Wegen dieser Missverständnisse können ungerechtfertigte Handlungsempfehlungen geschlussfolgert werden.
 
 * Ich unterbreite Vorschläge, wie öffentliche Kommunikation von energiepolitischen Szenarienanalyse in demokratischen Gesellschaften verbessert werden könnte.
+
+[Link zum Aufsatz](https://nextclouds.webo.hosting/s/BiYXKYpCndoYFYG)
 :::
 
 ::: {.callout-note icon="false" collapse="true"}
@@ -222,7 +225,7 @@ In diesem Kapitel
 
 ### Methoden Praktischer Ethik
 
-Gibt es Methoden aus der Philosophie -- bzw. ihrer Subdisziplin "Praktische Ethik", die sich dezidiert mit der Auseinandersetzung mit normativen Fragen in gesellschaftlichen Kontroversen beschäftigt -- mit denen Handlungsempfehlungen begründet werden können? 
+Gibt es Methoden aus der Philosophie bzw. ihrer Subdisziplin "Praktische Ethik"^[die sich dezidiert mit der Auseinandersetzung mit normativen Fragen in gesellschaftlichen Kontroversen beschäftigt[, mit denen Handlungsempfehlungen begründet werden können? 
 
 ::: {.callout-note icon="false" collapse="true"}
 ### Charlotte Unruh, Susanne Hahn, and Eugen Pissarskoi (2022): Philosophical methods and being public philosophers
@@ -286,12 +289,12 @@ Wenn wir anerkennen, dass ein früh industrialisiertes und relativ wohlhabendes 
 
 Seit der Mitte 2000er Jahre werden Visionen bzw. wirtschaftspolitische Strategien, die alle eine sozial-ökologische Transformation von früh industrialisierten Ländern anstreben, unter einer großen Vielfalt von Namen diskutiert: Green Growth, Green Economy, Circular Economy, Postwachstum, Degrowth, A-Growth etc. 
 
-Ich habe mich zum einen daran beteiligt, diese Diskurse zu systematisieren (Diefenbacher et al. 2015). Zwischen 2011 und 2017 habe ich den Blog [Postwachstum](https://www.postwachstum.de/) redaktionell koordiniiert.
+Ich habe mich zum einen daran beteiligt, 
 
-Im Rahmen des Forschungsvorhabens PoWaRes^[„Ansätze zur Ressourcenschonung im Kontext von Postwachstumskonzepten“, im Auftrag des Umweltbundesamtes, Forschungskennzahl 3715 311040] habe ich in Zusammenarbeit mit Projektpartnern 
-
-* Argumente hinsichtlich von zwei einander widersprechenden wirtschaftspolitischen Strategien, Degrowth und Green-Growth, analysiert. Beide Strategien haben wir als nicht überzeugend rechtfertigbar kritisiert;
-* auf der Grundlage dieser Kritik eine alternative Strategie entwickelt: die **Vorsorgeorientierte Postwachstumsposition** (Petschow et al. 2028, Petschow und Pissarskoi 2025)
+* diese Diskurse zu systematisieren (Diefenbacher et al. 2015, Petschow et al. 2018). 
+* Die aktuell prominent diskutierten wirtschaftspolitischen Strategien, Degrowth und Green-Growth, beide als nicht überzeugend rechtfertigbar kritisiert (Petschow et al. 2018, Petschow und Pissarskoi 2025).
+* auf der Grundlage dieser Kritik eine alternative Strategie mitentwickelt: die **Vorsorgeorientierte Postwachstumsposition** (Petschow et al. 2018, Petschow und Pissarskoi 2025).
+* Zwischen 2011 und 2017 habe ich den Blog [Postwachstum](https://www.postwachstum.de/) redaktionell koordiniert.
 
 ::: {.callout-note icon="false" collapse="true"}
 #### Petschow und Pissarskoi (2025): Die Vorsorgeorientierte Postwachstumsposition: von einer Kultur des Wachstums zu einer Kultur der Nachhaltigkeit
@@ -425,6 +428,10 @@ Im Rahmen von den folgenden Forschungsvorhaben habe ich Wertkonflikte bei der Tr
 
 ::: {.callout-note icon="false" collapse="true"}
 #### Pissarskoi (2016): Die Bürde des Möglichen
+In dieser Arbeit analysiere ich, wie Zukunftsprognosen, die mit Hilfe von energieökonomische Modelle erstellt werden, verwendet werden, um energiepolitische Handlungsempfehlungen zu begründen. Hierzu betrachte ich wissenschaftliche Studien, die zur Begründung der Entscheidung über eine Laufzeitverlängerung der Kernkraftwerke in Deutschland erstellt wurden. Die Studien haben jeweils ökonomische Konsequenzen von Szenarien von Laufzeitverlängerungen zu bestimmen versucht.
+
+* Ich kritisiere am Beispiel von diesen Studien, dass der Grad der Gewissheit über die getroffenen energieökonomischen Vorhersagen nicht präzise kommuniziert wird. Es lässt sich belegen, dass Formulierungen in den Studien suggerieren, die getroffenen Vorhersagen seien eindeutige Zukunftsprognosen. Eine solche Gewissheit haben die Ergebnisse der Modelle allerdings nicht.
+* Ich präsentiere Vorschläge, wie Kommunikation von unsicheren Prognosen durch die Wissenschaft in demokratischen Gesellschaften erfolgen sollte.
 :::
 
 ::: {.callout-note icon="false" collapse="true"}

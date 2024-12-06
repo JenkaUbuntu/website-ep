@@ -26,12 +26,11 @@ website:
       - text: "Datenschutz"
         href: datenschutz.qmd
 
-
 format:
   html:
     theme: 
       light: sandstone
-      dark: darkly
+      dark: solar
     css: styles.css
     toc: true
     hyphenate: true
