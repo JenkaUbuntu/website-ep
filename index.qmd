@@ -257,7 +257,7 @@ Darüber hinaus hat mich stets die methodologische Meta-Frage beschäftigt:
 ::: 
 -->
 
-Die [aus Eigeninteresse verfolgten Forschungsfragen](./forschung.qmd#aus-eigeninteresse-verfolgte-forschungsthemen) haben sich mir wiederum gestellt, weil von ihren Antworten unser Umgang mit bestehenden gesellschaftlichen Herausforderungen -- 
+Die [aus Eigeninteresse verfolgten Forschungsfragen](./forschung.qmd#aus-eigeninteresse-verfolgten-forschungsthemen) haben sich mir wiederum gestellt, weil von ihren Antworten unser Umgang mit bestehenden gesellschaftlichen Herausforderungen -- 
 
 * Klimawandel oder Nachhaltige Entwicklung generell, 
 * aber auch technische Veränderungen wie Digitalisierung oder Künstliche Intelligenz --
