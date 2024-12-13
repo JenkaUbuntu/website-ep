@@ -9,7 +9,7 @@ hyphenate: true
 ::: {.column width="50%"}
 Meine Aktivitäten verfolgen das Ziel, zur reflektierten Handlungsorientierung in Bezug auf Nachhaltige Entwicklung beizutragen. 
 
-Mein Beitrag liegt darin, Argumente zu präzisieren, mit denen über die Nachhaltigkeitstransformation innerhalb der Wissenschaft, in politischen Prozessen und in der breiten Öffentlichkeit debattiert wird. Dieser Aufgabe bin ich durch Forschungsaktivitäten sowie Politikberatung nachgegangen.
+Mein Beitrag liegt darin, Argumente zu präzisieren, mit denen über die Nachhaltigkeitstransformation innerhalb der Wissenschaft, in politischen Prozessen und in der breiten Öffentlichkeit debattiert wird. Dieser Aufgabe bin ich bislang durch Forschungsaktivitäten sowie Politikberatung nachgegangen.
 :::
 ::: {.column width="10%"}
 :::

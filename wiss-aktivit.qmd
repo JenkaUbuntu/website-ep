@@ -1,5 +1,5 @@
 ---
-title: Wissenschaftliche Aktivitäten 
+title: Wissenschaftliche Geschäftigkeit^[den Ausdruck "Geschäftigkeit" hat [Peter Bieri](https://de.wikipedia.org/wiki/Peter_Bieri) in einem Aufsatz verwendet, in dem er die etablierten Qualitätskriterien wissenschaftlicher Arbeit (Anzahl von Publikationen und ihren Zitationen, Anzahl von Drittmittelprojekten, ihre finanzielle Größe etc.) kritisierte. Bieri machte darauf aufmerksam, dass diese Kriterien bestenfalls die Geschäftigkeit eines/er Wissenschaftler*in belegten, keineswegs jedoch die Qualität seiner/ihrer Arbeit. Auf dieser Seite liste ich auf, womit ich mich in der Zeit meiner wissenschaftlichen Arbeit beschäftigt habe.] 
 subtitle: chronologische Auflistung
 ---
 
@@ -127,7 +127,7 @@ Hans Diefenbacher, Ulrich Petschow, Eugen Pissarskoi, Dorothee Rodenhäuser, Rol
 Arnim von Gleich, Christian Pade, Ulrich Petschow und Eugen Pissarskoi (2007) [Bionik. Aktuelle Trends und zukünftige Potentiale](https://www.ioew.de/fileadmin/user_upload/DOKUMENTE/Publikationen/2007/Bionik_Aktuelle_Trends_und_zukünftige_Potenziale.pdf). Endbericht des Forschungsprojektes „Potenziale und Trends der Bionik”. Berlin/Bremen.
 :::
 
-# Wissenschaftliche Projekte
+# Projekte
 
 ::: {.callout-note collapse="true" icon="false"}
 ## Projektleitung

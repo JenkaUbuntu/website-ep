@@ -11,13 +11,13 @@ website:
     title: false
     left:
       - href: index.qmd
-        text: Webseite Eugen Pissarskoi
+        text: Startseite
       - href: forschung.qmd
         text: Inhalte
       - href: wiss-aktivit.qmd
-        text: Aktivitäten
+        text: Geschäftigkeit
       - href: lebenslauf.qmd
-        text: Über mich
+        text: Lebenslauf
   page-footer:
     left: "Eugen Pissarskoi, 2024"
     center: 
