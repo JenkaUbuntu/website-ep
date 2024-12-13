@@ -158,13 +158,13 @@ So treibt mich die Frage herum, wie eine reflektierte Entscheidunsfindung angesi
 ```{=html}
 <div class="d-flex gap-2 w-100">
   <a href="./forschung.qmd#handeln-angesichts-von-ungewissheiten">
-    <button class="btn btn-lg btn-outline-primary flex-fill mb-3 mt-2" type="button">Handlen angesichts von Ungewissheiten</button>
+    <button class="btn btn-lg btn-outline-primary flex-fill mb-3 mt-2" type="button">Handlen im Lichte von Ungewissheiten</button>
   </a>
   <a href="./forschung.qmd#vorstellungen-guten-lebens">
-    <button class="btn btn-lg btn-outline-primary flex-fill mb-3 mt-2" type="button">Vielfalt von Vorstlelungen guten Lebens</button>
+    <button class="btn btn-lg btn-outline-primary flex-fill mb-3 mt-2" type="button">Vorstellungen guten Lebens</button>
   </a>
   <a href="./forschung.qmd#methoden-der-gesellschaftspolitischen-beratung">
-    <button class="btn btn-lg btn-outline-primary flex-fill mb-3 mt-2" type="button">Methoden gesellschafts-politischer Beratung</button>
+    <button class="btn btn-lg btn-outline-primary flex-fill mb-3 mt-2" type="button">Methoden politischer Beratung</button>
   </a>
 </div>
 ```

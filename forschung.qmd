@@ -51,6 +51,8 @@ Als Alternative dazu schlage ich vor, Entscheidungen unter Ungewissheit mit Hilf
 * Ich erläutere die Grundstruktur von Prozess-orientierten Entscheidungsprinzipien.
 
 * Das Kontrollierbarkeits-Vorsorgeprinzip ist ein Beispiel für ein Prozess-orientiertes Entscheidungsprinzip. Ich schlage einen Weg zu dessen Operationalisierung vor.
+
+[Link zum Text](https://nextclouds.webo.hosting/s/tPKYJrs3RjJpPme)
 :::
 
 ::: {.callout-note icon="false" collapse="true"}
@@ -58,13 +60,15 @@ Als Alternative dazu schlage ich vor, Entscheidungen unter Ungewissheit mit Hilf
 
 * Ich kritisiere zwei Argumente, die unter Anerkennung von Ungewissheiten über die Klimafolgen ein Klimaziel begründen. Mein Einwand richtet sich auf Varianten des Vorsorgeprinzips, die in den Argumenten unterstellt werden.
 
-* Als Alternative dazu entwickele ich eine Variante des Vorsorgeprinzips -- das Kontrollierbarkeits-Vorsorgeprinzip, mit dem ein Klimaziel gerechtfertigt werden kann.
+* Als Alternative dazu entwickele ich eine weitere Variante des Vorsorgeprinzips -- das Kontrollierbarkeits-Vorsorgeprinzip, mit dem ein Klimaziel gerechtfertigt werden kann.
+
+Der Aufsatz ist [hier](https://doi.org/10.1093/oso/9780198813248.003.0011) erschienen.
 :::
 
 ::: {.callout-note icon="false" collapse="true"}
 ### Pissarskoi (2014): Gesellschaftliche Wohlfahrt und Klimawandel, Kapitel 7
 
-In diesem Kapiel des Buches entwickele ich ein Argument für ein Klimaziel, das lediglich possibilistische Vorhersagen über die Folgen des Klimawandels berücksichtigt.
+In diesem Kapiel des [Buches](https://www.oekom.de/buch/gesellschaftliche-wohlfahrt-und-kimawandel-9783865816856) entwickele ich ein Argument für ein Klimaziel, das lediglich possibilistische Vorhersagen über die Folgen des Klimawandels berücksichtigt.
 :::
 
 ## Vorstellungen Guten Lebens
@@ -82,7 +86,7 @@ Um zu Handlungsorientierung bezüglilch dieses gesellschaftspolitischen Hemmniss
 ::: {.callout-note icon="false" collapse="true"}
 ### Pissarskoi (unpublished): Is Economic Growth Necessary for a Good Life? – How to Decide this Controversy
 
-In [diesem Text](https://nextclouds.webo.hosting/s/BqsmbHzLxzZbwZq)
+In [diesem Text](https://nextclouds.webo.hosting/s/K4nTDA6mWXmQEoq)
 
 * argumentiere ich dafür, dass die Befürchtung, dass eine ambitionierte Reduktion von Ressourcennutzung und Treibhausgasemissionen zur Minderung der Lebensqualität führe, auf der Annahme basiert, dass Auffassungen dessen, was Gutes Leben ausmacht, nicht veränderbar sind. Ich halte es jedoch für adäquater, dass Auffassungen Guten Lebens subjektive Gewichtungen von Bestandteilen Guten Lebens enthalten. Diese Gewichtungen von Bestandteilen Guten Lebens können sich verändern: durch neue Erfahrungen, Gewöhnung, Änderung sozialer Praktiken können sich die Gewichte dessen, für wie wichtig wir einzelne Bestandteile Guten Lebens halten, verändern. 
 
@@ -128,9 +132,9 @@ Im Auftrag des Umweltbundesamtes haben wir analysiert, welche inhaltlichen Bezü
 ### Kollektiv "Unleasing Fantasy for Transformation"
 Wie sollte eine erstrebenswerte Welt aussehen? Meist geben wir negative Antworten auf diese Fragen, indem wir auflisten, welche Ungerechtigkeiten aus der bestehenden Welt beseitigt werden sollten. Positive Antworten -- Visionen einer erstrebenswerten Welt -- sind selten zu hören. 
 
-Visionen sind uns aber aus einer Literaturgattung vertraut: Science Fiction. Dort sind es meist naturwissenschaftlich prinzipiell manipulierbare Eigenschaften, die den Gegenstand des Visionierens darstellen. Ursula K. Le Guin ist ein Beispiel eine Autorin, in deren möglichen Welten soziale Institutionen und implizite Normen -- Eigentumsverhältnisse, Geschlechterstereotypen etc. -- anders -- eben erstrebenswert -- gestaltet sind. 
+Visionen sind uns aber aus einer Literaturgattung vertraut: Science Fiction. Dort sind es meist naturwissenschaftlich prinzipiell manipulierbare Eigenschaften, die den Gegenstand des Visionierens darstellen. [Ursula K. Le Guin](https://de.wikipedia.org/wiki/Ursula_K._Le_Guin) ist beispielsweise eine Autorin, in deren möglichen Welten soziale Institutionen und implizite Normen -- Eigentumsverhältnisse, Geschlechterstereotypen etc. -- anders -- eben erstrebenswert -- gestaltet sind. 
 
-Mit unserem Kollektiv -- das sind Andrea Vetter, Corinna Dengler, [Jana Gebauer](https://www.kaloikostopia.org), Kristina Utz, Matthias Fersterer und ich -- organisieren wir Gelegenheiten zum Visionieren, Spekulieren, Brainstormen über Gutes Leben. 
+Mit unserem Kollektiv, das von [Jana Gebauer](https://www.kaloikostopia.org) initiiert wurde, organisieren wir Gelegenheiten zum Visionieren, Spekulieren und Brainstormen über Gutes Leben. 
 :::
 
 ::: {.callout-note icon="false" collapse="true"}
@@ -210,7 +214,7 @@ In diesem Aufsatz
 
 * Ich unterbreite Vorschläge, wie öffentliche Kommunikation von energiepolitischen Szenarienanalyse in demokratischen Gesellschaften verbessert werden könnte.
 
-[Link zum Aufsatz](https://nextclouds.webo.hosting/s/BiYXKYpCndoYFYG)
+[Link zum Aufsatz](https://nextclouds.webo.hosting/s/pLXx9oNd2eHMBAL)
 :::
 
 ::: {.callout-note icon="false" collapse="true"}
@@ -248,6 +252,8 @@ In diesem Aufsatz erläutere ich eine Besonderheit von Begründungen von Entsche
 Anschließend mache ich auf eine Forschungslücke aufmerksam:
 
 * Es ist keine Theorie bekannt, die allgemein erklärt, wie zwischen dem epistemischen Status möglicher Konsequenzen und ihrem moralischen Wert abgewogen werden soll.
+
+[Link zum Aufsatz](https://nextclouds.webo.hosting/s/iGea6BSAzSE75Ts)
 :::
 
 ::: {.callout-note icon="false" collapse="true"}
@@ -370,7 +376,7 @@ Eine Kurzfassung des Berichts ist auf dem [Blog der Zeitschrift Review of Africa
 
 Eine Herausforderung, ein globales Klimaschutzziel zu begründen, liegt darin, dass die Folgen des Klimawandels sowie die Kosten des Aufwandes für Klimaschutz nur unpräzise vorhergesagt werden können. Selbst wenn die Menschheit sich darauf einigt, ein bestimmtes Temperaturziel zu verfolgen -- wie das 1.5°C aus dem Pariser Abkommen in 2015 -- bleibt noch zu klären, wie hoch die Treibhausgaskonzentration in der Atmosphäre sein darf, um dieses Temperaturziel einzuhalten. 
 
-In meinen Arbeiten habe ich dafür argumentiert, ein solches Klimaziel mit Hilfe von [Spezifikationen des Vorsorgeprinzips](#handeln-angesichts-von-ungewissheiten) -- ich habe für das [Kontrollierbarkeit-Vorsorgeprinzip](#headingTwo) argumentiert -- auszuzeichnen. 
+In meinen Arbeiten habe ich dafür argumentiert, ein solches Klimaziel mit Hilfe von Spezifikationen des Vorsorgeprinzips -- ich habe das Kontrollierbarkeits-Vorsorgeprinzip vorgeschlagen (Pissarskoi 2018, unpublished) -- zu rechtfertigen: Details in Publikationen zu [Handeln angesichts von Ungewissheiten](#handeln-angesichts-von-ungewissheiten).
 
 Unter Akzeptanz der von mir verteidigten Vorsorgeprinzipien sollte die Menschheit die **Treibhausgaskonzentration auf das vorindustrielle Niveau (von max. 350ppm $CO_2$) so schnell wie möglich zurückführen**. 
 
@@ -447,7 +453,7 @@ Hieraus lassen sich Empfehlungen dazu ableiten, wie eine konstruktive gesellscha
 * Anforderungen an ein Energiesystem sollten in einer gesellschaftlichen Deliberation beurteilt und gemäß demokratischen Verfahren festgelegt werden.
 * Die identifizierten empirischen Unsicherheiten sollten nach Möglichkeit durch entsprechende empirische Forschung beseitigt werden.
 
-Die Argumentanalyse ist dokumentiert worden in [Wachsmuth et al. 2015, Kapitel 5.3](http://localhost:4124/forschung.html).
+Die Argumentanalyse ist dokumentiert worden in [Wachsmuth et al. 2015, Kapitel 5.3](https://nextclouds.webo.hosting/s/HZKS6WbXmBndT3m).
 :::
 
 ### Ressourcen
@@ -489,7 +495,7 @@ Eine nicht-akademische Darstellung der Idee haben Wir
 ::: {.callout-note icon="false" collapse="true"}
 #### Pissarskoi 2018: Hat Natur Eigenwert? Und wenn ja: liefert das gute Gründe für den Naturschutz?
 
-In diesem Aufsatz (erschienen in den [Loccumer Protokollen](https://www.loccum.de/publikationen/9783817281176/)) argumentiere ich dafür, dass es nicht zielführend ist, Anliegen der Naturschutzpolitik durch Verweise auf den Eigenwert der Natur zu begründen. Mein Gedankengang geht folgendermaßen:
+In [diesem Aufsatz](https://nextclouds.webo.hosting/s/JYiyJoWfaeSzcMp) (erschienen in den [Loccumer Protokollen](https://www.loccum.de/publikationen/9783817281176/)) argumentiere ich dafür, dass es nicht zielführend ist, Anliegen der Naturschutzpolitik durch Verweise auf den Eigenwert der Natur zu begründen. Mein Gedankengang geht folgendermaßen:
 
 * es ist nicht schwer zu begrünen (und dürfte unkontrovers sein), dass alles, was lebendig ist, prima facie wertvoll und schützenswert ist.
 * Es gibt aber sehr viele Arten des Lebendingen. Und neben dem Lebendigen gibt es aber viele weitere Belange, die prima facie wertvoll und schützenswert sind.

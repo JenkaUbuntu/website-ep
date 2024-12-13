@@ -7,6 +7,7 @@ website:
   description: Ethik Nachhaltiger Entwicklung -- Argumentatanalyse
   page-navigation: true
   back-to-top-navigation: true
+  favicon: ./graphics/EugenPissarskoi_kleiner_off.jpg
   twitter-card: true
   open-graph: true
   navbar:
@@ -34,8 +35,8 @@ website:
 format:
   html:
     theme: 
-      light: sandstone
-      dark: solar
+      light: litera
+      dark: cyborg
     css: styles.css
     toc: true
     hyphenate: true
