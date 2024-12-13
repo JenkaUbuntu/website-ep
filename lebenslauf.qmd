@@ -15,10 +15,13 @@ Die frühzeitig industrialisierten Länder wie Deutschland befinden sich heute e
 
 * Es ist nicht sinnvoll bestreitbar, dass die Lebens- und Wirtschaftsweise der früh industrialisierten und heute relativ wohlhabenden Volkswirtschaften -- daunter auch Deutschland -- ungerecht gegenüber zukünftigen Generationen sowie vielen Menschen in den Ländern des Globalen Südens ist. 
   * Eindringliche Indizien für die Ungerechtigkeiten sind:
-    * Der Verbrauch nicht-erneuerbarer Ressourcen^[der so genannte [Materielle Fussabdruck]()]; 
-    * die Menge von Treibhausgasen, die jährlich emittiert werden; 
-    * der Beitrag zur Verringerung der Artenvielfalt. 
-  * Diese Indikatoren belegen nicht unmittelbar die Ungerechtigkeitsbehaupung. Es bedarf noch einer Begründung, warum diese Mengen intergenerationell und global ungerecht sind. Details dieser Begründung sind diffizil, ich habe in mehreren Publikationen mich bemüht, sie zu klären^[beispielsweise: ]. Der Grundgedanke der Begründung ist der folgende:
+    * Der [Verbrauch nicht-erneuerbarer Ressourcen](https://www.resourcepanel.org/global-material-flows-database); 
+    * die [Menge von Treibhausgasen](https://www.umweltbundesamt.de/daten/klima/treibhausgas-emissionen-in-deutschland#emissionsentwicklung), die jährlich emittiert werden; 
+    * Geschwindigkeit, mit der die Artenvielfalt sinkt (Stand des Wissens wird dokumentiert in Berichten des [International Panels on Biodiversity and Ecosystem Services](https://www.ipbes.net/), [hier](https://zenodo.org/records/3553579/files/ipbes_global_assessment_report_summary_for_policymakers.pdf?download=1) ist die Summary des Berichtes von 2019).
+    * Generellen Überblick bieten die Indikatoren:
+      * [Planetary Boundaries](https://www.stockholmresilience.org/research/planetary-boundaries.html)
+      * [Planetary Health Check](https://www.planetaryhealthcheck.org) 
+  * Diese Indikatoren belegen nicht unmittelbar die Ungerechtigkeitsbehaupung. Es bedarf noch einer Begründung, warum diese Zahlenangaben intergenerationell und global ungerecht sind. Details dieser Begründung sind diffizil, ich habe in mehreren Publikationen mich bemüht, sie zu klären^[beispielsweise: ]. Der Grundgedanke der Begründung ist der folgende:
     * Das Ausmaß, in dem die heute lebende Menschheit Flächen nutzt, Rohstoffe abbaut und durch Verarbeitung von Ressourcen Emissionen freisetzt, gefährdet das Wohlergehen der zukünftigen Generationen. Die heutige Menschheit ist gleichwohl in der Lage, das Ausmaß der Eingriffe in ökologische Systeme derart zu reduzieren, dass die Gefährdung des Wohlergehens der zukünftigen Generationen unterlassen wird, ohne ihr eigenes Wohlergehen dadurch zu gefährden. 
     * Frühzeitig industrialisierte Länder tragen überproportional viel zum Ausmaß, in dem die Menschheit in die ökologischen Systeme eingreift. Es ist nicht ernsthaft wünschenswert, dass alle Menschen weltweit die Möglichkeit haben, in die ökologischen Systeme in dem Ausmaß einzugreifen, in dem ein\*e durchschnittliche\*r Bewohner\*in in den früh industrialisierten Ländern eingreift. 
   

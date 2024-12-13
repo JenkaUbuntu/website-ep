@@ -1,5 +1,5 @@
 ---
-title: Wissenschaftliche Geschäftigkeit^[den Ausdruck "Geschäftigkeit" hat [Peter Bieri](https://de.wikipedia.org/wiki/Peter_Bieri) in einem Aufsatz verwendet, in dem er die etablierten Qualitätskriterien wissenschaftlicher Arbeit (Anzahl von Publikationen und ihren Zitationen, Anzahl von Drittmittelprojekten, ihre finanzielle Größe etc.) kritisierte. Bieri machte darauf aufmerksam, dass diese Kriterien bestenfalls die Geschäftigkeit eines/er Wissenschaftler*in belegten, keineswegs jedoch die Qualität seiner/ihrer Arbeit. Auf dieser Seite liste ich auf, womit ich mich in der Zeit meiner wissenschaftlichen Arbeit beschäftigt habe.] 
+title: Wissenschaftliche Geschäftigkeit^[Mit dem Ausdruck "Geschäftigkeit" hat [Peter Bieri](https://de.wikipedia.org/wiki/Peter_Bieri) in einem Aufsatz die etablierten Qualitätskriterien wissenschaftlicher Arbeit (Anzahl von Publikationen und ihren Zitationen, Anzahl von Drittmittelprojekten, ihr finanzieller Umfang etc.) kritisiert. Bieri machte darauf aufmerksam, dass die etablierten Kriterien bestenfalls die Geschäftigkeit eines/er Wissenschaftler*in belegten, keineswegs jedoch die Qualität seiner/ihrer Arbeit. Auf dieser Seite liste ich auf, womit ich mich in der Zeit meiner wissenschaftlichen Arbeit beschäftigt habe.] 
 subtitle: chronologische Auflistung
 ---
 
@@ -15,7 +15,7 @@ v. Gleich, Arnim, Pade, Christian, Petschow, Ulrich, Pissarskoi, Eugen (2010) [
 ::: {.callout-note collapse="true" icon="false"}
 ## Fachaufsätze
 
-Ulrich Petschow und Eugen Pissarskoi, (i.E. voraussichtlich 2025), [Die vorsorge­orien­tier­te Postwachstumsposition: Von einer Kultur des Wachstums zu einer Kultur der Nachhaltigkeit](https://www.metropolis-verlag.de/Wirtschaftswachstum-zwischen-Fortschritt%2C-Abhaengigkeit-und-Zwang/1585/book.do), in: Tobias Vogel (Hg.), Wirtschaftswachstum zwischen Fort­schritt, Abhängigkeit und Zwang, Metropolis Verlag. [Text des Aufsatzes]()
+Ulrich Petschow und Eugen Pissarskoi, (i.E. voraussichtlich 2025), [Die vorsorge­orien­tier­te Postwachstumsposition: Von einer Kultur des Wachstums zu einer Kultur der Nachhaltigkeit](https://www.metropolis-verlag.de/Wirtschaftswachstum-zwischen-Fortschritt%2C-Abhaengigkeit-und-Zwang/1585/book.do), in: Tobias Vogel (Hg.), Wirtschaftswachstum zwischen Fort­schritt, Abhängigkeit und Zwang, Metropolis Verlag. [Text des Aufsatzes](https://nextclouds.webo.hosting/s/4KboqWmCXEW5iMM)
 
 Eugen Pissarskoi und Leiyo Singo (2024) [Neglected Components in Dominant Accounts of a Good Life? -- Disagreements among Maasai Pastoralists](https://doi.org/10.1007/s12115-024-00988-4), Society (61): 534-546.
 
@@ -37,13 +37,13 @@ Eugen Pissarskoi (2020) [Radikaler versus behutsamer Klimaschutz: warum Behutsam
 
 Eugen Pissarskoi (2019) [Was eine moderne Klimaökonomik berücksichtigen sollte](https://makronom.de/economists-for-future-was-eine-moderne-klimaoekonomik-beruecksichtigen-sollte-33199), Blog Makronom. [Link zur frei zugänglichen Version](https://www.exploring-economics.org/de/entdecken/moderne-klimaoekonomik/)
 
-Eugen Pissarskoi (2018a) [The Controllability Precautionary Principle: Justification of a climate policy goal under uncertainty](https://doi.org/10.1093/oso/9780198813248.003.0011), in: Ravi Kanbur and Henry Shue (eds): Climate Justice: Integrating Economics and Philosophy, Oxford University Press, 188-208. [Text des Aufsatzes]()
+Eugen Pissarskoi (2018a) [The Controllability Precautionary Principle: Justification of a climate policy goal under uncertainty](https://doi.org/10.1093/oso/9780198813248.003.0011), in: Ravi Kanbur and Henry Shue (eds): Climate Justice: Integrating Economics and Philosophy, Oxford University Press, 188-208.
 
-Eugen Pissarskoi (2018b) Das Problem der epistemisch-evaluativen Abwägung bei Entscheidungen unter Unsicherheit, in: U. Müller et al. (eds): Abwägen und Anwenden. Zum 'guten' Umgang mit ethischen Normen und Werten. Narr Francke Attempto Tübingen, 55-84. [Text des Aufsatzes]()
+Eugen Pissarskoi (2018b) Das Problem der epistemisch-evaluativen Abwägung bei Entscheidungen unter Unsicherheit, in: U. Müller et al. (eds): Abwägen und Anwenden. Zum 'guten' Umgang mit ethischen Normen und Werten. Narr Francke Attempto Tübingen, 55-84. [Text des Aufsatzes](https://nextclouds.webo.hosting/s/iGea6BSAzSE75Ts)
 
-Eugen Pissarskoi (2017) Hat Natur Eigenwert? Und wenn ja: Liefert das gute Gründe für den Naturschutz? in: Monika C. M. Müller (ed.): 81/17: [Natürlich Natur! - Aber was ist Natur? Interdisziplinäre Deutungsversuche und Handlungsoptionen](https://www.loccum.de/publikationen/9783817281176/). Loccumer Protokoll, Volume 81/17, Rehburg-Loccum. [Text des Aufsatzes]()
+Eugen Pissarskoi (2017) Hat Natur Eigenwert? Und wenn ja: Liefert das gute Gründe für den Naturschutz? in: Monika C. M. Müller (ed.): 81/17: [Natürlich Natur! - Aber was ist Natur? Interdisziplinäre Deutungsversuche und Handlungsoptionen](https://www.loccum.de/publikationen/9783817281176/). Loccumer Protokoll, Volume 81/17, Rehburg-Loccum. [Text des Aufsatzes](https://nextclouds.webo.hosting/s/JYiyJoWfaeSzcMp)
 
-Eugen Pissarskoi (2016a) [Die Bürde des Möglichen. Zum verantwortlichen Umgang mit Unsicherheiten in den Energieszenarien](https://www.transcript-verlag.de/978-3-8376-3171-5/die-energiewende-und-ihre-modelle/), in: Christian Dieckhoff und Anna Leuschner (eds.): Wissen um die Möglichkeiten. Wie Modelle und Szenarien zur Energiewende beitragen, transcript, Bielefeld. [Text des Aufsatzes]()
+Eugen Pissarskoi (2016a) [Die Bürde des Möglichen. Zum verantwortlichen Umgang mit Unsicherheiten in den Energieszenarien](https://www.transcript-verlag.de/978-3-8376-3171-5/die-energiewende-und-ihre-modelle/), in: Christian Dieckhoff und Anna Leuschner (eds.): Wissen um die Möglichkeiten. Wie Modelle und Szenarien zur Energiewende beitragen, transcript, Bielefeld. [Text des Aufsatzes](https://nextclouds.webo.hosting/s/pLXx9oNd2eHMBAL)
 
 Eugen Pissarskoi (2016b) [Ressourcen](https://link.springer.com/chapter/10.1007/978-3-476-05345-9_71), in: Corinna Mieth, Anna Goppel und Christian Neuhäuser (eds.): Handbuch Gerechtigkeit, Metzler, Stuttgart/Weimar, 434-438.
 

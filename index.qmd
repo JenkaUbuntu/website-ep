@@ -25,6 +25,11 @@ Mein Beitrag liegt darin, Argumente zu präzisieren, mit denen über die Nachhal
         <li class="list-group-item">Entscheidungsfindung</li>
       </ul>
   </div>
+  <div class="card-footer text-muted">
+    <a href="mailto:mail@eugenpissarskoi.de">
+    <button type="button" class="btn btn-outline-primary btn-sm">Mail-Kontakt</button>
+    </a>
+  </div>
 </div>
 ```
 :::

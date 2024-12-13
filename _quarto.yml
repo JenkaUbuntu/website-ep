@@ -7,6 +7,8 @@ website:
   description: Ethik Nachhaltiger Entwicklung -- Argumentatanalyse
   page-navigation: true
   back-to-top-navigation: true
+  twitter-card: true
+  open-graph: true
   navbar:
     title: false
     left:
@@ -18,6 +20,9 @@ website:
         text: Geschäftigkeit
       - href: lebenslauf.qmd
         text: Lebenslauf
+    tools:
+      - icon: envelope-at-fill
+        href: mailto:mail@eugenpissarskoi.de
   page-footer:
     left: "Eugen Pissarskoi, 2024"
     center: 
