@@ -57,7 +57,7 @@ Diese Aufgabe ist allerdings in zwei Hinsichten voraussetzungsreich:
 * Unter Wissenschaftler\*innen ist es umstritten, wie genau die Qualität von klimatischen Zukunftsprognosen und gesellschaftspolitischen Konsequenzen daraus eingeschätzt werden sollte, insbesondere ist der Gewissheitsgrad von extremen Szenarien umstritten. 
   * Klimawissenschaftler\*innen und Wissenschaftstheoretiker\*innen sind sich uneinig darüber, ob die Reaktion von klimatischen Größen auf zunehmende atmosphärische THG-Konzentrationen in Wahrscheinlichkeiten angegeben werden kann (d.h. probabilistisches Zukunftswissen haben) oder ob wir lediglich Bandbreiten von physikalisch möglichen Reaktionen kennen (d.h. lediglich possibilistisches Zukunftswissen haben), vgl. [Stainforth et al. 2007](https://doi.org/10.1098/rsta.2007.2074) oder [Betz 2007](https://doi.org/10.1007/s10584-007-9313-9).
 
-* Dies offenbart folgende Lücke für eine reflektierte Entscheidungsfindung:
+* Dies offenbart die folgende Lücke für eine reflektierte Entscheidungsfindung:
    * Die Einschätzung der epistemischen Qualität von Zukunftsprognosen bezüglich Klimawandelfolgen ist unter Wissenschaftler\*innen kontrovers. Die epistemische Qualität von Zukunftsprognosen hat allerdings einen signifikanten Einfluss auf die Bewertung von Handlungsoptionen.
 
 **epistemisch-normativ**
@@ -82,7 +82,7 @@ Diese Aufgabe ist allerdings in zwei Hinsichten voraussetzungsreich:
 * die Konsequenzen aus dem Ressourcenverbrauch und Treibhausgasemissionen nicht eindeutig vorhergesagt werden können;
 * es unsicher ist, welchen Einfluss der Ressourcenverbrauch und Treibhausgase emittierende Aktivitäten auf die Lebensqualität von Menschen hat. 
 
-So treibt mich die Frage herum, wie eine reflektierte Entscheidunsfindung angesichts der beschriebenen wissenschaftlichen Lücken und der damit zusammenhängenden akademischen und politischen Kontroversen erfolgen sollte.
+So treibt mich die Frage um, wie eine reflektierte Entscheidunsfindung angesichts der beschriebenen wissenschaftlichen Lücken und der damit zusammenhängenden akademischen und politischen Kontroversen erfolgen sollte.
 :::
 
 ## Forschungsthemen

@@ -44,9 +44,9 @@ Mich treibt nun die Frage um: Wie kann es nun vermieden werden, dass die westeur
     <h5 class="card-title">Institut für ökologische Wirtschaftsforschung GmbH, gemeinnützig (IÖW), Berlin</h5>
     <h6 class="card-subtitle mb-2 text-muted">2003-2017</h6>
     <ul>
-      <li>Studentischer Mitarbeiter <span class="text-secondary">(2003-2010)</span> </li> 
+      <li>Studentischer Mitarbeiter <span class="text-body-secondary">(2003-2010)</span> </li> 
       <li>Fellow  <span class="text-body-secondary">(2007-2010)</span> </li>
-      <li>Wissenschaftlicher Mitarbeiter, Forschungsfeld <a href="https://www.ioew.de/das-ioew/organisation/forschungsfelder/umweltoekonomie-und-umweltpolitik" class="card-link">Umweltökonomie und Umweltpolitik</a> <span class="text-secondary">(2010-2017)</span></li>
+      <li>Wissenschaftlicher Mitarbeiter, Forschungsfeld <a href="https://www.ioew.de/das-ioew/organisation/forschungsfelder/umweltoekonomie-und-umweltpolitik" class="card-link">Umweltökonomie und Umweltpolitik</a> <span class="text-body-secondary">(2010-2017)</span></li>
     </ul>
   </div>
 </div>
@@ -67,9 +67,9 @@ Mich treibt nun die Frage um: Wie kann es nun vermieden werden, dass die westeur
     <h5 class="card-title">Universität Tübingen, Internationales Zentrum für Ethik in den Wissenschaften (IZEW)</h5>
     <h6 class="card-subtitle mb-2 text-muted">2017-2023</h6>
     <ul>
-      <li>Wissenschaftlicher Mitarbeiter, Arbeitsbereiche <a href="https://uni-tuebingen.de/de/265260" class="card-link">Ethik und Bildung</a> sowie <a href="https://uni-tuebingen.de/de/21553">Natur und Nachhaltige Entwicklung</a> <span class="text-secondary">(2017-2019)</span></li> 
+      <li>Wissenschaftlicher Mitarbeiter, Arbeitsbereiche <a href="https://uni-tuebingen.de/de/265260" class="card-link">Ethik und Bildung</a> sowie <a href="https://uni-tuebingen.de/de/21553">Natur und Nachhaltige Entwicklung</a> <span class="text-body-secondary">(2017-2019)</span></li> 
       <li>Leitung Verbundprojekt <a href="https://uni-tuebingen.de/en/166338" class="card-link">BATATA - Whose Bioeconomy? Tracing Visions of Socio-ecological Transformation and their Ethical Deliberation in Tanzania</a>, 
-      Arbeitsbereich <a href="https://uni-tuebingen.de/de/21553">Natur und Nachhaltige Entwicklung</a> <span class="text-secondary">(2019-2023)</span></li>
+      Arbeitsbereich <a href="https://uni-tuebingen.de/de/21553">Natur und Nachhaltige Entwicklung</a> <span class="text-body-secondary">(2019-2023)</span></li>
     </ul>
   </div>
 </div>
@@ -132,8 +132,8 @@ Mich treibt nun die Frage um: Wie kann es nun vermieden werden, dass die westeur
     <h5 class="card-title">Promotion in Philosophie zu Dr.phil.</h5>
     <h6 class="card-subtitle mb-2 text-muted">2007-2012</h6>
     <ul>
-     <li>Freie Universität Berlin, Institut für Philosophie <span class="text-secondary">(2007-2012)</span></li>
-     <li>Förderung durch die <a href="https://www.boeckler.de/de/faust-detail.htm?sync_id=HBS-005850" class="card-link">Hans-Böckler-Stiftung</a> <span class="text-secondary">(2007-2010)</span></li>
+     <li>Freie Universität Berlin, Institut für Philosophie <span class="text-body-secondary">(2007-2012)</span></li>
+     <li>Förderung durch die <a href="https://www.boeckler.de/de/faust-detail.htm?sync_id=HBS-005850" class="card-link">Hans-Böckler-Stiftung</a> <span class="text-body-secondary">(2007-2010)</span></li>
     </ul>
     
   </div>
@@ -143,9 +143,9 @@ Mich treibt nun die Frage um: Wie kann es nun vermieden werden, dass die westeur
     <h5 class="card-title">Philosophie und Volkswirtschaftslehre, Magister Artium</h5>
     <h6 class="card-subtitle mb-2 text-muted">2000-2006</h6>
     <ul>
-     <li>Universität Leipzig <span class="text-secondary">(2000-2001: ein Semester in Mathematik, Logik und Wissenschaftstheorie)</span></li>
-     <li>Universität Mannheim <span class="text-secondary">(2001-2003: Grundstudium)</span></li>
-     <li>Freie Universität Berlin <span class="text-secondary">(2003-2006: Hauptstudium)</span></li>
+     <li>Universität Leipzig <span class="text-body-secondary">(2000-2001: ein Semester in Mathematik, Logik und Wissenschaftstheorie)</span></li>
+     <li>Universität Mannheim <span class="text-body-secondary">(2001-2003: Grundstudium)</span></li>
+     <li>Freie Universität Berlin <span class="text-body-secondary">(2003-2006: Hauptstudium)</span></li>
     </ul>
   </div>
 </div>
@@ -155,9 +155,9 @@ Mich treibt nun die Frage um: Wie kann es nun vermieden werden, dass die westeur
     <h5 class="card-title">Abitur</h5>
     <h6 class="card-subtitle mb-2 text-muted">1999</h6>
     <ul>
-     <li>Theodor-Heuss Gymnasium, Wolfenbüttel <span class="text-secondary">(1993-1999)</span></li>
-     <li>Hauptschule Wallstraße, Wolfenbüttel <span class="text-secondary">(1993)</span></li>
-     <li>Mittelschule Nr. 37, Bischkek (bis 1991: Frunse), Kirgisistan (bis 1991: Kirgisische SSR) <span class="text-secondary">(1986-1992)</span></li>
+     <li>Theodor-Heuss Gymnasium, Wolfenbüttel <span class="text-body-secondary">(1993-1999)</span></li>
+     <li>Hauptschule Wallstraße, Wolfenbüttel <span class="text-body-secondary">(1993)</span></li>
+     <li>Mittelschule Nr. 37, Bischkek (bis 1991: Frunse), Kirgisistan (bis 1991: Kirgisische SSR) <span class="text-body-secondary">(1986-1992)</span></li>
     </ul>
   </div>
 </div>
