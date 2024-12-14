@@ -7,9 +7,9 @@ hyphenate: true
 
 ::: {.columns}
 ::: {.column width="50%"}
-Meine Aktivitäten verfolgen das Ziel, zur reflektierten Handlungsorientierung in Bezug auf Nachhaltige Entwicklung beizutragen. 
+Mit meiner Forschungs- sowie Politikberatungsarbeit möchte ich dazu beitragen, eine reflektierte Handlungsorientierung im Hinblick auf Nachhaltige Entwicklung zu erreichen. 
 
-Mein Beitrag liegt darin, Argumente zu präzisieren, mit denen über die Nachhaltigkeitstransformation innerhalb der Wissenschaft, in politischen Prozessen und in der breiten Öffentlichkeit debattiert wird. Dieser Aufgabe bin ich bislang durch Forschungsaktivitäten sowie Politikberatung nachgegangen.
+Mein Beitrag liegt darin, Argumente zu präzisieren, mit denen über die Nachhaltigkeitstransformation innerhalb der Wissenschaft, in politischen Prozessen und in der breiten Öffentlichkeit debattiert wird. 
 :::
 ::: {.column width="10%"}
 :::
@@ -48,7 +48,7 @@ Um reflektierte Handlungsorientierung in Bezug auf Nachhaltige Entwicklung zu er
 i. sowohl von unseren Aktivitäten, die potentiell das Wohl zukünftiger Generationen mindern (wie Verbrauch nicht-erneuerbarer Ressourcen, anthropogen verursachte Emissionen von Treibhausgasen)
 ii. als auch von Maßnahmen, mit denen  wir zu vermeiden suchen, dass das Wohl zukünftiger Generationen gefährdet wird.
 
-Diese Aufgabe ist allerdings in zwei Hinsichten voraussetzungsreich:
+Diese Aufgabe ist allerdings in folgenden Hinsichten voraussetzungsreich:
 
 **epistemisch**: 
 
@@ -62,7 +62,7 @@ Diese Aufgabe ist allerdings in zwei Hinsichten voraussetzungsreich:
 
 **epistemisch-normativ**
 
-*  Entscheidungen über klimapolitische Maßnahmen müssen im Lichte von unsicheren Konsequenzen getroffen werden. Es ist allerdings umstritten, mit welchen normativen Prinzipien Entscheidungen unter Risiko und Unsicherheit begründet werden sollen.
+* Entscheidungen über klimapolitische Maßnahmen müssen im Lichte von unsicheren Konsequenzen getroffen werden. Es ist allerdings umstritten, mit welchen normativen Prinzipien Entscheidungen unter Risiko und Unsicherheit begründet werden sollen.
 
 **normativ**: 
 
