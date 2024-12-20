@@ -7,9 +7,9 @@ hyphenate: true
 
 ::: {.columns}
 ::: {.column width="50%"}
-Mit meiner Forschungs- sowie Politikberatungsarbeit möchte ich dazu beitragen, eine reflektierte Handlungsorientierung im Hinblick auf Nachhaltige Entwicklung zu erreichen. 
+Mit meiner Forschungs- sowie Politikberatungsarbeit möchte ich zu einer reflektierten Handlungsorientierung in Bezug auf Nachhaltige Entwicklung beitragen. 
 
-Mein Beitrag liegt darin, Argumente zu präzisieren, mit denen über die Nachhaltigkeitstransformation innerhalb der Wissenschaft, in politischen Prozessen und in der breiten Öffentlichkeit debattiert wird. 
+Mein Fokus liegt darin, Argumente zu präzisieren, mit denen über die Ziele der Nachhaltigkeitstransformation und geeignete Wege dazu innerhalb der Wissenschaft, in politischen Prozessen und in der breiten Öffentlichkeit debattiert wird. 
 :::
 ::: {.column width="10%"}
 :::
