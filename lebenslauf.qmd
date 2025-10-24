@@ -31,6 +31,21 @@ Die frühzeitig industrialisierten Länder wie Deutschland befinden sich heute e
 Mich treibt nun die Frage um: Wie kann es nun vermieden werden, dass die westeuropäischen Gesellschaften angesichts des Erfordernisses einer Transformation die Erfahrung der Sowjetunion -- erst verschleppen, dann, wenn die negativen Auswirkungen des bestehenden Systems sich deutlich bemerkbar machen, eine Ruckartige, von oben durchgesetzte radikale Reformpolitik einsetzen -- wiederholen? 
 :::
 
+```{=html}
+<div class="card border-info mb-3" style="width: 100%; max-width: 100%;">
+  <div class="card-header">aktuell</div>
+  <div class="card-body">
+    <h5 class="card-title">Berater und Trainer für Argumentation und konstruktives Debattieren (freiberuflich)</h4>
+    <p class="card-text">
+      <ul>
+        <li><a href="https://argumentationsagentur.de" class="card-link">ArgumentationsAgentur</a></li>
+        <li><a href="https://forum-streitkultur.de/" class="card-link">Forum für Streitkultur</a></li>
+      </ul>
+    </p>
+  </div>
+</div>
+```
+
 ::::: {.columns}
 ::: {.column width="58%"}
 ```{=html}
@@ -40,26 +55,13 @@ Mich treibt nun die Frage um: Wie kann es nun vermieden werden, dass die westeur
 </div>-->
 <div class="card">
   <h3 class="card-header">Beschäftigungen</h3>
-  <div class="card-body">
-    <h5 class="card-title">Institut für ökologische Wirtschaftsforschung GmbH, gemeinnützig (IÖW), Berlin</h5>
-    <h6 class="card-subtitle mb-2 text-muted">2003-2017</h6>
-    <ul>
-      <li>Studentischer Mitarbeiter <span class="text-body-secondary">(2003-2010)</span> </li> 
-      <li>Fellow  <span class="text-body-secondary">(2007-2010)</span> </li>
-      <li>Wissenschaftlicher Mitarbeiter, Forschungsfeld <a href="https://www.ioew.de/das-ioew/organisation/forschungsfelder/umweltoekonomie-und-umweltpolitik" class="card-link">Umweltökonomie und Umweltpolitik</a> <span class="text-body-secondary">(2010-2017)</span></li>
-    </ul>
-  </div>
-</div>
-
-
-<div class="card">
     <div class="card-body">
-    <h5 class="card-title">Karlsruher Institut für Technlogie, Institut für Philosophie</h5>
-    <h6 class="card-subtitle mb-2 text-muted">2011</h6>
-    <ul>
-      <li>Wissenschaftlicher Mitarbeiter, Forschungsgruppe <a href="https://www.itas.kit.edu/projekte_betz10_lobster.php" class="card-link">Limits and Objectivity of Scientific Foreknowledge: The Case of Energy Outlooks” (LOBSTER)</a></li>
-    </ul>
-  </div>
+      <h5 class="card-title">Karlsruher Institut für Technologie, Institut für Technikzukünfte</h5>
+      <h6 class="card-subtitle mb-2 text-muted">2023-2024</h6>
+      <ul>
+        <li>Wissenschaftlicher Mitarbeiter, Department für Soziologie, Forschungsprojekt <a href="https://www.twon-project.eu/" class="card-link">Twin of Online Social Network (TWON)</a></li>
+      </ul>
+    </div>
 </div>
 
 <div class="card">
@@ -73,16 +75,32 @@ Mich treibt nun die Frage um: Wie kann es nun vermieden werden, dass die westeur
     </ul>
   </div>
 </div>
-
+  
 <div class="card">
   <div class="card-body">
-    <h5 class="card-title">Karlsruher Institut für Technologie, Institut für Technikzukünfte</h5>
-    <h6 class="card-subtitle mb-2 text-muted">2023-2024</h6>
+    <h5 class="card-title">Institut für ökologische Wirtschaftsforschung GmbH, gemeinnützig (IÖW), Berlin</h5>
+    <h6 class="card-subtitle mb-2 text-muted">2003-2017</h6>
     <ul>
-      <li>Wissenschaftlicher Mitarbeiter, Department für Soziologie, Forschungsprojekt <a href="https://www.twon-project.eu/" class="card-link">Twin of Online Social Network (TWON)</a></li>
+      <li>Studentischer Mitarbeiter <span class="text-body-secondary">(2003-2010)</span> </li> 
+      <li>Fellow  <span class="text-body-secondary">(2007-2010)</span> </li>
+      <li>Wissenschaftlicher Mitarbeiter, Forschungsfeld <a href="https://www.ioew.de/das-ioew/organisation/forschungsfelder/umweltoekonomie-und-umweltpolitik" class="card-link">Umweltökonomie und Umweltpolitik</a> <span class="text-body-secondary">(2010-2017)</span></li>
     </ul>
   </div>
 </div>
+
+<div class="card">
+    <div class="card-body">
+    <h5 class="card-title">Karlsruher Institut für Technlogie, Institut für Philosophie</h5>
+    <h6 class="card-subtitle mb-2 text-muted">2011</h6>
+    <ul>
+      <li>Wissenschaftlicher Mitarbeiter, Forschungsgruppe <a href="https://www.itas.kit.edu/projekte_betz10_lobster.php" class="card-link">Limits and Objectivity of Scientific Foreknowledge: The Case of Energy Outlooks” (LOBSTER)</a></li>
+    </ul>
+  </div>
+</div>
+
+
+
+
 
 <!--
 <div class="card mb-3">
