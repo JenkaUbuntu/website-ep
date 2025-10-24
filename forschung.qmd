@@ -134,7 +134,7 @@ Wie sollte eine erstrebenswerte Welt aussehen? Meist geben wir negative Antworte
 
 Visionen sind uns aber aus einer Literaturgattung vertraut: Science Fiction. Dort sind es meist naturwissenschaftlich prinzipiell manipulierbare Eigenschaften, die den Gegenstand des Visionierens darstellen. [Ursula K. Le Guin](https://de.wikipedia.org/wiki/Ursula_K._Le_Guin) ist beispielsweise eine Autorin, in deren möglichen Welten soziale Institutionen und implizite Normen -- Eigentumsverhältnisse, Geschlechterstereotypen etc. -- anders -- eben erstrebenswert -- gestaltet sind. 
 
-Mit unserem Kollektiv, das von [Jana Gebauer](https://www.kaloikostopia.org) initiiert wurde, organisieren wir Gelegenheiten zum Visionieren, Spekulieren und Brainstormen über Gutes Leben. 
+Mit unserem Kollektiv, das von [janas gebauer](https://www.kaloikostopia.org) initiiert wurde, organisieren wir Gelegenheiten zum Visionieren, Spekulieren und Brainstormen über Gutes Leben. In Fersterer et al. 2025, einem Beitrag für [Science Fiction, Jahr 2025](https://www.shop-hirnkost.de/produkt/das-science-fiction-jahr-2025/) haben wir zusammengefasst, wie wir Science Fiction dazu nutzen, Utopien einer ernsthaft erstrebenswerten Lebensweise zu imaginieren. 
 :::
 
 ::: {.callout-note icon="false" collapse="true"}
@@ -142,19 +142,13 @@ Mit unserem Kollektiv, das von [Jana Gebauer](https://www.kaloikostopia.org) ini
 
 Innerhalb der Wohlfahrtsökonomik werden politische Maßnahmen auf ihre Wirkungen auf gesamtgesellschaftliche Wohlfahrt bzw. gesamtgesellschaftliches Wohlergehen analysiert. Klimaökonom\*innen nutzen Theorien der Wohlfahrtsökonomik, um klimapolitische Strategien im Hinblick auf ihre Wohlfahrtswirkungen zu analysieren. 
 
-Im Buch "Gesellschaftliche Wohlfahrt und Klimawandel":
+In den Kapiteln 4 bis 6 analysiere ich, welche Bedeutung von "Wohlfahrt" innerhalb der Wohlfahrtsökonomik unterstellt wird. 
 
-* analysiere ich, welche Bedeutung von "Wohlfahrt" innerhalb der Wohlfahrtsökonomik unterstellt wird. Dabei untersuche ich, 
-  * wie gesellschaftliche Wohlfahrt im ökonomischen Sinne mit verwandten normativen Begriffen wie "Lebensqualität", "Gutes Leben", das "Gute für die Gesellschaft" zusammenhängt.
-  * ob es gute Gründe dafür gibt, die in der Ökonomik unterstellten Auffassungen gesellschaftlicher Wohlfahrt als politische Zielgröße aufzufassen. 
-
-Ich argumentiere dafür, 
-
-  * dass keine in der Ökonomik unterstellte Auffassung gesellschaftlicher Wohlfahrt alleiniges politisches Ziel darstellen sollte. 
-
-In Kapitel 7 unterbreite ich den Vorschlag, klimapolitische Maßnahmen im Hinblick auf ihre Wirkung auf die am meisten Benachteiligten (anstatt im Hinblick auf ihre Wirkung auf gesellschaftliche Wohlfahrt) zu bewerten. 
-
-  * Eine frühe Fassung dieses Kapitels ist [hier](https://www.metropolis-verlag.de/Klimagerechtigkeit/901/book.do) erschienen.
+* In Kapitel 4 erläutere ich, welche deskriptive und welche normative Verwendung des Begriffes "Wohlfahrt" sich innerhalb der Ökonomik etabliert hat.
+* In Kapitel 5 kritisiere ich die normative Verwendung. 
+* In Kapitel 6 diskutiere ich einige Alternativen zur etablierten Verwendung von "Wohlfahrt":
+  * deliberative Methoden zur Identifikation von idealisierten Präferenzen;
+  * hedonistische Interpretationen von individueller Wohlfahrt.
 
 :::
 
