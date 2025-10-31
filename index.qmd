@@ -43,7 +43,7 @@ Mein Fokus liegt darin, Argumente zu präzisieren, mit denen über die Ziele der
 
 # Inhaltliche Motivation der Forschungs- und Beratungsthemen
 
-Um reflektierte Handlungsorientierung in Bezug auf Nachhaltige Entwicklung zu erlangen -- d.h. begründet zu entscheiden, was ich als Indviduum, wir als Organisation, Nationalstaat oder Menschheit tun sollen, um sowohl intergenerationell als auch global gerecht zu leben -- müssen die Konsequenzen unseres Handelns vorhergesagt und bewertet werden:
+Um reflektierte Handlungsorientierung in Bezug auf Nachhaltige Entwicklung zu erlangen -- d.h. begründet zu entscheiden, was ich als Individuum, wir als Organisation, Nationalstaat oder Menschheit tun sollen, um sowohl intergenerationell als auch global gerecht zu leben -- müssen die Konsequenzen unseres Handelns vorhergesagt und bewertet werden:
 
 i. sowohl von unseren Aktivitäten, die potentiell das Wohl zukünftiger Generationen mindern (wie Verbrauch nicht-erneuerbarer Ressourcen, anthropogen verursachte Emissionen von Treibhausgasen)
 ii. als auch von Maßnahmen, mit denen  wir zu vermeiden suchen, dass das Wohl zukünftiger Generationen gefährdet wird.
@@ -82,7 +82,7 @@ Diese Aufgabe ist allerdings in folgenden Hinsichten voraussetzungsreich:
 * die Konsequenzen aus dem Ressourcenverbrauch und Treibhausgasemissionen nicht eindeutig vorhergesagt werden können;
 * es unsicher ist, welchen Einfluss der Ressourcenverbrauch und Treibhausgase emittierende Aktivitäten auf die Lebensqualität von Menschen hat. 
 
-So treibt mich die Frage um, wie eine reflektierte Entscheidunsfindung angesichts der beschriebenen wissenschaftlichen Lücken und der damit zusammenhängenden akademischen und politischen Kontroversen erfolgen sollte.
+So treibt mich die Frage um, wie eine reflektierte Entscheidungsfindung angesichts der beschriebenen wissenschaftlichen Lücken und der damit zusammenhängenden akademischen und politischen Kontroversen erfolgen sollte.
 :::
 
 ## Forschungsthemen
