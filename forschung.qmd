@@ -177,7 +177,7 @@ In meinen Arbeiten habe ich
 * Vorschläge unterbreitet, wie computergestützte Modelle dazu genutzt werden könnten, politische Handlungsempfehlungen zu begründen (Pissarskoi 2016a, 2016b, 2019).
 
 ::: {.callout-note icon="false" collapse="true"}
-### Pissarskoi (2019): Was eine moderne Klimaökonomik berücksichtigen sollte
+#### Pissarskoi (2019): Was eine moderne Klimaökonomik berücksichtigen sollte
 
 In [diesem Aufsatz](https://makronom.de/economists-for-future-was-eine-moderne-klimaoekonomik-beruecksichtigen-sollte-33199)
 
@@ -189,7 +189,7 @@ In [diesem Aufsatz](https://makronom.de/economists-for-future-was-eine-moderne-k
 :::
 
 ::: {.callout-note icon="false" collapse="true"}
-### Pissarskoi (2016b): Integrated Assessment Models: Kompass in einem magnetisierten Umfeld?
+#### Pissarskoi (2016b): Integrated Assessment Models: Kompass in einem magnetisierten Umfeld?
 
 In [diesem Aufsatz](https://doi.org/10.14512/OEW310439)
 
@@ -198,7 +198,7 @@ In [diesem Aufsatz](https://doi.org/10.14512/OEW310439)
 :::
 
 ::: {.callout-note icon="false" collapse="true"}
-### Pissarskoi (2016a): Die Bürde des Möglichen. Zum verantwortlichen Umgang mit Unsicherheiten in Energieszenarien
+#### Pissarskoi (2016a): Die Bürde des Möglichen. Zum verantwortlichen Umgang mit Unsicherheiten in Energieszenarien
 
 In diesem Aufsatz
 
@@ -212,7 +212,7 @@ In diesem Aufsatz
 :::
 
 ::: {.callout-note icon="false" collapse="true"}
-### Pissarskoi (2014): Gesellschaftliche Wohlfahrt und Klimawandel, Kapitel 3
+#### Pissarskoi (2014): Gesellschaftliche Wohlfahrt und Klimawandel, Kapitel 3
 
 In [diesem Kapitel](https://nextclouds.webo.hosting/s/qXnN2ZFpPJGr6QK)
 
@@ -226,18 +226,16 @@ In [diesem Kapitel](https://nextclouds.webo.hosting/s/qXnN2ZFpPJGr6QK)
 Gibt es Methoden aus der Philosophie bzw. ihrer Subdisziplin "Praktische Ethik"^[die sich dezidiert mit der Auseinandersetzung mit normativen Fragen in gesellschaftlichen Kontroversen beschäftigt], mit denen Handlungsempfehlungen begründet werden können? 
 
 ::: {.callout-note icon="false" collapse="true"}
-### Charlotte Unruh, Susanne Hahn, and Eugen Pissarskoi (2022): Philosophical methods and being public philosophers
+#### Charlotte Unruh, Susanne Hahn, and Eugen Pissarskoi (2022): Philosophical methods and being public philosophers
 
 In [diesem Beitrag](https://www.oxfordpublicphilosophy.com/blog/ppt-making-philosophy-t9km2) stellen wir einen Zusammenhang zwischen
 
 * Rollen, die Philosoph*innen in außer-akademischen Kontexten einnehmen können, auf der einen Seite
 * und Methoden, mit denen sie die den Rollen angemessenen Aussagen rechtfertigen können.
-
-
 :::
 
 ::: {.callout-note icon="false" collapse="true"}
-### Pissarskoi (2018): Das Problem der epistemisch-evaluativen Abwägung bei Entscheidungen unter Unsicherheit
+#### Pissarskoi (2018): Das Problem der epistemisch-evaluativen Abwägung bei Entscheidungen unter Unsicherheit
 
 In diesem Aufsatz erläutere ich eine Besonderheit von Begründungen von Entscheidungen unter Unsicherheit aufmerksam:
 
@@ -251,7 +249,7 @@ Anschließend mache ich auf eine Forschungslücke aufmerksam:
 :::
 
 ::: {.callout-note icon="false" collapse="true"}
-### Pissarskoi (2014): Gesellschaftliche Wohlfahrt und Klimawandel, Kapitel 2
+#### Pissarskoi (2014): Gesellschaftliche Wohlfahrt und Klimawandel, Kapitel 2
 
 In [diesem Kapitel](https://nextclouds.webo.hosting/s/87En3xcFfzDiDD3) diskutiere ich mehrere Vorschläge dafür, mit welchen Methoden ein klimapolitisches Ziel begründet werden kann.
 
@@ -275,6 +273,20 @@ Mit dem Kollektiv "Unleashing Fantasy" habe ich Visionieren-Workshops mitgestalt
 * Wie vollständig sollten Visionen sein, die den Zweck haben, gesellschaftliche Handlungsorientierung zu unterstützen?
 
 * Wie weit dürfen sich Visionen vom Status quo abkoppeln, um relevant zu sein bzw. zur Handlungsorientierung beizutragen? Anders formuliert: wie durchgeknallt dürfen sie sein?
+
+### Methoden konstruktiven Streitens
+
+Argumentationstheorie kann dazu genutzt werden, bei Meinungsverschiedenheiten konstruktiv miteinander zu streiten und auf diese Weise die eigene Meinung oder die der/des Andersdenkenden zu verbessern. Austausch von Argumenten ist gleichwohl kein Allheilmittel bei tiefgreifenden Kontroversen. Neben der argumentativen Auseinandersetzung spielen weitere Faktoren eine erhebliche Rolle: Gesprächsumfeld, kommunikative Haltung, Einfühlungsvermögen, Zeit etc. 
+
+Mit dem Kollektiv [Forum für Streitkultur](https://forum-streitkultur.de/) sowie mit der [ArgumentationsAgentur](https://argumentationsagentur.de/) 
+
+* biete ich Workshops und Trainings an, 
+  * in denen Kompetenzen zum konstruktiven Streiten mit Andersdenkenden vermittelt werden, beispielsweise im Umgang mit Rechtspopulismus;
+  * in denen Wege zur Entscheidungsfindung bei Auseinandersetzungen angesichts von unsicheren Prognosen und unterschiedlichen Risiko-Einstellungen erarbeitet werden;
+
+* halte Vorträge [(ein Beispiel)](./Unterseiten/crisp-vortrag.qmd) und
+* schreibe hin und wieder [Blogbeiträge](https://argumentationsagentur.de/blog/) zu diesen Themen.
+ 
 :::::
 
 # Gesellschaftspolitisch motivierte Themen
