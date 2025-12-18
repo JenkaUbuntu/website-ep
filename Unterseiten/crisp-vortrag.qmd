@@ -126,20 +126,12 @@ format:
 :::
 </br>
 
-::: {.notes}
-* die Debattierenden nehmen die Haltung von Tänzer*innen ein 
-:::
-
 ## sie debattieren konstruktiv {auto-animate="true"}
 
 Die Debattierenden suchen nach Wegen, wie die Kontroverse aufgelöst werden kann:
 
 
 ## sie debattieren konstruktiv {auto-animate="true" visibility="uncounted"}
-
-::: {.notes}
-* Beim Argumentieren suchen sie nach Wegen, wie die Kontroverse aufgelöst werden kann:
-:::
 
 ::: {.nonincremental}
 Die Debattierenden suchen nach Wegen, wie die Kontroverse aufgelöst werden kann:
@@ -302,20 +294,9 @@ kollektive Entscheidungen sind aufgeklärt
 ::: 
 :::
 
-::: {.notes}
-* Autonomie: 
-  * Fähigkeit zur Selbstbestimmung, also Entscheidungen auf genuin eigenen Wünschen zu treffen, also Wünschen, die in Einklang mit den eigenen Vorstellungen eines guten Lebens stehen
-* deliberative Demokratie:
-  * kollektive Selbstbestimmung: politische Entscheidungen sind ein Ergebnis gesellschaftlicher Reflexions- und Diskussionsprozesse
-:::
-
 # Was hindert uns daran, die Utopie zu realisieren? {background-image="../graphics/Streitkultur-Header_dark.png" background-size="300px" background-position="10% 1%"}
 
 ## Praxis: Mindsets des Urteilens und Entscheidens
-
-::: {.notes}
-* Psycholog\*innen verweisen seit Langem darauf hin, dass unsere Praxis des Urteilens und Entscheidens, der Überzeugungsänderung, zwar eine Praxis ist, die soziale Interaktionen -- Diskussionen erfordert. Gleichwohl nehmen wir dabei mitnichten die Haltung der Tänzer\*innen ein, sondern  lassen uns von anderen idealtypischen Mindsets leiten:
-:::
 
 * Urteilen/Entscheiden ist eine soziale Praxis, bei der folgende Zwecke verfolgt werden^[Philip E. Tetlock (2002): „Social Functionalist Frameworks for Judgment and Choice: Intuitive Politicians, Theologians, and Prosecutors“, *Psychological Review* 109: 451-471.]
 
@@ -355,11 +336,6 @@ kollektive Entscheidungen sind aufgeklärt
 </br>
 
 ## Befunde kognitiver Psychologie: Verzerrungen
-
-::: {.notes}
-* Empirische Forschung der kognitiven Psychologie liefert Erklärungen dafür, warum wir beim Diskutieren/Urteilen die Mindsets der Politiker\*in, ..., einnehmen und nicht die der Tänzer\*in: 
-  * wir unterliegen zahlreichen kognitiven Verzerrungen (Bias)
-:::
 
 ::: {.columns}
 
@@ -590,16 +566,6 @@ Demütige Haltung gegenüber Menschen, welche
 :::
 :::
 :::
-    
-
-::: {.notes}
-* Beispiel: Klimawandelskeptiker\*in:
-  * Klima-Skeptik: "Wissenschaft ist korrupt, Spielball der Eliten, die die Welt in ihre Richtung manipulieren wollen"
-* Onkel begegnet, der in Kirgisistan lebt, sowjetisch sozialisiert und Befürworter russischen Angriffskrieges ist. Ich traf ihn zum ersten Mal seit dem Kriegsausbruch, aus der Familie wusste ich, dass Gespräche mit ihm über das Thema sehr schwierig seien. Ich kannte ihn als eine Person, die eigentlich reflektiert ist. 
-  * Mich lässt die aktuelle Situation in der Ukraine verzweifeln: ich sehe überhaupt keinen Ausweg aus dem Krieg. Siehst Du irgendeinen Ausweg daraus?
-* Beispiel: Hamas-Anhänger
-  * 
-:::  
 
 # Vielen Dank! {.nonincremental}
 
