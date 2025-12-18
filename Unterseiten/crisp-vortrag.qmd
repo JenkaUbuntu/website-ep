@@ -1,0 +1,612 @@
+---
+title: "Konstruktiv streiten: eine Utopie zwischen Social Media, Polarisierung und Rechtspopulismus"
+subtitle: "Fachtag | Miteinander reden! Aber Wie? | CRISP-Berlin"
+date: 12/05/2025
+lang: de
+format: 
+    revealjs: 
+        incremental: true
+        scrollable: true
+        smaller: true
+        embed-resources: true
+        theme: dark-ffs2
+        slide-number: c/t
+        footer: Eugen Pissarskoi
+        logo: ../graphics/Streitkultur-Header_dark.png
+        reference-location: document
+---
+
+## Struktur {auto-animate=true}
+
+::: {style="margin-top: 130px; margin-left: 280px"}
+[Utopie:]{style="color:#ff8100"} Streitfreudige Gesellschaft
+:::
+
+## Struktur {auto-animate=true visibility="uncounted"}
+
+::: {style="margin-top: 130px; margin-left: 280px"}
+::: {.nonincremental}
+[Realität:]{style="color:#ff8100"} Hemmnisse
+
+* psychologisch
+* technologisch
+* politisch
+
+[Utopie:]{style="color:#ff8100"} Streitfreudige Gesellschaft
+:::
+:::
+
+## Struktur {auto-animate=true visibility="uncounted"}
+::: {.nonincremental}
+::: {style="margin-top: 20px; margin-left: 50px"}
+[Realität:]{style="color:#ff8100"} Hemmnisse
+
+* psychologisch
+* technologisch
+* politisch
+:::
+::: {style="margin-top: 300px; margin-left: 600px"}
+[Utopie:]{style="color:#ff8100"} Streitfreudige Gesellschaft
+:::
+:::
+
+## Struktur {auto-animate=true visibility="uncounted"}
+::: {.nonincremental}
+::: {style="margin-top: 40px; margin-left: 100px"}
+[Realität:]{style="color:#ff8100"} Hemmnisse
+
+* psychologisch
+* technologisch
+* politisch
+:::
+::: {style="margin-top: 55px; margin-left: 280px"}
+[Ideen]{style="color:#ff8100"}, wie wir die [Realität näher zur Utopie]{style="color:#ff8100"} einer Streitfreudigen Gesellschaft bringen können 
+:::
+::: {style="margin-top: 100px; margin-left: 550px"}
+[Utopie:]{style="color:#ff8100"} Streitfreudige Gesellschaft
+:::
+:::
+
+
+
+# Utopie einer streitfreudigen Gesellschaft {background-image="../graphics/Streitkultur-Header_dark.png" background-size="300px" background-position="10% 1%"}
+
+## Stellen wir uns eine Welt vor...
+
+
+* Kein Mensch versteckt seine Meinung oder schämt sich dafür. 
+
+::: {.fragment .nonincremental}
+* Menschen [freuen sich]{style="color:#ff8100"}, wenn sie Mitmenschen begegnen, die [kontroverser Meinung]{style="color:#ff8100"} sind.
+
+  * sofort entstehen [positive Vibes]{style="color:#ff8100"}: jemand kann gleich etwas lernen/erfahren...
+  * es entsteht [beidseitiger Wunsch]{style="color:#ff8100"}: die Meinung der Andersdenkenden möglichst genau ergründen...
+
+:::
+
+* Menschen [nehmen sich Zeit]{style="color:#ff8100"}, um Meinungsverschiedenheiten auszutragen
+
+* Manche Diskussionen verlaufen [emotional hitzig]{style="color:#ff8100"}:
+  * Diskutant\*innen nehmen sich erneut Zeit, um der Kontroverse nachzugehen.
+
+
+
+## Haltung: Debatten als Tanz
+
+#### Figuren eines Streits (Rapoport-Regeln^[Rapoport, Anatol (1961): *Three Modes of Conflict*, Management Science 7(3): 210-218; Dennett, Daniel (2013): *Intuition Pumps and Other Tools for Thinking*, New York.])
+
+![](../graphics/Ballet-schwarz-wei%C3%9F-iStock-v2.jpg){.absolute top=100 right=20 width="370"}
+
+::: {.aside}
+[Bildquelle: [getty-images](https://www.istockphoto.com): master1305]{style="color:gray; font-size:0.7em"}
+:::
+
+::: {.fragment .nonincremental style="width: 50%"}
+::: {.callout-caution icon="false"}
+### Verstehen
+1. Sie sollten versuchen, den Standpunkt Ihres Gegenübers so klar [wiederzugeben]{style="color:#ff8100"}, dass diese Person sagt: „Danke, ich wünschte, ich hätte es auch so formuliert.“
+:::
+:::
+
+::: {.fragment .nonincremental style="width: 59%"}
+::: {.callout-caution icon="false"}
+### Gemeinsamkeiten und Wertschätzung
+2. Sie sollten alle Punkte auflisten, in denen Sie sich [einig sind]{style="color:#ff8100"}. 
+3. Sie sollten etwas nennen, was Sie von Ihrem Gegenüber [gelernt haben]{style="color:#ff8100"}.
+:::
+:::
+
+
+::: {.fragment .nonincremental style="width: 75%"}
+::: {.callout-caution icon="false"}
+### Argumente austauschen
+4. Erst dann ist es Ihnen erlaubt, [Widerspruch oder Kritik]{style="color:#ff8100"} zu äußern.
+   * Geben und Nehmen von Gründen
+:::
+:::
+</br>
+
+::: {.notes}
+* die Debattierenden nehmen die Haltung von Tänzer*innen ein 
+:::
+
+## sie debattieren konstruktiv {auto-animate="true"}
+
+Die Debattierenden suchen nach Wegen, wie die Kontroverse aufgelöst werden kann:
+
+
+## sie debattieren konstruktiv {auto-animate="true" visibility="uncounted"}
+
+::: {.notes}
+* Beim Argumentieren suchen sie nach Wegen, wie die Kontroverse aufgelöst werden kann:
+:::
+
+::: {.nonincremental}
+Die Debattierenden suchen nach Wegen, wie die Kontroverse aufgelöst werden kann:
+:::
+
+::: {.columns}
+::: {.column width="40%"}
+[Herstellung von Konsens:]{style="color:#ff8100; margin-left:3%"}
+:::
+::: {.column width="60%"}
+:::
+:::
+
+## sie debattieren konstruktiv {auto-animate="true" visibility="uncounted"}
+
+::: {.nonincremental}
+Die Debattierenden suchen nach Wegen, wie die Kontroverse aufgelöst werden kann:
+:::
+::: {.columns}
+::: {.column width="40%" .nonincremental}
+::: {style="color:gray; margin-left:3%"}
+Herstellung von Konsens: 
+
+* kein primäres Ziel: Konsens ist zu ambitioniert
+:::
+:::
+::: {.column width="50%" .fragment}
+["Agree to disagree":]{style="color:#ff8100"}
+:::
+::: 
+
+## sie debattieren konstruktiv {auto-animate="true" visibility="uncounted"}
+
+::: {.nonincremental}
+Die Debattierenden suchen nach Wegen, wie die Kontroverse aufgelöst werden kann:
+:::
+::: {.columns}
+::: {.column width="40%" .nonincremental}
+::: {style="color:gray; margin-left:3%"}
+Herstellung von Konsens: 
+
+* kein primäres Ziel: Konsens ist zu ambitioniert
+:::
+:::
+::: {.column width="50%" .nonincremental}
+::: {style="color:gray"}
+"Agree to disagree":
+
+  * kein Ziel -- Einsicht in die Vielfalt von Meinungen ist zu bescheiden
+:::
+:::
+::: 
+
+::: {.fragment style="margin-left:10%; margin-right:10%"}
+Argumentative Wege zur [Prüfung kontroverser Überzeugungen]{style="color:#ff8100"} identifizieren:
+    
+  * bei [Tatsachenstreits]{style="color:#ff8100"}: wer hat die relevante Expertise?  
+  * Bei [Wertfragen]{style="color:#ff8100"}: welche Gründe sprechen dafür und dagegen, die jeweilige Werthaltung anzunehmen?
+:::
+
+
+# Was macht eine streitfreudige Gesellschaft erstrebenswert? {background-image="../graphics/Streitkultur-Header_dark.png" background-size="300px" background-position="10% 1%"}
+
+
+## Streit: seine Zwecke {auto-animate="true"}
+
+
+::: {.columns}
+::: {.column width="50%" .nonincremental}
+
+* hermeneutischer Zweck: 
+  * Andere `verstehen`
+
+* epistemische Zwecke:
+  * `überzeugen` (Überzeugungen anderer verändern)
+  * `lernen` (eigene Überzeugungen verändern)
+
+* soziale Zwecke:
+  * `Gemeinschaftszugehörigkeit` stärken
+  * `unterhalten`
+  * ...
+:::
+:::
+
+## Streit: seine Zwecke {auto-animate="true" visibility="uncounted"}
+
+::: {.columns}
+::: {.column width="50%" .nonincremental}
+
+::: {style="color: gray;"}
+* hermeneutischer Zweck: 
+  * Andere verstehen
+:::
+
+* epistemische Zwecke:
+  * [überzeugen]{style="color:#ff8100"} (Überzeugungen anderer verändern)
+  * [lernen]{style="color:#ff8100"} (eigene Überzeugungen verändern)
+
+::: {style="color: gray;"}
+* soziale Zwecke:
+  * Gemeinschaftszugehörigkeit stärken
+  * unterhalten
+  * ...
+:::
+:::
+
+::: {.column width="23%"}
+:::
+
+::: {.column width="23%"}
+:::
+::: 
+
+## Streit: seine Zwecke und Ideale {auto-animate="true" visibility="uncounted"}
+
+::: {.columns}
+::: {.column width="50%" .nonincremental}
+
+::: {style="color: gray;"}
+* hermeneutischer Zweck: 
+  * Andere verstehen
+:::
+
+* epistemische Zwecke:
+  * [überzeugen]{style="color:#ff8100"} (Überzeugungen anderer verändern)
+  * [lernen]{style="color:#ff8100"} (eigene Überzeugungen verändern)
+
+::: {style="color: gray;"}
+* soziale Zwecke:
+  * Gemeinschaftszugehörigkeit stärken
+  * unterhalten
+  * ...
+:::
+:::
+
+::: {.column width="23%"}
+::: {style="margin-top: 6.5em; text-align: center"}
+::: {.callout-warning icon="false"}
+### mehr korrekte und gut begründete Überzeugungen
+:::
+:::
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="25%"}
+::: {style="margin-top: 3.8em; text-align: center"}
+::: {.fragment}
+::: {.callout-caution icon="false"}
+### individuelle Autonomie
+eigene Entscheidungen sind aufgeklärt
+:::
+::: {.callout-caution icon="false"}
+### deliberative Demokratie
+kollektive Entscheidungen sind aufgeklärt
+:::
+:::
+:::
+::: 
+:::
+
+::: {.notes}
+* Autonomie: 
+  * Fähigkeit zur Selbstbestimmung, also Entscheidungen auf genuin eigenen Wünschen zu treffen, also Wünschen, die in Einklang mit den eigenen Vorstellungen eines guten Lebens stehen
+* deliberative Demokratie:
+  * kollektive Selbstbestimmung: politische Entscheidungen sind ein Ergebnis gesellschaftlicher Reflexions- und Diskussionsprozesse
+:::
+
+# Was hindert uns daran, die Utopie zu realisieren? {background-image="../graphics/Streitkultur-Header_dark.png" background-size="300px" background-position="10% 1%"}
+
+## Praxis: Mindsets des Urteilens und Entscheidens
+
+::: {.notes}
+* Psycholog\*innen verweisen seit Langem darauf hin, dass unsere Praxis des Urteilens und Entscheidens, der Überzeugungsänderung, zwar eine Praxis ist, die soziale Interaktionen -- Diskussionen erfordert. Gleichwohl nehmen wir dabei mitnichten die Haltung der Tänzer\*innen ein, sondern  lassen uns von anderen idealtypischen Mindsets leiten:
+:::
+
+* Urteilen/Entscheiden ist eine soziale Praxis, bei der folgende Zwecke verfolgt werden^[Philip E. Tetlock (2002): „Social Functionalist Frameworks for Judgment and Choice: Intuitive Politicians, Theologians, and Prosecutors“, *Psychological Review* 109: 451-471.]
+
+::: {.columns}
+
+::: {.column width="34%"}
+::: {.fragment .nonincremental}
+::: {.callout-note icon="false"}
+### Politiker\*in
+* wir suchen, `soziale Bindungen` zu für uns wichtigen Peer-Gruppen nicht zu belasten; 
+* wir passen unsere Überzeugungen entsprechend an.
+:::
+:::
+:::
+
+::: {.column width="32%"}
+::: {.fragment .nonincremental}
+::: {.callout-note icon="false"}
+#### Priester*in
+* wir betrachten bestimmte `Werte` und Regeln für `heilig` und damit unantastbar; 
+* wir suchen sie gegen Veränderungen <!--durch aktuelle Trends (aus der Wissenschaft, Wertewandel etc.)--> zu verteidigen.
+:::
+:::
+:::
+
+::: {.column width="32%"}
+::: {.fragment .nonincremental}
+::: {.callout-note icon="false"}
+### Staatsanwalt\*in
+* wir suchen, Regeln und `Prinzipien`, die wir für `legitim` halten, zu verteidigen; 
+* und `Verstöße` gegen sie zu ahnden.
+:::
+:::
+::: 
+:::
+</br>
+</br>
+
+## Befunde kognitiver Psychologie: Verzerrungen
+
+::: {.notes}
+* Empirische Forschung der kognitiven Psychologie liefert Erklärungen dafür, warum wir beim Diskutieren/Urteilen die Mindsets der Politiker\*in, ..., einnehmen und nicht die der Tänzer\*in: 
+  * wir unterliegen zahlreichen kognitiven Verzerrungen (Bias)
+:::
+
+::: {.columns}
+
+::: {.column width="45%"}
+::: {.fragment .nonincremental}
+::: {.callout-note icon="false"}
+### Selbstüberschätzung (overconfidence)^[Moore und Schatz (2017): The three faces of overconfidence. *Social and Personality Psychology Compass* 11(8): 1-12.]
+Tendenz, eigene kognitiven Kompetenzen und eigenes Wissen zu überschätzen:
+
+  * relativ zu sich selbst (meine Fähigkeiten für besser halten als sie sind)
+  * relativ zu anderen (zu glauben, dass meine Fähigkeiten sind als die von Anderen)
+:::
+:::
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="45%"}
+::: {.fragment .nonincremental}
+::: {.callout-note icon="false"}
+#### Bestätigungsfehler (confirmation bias^[Mercier, Hugo and Sperber, Dan (2011): Why do humans reason? Arguments for an argumentative theory. *Behavioral and Brain Sciences* 34(2): 57-74] bzw. desirability bias^[Tappin et al. (2017): The Heart Trumps the Head: Desirability Bias in Political Belief Revision. *Journal of Experimental Psychology: General* 146:1143-49])
+Tendenz, solche Informationen zu suchen, zu interpretieren, zu bevorzugen und zu erinnern, die
+  
+  * die eigenen Überzeugungen bzw. 
+  * die eigenen Wünsche bestätigen.
+:::
+:::
+:::
+:::
+
+## Praxis: Argumentation als Kampf
+
+![](../graphics/fight-svgrepo-com.svg){.absolute top=130 left=0 width="150"}
+![](../graphics/winner-on-podium-with-trophy-svgrepo-com.svg){.absolute top=100 left=130 height="180"}
+
+::: {.columns}
+::: {.column width="30%"}
+:::
+::: {.column width="70%"}
+::: {.nonincremental}
+::: {.callout-note icon="false"}
+### Gegnerschaft-Paradigma^[Hundleby, Catherine E. (2023) *Feminist Perspectives on Argumentation*, The Stanford Encyclopedia of Philosophy: https://plato.stanford.edu/archives/fall2023/entries/feminism-argumentation/.]
+* Argumentation (und verwandte kommunikative Praktiken) werden vielfach als Aktivitäten zwischen Gegnern aufgefasst;
+* martialische Metaphern:
+  * "Kampf", "gewinnen", "angreifen", "verteidigen", ...
+
+:::
+:::
+:::
+:::
+
+::: {.fragment}
+#### Empirische Untersuchungen: Mehrwert von Diskussionen unklar
+
+* Argumentation scheint kein effizientes Mittel zu sein, um Meinungsänderung herbeizuführen^[Gordon-Smith, Eleanor (2019) *Stop Being Reasonable: How We Really Change Minds.* Public Affairs, New York.]
+* eine Diskussion über tief verankerte Überzeugungen kann Polarisierung verstärken^[Dutilh Novaes, Catarina (2020) *The Role of Trust in Argumentation.* Informal Logic 40(2): 205–236.]
+:::
+</br>
+
+## Technologie und Rechtspopulismus
+
+::: {.columns}
+::: {.column width="45%" .fragment}
+
+#### Online Medien
+
+![](../graphics/soziale-Medien-problematik.svg){.absolute top=230 left=0 height="250"}
+
+::: {.fragment .nonincremental}
+::: {style="margin-left: 5.5em"}
+* das Interesse der Betreiber liegt nicht darin, individuelle Autonomie und aufgeklärte Gesellschaften zu fördern, sondern:
+  * Maximierung der Einnahmen;
+  * Meinungsbeeinflussung
+:::
+:::
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="50%" .fragment}
+#### Rechtspopulismus
+
+* Merkmale faschistischer Bewegungen^[Mühlhoff, Rainer (2025): *Künstliche Intelligenz und der neue Faschismus.* Stuttgart: Reclam]:
+  * Liberale Demokratie als Ursache zentraler gesellschaftlicher Probleme
+    * aufgeklärte Individuen als Feindbilder;
+  * hierarchisches Menschenbild 
+    * Gewaltbereitschaft gegenüber abgewerteten Menschen;
+  * Technologie als Machtinstrument
+:::
+::: 
+
+# Was tun? {background-image="../graphics/Streitkultur-Header_dark.png" background-size="300px" background-position="10% 1%"}
+
+## {auto-animate=true}
+
+::: {style="margin-top: 10px; margin-left: 10px;"}
+::: {.nonincremental}
+[Realität:]{style="color:#ff8100"} Tänzerische Haltung mit Hemmnissen konfrontiert
+
+* psychologische Verzerrungen
+* Polarisierung-fördernde Kommunikationstechnologien
+* politisch: Anti-aufklärerische Tendenzen
+:::
+:::
+
+::: {style="margin-top: 400px; margin-left: 600px;"}
+[Utopie:]{style="color:#ff8100"} Streitfreudige Gesellschaft
+:::
+
+## {auto-animate=true visibility="uncounted"}
+
+
+::: {style="margin-top: 20px; margin-left: 20px;"}
+::: {.nonincremental}
+[Realität:]{style="color:#ff8100"} Tänzerische Haltung mit Hemmnissen konfrontiert
+
+* psychologische Verzerrungen
+* Polarisierung-fördernde Kommunikationstechnologien
+* politisch: Anti-aufklärerische Tendenzen
+:::
+:::
+
+::: {style="margin-top: 120px; margin-left: 300px; text-align: center; width:450px"}
+[Was tun]{style="color:#ff8100"}, um die [Polarisierung in die Streitfreude]{style="color:#ff8100"} zu überführen?
+:::
+
+::: {style="margin-top: 150px; margin-left: 600px;"}
+[Utopie:]{style="color:#ff8100"} Streitfreudige Gesellschaft
+:::
+
+
+
+## Handlungsoptionen
+
+::: {style="position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;"}
+[Was tun]{style="color:#ff8100"}, um die [Polarisierung in die Streitfreude]{style="color:#ff8100"} zu überführen?
+:::
+
+::: {.fragment .nonincremental}
+::: {style="position: fixed; top: 20; left: 0; margin: 10px; width: 450px"}
+::: {.callout-note icon="false"}
+### Politisches Projekt
+
+* Regulierung der sozialen Medien und der dahinter stehenden Technologien;
+* Schutz demokratischer Institutionen;
+* Förderung der Bildung
+:::
+:::
+:::
+
+::: {.fragment .nonincremental}
+::: {style="position: fixed; bottom: 0; right: 0; margin: 10px; width: 500px"}
+::: {.callout-note icon="false"}
+### Individuelles Projekt: Tanz-Haltung einüben
+
+* Streit-Gespräche mit Andersdenkenden suchen
+* Räume für den Streit-Tango erst kreieren
+* Andockungsmöglichkeiten identifizieren
+  * Gegenseitiges Verständnis
+  * Wertschätzung und Gemeinsamkeiten
+  * Austausch von Gründen
+:::
+:::
+:::
+ 
+
+## Verständnis, Wertschätzung und Gemeinsamkeiten mit Rassist\*innen? {auto-animate=true}
+
+::: {style="position: fixed; top: 50; left: 0; margin: 20px; width: 400px;"}
+Demütige Haltung gegenüber Menschen, die verachtenswerte Meinungen haben?
+:::
+
+::: {.fragment .fade-up}
+::: {style="position: fixed; top: 30px; left: 60%; width: 100px;"}
+Rassist\*innen 
+:::
+:::
+::: {.fragment .fade-up}
+::: {style="position: fixed; top: 75px; left: 75%; width: 150px;"}
+Kriegstreiber\*innen
+:::
+:::
+::: {.fragment .fade-up}
+::: {style="position: fixed; top: 100px; left: 55%; width: 100px;"}
+Religiöse Fundamentalist\*innen,...
+:::
+:::
+
+## Verständnis, Wertschätzung und Gemeinsamkeiten mit Rassist\*innen? {auto-animate=true}
+
+::: {style="position: fixed; top: 50; left: 0; margin: 20px; width: 400px;"}
+Demütige Haltung gegenüber Menschen, welche
+
+  * Überzeugungen haben, von denen wir ganz-ganz fest überzeugt sind, dass sie falsch sind;
+  * Werte und Prinzipien befürworten, von denen wir ganz-ganz fest überzeugt sind, dass sie nicht akzeptiert werden sollen.
+:::
+
+::: {.fragment .fade-up}
+::: {style="position: fixed; top: 0px; right: 0; margin: 0 20px 20px 0; width: 480px;"}
+::: {.nonincremental}
+::: {.callout-important icon="false"}
+### Gesprächsraum kreieren
+  * eigene Betroffenheit artikulieren
+:::
+:::
+:::
+:::
+
+::: {.fragment .fade-up}
+::: {style="position: fixed; top: 100px; right: 0; margin: 0 20px 20px 0; width: 480px;"}
+::: {.nonincremental}
+::: {.callout-important icon="false"}
+### Interpretation der Meinung des/r Gesprächspartner\*in:
+  * Warum ist mein Gegenüber von etwas überzeugt, was ich für völlig falsch oder inakzeptabel halte?
+:::
+:::
+:::
+:::
+
+::: {.fragment .fade-up}
+::: {style="position: fixed; top: 250px; right: 0; margin: 0 20px 20px 0; width: 480px;"}
+::: {.callout-important icon="false" .nonincremental}
+### Suche nach Andockungspunkten, gegeben die Begründung der Position des Gegenübers:
+ * Über welche Tatsachenbehauptungen sind wir uns uneinig?
+  * Über welche Werthaltungen sind wir uns uneinig?
+:::
+:::
+:::
+    
+
+::: {.notes}
+* Beispiel: Klimawandelskeptiker\*in:
+  * Klima-Skeptik: "Wissenschaft ist korrupt, Spielball der Eliten, die die Welt in ihre Richtung manipulieren wollen"
+* Onkel begegnet, der in Kirgisistan lebt, sowjetisch sozialisiert und Befürworter russischen Angriffskrieges ist. Ich traf ihn zum ersten Mal seit dem Kriegsausbruch, aus der Familie wusste ich, dass Gespräche mit ihm über das Thema sehr schwierig seien. Ich kannte ihn als eine Person, die eigentlich reflektiert ist. 
+  * Mich lässt die aktuelle Situation in der Ukraine verzweifeln: ich sehe überhaupt keinen Ausweg aus dem Krieg. Siehst Du irgendeinen Ausweg daraus?
+* Beispiel: Hamas-Anhänger
+  * 
+:::  
+
+# Vielen Dank! {.nonincremental}
+
+::: {style="position: fixed; top: 280px; left: 50%; transform: translate(-50%, -50%); text-align: center;"}
+[https://forum-streitkultur.de/]{style="color:#ff8100"}
+
+[https://eugenpissarskoi.de/]{style="color:#ff8100"}
+
+[https://argumentationsagentur.de/]{style="color:#ff8100"}
+:::

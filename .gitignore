@@ -1,2 +1,4 @@
 /.quarto/
 /Github-TXT-record.txt/
+
+**/*.quarto_ipynb

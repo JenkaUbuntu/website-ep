@@ -205,81 +205,85 @@ Workshop des Wirtschaftsethik-Netzwerkes “Berliner Forum” an der Freie Unive
 ::: {.callout-note collapse="true" icon="false"}
 ## Vorträge
 
-“Can Two Wrongs Make a Right?”, Workshop zu Ethik von Twins of Online Social Networks auf dem European Leadership Workshop 2024, organisiert von Dialogue Perspecitves e.V., Karlsruhe: 18.09.2024
+[Konstruktiv streiten: eine Utopie zwischen Social Media, Polarisierung und Rechtspopulismus]{.smallcaps} -- Keynote auf der [Fachtagung “Miteinander reden, aber wie?“](https://crisp-berlin.org/news/new/fachtagung-miteinander-reden-aber-wie), organisiert von [Crisp e.V.](https://crisp-berlin.org/de/ueber-uns), Berlin: 05.12.2025    
+[Link zur Präsentation](./Unterseiten/crisp-vortrag.qmd)
 
-“Ethics of TWONs: Twins of Online Social Networks”, Vortrag beim Forum on Philosophy, Engineering, and Technology 2024, Karlsruhe Institut für Technologie, Karlsruhe: 18.09.2024
+[Can Two Wrongs Make a Right?]{.smallcaps}, Workshop zu Ethik von Twins of Online Social Networks auf dem European Leadership Workshop 2024, organisiert von Dialogue Perspecitves e.V., Karlsruhe: 18.09.2024
 
-“De-Growth versus Green-Growth. Argumente im Lichte empirischer Unsicherheiten und transformativer Erfahrungen”, Vortrag auf Einladung von [Krino – philosophische Gesellschaft Berns](https://www.krino.ch/), Universität Bern: 23.03.2023
+[Ethics of TWONs: Twins of Online Social Networks]{.smallcaps}, Vortrag beim Forum on Philosophy, Engineering, and Technology 2024, Karlsruhe Institut für Technologie, Karlsruhe: 18.09.2024
 
-“Zur Irrelevanz von Vorstellungen Guten Lebens bei der Begründung von Strategien Nachhaltiger Entwicklung”, Vortrag in der Sektion “Angewandte Ethik”, 11. Kongress der Gesellschaft für Analytische Philosophie, Humboldt Universität Berlin: 14.09.2022
+[De-Growth versus Green-Growth. Argumente im Lichte empirischer Unsicherheiten und transformativer Erfahrungen]{.smallcaps}, Vortrag auf Einladung von [Krino – philosophische Gesellschaft Berns](https://www.krino.ch/), Universität Bern: 23.03.2023
 
-“Lessons from African Pastoralists about Conviviality and Autonomy”, Konferenz der Vereinigung für Afrikawissenschaften in Deutschland 2022, Freiburg in Breisgau: 10.06.2022
+[Zur Irrelevanz von Vorstellungen Guten Lebens bei der Begründung von Strategien Nachhaltiger Entwicklung]{.smallcaps}, Vortrag in der Sektion “Angewandte Ethik”, 11. Kongress der Gesellschaft für Analytische Philosophie, Humboldt Universität Berlin: 14.09.2022
 
-“Konflikte um Gutes Leben in der Bioökonomie-Politik: Können Gründe dort etwas ausrichten?”, VIII. Tagung für Praktische Philosophie, Universität Salzburg: 01.10.2021
+[Lessons from African Pastoralists about Conviviality and Autonomy]{.smallcaps}, Konferenz der Vereinigung für Afrikawissenschaften in Deutschland 2022, Freiburg in Breisgau: 10.06.2022
 
-“Expected Utility Theory and Process-Related Properties such as Resilience and Controllability: why they complement each other”, presentation at the Workshop “Disastres, Risk, and Resilience” at the MANCEPT 2021 Conference, Manchester University (online): 09.09.2021
+[Konflikte um Gutes Leben in der Bioökonomie-Politik: Können Gründe dort etwas ausrichten?]{.smallcaps}, VIII. Tagung für Praktische Philosophie, Universität Salzburg: 01.10.2021
 
-“Soll ich diejenigen, die ihren idealen Klimaschutzpflichten nicht nachkommen, dazu drängen, diesen Pflichten nachzukommen?” Vortrag in der Sektion “Angewandte Ethik”, XXV Kongress der Deutschen Gesellschaft für Philosophie (online): 07.09.2021
+[Expected Utility Theory and Process-Related Properties such as Resilience and Controllability: why they complement each other]{.smallcaps}, presentation at the Workshop “Disastres, Risk, and Resilience” at the MANCEPT 2021 Conference, Manchester University (online): 09.09.2021
 
-“Moral Disagreement between a Degrowth-and a Green-Growth-Bioeconomy”, presentation at the Online-Conference „Ethics in a Global Environment“, organized by The Centre for the Study of Global Ethics, Birmingham University: 27.05.2021
+[Soll ich diejenigen, die ihren idealen Klimaschutzpflichten nicht nachkommen, dazu drängen, diesen Pflichten nachzukommen?]{.smallcaps} Vortrag in der Sektion “Angewandte Ethik”, XXV Kongress der Deutschen Gesellschaft für Philosophie (online): 07.09.2021
 
-Wie viel Ethik steckt in Bioökonomie? Virtueller Science Espresso auf Einladung von Wissenschaftsladen Bonn: 23.09.2020
 
-Warum angewandte Ökonomik wertneutral sein könnte, es aber nicht sollte. Vortrag im Rahmen der Vorlesungsreihe "Von Mutter Erde und Homo Oeconomicus - und jetzt?", organisiert vom Arbeitskreis Rethinking Economics Tübingen: 06.05.2020
+[Moral Disagreement between a Deggrowth-and a Green-Growth-Bioeconomy]{.smallcaps}, presentation at the Online-Conference „Ethics in a Global Environment“, organized by The Centre for the Study of Global Ethics, Birmingham University: 27.05.2021
 
-Klimaethik: auf der Suche nach Kohärenz zwischen moralischen und empirischen Überzeugungen. Vortrag im Rahmen der Reihe KlimaLectures, organisiert von Die Junge Akademie in der Berlin-Brandenburgischen Akademie der Wissenschaften: 24.01.2020
+[Wie viel Ethik steckt in Bioökonomie?]{.smallcaps} Virtueller Science Espresso auf Einladung von Wissenschaftsladen Bonn: 23.09.2020
 
-"Soll ich diejenigen, die nicht das tun, was sie tun sollen, dazu drängen, das zu tun, was sie tun sollten?" Vortrag auf dem 18. Ethik-Workshop "Tun, Zulassen, Unterlassen" in Schmitten-Arnoldshain: 23.03.2019
+[Warum angewandte Ökonomik wertneutral sein könnte, es aber nicht sollte.]{.smallcaps} Vortrag im Rahmen der Vorlesungsreihe "Von Mutter Erde und Homo Oeconomicus - und jetzt?", organisiert vom Arbeitskreis Rethinking Economics Tübingen: 06.05.2020
 
-„Controllability as a non-consequentialist value in decisions under uncertainty”, presentation at the Lisbon Conference on Values and Uncertainty LVU 18, IFILNOVA Institute of Philosophy, New University of Lisbon: 06.12.2018
+[Klimaethik: auf der Suche nach Kohärenz zwischen moralischen und empirischen Überzeugungen.]{.smallcaps} Vortrag im Rahmen der Reihe KlimaLectures, organisiert von Die Junge Akademie in der Berlin-Brandenburgischen Akademie der Wissenschaften: 24.01.2020
 
-„Philosophische Methoden in der anwendungsbezo­genen Ethik.“, Vortrag im IZEW-Kolloquium Wintersemester 18/19, Universität Tübingen: 13.11.2018
+[Soll ich diejenigen, die nicht das tun, was sie tun sollen, dazu drängen, das zu tun, was sie tun sollten?]{.smallcaps} Vortrag auf dem 18. Ethik-Workshop "Tun, Zulassen, Unterlassen" in Schmitten-Arnoldshain: 23.03.2019
 
-„Wachstumsunabhängigkeit. Wie lässt sich das Ziel begründen?“, Konferenz „Herausforderungen Wachstumsunabhängigkeit – Ansätze zur Integration von Umwelt-, Sozial- und Wirtschaftspolitik“, Berlin: 05.11.2018
+[Controllability as a non-consequentialist value in decisions under uncertainty]{.smallcaps}, presentation at the Lisbon Conference on Values and Uncertainty LVU 18, IFILNOVA Institute of Philosophy, New University of Lisbon: 06.12.2018
 
-„The Post-Growth Strategy. What does it contain? How does it differ from Green Growth and Degrowth?”, 6th Degrowth Conference, Malmoe, 23.08.2018
+[Philosophische Methoden in der anwendungsbezo­genen Ethik.]{.smallcaps} Vortrag im IZEW-Kolloquium Wintersemester 18/19, Universität Tübingen: 13.11.2018
 
-„Deontologische und teleologische Theorien zur Handlungsbegründung unter Unsicherheit. Rolle der epistemisch-evaluativen Abwägungen", Sommerkolloquium am Institut für Philosophie der TU Darmstadt: 25.04.2018
+[Wachstumsunabhängigkeit. Wie lässt sich das Ziel begründen?]{.smallcaps}, Konferenz „Herausforderungen Wachstumsunabhängigkeit – Ansätze zur Integration von Umwelt-, Sozial- und Wirtschaftspolitik“, Berlin: 05.11.2018
 
-„Hat Natur einen Eigenwert? Wertekonzepte und Bewertungs­fragen in Bezug auf Naturschutz“. Konferenz „Natürlich Natur! Aber was ist Natur?“, Evangelische Akademie Loccum, 09.12.2017
+[The Post-Growth Strategy. What does it contain? How does it differ from Green Growth and Degrowth?]{.smallcaps}, 6th Degrowth Conference, Malmoe, 23.08.2018
 
-„Capitalocene: Does it make the concept of “Anthropocene” more precise?". Workshop „Knowing the Anthropocene“, Universtität Tübingen, 27.07.2017
+[Deontologische und teleologische Theorien zur Handlungsbegründung unter Unsicherheit. Rolle der epistemisch-evaluativen Abwägungen]{.smallcaps}, Sommerkolloquium am Institut für Philosophie der TU Darmstadt: 25.04.2018
 
-„Integrated Assessment Models: which role should their results play in democratic decision making?“. EIPE-Conference, Erasmus University of Rotterdam, 24.04.2017
+[Hat Natur einen Eigenwert? Wertekonzepte und Bewertungs­fragen in Bezug auf Naturschutz.]{.smallcaps} Konferenz „Natürlich Natur! Aber was ist Natur?“, Evangelische Akademie Loccum, 09.12.2017
 
-„Degrowth, Green Growth, and A-Growth: an Argumentation Analysis“. ESRC-Seminar „Climate Justice and Economic Growth“, University of Manchester, 30-31.01.2017
+[Capitalocene: Does it make the concept of “Anthropocene” more precise?]{.smallcaps}, Workshop „Knowing the Anthropocene“, Universität Tübingen, 27.07.2017
 
-„Drivers of Economic Growth. Controversies and agreements between the mainstream economics and the degrowth/ post-growth discourse.“ 5th Degrowth Conference, Budapest: 31.08.2016
+[Integrated Assessment Models: which role should their results play in democratic decision making?]{.smallcaps}, EIPE-Conference, Erasmus University of Rotterdam, 24.04.2017
 
-„Justification of a Climate Policy Goal under Uncertainty: the Controllability Precautionary Principle“, Conference „Climate Justice, Economics and Philosophy“, Cornell University, USA: 24.05.2016
+[Degrowth, Green Growth, and A-Growth: an Argumentation Analysis]{.smallcaps}, ESRC-Seminar „Climate Justice and Economic Growth“, University of Manchester, 30-31.01.2017
 
-„Idee einer Postwachstumsgesellschaft“, Vortrag und Teilnahme an einer Podiumsdiskussion auf dem Seminar des Arbeitskreis Wirtschaft und Soziales der Stipendiatinnen der Friedrich-Naumann-Stiftung für die Freiheit, Theodor-Heuss-Akademie, Gummersbach: 23.04.2016
+[Drivers of Economic Growth. Controversies and agreements between the mainstream economics and the degrowth/ post-growth discourse.]{.smallcaps} 5th Degrowth Conference, Budapest: 31.08.2016
 
-„Priority of the Right over the Good. Does the Post-Growth Debate reveal the Limits of Liberalism?“, Konferenz „Good Life beyond Growth“ des DFG-Kollegs Postwachstumsgesellschaften, Universität Jena: 22.05.2015
+[Justification of a Climate Policy Goal under Uncertainty: the Controllability Precautionary Principle]{.smallcaps}, Conference „Climate Justice, Economics and Philosophy“, Cornell University, USA: 24.05.2016
 
-“Postwachstumsgesellschaft: warum ist sie erstrebenswert?” Vortrag und Teilnahme an einer Podiumsdiskussion auf dem 13. Bundeskongress Politische Bildung, Sektion „Globale Gerechtigkeit – Postwachstumsökonomie“, Universität Duisburg: 21.03.2015
+[Idee einer Postwachstumsgesellschaft]{.smallcaps}, Vortrag und Teilnahme an einer Podiumsdiskussion auf dem Seminar des Arbeitskreis Wirtschaft und Soziales der Stipendiatinnen der Friedrich-Naumann-Stiftung für die Freiheit, Theodor-Heuss-Akademie, Gummersbach: 23.04.2016
 
-„Auf dem Weg zur Operationalisierung des Befähigungsansatzes“, Abschlusskonferenz des Projektes econCCadapt, Humboldt University of Berlin: 16.03.2015
+[Priority of the Right over the Good. Does the Post-Growth Debate reveal the Limits of Liberalism?]{.smallcaps}, Konferenz „Good Life beyond Growth“ des DFG-Kollegs Postwachstumsgesellschaften, Universität Jena: 22.05.2015
 
-„Justification of a Climate Policy Goal under Uncertainty“, Workshop „Ethical Underpinnings of Climate Economics“, University of Helsinki, Helsinki: 12.11.2014
+[Postwachstumsgesellschaft: warum ist sie erstrebenswert?]{.smallcaps} Vortrag und Teilnahme an einer Podiumsdiskussion auf dem 13. Bundeskongress Politische Bildung, Sektion „Globale Gerechtigkeit – Postwachstumsökonomie“, Universität Duisburg: 21.03.2015
 
-„Transformationsstrategien und Postwachstumsgesellschaft: eine Einordnung“, öffentliche Tagung in der Heinrich-Böll-Stiftung, Berlin: 05.12.2013
+[Auf dem Weg zur Operationalisierung des Befähigungsansatzes]{.smallcaps}, Abschlusskonferenz des Projektes econCCadapt, Humboldt University of Berlin: 16.03.2015
 
-„Foreknowledge about the Energy Supply: Which Kind of Arguments Can Science Provide?“, EnergyTrans Konferenz, Karlsruhe: 10.10.2013
+[Justification of a Climate Policy Goal under Uncertainty]{.smallcaps}, Workshop „Ethical Underpinnings of Climate Economics“, University of Helsinki, Helsinki: 12.11.2014
 
-„Possibilistic Foreknowledge and Policy Recommendations: Stakeholder's Contribution“, ENCILowcarb Final Conference, Paris: 15.03.2012
+[Transformationsstrategien und Postwachstumsgesellschaft: eine Einordnung]{.smallcaps}, öffentliche Tagung in der Heinrich-Böll-Stiftung, Berlin: 05.12.2013
 
-„Credible Worlds, Possibilistic Foreknowledge, and Policy Decisions“, Conference of the International Network for Economic Methodology, Helsinki: 02.-04.09.2011
+[Foreknowledge about the Energy Supply: Which Kind of Arguments Can Science Provide?]{.smallcaps}, EnergyTrans Konferenz, Karlsruhe: 10.10.2013
 
-„Glück ist kein gutes politisches Ziel“, Herbsttagung des Arbeitskreises „Politische Ökonomie“, Universität der Bundeswehr Hamburg: 15-17.10.2010
+[Possibilistic Foreknowledge and Policy Recommendations: Stakeholder's Contribution]{.smallcaps}, ENCILowcarb Final Conference, Paris: 15.03.2012
 
-„Justification of a climate target based on the capabilities approach“, International Society for Ecological Economics 2010, Oldenburg: 24.08.2010
+[Credible Worlds, Possibilistic Foreknowledge, and Policy Decisions]{.smallcaps}, Conference of the International Network for Economic Methodology, Helsinki: 02.-04.09.2011
 
-„A non-welfarist argument for an ambitious mitigation target“, Conference „Integrating Development and Climate Change Ethics“, Penn State University, State College, USA: 15.04.2010
+[Glück ist kein gutes politisches Ziel]{.smallcaps}, Herbsttagung des Arbeitskreises „Politische Ökonomie“, Universität der Bundeswehr Hamburg: 15-17.10.2010
 
-„A non-welfarist assessment of climate impacts and the pure time preference“, workshop „Cost-Benefit Analysis: Uncertainty, Discounting and the Sustainable Future“, University of Eindhoven: 12-13.04.2010
+[Justification of a climate target based on the capabilities approach]{.smallcaps}, International Society for Ecological Economics 2010, Oldenburg: 24.08.2010
 
-„Eine non-welfaristische Theorie zur Bewertung der Klimawandelfolgen“, Nachwuchsworkshop „Umwelt- und Ressourcenökonomie“, Wegener Center, Universität Graz: 07-09.02.2010
+[A non-welfarist argument for an ambitious mitigation target]{.smallcaps}, Conference „Integrating Development and Climate Change Ethics“, Penn State University, State College, USA: 15.04.2010
 
-„How should policy advisers from the scientific community evaluate impacts of climate change?“ 6th International Conference on Ethics and Environmental Policies „Ethics and Climate Change“, Padua, Italy: 24.08.2008
+[A non-welfarist assessment of climate impacts and the pure time preference]{.smallcaps}, workshop „Cost-Benefit Analysis: Uncertainty, Discounting and the Sustainable Future“, University of Eindhoven: 12-13.04.2010
+
+[Eine non-welfaristische Theorie zur Bewertung der Klimawandelfolgen]{.smallcaps}, Nachwuchsworkshop „Umwelt- und Ressourcenökonomie“, Wegener Center, Universität Graz: 07-09.02.2010
+
+[How should policy advisers from the scientific community evaluate impacts of climate change?]{.smallcaps} 6th International Conference on Ethics and Environmental Policies „Ethics and Climate Change“, Padua, Italy: 24.08.2008
 :::
