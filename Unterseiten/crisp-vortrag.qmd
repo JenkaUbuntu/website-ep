@@ -472,12 +472,12 @@ Tendenz, solche Informationen zu suchen, zu interpretieren, zu bevorzugen und zu
 
 ## Handlungsoptionen
 
-::: {style="position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;"}
+::: {style="top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;"}
 [Was tun]{style="color:#ff8100"}, um die [Polarisierung in die Streitfreude]{style="color:#ff8100"} zu überführen?
 :::
 
 ::: {.fragment .nonincremental}
-::: {style="position: fixed; top: 20; left: 0; margin: 10px; width: 450px"}
+::: {style="top: 20; left: 0; margin: 10px; width: 450px"}
 ::: {.callout-note icon="false"}
 ### Politisches Projekt
 
@@ -489,7 +489,7 @@ Tendenz, solche Informationen zu suchen, zu interpretieren, zu bevorzugen und zu
 :::
 
 ::: {.fragment .nonincremental}
-::: {style="position: fixed; bottom: 0; right: 0; margin: 10px; width: 500px"}
+::: {style="bottom: 0; right: 0; margin: 10px; width: 500px"}
 ::: {.callout-note icon="false"}
 ### Individuelles Projekt: Tanz-Haltung einüben
 
@@ -506,29 +506,29 @@ Tendenz, solche Informationen zu suchen, zu interpretieren, zu bevorzugen und zu
 
 ## Verständnis, Wertschätzung und Gemeinsamkeiten mit Rassist\*innen? {auto-animate=true}
 
-::: {style="position: fixed; top: 50; left: 0; margin: 20px; width: 400px;"}
+::: {style="top: 50; left: 0; margin: 20px; width: 400px;"}
 Demütige Haltung gegenüber Menschen, die verachtenswerte Meinungen haben?
 :::
 
 ::: {.fragment .fade-up}
-::: {style="position: fixed; top: 30px; left: 60%; width: 100px;"}
+::: {style="top: 30px; left: 60%; width: 100px;"}
 Rassist\*innen 
 :::
 :::
 ::: {.fragment .fade-up}
-::: {style="position: fixed; top: 75px; left: 75%; width: 150px;"}
+::: {style="top: 75px; left: 75%; width: 150px;"}
 Kriegstreiber\*innen
 :::
 :::
 ::: {.fragment .fade-up}
-::: {style="position: fixed; top: 100px; left: 55%; width: 100px;"}
+::: {style="top: 100px; left: 55%; width: 100px;"}
 Religiöse Fundamentalist\*innen,...
 :::
 :::
 
 ## Verständnis, Wertschätzung und Gemeinsamkeiten mit Rassist\*innen? {auto-animate=true}
 
-::: {style="position: fixed; top: 50; left: 0; margin: 20px; width: 400px;"}
+::: {style="top: 50; left: 0; margin: 20px; width: 400px;"}
 Demütige Haltung gegenüber Menschen, welche
 
   * Überzeugungen haben, von denen wir ganz-ganz fest überzeugt sind, dass sie falsch sind;
@@ -536,7 +536,7 @@ Demütige Haltung gegenüber Menschen, welche
 :::
 
 ::: {.fragment .fade-up}
-::: {style="position: fixed; top: 0px; right: 0; margin: 0 20px 20px 0; width: 480px;"}
+::: {style="top: 0px; right: 0; margin: 0 20px 20px 0; width: 480px;"}
 ::: {.nonincremental}
 ::: {.callout-important icon="false"}
 ### Gesprächsraum kreieren
@@ -547,7 +547,7 @@ Demütige Haltung gegenüber Menschen, welche
 :::
 
 ::: {.fragment .fade-up}
-::: {style="position: fixed; top: 100px; right: 0; margin: 0 20px 20px 0; width: 480px;"}
+::: {style="top: 100px; right: 0; margin: 0 20px 20px 0; width: 480px;"}
 ::: {.nonincremental}
 ::: {.callout-important icon="false"}
 ### Interpretation der Meinung des/r Gesprächspartner\*in:
@@ -558,7 +558,7 @@ Demütige Haltung gegenüber Menschen, welche
 :::
 
 ::: {.fragment .fade-up}
-::: {style="position: fixed; top: 250px; right: 0; margin: 0 20px 20px 0; width: 480px;"}
+::: {style="top: 250px; right: 0; margin: 0 20px 20px 0; width: 480px;"}
 ::: {.callout-important icon="false" .nonincremental}
 ### Suche nach Andockungspunkten, gegeben die Begründung der Position des Gegenübers:
  * Über welche Tatsachenbehauptungen sind wir uns uneinig?
@@ -569,7 +569,7 @@ Demütige Haltung gegenüber Menschen, welche
 
 # Vielen Dank! {.nonincremental}
 
-::: {style="position: fixed; top: 280px; left: 50%; transform: translate(-50%, -50%); text-align: center;"}
+::: {style="top: 280px; left: 50%; transform: translate(-50%, -50%); text-align: center;"}
 [https://forum-streitkultur.de/]{style="color:#ff8100"}
 
 [https://eugenpissarskoi.de/]{style="color:#ff8100"}
