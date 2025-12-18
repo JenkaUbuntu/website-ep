@@ -206,7 +206,7 @@ Workshop des Wirtschaftsethik-Netzwerkes “Berliner Forum” an der Freie Unive
 ## Vorträge
 
 [Konstruktiv streiten: eine Utopie zwischen Social Media, Polarisierung und Rechtspopulismus]{.smallcaps} -- Keynote auf der [Fachtagung “Miteinander reden, aber wie?“](https://crisp-berlin.org/news/new/fachtagung-miteinander-reden-aber-wie), organisiert von [Crisp e.V.](https://crisp-berlin.org/de/ueber-uns), Berlin: 05.12.2025    
-[Link zur Präsentation](./Unterseiten/crisp-vortrag.qmd)
+[Link zur Präsentation](./Unterseiten/crisp-vortrag.qmd) (Navigation in der Präsentation mit Pfeil-Tasten bzw. Wisch-Gesten)
 
 [Can Two Wrongs Make a Right?]{.smallcaps}, Workshop zu Ethik von Twins of Online Social Networks auf dem European Leadership Workshop 2024, organisiert von Dialogue Perspecitves e.V., Karlsruhe: 18.09.2024
 

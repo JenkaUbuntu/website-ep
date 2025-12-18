@@ -11,7 +11,7 @@ format:
         embed-resources: true
         theme: dark-ffs2
         slide-number: c/t
-        footer: Eugen Pissarskoi
+        footer: "[Eugen Pissarskoi](https://eugenpissarskoi.de/)"
         logo: ../graphics/Streitkultur-Header_dark.png
         reference-location: document
 ---
@@ -567,9 +567,9 @@ Demütige Haltung gegenüber Menschen, welche
 :::
 :::
 
-# Vielen Dank! {.nonincremental}
+# Vielen Dank! {.nonincremental footer=false style="text-align: center"}
 
-::: {style="top: 280px; left: 50%; transform: translate(-50%, -50%); text-align: center;"}
+::: {style="top: 350px; left: 50%; text-align: center;"}
 [https://forum-streitkultur.de/]{style="color:#ff8100"}
 
 [https://eugenpissarskoi.de/]{style="color:#ff8100"}
