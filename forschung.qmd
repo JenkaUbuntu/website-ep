@@ -223,7 +223,11 @@ In [diesem Kapitel](https://nextclouds.webo.hosting/s/qXnN2ZFpPJGr6QK)
 
 ### Methoden Praktischer Ethik
 
-Gibt es Methoden aus der Philosophie bzw. ihrer Subdisziplin "Praktische Ethik"^[die sich dezidiert mit der Auseinandersetzung mit normativen Fragen in gesellschaftlichen Kontroversen beschäftigt], mit denen Handlungsempfehlungen begründet werden können? 
+Gibt es Methoden aus der Philosophie bzw. ihrer Subdisziplin "Praktische Ethik"^[die sich dezidiert mit der Auseinandersetzung mit normativen Fragen in gesellschaftlichen Kontroversen beschäftigt], mit denen Handlungsempfehlungen begründet werden können?
+
+::: {.callout-note icon="false" collapse="false"}
+#### DFG-Netzwerk [Methoden Praktischer Ethik](https://methodennetzwerk.de/), 2024-2027
+:::
 
 ::: {.callout-note icon="false" collapse="true"}
 #### Charlotte Unruh, Susanne Hahn, and Eugen Pissarskoi (2022): Philosophical methods and being public philosophers
