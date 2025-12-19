@@ -124,7 +124,6 @@ format:
    * Geben und Nehmen von Gründen
 :::
 :::
-</br>
 
 ## sie debattieren konstruktiv {auto-animate="true"}
 
@@ -192,12 +191,9 @@ Argumentative Wege zur [Prüfung kontroverser Überzeugungen]{style="color:#ff81
   * Bei [Wertfragen]{style="color:#ff8100"}: welche Gründe sprechen dafür und dagegen, die jeweilige Werthaltung anzunehmen?
 :::
 
-
 # Was macht eine streitfreudige Gesellschaft erstrebenswert? {background-image="../graphics/Streitkultur-Header_dark.png" background-size="300px" background-position="10% 1%"}
 
-
 ## Streit: seine Zwecke {auto-animate="true"}
-
 
 ::: {.columns}
 ::: {.column width="50%" .nonincremental}
@@ -357,7 +353,7 @@ Tendenz, eigene kognitiven Kompetenzen und eigenes Wissen zu überschätzen:
 ::: {.column width="45%"}
 ::: {.fragment .nonincremental}
 ::: {.callout-note icon="false"}
-#### Bestätigungsfehler (confirmation bias^[Mercier, Hugo and Sperber, Dan (2011): Why do humans reason? Arguments for an argumentative theory. *Behavioral and Brain Sciences* 34(2): 57-74] bzw. desirability bias^[Tappin et al. (2017): The Heart Trumps the Head: Desirability Bias in Political Belief Revision. *Journal of Experimental Psychology: General* 146:1143-49])
+### Bestätigungsfehler (confirmation bias^[Mercier, Hugo and Sperber, Dan (2011): Why do humans reason? Arguments for an argumentative theory. *Behavioral and Brain Sciences* 34(2): 57-74] bzw. desirability bias^[Tappin et al. (2017): The Heart Trumps the Head: Desirability Bias in Political Belief Revision. *Journal of Experimental Psychology: General* 146:1143-49])
 Tendenz, solche Informationen zu suchen, zu interpretieren, zu bevorzugen und zu erinnern, die
   
   * die eigenen Überzeugungen bzw. 
@@ -472,12 +468,12 @@ Tendenz, solche Informationen zu suchen, zu interpretieren, zu bevorzugen und zu
 
 ## Handlungsoptionen
 
-::: {style="top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;"}
+::: {style="margin-top: 230px; margin-left: 300px; text-align: center; width:450px"}
 [Was tun]{style="color:#ff8100"}, um die [Polarisierung in die Streitfreude]{style="color:#ff8100"} zu überführen?
 :::
 
 ::: {.fragment .nonincremental}
-::: {style="top: 20; left: 0; margin: 10px; width: 450px"}
+::: {style="position: absolute; top: 70px; left: 0; margin: 10px; width: 450px"}
 ::: {.callout-note icon="false"}
 ### Politisches Projekt
 
@@ -489,7 +485,7 @@ Tendenz, solche Informationen zu suchen, zu interpretieren, zu bevorzugen und zu
 :::
 
 ::: {.fragment .nonincremental}
-::: {style="bottom: 0; right: 0; margin: 10px; width: 500px"}
+::: {style="position: absolute; bottom: 0; right: 0; margin: 10px; width: 500px"}
 ::: {.callout-note icon="false"}
 ### Individuelles Projekt: Tanz-Haltung einüben
 
@@ -506,66 +502,63 @@ Tendenz, solche Informationen zu suchen, zu interpretieren, zu bevorzugen und zu
 
 ## Verständnis, Wertschätzung und Gemeinsamkeiten mit Rassist\*innen? {auto-animate=true}
 
-::: {style="top: 50; left: 0; margin: 20px; width: 400px;"}
+::: {style="position: relative; margin: 10px; width: 800px;"}
+::: {style="position: absolute; top: 0px; left: 0; width: 400px;"}
 Demütige Haltung gegenüber Menschen, die verachtenswerte Meinungen haben?
 :::
 
 ::: {.fragment .fade-up}
-::: {style="top: 30px; left: 60%; width: 100px;"}
-Rassist\*innen 
-:::
-:::
-::: {.fragment .fade-up}
-::: {style="top: 75px; left: 75%; width: 150px;"}
-Kriegstreiber\*innen
-:::
-:::
-::: {.fragment .fade-up}
-::: {style="top: 100px; left: 55%; width: 100px;"}
-Religiöse Fundamentalist\*innen,...
+::: {style="position: absolute; top: 0; left: 65%; width: 100px;"}
+Rassist*innen
 :::
 :::
 
-## Verständnis, Wertschätzung und Gemeinsamkeiten mit Rassist\*innen? {auto-animate=true}
+::: {.fragment .fade-up}
+::: {style="position: absolute; top: 65px; left: 85%; width: 150px;"}
+Kriegstreiber*innen
+:::
+:::
 
-::: {style="top: 50; left: 0; margin: 20px; width: 400px;"}
-Demütige Haltung gegenüber Menschen, welche
+::: {.fragment .fade-up}
+::: {style="position: absolute; top: 100px; left: 60%; width: 100px;"}
+Religiöse Fundamentalist*innen,...
+:::
+:::
+:::
+
+## Verständnis, Wertschätzung und Gemeinsamkeiten mit Rassist\*innen?
+
+::: {.columns}
+::: {.column width="42%"}
+[Demütige Haltung gegenüber Menschen, die]{style="font-size:0.8em"}
 
   * Überzeugungen haben, von denen wir ganz-ganz fest überzeugt sind, dass sie falsch sind;
   * Werte und Prinzipien befürworten, von denen wir ganz-ganz fest überzeugt sind, dass sie nicht akzeptiert werden sollen.
 :::
-
-::: {.fragment .fade-up}
-::: {style="top: 0px; right: 0; margin: 0 20px 20px 0; width: 480px;"}
-::: {.nonincremental}
-::: {.callout-important icon="false"}
-### Gesprächsraum kreieren
+::: {.column width="3%"}
+:::
+::: {.column width="55%"}
+::: {.fragment .nonincremental}
+::: {.callout-caution icon="false"}
+### Gesprächsraum kreieren 
   * eigene Betroffenheit artikulieren
 :::
 :::
-:::
-:::
-
-::: {.fragment .fade-up}
-::: {style="top: 100px; right: 0; margin: 0 20px 20px 0; width: 480px;"}
-::: {.nonincremental}
-::: {.callout-important icon="false"}
+::: {.fragment .nonincremental}
+::: {.callout-caution icon="false"}
 ### Interpretation der Meinung des/r Gesprächspartner\*in:
   * Warum ist mein Gegenüber von etwas überzeugt, was ich für völlig falsch oder inakzeptabel halte?
 :::
 :::
-:::
-:::
-
-::: {.fragment .fade-up}
-::: {style="top: 250px; right: 0; margin: 0 20px 20px 0; width: 480px;"}
-::: {.callout-important icon="false" .nonincremental}
+::: {.fragment .nonincremental}
+::: {.callout-caution icon="false" .nonincremental}
 ### Suche nach Andockungspunkten, gegeben die Begründung der Position des Gegenübers:
  * Über welche Tatsachenbehauptungen sind wir uns uneinig?
   * Über welche Werthaltungen sind wir uns uneinig?
 :::
 :::
 :::
+::: 
 
 # Vielen Dank! {.nonincremental footer=false style="text-align: center"}
 
