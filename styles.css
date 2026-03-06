@@ -1,1 +1,5 @@
 /* css styles */
+/* Force all text to use sans-serif */
+body, h1, h2, h3, h4, h5, h6, p, ul, ol, li {
+  font-family: sans-serif !important;
+}

@@ -42,6 +42,7 @@ format:
     css: styles.css
     toc: true
     hyphenate: true
+    mainfont: sans-serif
 
 execute:
   freeze: auto

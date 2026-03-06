@@ -7,7 +7,8 @@ hyphenate: true
 
 ::: {.columns}
 ::: {.column width="50%"}
-Mit meiner Forschungs- sowie Politikberatungsarbeit möchte ich zu einer reflektierten Handlungsorientierung in Bezug auf Nachhaltige Entwicklung beitragen. 
+
+Mit meiner Forschungs- sowie Politik\-beratungsarbeit möchte ich zu einer reflektierten Handlungsorientierung in Bezug auf Nachhaltige Entwicklung beitragen. 
 
 Mein Fokus liegt darin, Argumente zu präzisieren, mit denen über die Ziele der Nachhaltigkeitstransformation und geeignete Wege dazu innerhalb der Wissenschaft, in politischen Prozessen und in der breiten Öffentlichkeit debattiert wird. 
 :::
@@ -77,7 +78,7 @@ Diese Aufgabe ist allerdings in folgenden Hinsichten voraussetzungsreich:
     kontrovers: unterschiedliche Bewertungstheorien führen zu unterschiedlichen Ergebnissen.
 
 
-**Gesellschaftliche Kontroversen** über Ziele und Strategien Nachhaltiger Entwicklung resultieren jedoch vielfach daraus, dass
+**Gesellschaftliche Kontroversen** über die Ziele und Strategien Nachhaltiger Entwicklung resultieren jedoch vielfach daraus, dass
 
 * die Konsequenzen aus dem Ressourcenverbrauch und Treibhausgasemissionen nicht eindeutig vorhergesagt werden können;
 * es unsicher ist, welchen Einfluss der Ressourcenverbrauch und Treibhausgase emittierende Aktivitäten auf die Lebensqualität von Menschen hat. 
