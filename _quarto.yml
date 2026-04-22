@@ -33,7 +33,12 @@ website:
         href: about.qmd
       - text: "Datenschutz"
         href: datenschutz.qmd
-
+  announcement: 
+    icon: broadcast-pin
+    dismissable: true
+    content: aktuell -- [Podcast-Gespräch zu Klima und Wirtschaft](https://open.spotify.com/episode/2uepKONX6zxi8So8CyE9tr?si=2hzfSyXSQeGMKbZ1ao544Q)
+    type: primary
+    position: below-navbar
 format:
   html:
     theme: 
