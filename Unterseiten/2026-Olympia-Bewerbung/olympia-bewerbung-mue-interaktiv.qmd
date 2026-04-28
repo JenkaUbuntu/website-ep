@@ -24,17 +24,17 @@ format:
 
 [**Schritt 1: Identifikation von Pro- und Contra-Gründen**](#schritt-1-identifikation-von-pro--und-contra-gründen)
 
-* [Öffentlich angeführte Pro- und Contra-Gesichtspunkte]()
-* [Sortierung von Pro-Gesichtspunkten zu Pro-Gründen]()
-  * [Ergebnis: Gründe für die Ausrichtung]()
-* [Sortierung von Contra-Gesichtspunkten zu Contra-Gründen]()
-  * [Ergebnis: Gründe gegen die Ausrichtung]()
+* [Öffentlich angeführte Pro- und Contra-Gesichtspunkte](#öffentlich-angeführte-pro--und-contra-gesichtspunkte)
+* [Sortierung von Pro-Gesichtspunkten zu Pro-Gründen](#sortierung-der-pro-gesichtspunkte)
+  * [Ergebnis: Gründe für die Ausrichtung](#resultierende-pro-gesichtspunkte)
+* [Sortierung von Contra-Gesichtspunkten zu Contra-Gründen](#sortierung-der-contra-gesichtspunkte)
+  * [Ergebnis: Gründe gegen die Ausrichtung](#argumentative-struktur-der-contra-gesichtspunkte)
 
 [**Schritt 2: Interpretation der Kontroverse über die Ausrichtung**](#schritt-2-interpretation-der-kontroverse)
 
 * [Das Argumentations-Puzzle angesichts der Gründe für und gegen die Ausrichtung](#graphik-der-dialektik-der-pro-argumente)
 
-[**Schritt 3: Argumentrekonstruktion**](#schritt-3-argument(re-konstruktion))
+[**Schritt 3: Argumentrekonstruktion**](#schritt-3-rekonstruktion-von-argumenten)
  
 * [3.1: Rekonstruktion von Pro-Argumenten](#schritt-3.1-pro-argumente)
   * [Ergebnis: Dialektik der Pro-Argumente](#graphik-der-dialektik-der-pro-argumente)
@@ -2033,7 +2033,7 @@ Wie sieht ein Argument aus, das
 :::
 
 
-# Schritt 3: Argument(re-)konstruktion
+# Schritt 3: Rekonstruktion von Argumenten
 
 # Schritt 3.1: Pro-Argumente
 
