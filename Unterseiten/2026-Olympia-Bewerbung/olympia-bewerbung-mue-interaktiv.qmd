@@ -18,7 +18,88 @@ format:
         reference-location: document
 ---
 
-## Struktur {.smaller}
+## Gliederung {.smaller}
+
+::: {.nonincremental}
+::: {.columns}
+
+::: {.column width="59%"}
+::: {.callout-note icon="false"}
+### [Schritt 1: Identifikation von Pro- und Contra-Gründen](#schritt-1-identifikation-von-pro--und-contra-gründen)
+
+* [Öffentlich angeführte Pro- und Contra-Gesichtspunkte](#öffentlich-angeführte-pro--und-contra-gesichtspunkte)
+* [Sortierung von Pro-Gesichtspunkten zu Pro-Gründen](#sortierung-der-pro-gesichtspunkte)
+  * [Ergebnis: Gründe für die Ausrichtung](#resultierende-pro-gesichtspunkte)
+* [Sortierung von Contra-Gesichtspunkten zu Contra-Gründen](#sortierung-der-contra-gesichtspunkte)
+  * [Ergebnis: Gründe gegen die Ausrichtung](#argumentative-struktur-der-contra-gesichtspunkte)
+:::
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="39%"}
+::: {.callout-note icon="false"}
+### [Schritt 2: Interpretation der Kontroverse über die Ausrichtung](#schritt-2-interpretation-der-kontroverse)
+
+* [Das Argumentations-Puzzle angesichts der Gründe für und gegen die Ausrichtung](#graphik-der-dialektik-der-pro-argumente)
+:::
+:::
+:::
+
+::: {.columns}
+
+::: {.column width="49%"}
+::: {.callout-note icon="false"}
+### [Schritt 3: Argumentrekonstruktion](#schritt-3-rekonstruktion-von-argumenten)
+ 
+* [3.1: Rekonstruktion von Pro-Argumenten](#schritt-3.1-pro-argumente)
+  * [Ergebnis: Dialektik der Pro-Argumente](#graphik-der-dialektik-der-pro-argumente)
+* [3.2: Rekonstruktion von Kontra-Argumenten](#schritt-3.2-contra-argumentation)
+  * [Ergebnis: Dialektik der Kontra-Argumente](#graphik-der-dialektik-der-contra-argumente)
+:::
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="49%"}
+::: {.callout-note icon="false"}
+### [Schritt 4: Bewertung der rekonstruierten Argumente](#schritt-4-bewertung-der-rekonstruierten-argumente)
+  
+* [Erwartungswert-Argumente](#erwartunswert-argumente-(a1--a4))
+* [Argument der Nachteile-Zurückweisung](#nachteile-debunking-(a2))
+* [Argumente unter Unsicherheit](#kontroversen-unter-ungewissheit)
+
+:::
+:::
+:::
+
+::: {.columns}
+
+::: {.column width="65%"}
+::: {.callout-note icon="false"}
+### [Fazit:](#fazit)
+* Lehre aus der Argumentanalyse
+:::
+:::
+
+::: {.column width="1%"}
+:::
+
+::: {.column width="34%"}
+::: {.callout-note icon="false"}
+### [Anhang:](#argumentrekonstruktionen)
+* Argumentrekonstruktionen
+
+:::
+:::
+:::
+
+:::
+
+
+## Struktur {.smaller visibility="hidden"}
 
 ::: {.nonincremental}
 
