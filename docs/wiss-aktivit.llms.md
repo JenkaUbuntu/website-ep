@@ -1,0 +1,277 @@
+# Wissenschaftliche Geschäftigkeit[^1]
+
+chronologische Auflistung
+
+# Publikationen
+
+> **NOTE:**
+>
+> Eugen Pissarskoi (2014) [Gesellschaftliche Wohlfahrt und Klimawandel](https://www.oekom.de/buch/gesellschaftliche-wohlfahrt-und-kimawandel-9783865816856), oekom verlag, München.
+>
+> v. Gleich, Arnim, Pade, Christian, Petschow, Ulrich, Pissarskoi, Eugen (2010) [Potentials and Trends in Biomimetics](https://link.springer.com/book/10.1007/978-3-642-05246-0), Springer, Berlin and Heidelberg.
+
+> **NOTE:**
+>
+> Ulrich Petschow und Eugen Pissarskoi, (2025), [Die vorsorge­orien­tier­te Postwachstumsposition: Von einer Kultur des Wachstums zu einer Kultur der Nachhaltigkeit](https://www.metropolis-verlag.de/Wirtschaftswachstum-zwischen-Fortschritt%2C-Abhaengigkeit-und-Zwang/1585/book.do), in: Tobias Vogel (Hg.), Wirtschaftswachstum zwischen Fort­schritt, Abhängigkeit und Zwang, Metropolis Verlag: 233-264. [Text des Aufsatzes](https://nextclouds.webo.hosting/s/4KboqWmCXEW5iMM)
+>
+> Eugen Pissarskoi und Leiyo Singo (2024) [Neglected Components in Dominant Accounts of a Good Life? – Disagreements among Maasai Pastoralists](https://doi.org/10.1007/s12115-024-00988-4), Society (61): 534-546.
+>
+> Charlotte Unruh, Susanne Hahn und Eugen Pissarskoi (2023) [Philosophical Methods and Being Public Philosophers](https://www.oxfordpublicphilosophy.com/blog/ppt-making-philosophy-t9km2), Blog Oxford Public Philosophy.
+>
+> Matthias Kiesselbach und Eugen Pissarskoi (2023) [Lowering the consumption of animal products without sacrificing consumer freedom – a pragmatic proposal](https://doi.org/10.1080/21550085.2021.1961201), Ethics, Policy & Environment 26(1): 34-52.
+>
+> Eugen Pissarskoi (2022a) [Doppelt ungerecht. Verteilung natürlicher Ressourcen](https://www.oekom.de/ausgabe/zukunftsfaehige-chemie-80924), politische ökologie 171: 26-31. [Text des Aufsatzes](https://nextclouds.webo.hosting/s/wwBeyiRYitSJc2W)
+>
+> Eugen Pissarskoi (2022b) [Die philosophisch anspruchsvolle Hinterlassenschaft des Berichtes „Grenzen des Wachstums“](https://www.praefaktisch.de/grenzen-des-wachstums/die-philosophisch-anspruchsvolle-hinterlassenschaft-des-berichtes-grenzen-des-wachstums/), Blog [praefaktisch](https://praefaktisch.de/).
+>
+> Stefan Ouma, Eugen Pissarskoi, Kerstin Schopp und Leiyo Singo (2022) [Beyond Pro­duc­tivity: Reimagining Futures of Agriculture and Bioeconomy. Workshop Report](https://roape.net/2022/02/17/beyond-productivity-reimagining-futures-of-agriculture-and-bioeconomy/), publiziert auf der Blog-Seite der Zeitschrift „Review of African Political Economy“.
+>
+> Eugen Pissarskoi, Stefan Ouma, Kerstin Schopp, Leiyo Singo & Thomas Potthast (2020) [Welche Bio_Ökonomie für welche Zukunft? Zur Repolitisierung eines Diskurses im Globalen Norden durch Einsichten aus Tansania](https://doi.org/10.3224/peripherie.v40i3-4.03), PERIPHERIE Nr. 159/160(40): 258-283.
+>
+> Ulrich Petschow, Nils aus dem Moore, David Hofmann, Eugen Pissarskoi, Steffen Lange (2020) [Eckpunkte und Positionen einer Vorsorgeorientierten Postwachs­tums­ökonomie. Vom Ende des wachsenden Wohlstandsmodells](https://doi.org/10.14361/9783839451809), in: Bastian Lange, Martina Hülz, Benedikt Schmid, Christian Schulz (Hg.): Postwachs­tums­geographien. Raumbezüge diverser und alternativer Ökonomien, transcript, Bielefeld, 343-368.
+>
+> Eugen Pissarskoi (2020) [Radikaler versus behutsamer Klimaschutz: warum Behutsamkeit angesichts der Risiken ungerecht wäre](https://www.praefaktisch.de/klimakrise/radikaler-versus-behutsamer-klimaschutz-warum-behutsamkeit-angesichts-der-risiken-ungerecht-waere/), Blog [praefaktisch](https://praefaktisch.de/).
+>
+> Eugen Pissarskoi (2019) [Was eine moderne Klimaökonomik berücksichtigen sollte](https://makronom.de/economists-for-future-was-eine-moderne-klimaoekonomik-beruecksichtigen-sollte-33199), Blog Makronom. [Link zur frei zugänglichen Version](https://www.exploring-economics.org/de/entdecken/moderne-klimaoekonomik/)
+>
+> Eugen Pissarskoi (2018a) [The Controllability Precautionary Principle: Justification of a climate policy goal under uncertainty](https://doi.org/10.1093/oso/9780198813248.003.0011), in: Ravi Kanbur and Henry Shue (eds): Climate Justice: Integrating Economics and Philosophy, Oxford University Press, 188-208.
+>
+> Eugen Pissarskoi (2018b) Das Problem der epistemisch-evaluativen Abwägung bei Entscheidungen unter Unsicherheit, in: U. Müller et al. (eds): Abwägen und Anwenden. Zum ‘guten’ Umgang mit ethischen Normen und Werten. Narr Francke Attempto Tübingen, 55-84. [Text des Aufsatzes](https://nextclouds.webo.hosting/s/iGea6BSAzSE75Ts)
+>
+> Eugen Pissarskoi (2017) Hat Natur Eigenwert? Und wenn ja: Liefert das gute Gründe für den Naturschutz? in: Monika C. M. Müller (ed.): 81/17: [Natürlich Natur! - Aber was ist Natur? Interdisziplinäre Deutungsversuche und Handlungsoptionen](https://www.loccum.de/publikationen/9783817281176/). Loccumer Protokoll, Volume 81/17, Rehburg-Loccum. [Text des Aufsatzes](https://nextclouds.webo.hosting/s/JYiyJoWfaeSzcMp)
+>
+> Eugen Pissarskoi (2016a) [Die Bürde des Möglichen. Zum verantwortlichen Umgang mit Unsicherheiten in den Energieszenarien](https://www.transcript-verlag.de/978-3-8376-3171-5/die-energiewende-und-ihre-modelle/), in: Christian Dieckhoff und Anna Leuschner (eds.): Wissen um die Möglichkeiten. Wie Modelle und Szenarien zur Energiewende beitragen, transcript, Bielefeld. [Text des Aufsatzes](https://nextclouds.webo.hosting/s/pLXx9oNd2eHMBAL)
+>
+> Eugen Pissarskoi (2016b) [Ressourcen](https://link.springer.com/chapter/10.1007/978-3-476-05345-9_71), in: Corinna Mieth, Anna Goppel und Christian Neuhäuser (eds.): Handbuch Gerechtigkeit, Metzler, Stuttgart/Weimar, 434-438.
+>
+> Eugen Pissarskoi (2016c) [Integrated Assessment Models: Kompass in einem magnetisiertem Umfeld?](https://doi.org/10.14512/OEW310439), Ökologisches Wirtschaften 4/2016, 39-44.
+>
+> Johannes Rupp und Eugen Pissarskoi (2015) [Klimaanpassung im Stadtquartier](https://doi.org/10.14512/OEW300218), Ökologisches Wirtschaften 2/2015, 18-19.
+>
+> Jesko Hirschfeld, Eugen Pissarskoi und Ulrich Petschow (eds.) (2015) [Ökonomie des Klimawandels. Schwerpunktsthema](https://doi.org/10.14512/OEW300114), Ökologisches Wirtschaften 1/2015, 14-33.
+>
+> Eugen Pissarskoi (2014) [Rezension des Buches „Ethik des Klimawandels“ von Dominic Roser und Christian Seidl](https://www.jstor.org/stable/24587519), Zeitschrift für philosophische Forschung 68(3), 423-426.
+>
+> Eugen Pissarskoi (2012) Klimaschutz aus Sorge um die Benachteiligten, in: F. Ekardt (ed.) [Klimagerechtigkeit](https://www.metropolis-verlag.de/Klimagerechtigkeit/901/book.do), Metropolis-Verlag, Marburg, 105-140.
+>
+> Ulrich Petschow und Eugen Pissarskoi (eds.), 2012, [Zwischen Green Economy und Postwachstum. Schwerpunkt](https://doi.org/10.14512/oew.v27i4.1236), Ökologisches Wirtschaften 4/2012, 14-29.
+>
+> Christian Neuhäuser und Eugen Pissarskoi, 2011, [Umweltgerechtigkeit – Von der Ver­antwortung in Politik und Unternehmen. Schwerpunkt](https://doi.org/10.14512/oew.v26i1.1101), Ökologisches Wirtschaften 1/2011, 14-29.
+>
+> Eugen Pissarskoi und Birgit Soete, 2010, [Zwischen grünem Wachstum und radikalem Wandel](https://doi.org/10.14512/oew.v25i3.1065), Ökologisches Wirtschaften 3/2010, 15-17.
+>
+> Ulrich Petschow und Eugen Pissarskoi, 2010, [Wie wollen wir in der Zukunft leben?](https://doi.org/10.14512/oew.v25i2.695), Ökologisches Wirtschaften 2/2010, 19-20.
+
+> **NOTE:**
+>
+> Matthias Fersterer, janas gebauer und Eugen Pissarskoi (2025) [Unleashing Fantasy for Transformation. Mit Spekulativer Fiktion am Utopischen arbeiten](https://www.shop-hirnkost.de/produkt/das-science-fiction-jahr-2025/). In: Melanie Wylutzki & Hardy Kettlitz (Hrsg.): Das Science Fiction Jahr 2025. Hirnkost, Berlin, 37-48.
+>
+> Matthias Kiesselbach and Eugen Pissarskoi (2021) [Weniger Fleisch, mehr Geld](https://www.nd-aktuell.de/artikel/1157244.grundeinkommen-weniger-fleisch-mehr-geld.llms.md). Kolumne in der Tageszeitung „Neues Deutschland“, 04.11.2021.
+>
+> Matthias Kiesselbach und Eugen Pissarskoi (2021) [How to lower meat consumption without backlash](https://medium.com/@matthias.kiesselbach/meat-backlash-94290f6eec8f), Blogbeitrag auf Medium.com.
+>
+> Eugen Pissarskoi (2020) [Kontroverse über gesellschaftliche Grundziele nötig](https://www.wissenschaftsjahr.de/2020-21/aktuelles-aus-der-biooekonomie/koepfe-des-wandels/kontroverse-ueber-gesellschaftliche-grundziele-noetig.llms.md), Beitrag für die Initiative Wissenschaftsjahr 2020/21 Bioökonomie des BMBF.
+>
+> Eugen Pissarskoi (2020) Beiträge zum Podcast [Mission Energiewende \| Klima und Ethik](https://detektor.fm/gesellschaft/mission-energiewende-klima-und-ethik) (produziert von Eva-Josephine Weber und Christian Eichler) auf detektor.fm.
+>
+> Eugen Pissarskoi, 2019, [Geschäftsmodelle auf CO_2-Emissionen prüfen](https://www.choices.de/geschaeftsmodelle-auf-co2-emissionen-pruefen-thema-0719) Interview in [Choices](https://www.choices.de/)
+>
+> Bernd Siebenhüner, Maren Kropfeld, Vegard Beyer und Eugen Pissarskoi (2019) [Scharlinger Thesen zur aktuellen Debatte im Klimaschutz](https://doi.org/10.14512/OEW340410). Ökologisches Wirtschaften 4/2019, 10.
+>
+> Eugen Pissarskoi (2018) [Gerechte Rache? Reflexionen zum Film ‚Wild Tales‘](http://dx.doi.org/10.15496/publikation-25740). In: Cordula Brand und Simon Meisch (Hrsg.): Ethik in Serie. Festschrift für Uta Müller. Tübingen Library Publishing, 157-168.
+>
+> Eugen Pissarskoi (2015) [Postwachstum: gesellschaftliches Engagement für eine gerechte und lebenswerte Gesellschaft](http://www.b-b-e.de/fileadmin/inhalte/aktuelles/2015/02/nl03_gastbeitrag_pissarskoi.pdf). In: Newsletter für Engagement und Partizipation in Deutschland 3/2015, herausgegeben vom Bundesnetzwerk Bürgerschaftliches Engagement.
+>
+> Eugen Pissarskoi (2015) [Gutes Leben und Gerechtigkeit in einer Postwachstums­gesellschaft](https://publixphere.net/i/publixphere-de/proposal/2101-Gutes_Leben_und_Gerechtigkeit_in_einer_P). In: Publixphere.net
+>
+> Eugen Pissarskoi (2012) [Gibt es ein gutes Leben jenseits des Wachstums?](http://www.wiwo.de/technologie/green/wirtschaft-gibt-es-ein-gutes-leben-jenseits-des-wachstums/13544850.llms.md) Gastkolumne auf dem Green-Portal der Wirtschaftswoche.
+>
+> Ulrich Petschow und Eugen Pissarskoi, 2010, Strategien im Umgang mit dem Klimawandel, Neue Gesellschaft / Frankfurter Hefte, 5/2010: 47-49.
+
+> **NOTE:**
+>
+> Eugen Pissarskoi und Michael Maes (2024) [Twin of Online Social Networks – Impact Assessment and Ethical Guidance Handbook](https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e50a9b9303&appId=PPGMS) Deliverable 7.2 for the project „TWON – TWin of Online social Networks“, funded by the European Commission.
+>
+> Ulrich Petschow, Nils aus dem Moore, Nils, Eugen Pissarskoi, Thorben Korfhage, Steffen Lange, Annekathrin Schoofs, David Hofmann (2020) [Social Well-Being Within Planetary Boundaries: the Precautionary Post-Growth Approach](https://www.umweltbundesamt.de/publikationen/social-well-being-within-planetary-boundaries-the) Partial Report for the “Approaches to Resource Conservation in the Context of Post-Growth Concepts” project. UBA-Texte 234/2020, Dessau \* englische Übersetzung der Publikation Petschow et al. (2018)
+>
+> Ulrich Petschow, Nils aus dem Moore, Eugen Pissarskoi, Bettina Bahn-Walkowiak, Hermann E. Ott, David Hofmann, Steffen Lange, Thorben Korfhage, Annekathrin Schoofs, Henning Wilts, Benjamin Best, Justus Benke, Johannes Buhl, Laura Galinski, Rainer Lucas, Carina Koop, Stefan Werland, Holger Berg (2020) [Ansätze zur Ressourcenschonung im Kontext von Postwachstumskonzepten](https://www.umweltbundesamt.de/sites/default/files/medien/479/publikationen/texte_98-2020_powares_endbericht.pdf) UBA-Texte 98/2020, Dessau.
+>
+> Ulrich Petschow, Nils aus dem Moore, Nils, Eugen Pissarskoi, Thorben Korfhage, Steffen Lange, Annekathrin Schoofs, David Hofmann (2018) [Gesellschaftliches Wohlergehen innerhalb planetarer Grenzen. Der Ansatz einer vorsorgeorientierten Postwachstumsposition](https://www.umweltbundesamt.de/publikationen/vorsorgeorientierte-postwachstumsposition) UBA-Texte 89/2018, Dessau.
+>
+> Eugen Pissarskoi, Thomas Vogelpohl, Tanja Schäfer (2018) [Diskurse zum guten Leben: Analyse ihrer Begriffe guten Lebens, ihrer Akteure und damit verbundener politischer Strategien](https://www.umweltbundesamt.de/publikationen/vorsorgeorientierte-postwachstumsposition) UBA-Texte 17/2018, Dessau.
+>
+> Eugen Pissarskoi, Thomas Vogelpohl, Stephan Lessenich, Valentin Tappeser, Daniel Weiß (2018) [Was kann Nachhaltigkeitspolitik vom guten Leben lernen?](https://www.umweltbundesamt.de/sites/default/files/medien/1410/publikationen/2018-02-23_texte_18-2018_nachhaltigkeit-gutes-leben.pdf) UBA-Texte 18/2018, Dessau.
+>
+> Wilfried Konrad, Esther Hoffmann, Eugen Pissarskoi, Dirk Scheer und Anna Trefzer (2017) [Das Smart Grid im Privathaushalt. Zur Digitalisierung des Energiesystems aus Verbrauchersicht](https://www.ioew.de/publikation/innosmart_partizipative_gestaltung_von_verbrauchernahen_innovationen_fuer_smart_grids). Inno-Smart Arbeitsbericht 06, Berlin/Stuttgart. [dauerhafter Link zum Bericht](https://nextclouds.webo.hosting/s/XCTM98dRmiXgJXR)
+>
+> Franziska Mohaupt, Wilfried Konrad, Frieder Schnabel, Esther Hoffmann, Manuel Kern, Eugen Pissarskoi, Dirk Scheer und Michael Schubert (2016) [InnoSmart – Partizipative Gestaltung von verbrauchernahen Innovationen für Smart Grids](https://www.ioew.de/publikation/innosmart_partizipative_gestaltung_von_verbrauchernahen_innovationen_fuer_smart_grids). Schlussbericht zum Vorhaben im Rahmen des Schwerpunktprogramms “Umwelt- und gesellschaftsverträgliche Transformation des Energiesystems” der Sozial-ökologische Forschung. [dauerhafter Link zum Bericht](https://publica-rest.fraunhofer.de/server/api/core/bitstreams/5d8d05b0-ad27-489b-8363-4e59231764c2/content)
+>
+> Martina Schäfer, Carsten Mann, Jana Rückert-John, Melanie Jaeger-Erben, Ulrich Petschow, Eugen Pissarskoi, Thomas Vogelpohl (2015) [Umwelt- und Naturschutzpolitik – Konzepte und zukünftige Herausforderungen](https://www.umweltbundesamt.de/sites/default/files/medien/378/publikationen/texte_94_2015_umwelt-_und_naturschutzpolitik_als_gesellschaftspolitik_0.pdf), UBA-Texte 94/2015, Dessau.
+>
+> Jesko Hirschfeld, Eugen Pissarskoi, Sven Schulze, Jana Stöver (2015) [Kosten des Kli­ma­wandels und der Anpassung an den Klimawandel aus vier Perspektiven](https://www.fona.de/medien/pdf/Hintergrundpapier_Forum_Kosten.pdf?m=1548322391&) Fact sheet, erstellt für das erste Forum „Klimaökonomie“.
+>
+> Jakob Wachsmuth, Ulrich Petschow, Urte Brand, Ulrike Fettke, Eugen Pissarskoi, Gerhard Fuchs, Sascha Dickel, Mariane Kljajic (2015) [Richtungsgebende Einflussfaktoren im Spannungsfeld von zentralen vs. dezentralen Orientierungen bei der Energiewende und Ansatzpunkte für ein Leitkonzept Resilienz](https://www.ioew.de/publikation/richtungsgebende_einflussfaktoren_im_spannungsfeld_von_zentralen_vs_dezentralen_orientierungen_bei), RESYSTRA Discussion paper Nr. 1, Bremen und Berlin. [dauerhafter Link](https://nextclouds.webo.hosting/s/HZKS6WbXmBndT3m)
+>
+> Johannes Rupp, Eugen Pissarskoi, Bernd Hirschl und Thomas Vogelpohl (2015) [Deutschland im Klimawandel: Anpassungskapazität und Wege in eine klimarobuste Gesellschaft 2050](https://www.umweltbundesamt.de/sites/default/files/medien/656/dokumente/ioew_dik_endb_finale_fassung.pdf), Endbericht. Berlin. Forschungsvorhaben für das Umweltbundesamt, [FKZ 3711 41 102](https://www.umweltbundesamt.de/themen/klima-energie/klimafolgen-anpassung/werkzeuge-der-anpassung/projektkatalog/deutschland-im-klimawandel-anpassungskapazitaet).
+>
+> Hans Diefenbacher, Marcus Düwell, Jos Philips, Klaus Leggewie, Bernd Sommer, Ulrich Petschow, Eugen Pissarskoi und Roland Zieschank (2014) [Konzepte gesellschaftlichen Wohlstands und ökologische Gerechtigkeit](http://www.umweltbundesamt.de/publikationen/konzepte-gesellschaftlichen-wohlstands-oekologische) UBA-Texte 45/2014, Dessau.
+>
+> Hans Diefenbacher, Ulrich Petschow, Eugen Pissarskoi, Dorothee Rodenhäuser, Roland Zieschank (2011) Grüne Wirtschaftspolitik und regionaler Wohlfahrtsindex für Schleswig-Holstein. Thesen und Empfehlungen. Forschungsbericht.
+>
+> Arnim von Gleich, Christian Pade, Ulrich Petschow und Eugen Pissarskoi (2007) [Bionik. Aktuelle Trends und zukünftige Potentiale](https://www.ioew.de/fileadmin/user_upload/DOKUMENTE/Publikationen/2007/Bionik_Aktuelle_Trends_und_zukünftige_Potenziale.pdf). Endbericht des Forschungsprojektes „Potenziale und Trends der Bionik”. Berlin/Bremen.
+
+# Projekte
+
+> **NOTE:**
+>
+> [BATATA - Bioökonomie als gesellschaftlicher Wandel, Modul2 (2): Whose Bioeconomy? Tracing Visions of Socio-ecological Transformation and their Ethical Deliberation in Tanzania](http://batata-bioeconomy.de/), Oktober 2019-September 2022, gefördert durch das Bundesministerium für Bildung und Forschung (BMBF), Bonn. Projektpartner:
+>
+> - [Internationales Zentrum für Ethik in den Wissenschaften, Universität Tübingen](https://uni-tuebingen.de/de/166338)
+> - [Professur für Wirtschaftsgeographie, Universität Bayreuth](https://www.wigeo.uni-bayreuth.de/en/index.llms.md)
+>
+> Herausforderungen für Nachhaltigkeitsstrategien, März 2015 – Dezember 2017, im Auftrag des Umweltbundesamtes (UBA), Dessau.
+
+> **NOTE:**
+>
+> [TWON – TWin of Online Social Networks](https://www.twon-project.eu/), April 2023 – März 2026 (Projektlaufzeit), November 2023 – Oktober 2024 (Laufzeit des von mir bearbeiteten Arbeitspaketes), gefördert durch die [Europäische Kommission](https://cordis.europa.eu/project/id/101095095)
+>
+> Ethische Abwägung in Recht, Medizinethik und normativen Fragen der Bildung, Juni 2017 – Mai 2019, gefördert aus dem Zukunftskonzept/Exzellenzinitiative der Universität Tübingen
+>
+> CASCADE – Co-Resilience of Natural and Social Systems in a Global Biodiversity Hotspot, August 2017-Mai 2018, gefördert durch das BMBF, Bonn.
+>
+> PowaRes – Ansätze zur Ressourcenschonung im Kontext von Postwachstumskonzepten, Dezember 2015 – Dezember 2018, im Auftrag des Umweltbundesamtes (UBA), Dessau.
+>
+> Wissenschaftliche Unterstützungsleistung zum Thema: Umwelt- und Naturschutzpolitik als Gesellschaftspolitik – Konzepte und zukünftige Herausforderungen, Dezember 2013 – März 2015, im Auftrag des Bundesministeriums für Umwelt, Berlin.
+>
+> Resystra – Resiliente Gestaltung des Energiesystems am Beispiel der Transformationsoptionen „EE-Methan-System“ und „Regionale Selbstversorgung“, Juni 2013 – Mai 2016, gefördert durch das BMBF, Bonn.
+>
+> InnoSmart – Partizipative Gestaltung von verbrauchernahen Innovationen für Smart Grids, September 2013 – August 2016, gefördert durch das BMBF, Bonn.
+>
+> Postwachstumspioniere – Kommunikationsprojekt zur Erweiterung des Postwachstumsdiskurses um die Rolle mittelständischer Unternehmen, September 2013 – März 2015, gefördert durch die Deutsche Bundesstiftung Umwelt.
+>
+> DiK – Deutschland im Klimawandel: Anpassungskapazität und Wege in eine klimarobuste Gesellschaft 2050, Laufzeit: Oktober 2011 - Dezember 2014, im Auftrag des Umweltbundesamtes (UBA), Dessau.
+>
+> EconCCadapt – Ökonomie der Anpassung an den Klimawandel: Integration ökonomischer Modellierungen und institutioneller Analyse auf verschiedenen Skalenebenen, Laufzeit: Oktober 2011 - September 2014, gefördert durch das BMBF, Bonn
+>
+> Nutzung der aktuellen Debatten zu gesellschaftlichem Wohlstand für die ökologische Gerechtigkeit und Schlussfolgerungen für die politische und gesamtgesellschaftliche Transformation, Laufzeit: September 2011 - November 2012, im Auftrag des UBA.
+>
+> Grünes BIP – Grüne Wirtschaftspolitik für Schleswig-Holstein, Laufzeit: Januar 2011 - Juni 2011, im Auftrag der Landtagsfraktion Bündnis90/Grüne, Schleswig-Holstein.
+>
+> Selbstorganisierende adaptive Systeme. Analyse von Chancen und Risiken sowie der Gestaltungsansätze neuer IKT-Ansätze, Laufzeit: März 2008 – Juni 2009, gefördert durch das BMBF.
+>
+> Potenziale und Trends der Bionik, Laufzeit: November 2005 – Juli 2007, gefördert durch das BMBF
+
+# Kommunikationsaktivitäten
+
+> **NOTE:**
+>
+> Runder Tisch „Methoden Praktischer Ethik“ auf der XI. Tagung für Praktische Philosophie, Universität Passau: 20.09.2024
+>
+> [Exploring New Methods for Applied Ethics](https://uni-tuebingen.de/de/170463), Summer School at the University of Tübingen, Part 2, Hybrid-Meeting: 30.06-03.07.2021
+>
+> [Was können Ethiker\*innen, was andere nicht können?](https://uni-tuebingen.de/de/207267) Gemeinsamer Workshop des [IZEW der Universität Tübingen](https://uni-tuebingen.de/de/8682) und des [Münchner Kollegs für Ethik in der Praxis](https://www.zepp.uni-muenchen.de/veranstaltungenlehre/archiv/mkep/index.llms.md) zur „Ethik in der Praxis”: 21-22.01.2021
+>
+> [Exploring New Methods for Applied Ethics](https://uni-tuebingen.de/de/170463), Summer School at the University of Tübingen, Part 1, online: 02-04.07.2020
+>
+> Alternativen denken. Wirtschaften für Wohlstand und Lebensqualität. Ohne Wachstum – oder mit? Abschlusskonferenz des Forschungsprojektes „Postwachstumspioniere“, Heinrich-Böll-Stiftung, Berlin: 04.03.2015
+>
+> Zukunftsfähig wirtschaften: Rahmenbedingungen für eine Wirtschaft zwischen Wachstum und Nachhaltigkeit. Stakeholder Workshop in der Friedrich-Ebert-Stiftung, Berlin: 11.11.2014
+>
+> Nicht wachsen oder anders wachsen? Optionen für Unternehmen in einer Postwachstumsgesellschaft. Öffentliche Konferenz in der Heinrich-Böll-Stiftung, Berlin: 05.12.2013
+>
+> Was bewegt? – Von sozial-ökologischen Experimenten in den Alltag. Jahreskonferenz des Instituts für ökologische Wirtschaftsforschung und der Vereinigung für ökologische Wirtschaftsforschung (VÖW), Berlin: 08-09.03.2012
+>
+> Transformationen – Auswege aus der Wachstums- und der Klimakrise. Jahreskonferenz des Instituts für ökologische Wirtschaftsforschung und der Vereinigung für ökologische Wirtschaftsforschung (VÖW), Berlin: 24.09.2010
+>
+> Krisen. Konferenz der Promotionsstipendiat\*innen der Hans-Böckler-Stiftung, Springe: 25-28.05.2010
+>
+> Workshop des Wirtschaftsethik-Netzwerkes “Berliner Forum” an der Freie Universität Berlin: 13-14.11.2009
+
+> **NOTE:**
+>
+> KONSTRUKTIV STREITEN: EINE UTOPIE ZWISCHEN SOCIAL MEDIA, POLARISIERUNG UND RECHTSPOPULISMUS – Keynote auf der [Fachtagung “Miteinander reden, aber wie?“](https://crisp-berlin.org/news/new/fachtagung-miteinander-reden-aber-wie), organisiert von [Crisp e.V.](https://crisp-berlin.org/de/ueber-uns), Berlin: 05.12.2025  
+> [Link zur Präsentation](Unterseiten/crisp-vortrag.llms.md) (Navigation in der Präsentation mit Pfeil-Tasten bzw. Wisch-Gesten)
+>
+> CAN TWO WRONGS MAKE A RIGHT?, Workshop zu Ethik von Twins of Online Social Networks auf dem European Leadership Workshop 2024, organisiert von Dialogue Perspecitves e.V., Karlsruhe: 18.09.2024
+>
+> ETHICS OF TWONS: TWINS OF ONLINE SOCIAL NETWORKS, Vortrag beim Forum on Philosophy, Engineering, and Technology 2024, Karlsruhe Institut für Technologie, Karlsruhe: 18.09.2024
+>
+> DE-GROWTH VERSUS GREEN-GROWTH. ARGUMENTE IM LICHTE EMPIRISCHER UNSICHERHEITEN UND TRANSFORMATIVER ERFAHRUNGEN, Vortrag auf Einladung von [Krino – philosophische Gesellschaft Berns](https://www.krino.ch/), Universität Bern: 23.03.2023
+>
+> ZUR IRRELEVANZ VON VORSTELLUNGEN GUTEN LEBENS BEI DER BEGRÜNDUNG VON STRATEGIEN NACHHALTIGER ENTWICKLUNG, Vortrag in der Sektion “Angewandte Ethik”, 11. Kongress der Gesellschaft für Analytische Philosophie, Humboldt Universität Berlin: 14.09.2022
+>
+> LESSONS FROM AFRICAN PASTORALISTS ABOUT CONVIVIALITY AND AUTONOMY, Konferenz der Vereinigung für Afrikawissenschaften in Deutschland 2022, Freiburg in Breisgau: 10.06.2022
+>
+> KONFLIKTE UM GUTES LEBEN IN DER BIOÖKONOMIE-POLITIK: KÖNNEN GRÜNDE DORT ETWAS AUSRICHTEN?, VIII. Tagung für Praktische Philosophie, Universität Salzburg: 01.10.2021
+>
+> EXPECTED UTILITY THEORY AND PROCESS-RELATED PROPERTIES SUCH AS RESILIENCE AND CONTROLLABILITY: WHY THEY COMPLEMENT EACH OTHER, presentation at the Workshop “Disastres, Risk, and Resilience” at the MANCEPT 2021 Conference, Manchester University (online): 09.09.2021
+>
+> SOLL ICH DIEJENIGEN, DIE IHREN IDEALEN KLIMASCHUTZPFLICHTEN NICHT NACHKOMMEN, DAZU DRÄNGEN, DIESEN PFLICHTEN NACHZUKOMMEN? Vortrag in der Sektion “Angewandte Ethik”, XXV Kongress der Deutschen Gesellschaft für Philosophie (online): 07.09.2021
+>
+> MORAL DISAGREEMENT BETWEEN A DEGGROWTH-AND A GREEN-GROWTH-BIOECONOMY, presentation at the Online-Conference „Ethics in a Global Environment“, organized by The Centre for the Study of Global Ethics, Birmingham University: 27.05.2021
+>
+> WIE VIEL ETHIK STECKT IN BIOÖKONOMIE? Virtueller Science Espresso auf Einladung von Wissenschaftsladen Bonn: 23.09.2020
+>
+> WARUM ANGEWANDTE ÖKONOMIK WERTNEUTRAL SEIN KÖNNTE, ES ABER NICHT SOLLTE. Vortrag im Rahmen der Vorlesungsreihe “Von Mutter Erde und Homo Oeconomicus - und jetzt?”, organisiert vom Arbeitskreis Rethinking Economics Tübingen: 06.05.2020
+>
+> KLIMAETHIK: AUF DER SUCHE NACH KOHÄRENZ ZWISCHEN MORALISCHEN UND EMPIRISCHEN ÜBERZEUGUNGEN. Vortrag im Rahmen der Reihe KlimaLectures, organisiert von Die Junge Akademie in der Berlin-Brandenburgischen Akademie der Wissenschaften: 24.01.2020
+>
+> SOLL ICH DIEJENIGEN, DIE NICHT DAS TUN, WAS SIE TUN SOLLEN, DAZU DRÄNGEN, DAS ZU TUN, WAS SIE TUN SOLLTEN? Vortrag auf dem 18. Ethik-Workshop “Tun, Zulassen, Unterlassen” in Schmitten-Arnoldshain: 23.03.2019
+>
+> CONTROLLABILITY AS A NON-CONSEQUENTIALIST VALUE IN DECISIONS UNDER UNCERTAINTY, presentation at the Lisbon Conference on Values and Uncertainty LVU 18, IFILNOVA Institute of Philosophy, New University of Lisbon: 06.12.2018
+>
+> PHILOSOPHISCHE METHODEN IN DER ANWENDUNGSBEZO­GENEN ETHIK. Vortrag im IZEW-Kolloquium Wintersemester 18/19, Universität Tübingen: 13.11.2018
+>
+> WACHSTUMSUNABHÄNGIGKEIT. WIE LÄSST SICH DAS ZIEL BEGRÜNDEN?, Konferenz „Herausforderungen Wachstumsunabhängigkeit – Ansätze zur Integration von Umwelt-, Sozial- und Wirtschaftspolitik“, Berlin: 05.11.2018
+>
+> THE POST-GROWTH STRATEGY. WHAT DOES IT CONTAIN? HOW DOES IT DIFFER FROM GREEN GROWTH AND DEGROWTH?, 6th Degrowth Conference, Malmoe, 23.08.2018
+>
+> DEONTOLOGISCHE UND TELEOLOGISCHE THEORIEN ZUR HANDLUNGSBEGRÜNDUNG UNTER UNSICHERHEIT. ROLLE DER EPISTEMISCH-EVALUATIVEN ABWÄGUNGEN, Sommerkolloquium am Institut für Philosophie der TU Darmstadt: 25.04.2018
+>
+> HAT NATUR EINEN EIGENWERT? WERTEKONZEPTE UND BEWERTUNGS­FRAGEN IN BEZUG AUF NATURSCHUTZ. Konferenz „Natürlich Natur! Aber was ist Natur?“, Evangelische Akademie Loccum, 09.12.2017
+>
+> CAPITALOCENE: DOES IT MAKE THE CONCEPT OF “ANTHROPOCENE” MORE PRECISE?, Workshop „Knowing the Anthropocene“, Universität Tübingen, 27.07.2017
+>
+> INTEGRATED ASSESSMENT MODELS: WHICH ROLE SHOULD THEIR RESULTS PLAY IN DEMOCRATIC DECISION MAKING?, EIPE-Conference, Erasmus University of Rotterdam, 24.04.2017
+>
+> DEGROWTH, GREEN GROWTH, AND A-GROWTH: AN ARGUMENTATION ANALYSIS, ESRC-Seminar „Climate Justice and Economic Growth“, University of Manchester, 30-31.01.2017
+>
+> DRIVERS OF ECONOMIC GROWTH. CONTROVERSIES AND AGREEMENTS BETWEEN THE MAINSTREAM ECONOMICS AND THE DEGROWTH/ POST-GROWTH DISCOURSE. 5th Degrowth Conference, Budapest: 31.08.2016
+>
+> JUSTIFICATION OF A CLIMATE POLICY GOAL UNDER UNCERTAINTY: THE CONTROLLABILITY PRECAUTIONARY PRINCIPLE, Conference „Climate Justice, Economics and Philosophy“, Cornell University, USA: 24.05.2016
+>
+> IDEE EINER POSTWACHSTUMSGESELLSCHAFT, Vortrag und Teilnahme an einer Podiumsdiskussion auf dem Seminar des Arbeitskreis Wirtschaft und Soziales der Stipendiatinnen der Friedrich-Naumann-Stiftung für die Freiheit, Theodor-Heuss-Akademie, Gummersbach: 23.04.2016
+>
+> PRIORITY OF THE RIGHT OVER THE GOOD. DOES THE POST-GROWTH DEBATE REVEAL THE LIMITS OF LIBERALISM?, Konferenz „Good Life beyond Growth“ des DFG-Kollegs Postwachstumsgesellschaften, Universität Jena: 22.05.2015
+>
+> POSTWACHSTUMSGESELLSCHAFT: WARUM IST SIE ERSTREBENSWERT? Vortrag und Teilnahme an einer Podiumsdiskussion auf dem 13. Bundeskongress Politische Bildung, Sektion „Globale Gerechtigkeit – Postwachstumsökonomie“, Universität Duisburg: 21.03.2015
+>
+> AUF DEM WEG ZUR OPERATIONALISIERUNG DES BEFÄHIGUNGSANSATZES, Abschlusskonferenz des Projektes econCCadapt, Humboldt University of Berlin: 16.03.2015
+>
+> JUSTIFICATION OF A CLIMATE POLICY GOAL UNDER UNCERTAINTY, Workshop „Ethical Underpinnings of Climate Economics“, University of Helsinki, Helsinki: 12.11.2014
+>
+> TRANSFORMATIONSSTRATEGIEN UND POSTWACHSTUMSGESELLSCHAFT: EINE EINORDNUNG, öffentliche Tagung in der Heinrich-Böll-Stiftung, Berlin: 05.12.2013
+>
+> FOREKNOWLEDGE ABOUT THE ENERGY SUPPLY: WHICH KIND OF ARGUMENTS CAN SCIENCE PROVIDE?, EnergyTrans Konferenz, Karlsruhe: 10.10.2013
+>
+> POSSIBILISTIC FOREKNOWLEDGE AND POLICY RECOMMENDATIONS: STAKEHOLDER’S CONTRIBUTION, ENCILowcarb Final Conference, Paris: 15.03.2012
+>
+> CREDIBLE WORLDS, POSSIBILISTIC FOREKNOWLEDGE, AND POLICY DECISIONS, Conference of the International Network for Economic Methodology, Helsinki: 02.-04.09.2011
+>
+> GLÜCK IST KEIN GUTES POLITISCHES ZIEL, Herbsttagung des Arbeitskreises „Politische Ökonomie“, Universität der Bundeswehr Hamburg: 15-17.10.2010
+>
+> JUSTIFICATION OF A CLIMATE TARGET BASED ON THE CAPABILITIES APPROACH, International Society for Ecological Economics 2010, Oldenburg: 24.08.2010
+>
+> A NON-WELFARIST ARGUMENT FOR AN AMBITIOUS MITIGATION TARGET, Conference „Integrating Development and Climate Change Ethics“, Penn State University, State College, USA: 15.04.2010
+>
+> A NON-WELFARIST ASSESSMENT OF CLIMATE IMPACTS AND THE PURE TIME PREFERENCE, workshop „Cost-Benefit Analysis: Uncertainty, Discounting and the Sustainable Future“, University of Eindhoven: 12-13.04.2010
+>
+> EINE NON-WELFARISTISCHE THEORIE ZUR BEWERTUNG DER KLIMAWANDELFOLGEN, Nachwuchsworkshop „Umwelt- und Ressourcenökonomie“, Wegener Center, Universität Graz: 07-09.02.2010
+>
+> HOW SHOULD POLICY ADVISERS FROM THE SCIENTIFIC COMMUNITY EVALUATE IMPACTS OF CLIMATE CHANGE? 6th International Conference on Ethics and Environmental Policies „Ethics and Climate Change“, Padua, Italy: 24.08.2008
+
+Back to top
+
+## Footnotes
+
+[^1]: Mit dem Ausdruck “Geschäftigkeit” hat [Peter Bieri](https://de.wikipedia.org/wiki/Peter_Bieri) in einem Aufsatz die etablierten Qualitätskriterien wissenschaftlicher Arbeit (Anzahl von Publikationen und ihren Zitationen, Anzahl von Drittmittelprojekten, ihr finanzieller Umfang etc.) kritisiert. Bieri machte darauf aufmerksam, dass die etablierten Kriterien bestenfalls die Geschäftigkeit eines/er Wissenschaftler\*in belegten, keineswegs jedoch die Qualität seiner/ihrer Arbeit. Auf dieser Seite liste ich auf, womit ich mich in der Zeit meiner wissenschaftlichen Arbeit beschäftigt habe.

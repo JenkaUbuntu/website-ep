@@ -1,0 +1,11 @@
+/* Rechtsbündige horizontale Linie */
+hr {
+  border: none;
+  height: 2px; /* Dicke der Linie */
+  background-color: #000000; /* Farbe der Linie */
+  width: 100%; /* Breite der Linie */
+  margin-right: 5%; /* Rechts keinen Abstand, damit die Linie linksbündig ist */
+  margin-left: auto; /* Links keinen zusätzlichen Abstand */
+  display: block;
+  text-align: left;
+}

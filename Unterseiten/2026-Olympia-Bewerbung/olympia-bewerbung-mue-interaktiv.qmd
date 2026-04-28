@@ -1,0 +1,3933 @@
+---
+title: Soll sich München um die Olympischen Spiele 2036/40/44 bewerben?
+author: Eugen Pissarskoi
+date: 2025-12-20
+lang: de
+format: 
+    revealjs: 
+        css: styles.css
+        controls: true
+        incremental: true
+        scrollable: true
+        smaller: true
+        embed-resources: true
+        theme: simple
+        slide-number: c/t
+        footer: "ArgumentationsAgentur"
+        logo: ./graphiken/logoAA.svg
+        reference-location: document
+---
+
+## Struktur {.smaller}
+
+::: {.nonincremental}
+
+[**Schritt 1: Identifikation von Pro- und Contra-Gründen**](#schritt-1-identifikation-von-pro--und-contra-gründen)
+
+* [Öffentlich angeführte Pro- und Contra-Gesichtspunkte]()
+* [Sortierung von Pro-Gesichtspunkten zu Pro-Gründen]()
+  * [Ergebnis: Gründe für die Ausrichtung]()
+* [Sortierung von Contra-Gesichtspunkten zu Contra-Gründen]()
+  * [Ergebnis: Gründe gegen die Ausrichtung]()
+
+[**Schritt 2: Interpretation der Kontroverse über die Ausrichtung**](#schritt-2-interpretation-der-kontroverse)
+
+* [Das Argumentations-Puzzle angesichts der Gründe für und gegen die Ausrichtung](#graphik-der-dialektik-der-pro-argumente)
+
+[**Schritt 3: Argumentrekonstruktion**](#schritt-3-argument(re-konstruktion))
+ 
+* [3.1: Rekonstruktion von Pro-Argumenten](#schritt-3.1-pro-argumente)
+  * [Ergebnis: Dialektik der Pro-Argumente](#graphik-der-dialektik-der-pro-argumente)
+* [3.2: Rekonstruktion von Kontra-Argumenten](#schritt-3.2-contra-argumentation)
+  * [Ergebnis: Dialektik der Kontra-Argumente](#graphik-der-dialektik-der-contra-argumente)
+
+[**Schritt 4: Bewertung der rekonstruierten Argumente**](#schritt-4-bewertung-der-rekonstruierten-argumente)
+  
+* [Erwartungswert-Argumente](#erwartunswert-argumente-(a1--a4))
+* [Argument der Nachteile-Zurückweisung](#nachteile-debunking-(a2))
+* [Argumente unter Unsicherheit](#kontroversen-unter-ungewissheit)
+
+[**Fazit**: Lehre aus der Argumentanalyse](#fazit)
+
+[**Anhang**: Argumentrekonstruktionen](#argumentrekonstruktionen)
+
+:::
+
+# Schritt 1: Identifikation von Pro- und Contra-Gründen
+
+## Öffentlich angeführte Pro- und Contra-Gesichtspunkte 
+
+::: {.nonincremental}
+
+::: {.panel-tabset}
+### Pro-Gesichtspunkte
+
+::: {.columns}
+::: {.column width="49%"}
+::: {.callout-tip icon="false"}
+### Begründung des Stadtrats
+* Das Bewerbungskonzept verbindet "das richtige Maß" mit visionären Ideen.
+
+* Die Wettkampfstätten werden nachhaltig geplant.
+
+* Wichtige Projekte für die Stadtentwicklung kommen schneller voran.
+
+* Der Sport und die Inklusion werden gestärkt.
+
+* Olympische und Paralympische Spiele sind ein Motor für die Wirtschaft
+
+* Olympia verbindet die Menschen und schafft einzigartige Erlebnisse.
+:::
+:::
+::: {.column width="2%"}
+:::
+::: {.column width="49%"}
+::: {.callout-tip icon="false"}
+### [Begründung der Stadt München](https://www.olympiabewerbung-muenchen.com/#fuer-olympia)
+
+*  **Stadtentwicklung**: Olympia ermöglicht wichtige Stadt-Entwicklungsprojekte, die ansonsten gar nicht oder erst viel später realisierbar wären. 
+
+* **Neuer Wohnraum**: Es entstehen rund 4.000 Wohnungen für etwa 10.000 Menschen im neuen Olympischen und Paralympischen Dorf im Münchner Nordosten.
+
+* **ÖPNV-Ausbau**: Verlängerung U4 bis zur Messe, S-Bahn-Ringschluss Nord, Realisierung U9.
+
+* **Nachhaltige Mobilität**: Ausbau von Radschnellwegen, autonomen Fahrens oder Mobility Hubs.
+
+* **Grünflächen**: Grünzüge werden erweitert: unter anderem der Olympiapark und der Hüllgraben. Vorhandene Grünflächen werden vernetzt.
+
+* **Sanierung Sportstätten**: Viele Wettkampfstätten werden saniert und sichern damit auch zukünftige Erträge.
+
+* **Erweiterung Olympiapark**: Der Olympiapark [...] wird ausgeweitet und fit für die Zukunft gemacht.
+
+* **Sportliches München**: Der Sport erhält Impulse. Bewegung wird gestärkt, Infrastruktur wird weiterentwickelt, Breiten- und informeller Sport werden gefördert. Es gibt mehr Trainingsflächen und Trainer*innen.
+
+* **Inklusion**: durch die konsequente Umsetzung von Barrierefreiheit im Olympischen Dorf, bei Sportstätten und im ÖPNV.
+
+* **Wirtschaft**: Die Wirtschaft erfährt einen Schub durch kurzfristige Erträge und langfristige Entwicklungen [...].
+
+* **Aufbruchsstimmung**: Wie schon 1972: Es entstehen Aufbruchsstimmung und großer Mut zu Neuem. Olympia steckt in der Münchner DNA.
+
+* **Verbinden statt spalten**: Die Vorbereitung der Spiele schafft einen Schulterschluss in der Gesellschaft und erzeugt ein Miteinander. Viele rücken zusammen. [...]
+
+* **Image**: Nach außen verändert sich das Image Deutschlands. Wir werden positiver und leistungsstärker wahrgenommen. Das Ansehen der Stadt wird noch weiter gefestigt. 
+
+* **Einzigartige Erlebnisse**: Die Spiele selbst schaffen einzigartige emotionale Erlebnisse in der ganzen Stadt – so wie es zuletzt die European Championships 2022 und Paris 2024 gezeigt haben.
+:::
+:::
+
+:::
+
+### Contra-Gesichtspunkte
+
+::: {.column width="49%"}
+::: {.callout-important icon="false"}
+### Contra-Gesichtspunkte, die [Merkur](https://www.merkur.de/lokales/muenchen/muenchen-olympija-oder-nolympia-pro-contra-buergerentscheid-olympia-in-93981355.html) gesammelt hat
+
+* **Olympia kostet Milliarden**: Seit 1960 hat keine Ausrichterstadt das geplante Olympia-Budget eingehalten, sagen die Gegner\*innen. Zuletzt scherte Paris aus: Statt wie vorgesehen 2,4 Milliarden kostete Olympia 2024 etwa sechs Milliarden Euro. 
+
+* **Bewerbung verschlingt Millionen**
+
+* **Das IOC ist kein fairer Partner**
+
+* **Stadtentwicklung leidet**: München braucht bezahlbare Wohnungen und einen funktionierenden Nahverkehr – heute, nicht erst zu Olympia. 
+
+* **Wohnungen jetzt – nicht erst 2036 oder später**
+
+* **Wettkampfstätten**: Sie sind teuer, temporär, verschwenderisch: Viele Sportarenen werden nur für die Spiele errichtet und danach abgebaut. Beispiel: die Schwimmanlage in der (privat finanzierten, aber noch gar nicht gebauten) Event Arena auf dem Flughafengelände bei Freising, die etliche Millionen kosten würde. 
+
+* **Wirtschaftlicher Nutzen ist kurz und klein**: Der wirtschaftliche Effekt ist gering, kurzfristig und bricht nach den Spielen wieder ein, behauptet das Anti-Olympia-Bündnis. Gewinner sind vor allem die IOC-Sponsoren, nicht die lokale Wirtschaft.
+
+* European Championships sind kein Maßstab: Die Championships waren erfolgreich, weil sie offen, günstig und bürgernah waren. Olympia ist das Gegenteil: abgesperrte Sicherheitszonen, hohe Ticketpreise, Kommerzialisierung und strikte Exklusivrechte für Sponsoren. 
+
+* München kann ohne Olympia begeistern: Konzerte, Sport, Biergärten: München ist attraktiv, lebendig, weltoffen. Dafür braucht es kein IOC. München-Werbung durch Olympia ist unnötig, jeder weiß, wie schön es hier ist.
+:::
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="49%"}
+::: {.callout-important icon="false"}
+
+### Contra-Gesichtspunkte, die [Radiogong](https://www.radiogong.de/olympia-bewerbung-muenchen-sommer-spiele-pro-und-kontra-olympiaparkt2025-2036-2040-2044) gesammelt hat
+
+* **Nachhaltigkeit bleibt ein leeres Versprechen**: Die olympische Idee verspricht nachhaltige Entwicklung, die Realität sieht anders aus. In Athen und Rio verfallen die Sportstätten. Auch München müsste neu bauen, da viele Anlagen nicht mehr den IOC-Standards entsprechen.
+
+* **Wohnraum wird unbezahlbar**: 
+In früheren Austragungsstädten wie Barcelona, London oder Peking stiegen die Mieten um bis zu 144 %. Olympia kurbelt, laut Kritikern, die Immobilienspekulation an und macht das Leben für Normalverdiener unerschwinglich, auch in München drohe dieser Effekt.
+
+* **Verdrängung durch Gentrifizierung**: 
+Mit Olympia komme oft die Gentrifizierung: Menschen mit niedrigem Einkommen kämen in finanzielle Nöte. Internationale Investoren drängen auf den Wohnungsmarkt und erschwinglicher Wohnraum verschwände. Soziale Ungleichheit könnte sich verschärfen.
+
+* **Kein Vorteil für den Breitensport**: Kritiker befürchten, dass trotz teurer Neubauten lokale Sportvereine kaum profitieren. Kinder fänden während der Spiele keinen Platz im Schwimmkurs, Vereine keine Hallenzeiten. Olympia bringe Show, aber keine nachhaltige Förderung des Breitensports und löse keine bestehenden Probleme.
+
+* **Grüne Flächen gehen verloren**: In Daglfing soll für das Olympische Dorf Ackerboden versiegelt werden. Dort wachsen heute regionale Lebensmittel, dort leben bedrohte Tierarten. Diese ökologisch sensiblen Flächen für ein zweiwöchiges Event zu opfern, seien unverantwortlich.
+
+:::
+:::
+:::
+:::
+
+## Sortierung der Pro-Gesichtspunkte
+
+#### Begründung des Stadtrats
+
+::: {style="width: 49%" .nonincremental .fragment .highlight-red}
+
+* Das Bewerbungskonzept verbindet "das richtige Maß" mit visionären Ideen.
+:::
+
+::: {style="position: absolute; top: 100px; left: 52%; width: 460px; font-size: 0.9em" .fragment .nonincremental}
+* Die Art, wie das Bewerbungskonzept gestaltet ist, stellt keinen Grund für die Bewerbung um die Olympischen Spiele. 
+* Es dürfte sich vermutlich um eine Zusammenfassung dessen handeln, an welchen Zielen sich die Ersteller des Bewerbungskonzepts orientiert haben. Diese Ziele liefern bestenfalls Gründe für die Entscheidung darüber, wie das Konzept einer Bewerbung ausgestaltet, nicht jedoch für die Entscheidung darüber, ob die Bewerbung überhaupt eingereicht werden soll. 
+:::
+
+## Sortierung der Pro-Gesichtspunkte {auto-animate="true" visibility="uncounted"}
+
+#### Begründung des Stadtrats
+
+::: {style="width: 49%" .nonincremental .fragment .highlight-red}
+* Die Wettkampfstätten werden nachhaltig geplant.
+:::
+
+::: {style="position: absolute; top: 100px; left: 52%; width: 460px; font-size: 0.9em" .fragment .nonincremental}
+* Dass Wettkampfstätten nachhaltig gebaut werden, stellt keinen Grund dafür dar, Olympische Spiele auszurichten. Man richtet sie ja nicht aus, um Wettkampfstätten zu bauen. 
+* Dieser Punkt spielt eine andere argumentative Rolle: er soll einen möglichen Einwand gegen die Ausrichtung der Olympischen Spiele entkräften, nämlich den, dass durch die Ausrichtung die Umwelt geschädigt oder Ressourcen verschwendet würden. 
+:::
+
+## Sortierung der Pro-Gesichtspunkte {auto-animate="true" visibility="uncounted"}
+
+#### Begründung des Stadtrats
+
+::: {style="width: 49%" .nonincremental}
+
+* Wichtige Projekte für die Stadtentwicklung kommen schneller voran.
+:::
+
+::: {style="position: absolute; top: 90px; left: 52%; width: 460px; font-size: 0.9em"}
+* **Finanzielle Zuschüsse vom Bund und Land**: Durch eine Olympia-Bewerbung werden zusätzliche Finanzmittel fließen, die sonst nicht verfügbar wären. Diese Gelder sollen die Stadtentwicklung beschleunigen und die Kommunalfinanzen entlasten.
+:::
+
+## Sortierung der Pro-Gesichtspunkte {auto-animate="true" visibility="uncounted"}
+
+#### Begründung des Stadtrats
+
+::: {.callout-tip icon="false" style="width: 49%"}
+### Förderung der Stadtentwicklung
+Wichtige Projekte für die Stadtentwicklung kommen schneller voran.
+:::
+
+::: {style="width: 49%" .nonincremental .fragment}
+* Der Sport und die Inklusion werden gestärkt.
+:::
+
+::: {style="position: absolute; top: 170px; left: 52%; width: 460px; font-size: 0.9em" .fragment .nonincremental}
+* **Finanzielle Zuschüsse vom Bund und Land für Sportanlagen**: Die zusätzlichen Finanzmittel werden für den Ausbau von Sportanlagen verwendet, wodurch die Infrastruktur für sportliche Aktivitäten verbessert wird. 
+* **Finanzielle Zuschüsse vom Bund und Land für Barrierefreiheit**: Die zusätzlichen Finanzmittel werden für den Ausbau der Barrierefreiheit in der Stadt verwendet. 
+* **Anreize zu Sport durch die Wettkämpfe**
+:::
+
+## Sortierung der Pro-Gesichtspunkte {auto-animate="true" visibility="uncounted"}
+
+#### Begründung des Stadtrats
+
+::: {.columns}
+::: {.column width="49%"}
+::: {.callout-tip icon="false"}
+### Förderung der Stadtentwicklung
+Wichtige Projekte für die Stadtentwicklung kommen schneller voran.
+:::
+:::
+::: {.column width="2%"}
+:::
+::: {.column width="49%"}
+::: {.callout-tip icon="false"}
+### Stärkung von Breitensport
+Der Sport erhält Impulse. Bewegung wird gestärkt, Infrastruktur wird weiterentwickelt, Breiten- und informeller Sport werden gefördert. Es gibt mehr Trainingsflächen und Trainer*innen.
+:::
+:::
+:::
+
+
+::: {.callout-tip icon="false" style="width: 49%"}
+### Verbesserung der Inklusion
+Durch die konsequente Umsetzung von Barrierefreiheit im Olympischen Dorf, bei Sportstätten und im ÖPNV.
+:::
+
+::: {.fragment style="width: 48%"}
+* Olympia verbindet die Menschen und schafft einzigartige Erlebnisse.
+:::
+
+::: {style="position: absolute; top: 450px; left: 50%; width: 460px; font-size: 0.8em" .fragment .nonincremental}
+* **Sozialer Zusammenhalt**: Die Vorbereitung der Spiele schafft einen Schulterschluss in der Gesellschaft und erzeugt ein Miteinander. Viele rücken zusammen. 
+
+* **Einzigartige Erlebnisse**: Die Spiele selbst schaffen einzigartige emotionale Erlebnisse in der ganzen Stadt.
+:::
+
+## Sortierung der Pro-Gesichtspunkte {auto-animate="true" visibility="uncounted"}
+
+#### Begründung des Stadtrats
+
+::: {.columns}
+::: {.column width="49%"}
+::: {.callout-tip icon="false"}
+### Förderung der Stadtentwicklung
+Wichtige Projekte für die Stadtentwicklung kommen schneller voran.
+:::
+:::
+::: {.column width="2%"}
+:::
+::: {.column width="49%"}
+::: {.callout-tip icon="false"}
+### Stärkung von Breitensport
+Der Sport erhält Impulse. Bewegung wird gestärkt, Infrastruktur wird weiterentwickelt, Breiten- und informeller Sport werden gefördert. Es gibt mehr Trainingsflächen und Trainer*innen.
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="49%"}
+::: {.callout-tip icon="false"}
+### Verbesserung der Inklusion
+Durch die konsequente Umsetzung von Barrierefreiheit im Olympischen Dorf, bei Sportstätten und im ÖPNV.
+:::
+:::
+::: {.column width="2%"}
+:::
+::: {.column width="49%"}
+::: {.callout-tip icon="false"}
+### Stärkung sozialen Zusammenhalts
+Die Vorbereitung der Spiele schafft einen Schulterschluss in der Gesellschaft und erzeugt ein Miteinander.
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="49%"}
+::: {.callout-tip icon="false"}
+### Einzigartige Erlebnisse
+Die Spiele selbst schaffen einzigartige emotionale Erlebnisse in der ganzen Stadt.
+:::
+:::
+::: {.column width="2%"}
+:::
+::: {.column width="49%"}
+::: {.callout-tip icon="false" .fragment}
+### Motor für die Wirtschaft
+Olympische und Paralympische Spiele sind ein Motor für die lokale Wirtschaft.
+:::
+:::
+:::
+
+## Sortierung der Pro-Gesichtspunkte {auto-animate="true" visibility="uncounted"}
+
+#### Begründung des Stadtrats
+
+::: {.columns}
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Förderung der Stadtentwicklung
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Stärkung von Breitensport
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Verbesserung der Inklusion
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Stärkung sozialen Zusammenhalts
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Einzigartige Erlebnisse
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Motor für die Wirtschaft
+:::
+:::
+:::
+
+::: {.fragment .nonincremental}
+
+#### Begründung der Stadt München
+* **Neuer Wohnraum**: Es entstehen rund 4.000 Wohnungen für etwa 10.000 Menschen im neuen Olympischen und Paralympischen Dorf im Münchner Nordosten.
+* **ÖPNV-Ausbau**: Verlängerung U4 bis zur Messe, S-Bahn-Ringschluss Nord, Realisierung U9.
+
+* **Nachhaltige Mobilität**: Ausbau von Radschnellwegen, autonomen Fahrens oder Mobility Hubs.
+
+* **Grünflächen**: Grünzüge werden erweitert: unter anderem der Olympiapark und der Hüllgraben. Vorhandene Grünflächen werden vernetzt.
+
+* **Sanierung Sportstätten**: Viele Wettkampfstätten werden saniert und sichern damit auch zukünftige Erträge.
+
+* **Erweiterung Olympiapark**: Der Olympiapark [...] wird ausgeweitet und fit für die Zukunft gemacht.
+
+* **Sportliches München**: Der Sport erhält Impulse. Bewegung wird gestärkt, Infrastruktur wird weiterentwickelt, Breiten- und informeller Sport werden gefördert. Es gibt mehr Trainingsflächen und Trainer*innen.
+
+* **Inklusion**: durch die konsequente Umsetzung von Barrierefreiheit im Olympischen Dorf, bei Sportstätten und im ÖPNV.
+
+* **Wirtschaft**: Die Wirtschaft erfährt einen Schub durch kurzfristige Erträge und langfristige Entwicklungen [...].
+
+* **Aufbruchsstimmung**: Wie schon 1972: Es entstehen Aufbruchsstimmung und großer Mut zu Neuem. Olympia steckt in der Münchner DNA.
+
+* **Verbinden statt spalten**: Die Vorbereitung der Spiele schafft einen Schulterschluss in der Gesellschaft und erzeugt ein Miteinander. Viele rücken zusammen. [...]
+
+* **Image**: Nach außen verändert sich das Image Deutschlands. Wir werden positiver und leistungsstärker wahrgenommen. Das Ansehen der Stadt wird noch weiter gefestigt. 
+
+* **Einzigartige Erlebnisse**: Die Spiele selbst schaffen einzigartige emotionale Erlebnisse in der ganzen Stadt – so wie es zuletzt die European Championships 2022 und Paris 2024 gezeigt haben.
+:::
+
+## Sortierung der Pro-Gesichtspunkte {auto-animate="true" visibility="uncounted"}
+
+::: {.columns}
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Förderung der Stadtentwicklung
+Neuer Wohnraum
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Stärkung von Breitensport
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Verbesserung der Inklusion
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Stärkung sozialen Zusammenhalts
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Einzigartige Erlebnisse
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Motor für die Wirtschaft
+:::
+:::
+:::
+
+::: {.fragment .nonincremental}
+#### Begründung der Stadt München
+
+* **ÖPNV-Ausbau**: Verlängerung U4 bis zur Messe, S-Bahn-Ringschluss Nord, Realisierung U9.
+
+* **Nachhaltige Mobilität**: Ausbau von Radschnellwegen, autonomen Fahrens oder Mobility Hubs.
+
+* **Grünflächen**: Grünzüge werden erweitert: unter anderem der Olympiapark und der Hüllgraben. Vorhandene Grünflächen werden vernetzt.
+
+* **Sanierung Sportstätten**: Viele Wettkampfstätten werden saniert und sichern damit auch zukünftige Erträge.
+
+* **Erweiterung Olympiapark**: Der Olympiapark [...] wird ausgeweitet und fit für die Zukunft gemacht.
+
+* **Sportliches München**: Der Sport erhält Impulse. Bewegung wird gestärkt, Infrastruktur wird weiterentwickelt, Breiten- und informeller Sport werden gefördert. Es gibt mehr Trainingsflächen und Trainer*innen.
+
+* **Inklusion**: durch die konsequente Umsetzung von Barrierefreiheit im Olympischen Dorf, bei Sportstätten und im ÖPNV.
+
+* **Wirtschaft**: Die Wirtschaft erfährt einen Schub durch kurzfristige Erträge und langfristige Entwicklungen [...].
+
+* **Aufbruchsstimmung**: Wie schon 1972: Es entstehen Aufbruchsstimmung und großer Mut zu Neuem. Olympia steckt in der Münchner DNA.
+
+* **Verbinden statt spalten**: Die Vorbereitung der Spiele schafft einen Schulterschluss in der Gesellschaft und erzeugt ein Miteinander. Viele rücken zusammen. [...]
+
+* **Image**: Nach außen verändert sich das Image Deutschlands. Wir werden positiver und leistungsstärker wahrgenommen. Das Ansehen der Stadt wird noch weiter gefestigt. 
+
+* **Einzigartige Erlebnisse**: Die Spiele selbst schaffen einzigartige emotionale Erlebnisse in der ganzen Stadt – so wie es zuletzt die European Championships 2022 und Paris 2024 gezeigt haben.
+:::
+
+## Sortierung der Pro-Gesichtspunkte {auto-animate="true" visibility="uncounted"}
+
+::: {.columns}
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Förderung der Stadtentwicklung
+Neuer Wohnraum; ÖPNV-Ausbau;
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Stärkung von Breitensport
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Verbesserung der Inklusion
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Stärkung sozialen Zusammenhalts
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Einzigartige Erlebnisse
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Motor für die Wirtschaft
+:::
+:::
+:::
+
+::: {.fragment .nonincremental}
+#### Begründung der Stadt München
+
+* **Nachhaltige Mobilität**: Ausbau von Radschnellwegen, autonomen Fahrens oder Mobility Hubs.
+
+* **Grünflächen**: Grünzüge werden erweitert: unter anderem der Olympiapark und der Hüllgraben. Vorhandene Grünflächen werden vernetzt.
+
+* **Sanierung Sportstätten**: Viele Wettkampfstätten werden saniert und sichern damit auch zukünftige Erträge.
+
+* **Erweiterung Olympiapark**: Der Olympiapark [...] wird ausgeweitet und fit für die Zukunft gemacht.
+
+* **Sportliches München**: Der Sport erhält Impulse. Bewegung wird gestärkt, Infrastruktur wird weiterentwickelt, Breiten- und informeller Sport werden gefördert. Es gibt mehr Trainingsflächen und Trainer*innen.
+
+* **Inklusion**: durch die konsequente Umsetzung von Barrierefreiheit im Olympischen Dorf, bei Sportstätten und im ÖPNV.
+
+* **Wirtschaft**: Die Wirtschaft erfährt einen Schub durch kurzfristige Erträge und langfristige Entwicklungen [...].
+
+* **Aufbruchsstimmung**: Wie schon 1972: Es entstehen Aufbruchsstimmung und großer Mut zu Neuem. Olympia steckt in der Münchner DNA.
+
+* **Verbinden statt spalten**: Die Vorbereitung der Spiele schafft einen Schulterschluss in der Gesellschaft und erzeugt ein Miteinander. Viele rücken zusammen. [...]
+
+* **Image**: Nach außen verändert sich das Image Deutschlands. Wir werden positiver und leistungsstärker wahrgenommen. Das Ansehen der Stadt wird noch weiter gefestigt. 
+
+* **Einzigartige Erlebnisse**: Die Spiele selbst schaffen einzigartige emotionale Erlebnisse in der ganzen Stadt – so wie es zuletzt die European Championships 2022 und Paris 2024 gezeigt haben.
+:::
+
+## Sortierung der Pro-Gesichtspunkte {auto-animate="true" visibility="uncounted"}
+
+::: {.columns}
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Förderung der Stadtentwicklung
+Neuer Wohnraum; ÖPNV-Ausbau; Nachhaltige Mobilität; Erweiterung Grünflächen
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Stärkung von Breitensport
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Verbesserung der Inklusion
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Stärkung sozialen Zusammenhalts
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Einzigartige Erlebnisse
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Motor für die Wirtschaft
+:::
+:::
+:::
+
+::: {.fragment .nonincremental}
+#### Begründung der Stadt München
+
+* **Sanierung Sportstätten**: Viele Wettkampfstätten werden saniert und sichern damit auch zukünftige Erträge.
+
+* **Erweiterung Olympiapark**: Der Olympiapark [...] wird ausgeweitet und fit für die Zukunft gemacht.
+
+* **Sportliches München**: Der Sport erhält Impulse. Bewegung wird gestärkt, Infrastruktur wird weiterentwickelt, Breiten- und informeller Sport werden gefördert. Es gibt mehr Trainingsflächen und Trainer*innen.
+
+* **Inklusion**: durch die konsequente Umsetzung von Barrierefreiheit im Olympischen Dorf, bei Sportstätten und im ÖPNV.
+
+* **Wirtschaft**: Die Wirtschaft erfährt einen Schub durch kurzfristige Erträge und langfristige Entwicklungen [...].
+
+* **Aufbruchsstimmung**: Wie schon 1972: Es entstehen Aufbruchsstimmung und großer Mut zu Neuem. Olympia steckt in der Münchner DNA.
+
+* **Verbinden statt spalten**: Die Vorbereitung der Spiele schafft einen Schulterschluss in der Gesellschaft und erzeugt ein Miteinander. Viele rücken zusammen. [...]
+
+* **Image**: Nach außen verändert sich das Image Deutschlands. Wir werden positiver und leistungsstärker wahrgenommen. Das Ansehen der Stadt wird noch weiter gefestigt. 
+
+* **Einzigartige Erlebnisse**: Die Spiele selbst schaffen einzigartige emotionale Erlebnisse in der ganzen Stadt – so wie es zuletzt die European Championships 2022 und Paris 2024 gezeigt haben.
+:::
+
+
+## Sortierung der Pro-Gesichtspunkte {auto-animate="true" visibility="uncounted"}
+
+::: {.columns}
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Förderung der Stadtentwicklung
+Neuer Wohnraum; ÖPNV-Ausbau; Nachhaltige Mobilität; Erweiterung Grünflächen; Sanierung Sportstätten; Erweiterung Olympiapark
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Stärkung von Breitensport
+Sanierung Sportstätten; Erweiterung Olympiapark; Förderung von Breiten- und informellen Sports
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Verbesserung der Inklusion
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Stärkung sozialen Zusammenhalts
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Einzigartige Erlebnisse
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Motor für die Wirtschaft
+:::
+:::
+:::
+
+::: {.fragment .nonincremental}
+#### Begründung der Stadt München
+
+* **Inklusion**: durch die konsequente Umsetzung von Barrierefreiheit im Olympischen Dorf, bei Sportstätten und im ÖPNV.
+
+* **Wirtschaft**: Die Wirtschaft erfährt einen Schub durch kurzfristige Erträge und langfristige Entwicklungen [...].
+
+* **Aufbruchsstimmung**: Wie schon 1972: Es entstehen Aufbruchsstimmung und großer Mut zu Neuem. Olympia steckt in der Münchner DNA.
+
+* **Verbinden statt spalten**: Die Vorbereitung der Spiele schafft einen Schulterschluss in der Gesellschaft und erzeugt ein Miteinander. Viele rücken zusammen. [...]
+
+* **Image**: Nach außen verändert sich das Image Deutschlands. Wir werden positiver und leistungsstärker wahrgenommen. Das Ansehen der Stadt wird noch weiter gefestigt. 
+
+* **Einzigartige Erlebnisse**: Die Spiele selbst schaffen einzigartige emotionale Erlebnisse in der ganzen Stadt – so wie es zuletzt die European Championships 2022 und Paris 2024 gezeigt haben.
+:::
+
+## Sortierung der Pro-Gesichtspunkte {auto-animate="true" visibility="uncounted"}
+
+::: {.columns}
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Förderung der Stadtentwicklung
+Neuer Wohnraum; ÖPNV-Ausbau; Nachhaltige Mobilität; Erweiterung Grünflächen; Sanierung Sportstätten; Erweiterung Olympiapark
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Stärkung von Breitensport
+Sanierung Sportstätten; Erweiterung Olympiapark; Förderung von Breiten- und informellen Sports
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Verbesserung der Inklusion
+Umsetzung der Barrierefreiheit
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Stärkung sozialen Zusammenhalts
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Einzigartige Erlebnisse
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Motor für die Wirtschaft
+Schub für die lokale Wirtschaft
+:::
+:::
+:::
+
+::: {.fragment .nonincremental}
+#### Begründung der Stadt München
+* **Aufbruchsstimmung**: Wie schon 1972: Es entstehen Aufbruchsstimmung und großer Mut zu Neuem. Olympia steckt in der Münchner DNA.
+
+* **Verbinden statt spalten**: Die Vorbereitung der Spiele schafft einen Schulterschluss in der Gesellschaft und erzeugt ein Miteinander. Viele rücken zusammen. [...]
+
+* **Image**: Nach außen verändert sich das Image Deutschlands. Wir werden positiver und leistungsstärker wahrgenommen. Das Ansehen der Stadt wird noch weiter gefestigt. 
+
+* **Einzigartige Erlebnisse**: Die Spiele selbst schaffen einzigartige emotionale Erlebnisse in der ganzen Stadt – so wie es zuletzt die European Championships 2022 und Paris 2024 gezeigt haben.
+:::
+
+## Sortierung der Pro-Gesichtspunkte {auto-animate="true" visibility="uncounted"}
+
+::: {.columns}
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Förderung der Stadtentwicklung
+Neuer Wohnraum; ÖPNV-Ausbau; Nachhaltige Mobilität; Erweiterung Grünflächen; Sanierung Sportstätten; Erweiterung Olympiapark
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Stärkung von Breitensport
+Sanierung Sportstätten; Erweiterung Olympiapark; Förderung von Breiten- und informellen Sports
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Verbesserung der Inklusion
+Umsetzung der Barrierefreiheit
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Stärkung sozialen Zusammenhalts
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Einzigartige Erlebnisse
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Motor für die Wirtschaft
+Schub für die lokale Wirtschaft
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Aufbruchstimmung und Mut zu Neuem
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+
+:::
+:::
+
+::: {.fragment .nonincremental}
+#### Begründung der Stadt München
+* **Verbinden statt spalten**: Die Vorbereitung der Spiele schafft einen Schulterschluss in der Gesellschaft und erzeugt ein Miteinander. Viele rücken zusammen. [...]
+
+* **Image**: Nach außen verändert sich das Image Deutschlands. Wir werden positiver und leistungsstärker wahrgenommen. Das Ansehen der Stadt wird noch weiter gefestigt. 
+
+* **Einzigartige Erlebnisse**: Die Spiele selbst schaffen einzigartige emotionale Erlebnisse in der ganzen Stadt – so wie es zuletzt die European Championships 2022 und Paris 2024 gezeigt haben.
+:::
+
+## Sortierung der Pro-Gesichtspunkte {auto-animate="true" visibility="uncounted"}
+
+::: {.columns}
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Förderung der Stadtentwicklung
+Neuer Wohnraum; ÖPNV-Ausbau; Nachhaltige Mobilität; Erweiterung Grünflächen; Sanierung Sportstätten; Erweiterung Olympiapark
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Stärkung von Breitensport
+Sanierung Sportstätten; Erweiterung Olympiapark; Förderung von Breiten- und informellen Sports
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Verbesserung der Inklusion
+Umsetzung der Barrierefreiheit
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Stärkung sozialen Zusammenhalts
+Schulterschluss in der Gesellschaft
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Einzigartige Erlebnisse
+einzigartige emotionale Erlebnisse für die Stadtbewohner\*innen
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Motor für die Wirtschaft
+Schub für die lokale Wirtschaft
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Aufbruchstimmung und Mut zu Neuem
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Image-Verbesserung von Deutschland und München
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+
+:::
+:::
+
+## Faktencheck der Pro-Gesichtspunkte {auto-animate="true"}
+
+::: {.fragment}
+
+::: {.columns}
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Förderung der Stadtentwicklung
+Neuer Wohnraum; ÖPNV-Ausbau; Nachhaltige Mobilität; Erweiterung Grünflächen; Sanierung Sportstätten; Erweiterung Olympiapark
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Stärkung von Breitensport
+Sanierung Sportstätten; Erweiterung Olympiapark; Förderung von Breiten- und informellen Sports
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Verbesserung der Inklusion
+Umsetzung der Barrierefreiheit
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### [Stärkung sozialen Zusammenhalts]{style="color:#99d8c9"}
+[Es lässt sich nicht verlässlich Vorhersagen, ob ein Großereignis wie Olympische Spiele soziale Dynamiken wie "Schulterschluss in der Gesellschaft" schafft.]{style="color:#bdbdbd"} 
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Einzigartige Erlebnisse
+einzigartige emotionale Erlebnisse für die Stadtbewohner\*innen
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Motor für die Wirtschaft
+Schub für die lokale Wirtschaft
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### [Aufbruchstimmung und Mut zu Neuem]{style="color:#99d8c9"}
+[Auch eine solche Konsequenz lässt sich nicht verlässlich vorhersagen. Es ist möglich, dass sich eine Aufbruchstimmung unter der Stadtbevölkerung ausbreitet, es ist aber auch möglich, dass sich eine solche soziale Dynamik nicht mehr wiederholt.]{style="color:#bdbdbd"} 
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Image-Verbesserung von Deutschland und München
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+
+:::
+:::
+:::
+
+## Faktencheck der Pro-Gesichtspunkte {auto-animate="true" visibility="uncounted"}
+
+::: {.columns}
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Förderung der Stadtentwicklung
+Neuer Wohnraum; ÖPNV-Ausbau; Nachhaltige Mobilität; Erweiterung Grünflächen; Sanierung Sportstätten; Erweiterung Olympiapark
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Stärkung von Breitensport
+Sanierung Sportstätten; Erweiterung Olympiapark; Förderung von Breiten- und informellen Sports
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Verbesserung der Inklusion
+Umsetzung der Barrierefreiheit
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### [Stärkung sozialen Zusammenhalts]{style="color:#99d8c9"}
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Einzigartige Erlebnisse
+einzigartige emotionale Erlebnisse für die Stadtbewohner\*innen
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### [~~Motor für die Wirtschaft~~]{style="color:#99d8c9"} Kurzfristige Gewinne für die lokale Wirtschaft
+[Abschätzungen von erwarteten Gewinnen und Kosten aus Großereignissen wie Olympischen Spielen sind unsicher. Kurzfristige Gewinne für die lokale Wirtschaft sind jedoch naheliegend.]{style="color:#bdbdbd"}
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### [Aufbruchstimmung und Mut zu Neuem]{style="color:#99d8c9"} 
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Image-Verbesserung von Deutschland und München
+:::
+:::
+::: {.column width="1%"}
+:::
+::: {.column width="32%"}
+
+:::
+:::
+
+## Resultierende Pro-Gesichtspunkte {auto-animate="true"}
+
+::: {.columns}
+::: {.column width="19%"}
+::: {.callout-tip icon="false"}
+### Stadtentwicklung
+Wohnraum; ÖPNV; Nachhaltige Mobilität etc. 
+:::
+:::
+::: {.column width="15%"}
+::: {.callout-tip icon="false"}
+### Stärkung von Breitensport
+Sportstätten; Förderung von Sport
+:::
+:::
+::: {.column width="18%"}
+::: {.callout-tip icon="false"}
+### Verbesserung der Inklusion
+:::
+:::
+::: {.column width="18%"}
+::: {.callout-tip icon="false"}
+### Kurzfristige Wirtschafts\-gewinne
+:::
+:::
+::: {.column width="14%"}
+::: {.callout-tip icon="false"}
+### Einzigartige Erlebnisse
+:::
+:::
+::: {.column width="16%"}
+::: {.callout-tip icon="false"}
+### Image-Verbesserung
+:::
+:::
+:::
+
+<div style="position: relative; margin-top: 1%;">
+  
+::: {.columns}
+::: {.column width="3%"}
+:::
+::: {.column width="47%"}
+::: {.callout-tip icon="false" .nonincremental}
+
+#### Finanzielle Zuschüsse vom Bund und Land
+  Beim Zuschlag für die Ausrichtung der Spiele werden Bund und Land zusätzliche Finanzmittel bereitstellen, die die Stadtentwicklung beschleunigen und die Kommunalfinanzen entlasten.
+:::
+:::
+::: {.column width="50%"}
+:::
+:::
+</div>
+
+<!-- CSS Arrows -->
+<div style="position: relative; height: 0px; margin-top: -298px;">
+  <!-- Arrow to "Stadtentwicklung"  -->
+  <div style="position: absolute; left: 20%; top: -12px; width: 2px; height: 181px; background: green; transform: rotate(293deg);"></div>
+  <div style="position: absolute; left: 11%; top: 35px; width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 12px solid green; transform: rotate(293deg);"></div>
+
+  <!-- Arrow to "Breitensport" -->
+  <div style="position: absolute; left: 27.8%; top: 72px; width: 2px; height: 43px; background: green; transform: rotate(356deg);"></div>
+  <div style="position: absolute; left: 27%; top: 65px; width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 12px solid green; transform: rotate(356deg);"></div>
+
+  <!-- Arrow to "Inklusion" (3rd box) -->
+  <div style="position: absolute; left: 35%; top: -62px; width: 2px; height: 205px; background: green; transform: rotate(45deg);"></div>
+  <div style="position: absolute; left: 41%; top: -35px; width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 12px solid green; transform: rotate(45deg);"></div>
+</div>
+
+<div style="position: relative; margin-top: 32%;">
+
+::: {.fragment}
+#### Weitere mögliche positive Konsequenzen
+
+::: {.columns}
+::: {.column width="25%"}
+::: {.callout-tip icon="false"}
+### [Stärkung sozialen Zusammenhalts]{style="color:#99d8c9"}
+:::
+:::
+::: {.column width="3%"}
+:::
+::: {.column width="25%"}
+::: {.callout-tip icon="false"}
+### [Aufbruchstimmung und Mut zu Neuem]{style="color:#99d8c9"} 
+:::
+:::
+:::
+:::
+
+</div>
+
+<!-- Alte Darstellungsweisen (Listen- und Graphik-Tab mit Blöcken)
+## Ergebnis 1.1: Beitragende Pro-Gründe
+::: {.panel-tabset}
+### Liste der Pro-Gründe
+
+::: {.panel-tabset}
+#### Stadtentwicklungsprojekte
+
+::: {.callout-tip icon="false" collapse="true" .nonincremental style="position: fixed; top: 230px; left: 0px; width: 34%"}
+##### Neuer Wohnraum 
+Bei einem Zuschlag für die Olympischen Spielen wird in München zusätzlicher Wohnraum geschaffen, der ohne die Austragung der Spiele nicht oder nur viel später geschaffen werden würde: 4000 Wohnungen im neuen Olympischen Dorf.
+
+:::
+
+::: {.callout-tip icon="false" collapse="true" .nonincremental style="position: fixed; top: 230px; left: 34.5%; width: 38%"}
+##### Verbesserung der städtischen Mobilität 
+Bei einem Zuschlag für die Olympischen Spielen werden zahlreiche Mobilitätsprojekte realisiert, die sonst nicht oder viel später realisiert werden würden: Ausbau des öffentlichen Nahverkehrs (Ausbau U4, U9, S-Bahn-Ringschluss Nord), Radschnellwege, Mobility Hubs.
+:::
+
+::: {.callout-tip icon="false" collapse="true" .nonincremental style="position: fixed; top: 230px; left: 73%; width: 27%"}
+##### Sanierung von Sportstätten
+Bei einem Zuschlag für die Olympischen Spielen in München werden Sport- und Freizeitstätten saniert und ausgebaut, die von der Öffentlichkeit genutzt werden können. 
+:::
+
+::: {.callout-tip icon="false" collapse="true" .nonincremental style="position: fixed; top: 500px; left: 0px; width: 49%"}
+##### Ausbau einer barrierefreien Stadt 
+Bei einem Zuschlag für die Olympischen Spielen in München wird die Barrierefreiheit in der Stadt konsequent umgesetzt.
+:::
+
+::: {.callout-tip icon="false" collapse="true" .nonincremental style="position: fixed; top: 500px; left: 51%; width: 49%"}
+##### Realisierung von Renaturierungs- und Klimaanpassungsmaßnahmen 
+Bei einem Zuschlag für die Olympischen Spielen in München werden Renaturierungs- und Klimaanpassungsmaßnahmen umgesetzt, die sonst nicht in der Frist realisiert werden würden.
+:::
+
+#### Weitere positive Konsequenzen
+:::
+
+### Graphische Darstellung
+
+:::
+
+
+## Ergebnis 1.1: Beitragende Pro-Gründe
+
+::: {.panel-tabset}
+### Liste der Pro-Gründe
+::: {.callout-tip icon="false" collapse="true" .nonincremental}
+#### Realisierung wichtiger Stadtentwicklungsprojekte
+
+* **Neuer Wohnraum**: Bei einem Zuschlag für die Austragung von Olympischen Spielen in München wird zusätzlicher Wohnraum in München geschaffen, der ohne die Austragung der Spiele nicht oder nur viel später geschaffen werden würde: 4000 Wohnungen im neuen Olympischen Dorf.
+  * (Stützender Grund): **Finanzielle Zuschüsse vom Bund und Land**: Durch eine Olympia-Bewerbung werden zusätzliche Finanzmittel fließen, die sonst nicht verfügbar wären. Diese Gelder sollen die Stadtentwicklung beschleunigen und die Kommunalfinanzen entlasten.
+
+* **Verbesserung der städtischen Mobilität**: Bei einem Zuschlag für die Austragung von Olympischen Spielen in München werden zahlreiche Mobilitätsprojekte realisiert, die sonst nicht oder viel später realisiert werden würden: Ausbau des öffentlichen Nahverkehrs (Ausbau U4, U9, S-Bahn-Ringschluss Nord), Radschnellwege, Mobility Hubs.
+  * **Finanzielle Zuschüsse vom Bund und Land**
+
+* **Sanierung von Sportstätten**: Bei einem Zuschlag für die Austragung von Olympischen Spielen in München werden Sport- und Freizeitstätten saniert und ausgebaut, die von der Öffentlichkeit genutzt werden können. 
+  * **Finanzielle Zuschüsse vom Bund und Land**
+
+* **Ausbau einer barrierefreien Stadt**: Bei einem Zuschlag für die Austragung von Olympischen Spielen in München wird die Barrierefreiheit in der Stadt konsequent umgesetzt.
+  * **Finanzielle Zuschüsse vom Bund und Land**
+
+* **Realisierung von Renaturierungs- und Klimaanpassungsmaßnahmen**: Bei einem Zuschlag für die Austragung von Olympischen Spielen in München werden Renaturierungs- und Klimaanpassungsmaßnahmen umgesetzt, die sonst nicht in der Frist realisiert werden würden.
+  * **Finanzielle Zuschüsse vom Bund und Land**
+:::
+
+::: {.callout-tip icon="false" collapse="true" .nonincremental}
+#### Weitere positive Konsequenzen von Olympischen Spielen in der Stadt
+
+* **Stärkung lokaler Wirtschaft**: Von der Ausrichtung von Olympischen Spielen in München profitieren lokale Unternehmen durch zusätzlich erzeugte Nachfrage.
+
+* **Unterstützung Breitensports**: Breitensport erhält durch die Ausrichtung der Olympischen Spiele größeren Zulauf als ohne ihre Ausrichtung. 
+  * **Ausbau der Infrastruktur in Kombination mit öffentlicher Aufmerksamkeit für Sport**: durch den Ausbau der Sport- und Freizeit-Infrastruktur wird ermöglicht, dass mehr Menschen an Sportaktivitäten teilhaben und durch die öffentliche Aufmerksamkeit für Olympische Spiele werden auch mehr Menschen zu sportlichen Aktivitäten motiviert.
+
+* **Stärkung Gesellschaftlichen Zusammenhalts**: Die Ausrichtung von Olympischen Spielen in München "schafft einen Schulterschluss in der Gesellschaft und erzeugt ein Miteinander". 
+
+* **Einzigartige Erlebnisse für Stadtbewohner\*innen**: Ausrichtung von Olympischen Spielen in München schafft einzigartige emotionale Erlebnisse in der Stadt.
+:::
+
+### Graphische Darstellung
+```{=html}
+<iframe src="./arg-rekos/pro-olympia-gruende.html" width="100%" height="500px">
+</iframe>
+```
+
+:::
+-->
+
+## Sortierung der Contra-Gesichtspunkte {auto-animate="true"}
+
+::: {.columns}
+::: {.column width="40%" .nonincremental .highlight-red}
+* **Olympia kostet Milliarden**: Seit 1960 hat keine Ausrichterstadt das geplante Olympia-Budget eingehalten, sagen die Gegner\*innen. Zuletzt scherte Paris aus: Statt wie vorgesehen 2,4 Milliarden kostete Olympia 2024 etwa sechs Milliarden Euro.
+
+* **Bewerbung verschlingt Millionen**
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="55%" .nonincremental .fragment}
+* Dass die Ausrichtung von Olympischen Spielen mit Kosten verbunden ist, ist kein Einwand gegen die Ausrichtung. 
+* Hier ist ein Vorschlag, wie der Einwand wohlwollend interpretiert werden kann:
+  * Olympia-Spiele kosten unverhältnismäßig viel
+  * Durchführung der Olympia-Spiele birgt finanzielle Risiken
+:::
+:::
+
+
+## Sortierung der Contra-Gesichtspunkte {auto-animate="true" visibility="uncounted"}
+
+::: {.columns}
+::: {.column width="49%"}
+::: {.callout-important icon="false" .nonincremental}
+### Olympia-Spiele kosten unverhältnismäßig viel
+* **zusätzliche Kosten für den Haushalt**: für die Bewerbung und die Durchführung der Spiele werden den Haushalt der Stadt München trotz der Finanzzuschüsse von Land und Bund derart belasten, dass wichtigere städtische Aufgaben nicht oder nicht rechtzeitig realisiert werden. 
+* **Finanzrisiken**: Es besteht die Gefahr, dass die tatsächlichen Kosten für die Durchführung der Olympischen Spiele höher ausfallen werden als geschätzt und dass sie von der Stadt München getragen werden müssen.
+:::
+:::
+:::
+
+::: {style="width: 60%" .fragment .nonincremental}
+* **Das IOC ist kein fairer Partner**: Städte, die Olympische Spiele ausrichten, müssen Verträge unterzeichnen, die dem IOC umfassende Rechte einräumen -- etwa bei der Nutzung öffentlicher Flächen, der Werbung oder der Sicherheit. Diese Verträge können die Stadt daran hindern, die Spiele so auszurichten, wie sie sie ursprünglich geplant haben. 
+:::
+
+## Sortierung der Contra-Gesichtspunkte {auto-animate="true" visibility="uncounted"}
+
+::: {.columns}
+::: {.column width="49%"}
+::: {.callout-important icon="false" .nonincremental}
+### Olympia-Spiele kosten unverhältnismäßig viel
+* zusätzliche Kosten für den Haushalt 
+* Finanzrisiken  
+:::
+
+:::
+::: {.column width="2%"}
+:::
+::: {.column width="49%"}
+::: {.callout-important icon="false"}
+### Gefahr einer Abhängigkeit vom IOC -- einem unfairen Partner
+Städte, die Olympische Spiele ausrichten, müssen Verträge unterzeichnen, die dem IOC umfassende Rechte einräumen -- etwa bei der Nutzung öffentlicher Flächen, der Werbung oder der Sicherheit. Diese Verträge können die Stadt daran hindern, die Spiele so auszurichten, wie sie sie ursprünglich geplant haben. 
+:::
+:::
+:::
+
+## Sortierung der Contra-Gesichtspunkte {auto-animate="true" visibility="uncounted"}
+
+::: {.columns}
+::: {.column width="49%"}
+::: {.callout-important icon="false" .nonincremental}
+### Olympia-Spiele kosten unverhältnismäßig viel
+* zusätzliche Kosten für den Haushalt 
+* Finanzrisiken 
+:::
+
+:::
+::: {.column width="2%"}
+:::
+::: {.column width="49%"}
+::: {.callout-important icon="false"}
+### Gefahr einer Abhängigkeit vom IOC -- einem unfairen Partner
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="49%" .nonincremental .fragment .highlight-red}
+* **Stadtentwicklung leidet**: München braucht bezahlbare Wohnungen und einen funktionierenden Nahverkehr – heute, nicht erst zu Olympia. 
+
+* **Wohnungen jetzt – nicht erst 2036 oder später**
+
+* **Wettkampfstätten**: Sie sind teuer, temporär, verschwenderisch: Viele Sportarenen werden nur für die Spiele errichtet und danach abgebaut. 
+:::
+::: {.column width="2%"}
+:::
+::: {.column width="49%" .fragment .nonincremental}
+* Diese Einwürfe stellen keinen weiteren Einwand dar
+* Vielmehr erläutern sie, warum die Ausrichtung der Olympischen Spiele für die Gegner\*innen als unverhältnismäßig teuer erscheint:
+  * Verzögerung von Stadtentwicklungsprojekten;
+  * Errichtung von temporären Anlagen
+:::
+:::
+
+## Sortierung der Contra-Gesichtspunkte {auto-animate="true" visibility="uncounted"}
+
+::: {.columns}
+::: {.column width="49%"}
+::: {.callout-important icon="false" .nonincremental}
+### Olympia-Spiele kosten unverhältnismäßig viel
+* zusätzliche Kosten für den Haushalt 
+* Finanzrisiken 
+:::
+
+:::
+::: {.column width="2%"}
+:::
+::: {.column width="49%"}
+::: {.callout-important icon="false"}
+### Gefahr einer Abhängigkeit vom IOC -- einem unfairen Partner
+:::
+:::
+:::
+
+
+::: {.columns}
+::: {.column width="49%" .nonincremental .fragment}
+* **Wirtschaftlicher Nutzen ist kurz und klein**: Der wirtschaftliche Effekt ist gering, kurzfristig und bricht nach den Spielen wieder ein, behauptet das Anti-Olympia-Bündnis. Gewinner sind vor allem die IOC-Sponsoren, nicht die lokale Wirtschaft. 
+
+:::
+::: {.column width="2%"}
+:::
+::: {.column width="49%" .fragment .nonincremental}
+* Diese Einwürfe stellen keinen zusätzlichen Einwand dar
+  * Entweder ist damit gemeint, dass die Höhe der erwarteten Gewinne den Aufwand nicht rechtfertigen;
+  * Oder es ist ein Widerspruch gegen die den Befürworter\*innen unterstellte Behauptung, die Gewinne seien hoch.
+  * Oder es handelt sich um eine Stützung der Behauptung, aus Fairness-Gründen sollte nicht mit dem IOC kooperiert werden: auch weil die Gewinne aus der Kooperation unfair verteilt werden würden.
+:::
+:::
+
+## Sortierung der Contra-Gesichtspunkte {auto-animate="true" visibility="uncounted"}
+
+::: {.columns}
+::: {.column width="38%"}
+::: {.callout-important icon="false" .nonincremental}
+### Olympia-Spiele kosten unverhältnismäßig viel
+* zusätzliche Kosten für den Haushalt 
+* Finanzrisiken 
+:::
+
+:::
+::: {.column width="2%"}
+:::
+::: {.column width="60%"}
+::: {.callout-important icon="false" .nonincremental}
+### Das IOC ist ein unfairer Partner, mit dem nicht kooperiert werden sollte
+* Gefahr einer Abhängigkeit von einem unfairen Partner: Städte, die Olympische Spiele ausrichten, müssen Verträge unterzeichnen, die dem IOC umfassende Rechte einräumen. Diese Verträge können die Stadt daran hindern, die Spiele so auszurichten, wie sie sie ursprünglich geplant haben. 
+* Unfaire Verteilung der wirtschaftlichen Einnahmen: Gewinner sind vor allem die IOC-Sponsoren, nicht die lokale Wirtschaft.
+:::
+:::
+:::
+
+::: {.columns .fragment}
+::: {.column width="49%" .fragment .nonincremental .highlight-red}
+* European Championships sind kein Maßstab: Die Championships waren erfolgreich, weil sie offen, günstig und bürgernah waren. Olympia ist das Gegenteil: abgesperrte Sicherheitszonen, hohe Ticketpreise, Kommerzialisierung und strikte Exklusivrechte für Sponsoren.
+:::
+::: {.column width="2%"}
+:::
+::: {.column width="49%" .fragment .nonincremental}
+* Die stellt keinen direkten Einwand dar:
+  * Vielmehr ist es ein Gegeneinwand gegen eine Behauptung der Befürworter*innen, gemäß der die Erfahrungen aus European Championships seien vergleichbar mit den erwarteten Erfahrungen aus den Olympischen Spielen.
+:::
+:::
+
+## Sortierung der Contra-Gesichtspunkte {auto-animate="true" visibility="uncounted"}
+
+::: {.columns}
+::: {.column width="38%"}
+::: {.callout-important icon="false" .nonincremental}
+### Olympia-Spiele kosten unverhältnismäßig viel
+* zusätzliche Kosten für den Haushalt 
+* Finanzrisiken 
+:::
+
+:::
+::: {.column width="2%"}
+:::
+::: {.column width="60%"}
+::: {.callout-important icon="false" .nonincremental}
+### Das IOC ist ein unfairer Partner, mit dem nicht kooperiert werden sollte
+* Gefahr einer Abhängigkeit vom IOC 
+* Unfaire Verteilung der Gewinne
+:::
+:::
+:::
+
+::: {.columns .fragment}
+::: {.column width="49%" .fragment .nonincremental .highlight-red}
+* München kann ohne Olympia begeistern: Konzerte, Sport, Biergärten: München ist attraktiv, lebendig, weltoffen. München-Werbung durch Olympia ist unnötig, jeder weiß, wie schön es hier ist.
+
+:::
+::: {.column width="2%"}
+:::
+::: {.column width="49%" .fragment .nonincremental}
+* Dies stellt keinen direkten Einwand dar:
+  * Vielmehr beinhaltet dies einen Gegeneinwand gegen die Behauptung der Befürworter*innen, Olympische Spiele seien erstrebenswert, weil sie das Image der Stadt verbesserten.
+:::
+:::
+
+## Sortierung der Contra-Gesichtspunkte {auto-animate="true" visibility="uncounted"}
+
+::: {.columns}
+::: {.column width="38%"}
+::: {.callout-important icon="false" .nonincremental}
+### Olympia-Spiele kosten unverhältnismäßig viel
+* zusätzliche Kosten für den Haushalt 
+* Finanzrisiken 
+:::
+
+:::
+::: {.column width="2%"}
+:::
+::: {.column width="60%"}
+::: {.callout-important icon="false" .nonincremental}
+### Das IOC ist ein unfairer Partner, mit dem nicht kooperiert werden sollte
+* Gefahr einer Abhängigkeit vom IOC 
+* Unfaire Verteilung der Gewinne
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="49%" .fragment .nonincremental}
+* **Nachhaltigkeit bleibt ein leeres Versprechen**: München müsste neu bauen, da viele Anlagen nicht mehr den IOC-Standards entsprechen.
+:::
+:::
+
+## Sortierung der Contra-Gesichtspunkte {auto-animate="true" visibility="uncounted"}
+
+::: {.columns}
+::: {.column width="30%"}
+::: {.callout-important icon="false" .nonincremental}
+### Olympia-Spiele kosten unverhältnismäßig viel
+* zusätzliche Kosten für den Haushalt 
+* Finanzrisiken 
+:::
+:::
+::: {.column width="30%"}
+::: {.callout-important icon="false" .nonincremental}
+### Das IOC ist ein unfairer Partner, mit dem nicht kooperiert werden sollte
+* Gefahr einer Abhängigkeit vom IOC 
+* Unfaire Verteilung der Gewinne
+:::
+:::
+::: {.column width="40%"}
+::: {.callout-important icon="false"}
+### Ressourcenverschwendung durch Olympische Spiele
+Ausrichtung der Spiele würde erfordern, dass temporäre Sportstätten gebaut werden.
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="60%" .fragment .nonincremental}
+* **Wohnraum wird unbezahlbar**: Olympia kurbelt, laut Kritikern, die Immobilienspekulation an und macht das Leben für Normalverdiener unerschwinglich, auch in München drohe dieser Effekt.
+
+* **Verdrängung durch Gentrifizierung**: 
+Mit Olympia komme oft die Gentrifizierung: Internationale Investoren drängen auf den Wohnungsmarkt und erschwinglicher Wohnraum verschwände. Soziale Ungleichheit könnte sich verschärfen.
+:::
+:::
+
+## Sortierung der Contra-Gesichtspunkte {auto-animate="true" visibility="uncounted"}
+
+::: {.columns}
+::: {.column width="23%"}
+::: {.callout-important icon="false" .nonincremental}
+### Olympia-Spiele kosten unverhältnismäßig viel
+* zusätzliche Kosten für den Haushalt 
+* Finanzrisiken 
+:::
+
+:::
+::: {.column width="25%"}
+::: {.callout-important icon="false" .nonincremental}
+### Das IOC ist ein unfairer Partner, mit dem nicht kooperiert werden sollte
+* Gefahr einer Abhängigkeit vom IOC 
+* Unfaire Verteilung der Gewinne
+:::
+:::
+::: {.column width="27%"}
+::: {.callout-important icon="false" .nonincremental}
+### Ressourcenverschwendung durch Olympische Spiele
+Ausrichtung der Spiele würde erfordern, dass temporäre Sportstätten gebaut werden.
+:::
+:::
+::: {.column width="25%"}
+::: {.callout-important icon="false" .nonincremental}
+### Zunahme sozialer Ungleichheiten
+Durch die Ausrichtung der Spiele in München werden die Mietpreise für Wohnungen in München steigen.
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="59%" .fragment .nonincremental .highlight-red}
+* **Kein Vorteil für den Breitensport**: Kritiker befürchten, dass trotz teurer Neubauten lokale Sportvereine kaum profitieren. Kinder fänden während der Spiele keinen Platz im Schwimmkurs, Vereine keine Hallenzeiten. Olympia bringe keine nachhaltige Förderung des Breitensports.
+:::
+::: {.column width="2%"}
+:::
+::: {.column width="39%" .nonincremental .fragment}
+* Dies stellt keinen direkten Einwand dar:
+  * Vielmehr ist es ein Gegeneinwand gegen die Behauptung der Befürworter*innen, Olympische Spiele würden Breitensport zugute kommen.
+:::
+:::
+
+## Sortierung der Contra-Gesichtspunkte {auto-animate="true" visibility="uncounted"}
+
+::: {.columns}
+::: {.column width="23%"}
+::: {.callout-important icon="false" .nonincremental}
+### Olympia-Spiele kosten unverhältnismäßig viel
+* zusätzliche Kosten für den Haushalt 
+* Finanzrisiken 
+:::
+
+:::
+::: {.column width="25%"}
+::: {.callout-important icon="false" .nonincremental}
+### Das IOC ist ein unfairer Partner, mit dem nicht kooperiert werden sollte
+* Gefahr einer Abhängigkeit vom IOC 
+* Unfaire Verteilung der Gewinne
+:::
+:::
+::: {.column width="27%"}
+::: {.callout-important icon="false" .nonincremental}
+### Ressourcenverschwendung durch Olympische Spiele
+Ausrichtung der Spiele würde erfordern, dass temporäre Sportstätten gebaut werden.
+:::
+:::
+::: {.column width="25%"}
+::: {.callout-important icon="false" .nonincremental}
+### Zunahme sozialer Ungleichheiten
+Durch die Ausrichtung der Spiele in München werden die Mietpreise für Wohnungen in München steigen.
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="59%" .fragment .nonincremental}
+* **Grüne Flächen gehen verloren**: In Daglfing soll für das Olympische Dorf Ackerboden versiegelt werden. Dort wachsen heute regionale Lebensmittel, dort leben bedrohte Tierarten. Diese ökologisch sensiblen Flächen für ein zweiwöchiges Event zu opfern, sei unverantwortlich.
+:::
+:::
+
+## Sortierung der Contra-Gesichtspunkte {auto-animate="true" visibility="uncounted"}
+
+::: {.columns}
+::: {.column width="23%"}
+::: {.callout-important icon="false" .nonincremental}
+### Olympia-Spiele kosten unverhältnismäßig viel
+* zusätzliche Kosten für den Haushalt 
+* Finanzrisiken 
+:::
+
+:::
+::: {.column width="25%"}
+::: {.callout-important icon="false" .nonincremental}
+### Das IOC ist ein unfairer Partner, mit dem nicht kooperiert werden sollte
+* Gefahr einer Abhängigkeit vom IOC 
+* Unfaire Verteilung der Gewinne
+:::
+:::
+::: {.column width="27%"}
+::: {.callout-important icon="false" .nonincremental}
+### ökologische Belastungen durch Olympische Spiele
+* Ressourcenverschwendung durch Bau temporärer Sportstätten;
+* Eingriffe in schützenswerte Naturräume
+:::
+:::
+::: {.column width="25%"}
+::: {.callout-important icon="false" .nonincremental}
+### Zunahme sozialer Ungleichheiten
+Durch die Ausrichtung der Spiele in München werden die Mietpreise für Wohnungen in München steigen.
+:::
+:::
+:::
+
+## Faktencheck: Contra-Gesichtspunkte {auto-animate="true"}
+
+::: {.columns}
+::: {.column width="23%"}
+::: {.callout-important icon="false" .nonincremental}
+### Olympia-Spiele kosten unverhältnismäßig viel
+* zusätzliche Kosten für den Haushalt 
+* Finanzrisiken 
+:::
+
+:::
+::: {.column width="25%"}
+::: {.callout-important icon="false" .nonincremental}
+### Das IOC ist ein unfairer Partner, mit dem nicht kooperiert werden sollte
+* Gefahr einer Abhängigkeit vom IOC 
+* Unfaire Verteilung der Gewinne
+:::
+:::
+::: {.column width="27%"}
+::: {.callout-important icon="false" .nonincremental}
+### ökologische Belastungen durch Olympische Spiele
+* Ressourcenverschwendung durch Bau temporärer Sportstätten;
+* Eingriffe in schützenswerte Naturräume
+:::
+:::
+::: {.column width="25%"}
+::: {.callout-important icon="false" .nonincremental}
+### [Zunahme sozialer Ungleichheiten]{style="color:#e34a33"}
+[Durch die Ausrichtung der Spiele in München werden die Mietpreise für Wohnungen in München steigen.]{style="color:#fdbb84"}
+:::
+:::
+:::
+
+## Argumentative Struktur der Contra-Gesichtspunkte {auto-animate="true"}
+
+::: {.columns}
+::: {.column width="3%"}
+:::
+::: {.column width="24%"}
+::: {.callout-important icon="false" .nonincremental}
+### Olympia-Spiele kosten unverhältnismäßig viel
+:::
+:::
+::: {.column width="3%"}
+:::
+::: {.column width="32%"}
+::: {.callout-important icon="false" .nonincremental}
+### Das IOC ist ein unfairer Partner, mit dem nicht kooperiert werden sollte
+:::
+:::
+::: {.column width="4%"}
+:::
+::: {.column width="30%"}
+::: {.callout-important icon="false" .nonincremental}
+### ökologische Belastungen durch Olympische Spiele
+:::
+:::
+::: {.column width="4%"}
+:::
+:::
+
+<div style="position: relative; margin-top: 2%;">
+
+::: {.columns}
+::: {.column width="16%"}
+::: {.callout-important icon="false"}
+### Zusätzliche Kosten für den Stadthaushalt
+:::
+:::
+::: {.column width="14%"}
+::: {.callout-important icon="false"}
+### Finanzrisiken für den Stadthaushalt
+:::
+:::
+::: {.column width="16%"}
+::: {.callout-important icon="false"}
+### Gefahr einer Abhängigkeit vom IOC
+:::
+:::
+::: {.column width="16%"}
+::: {.callout-important icon="false"}
+### Unfaire Verteilung der Gewinne
+:::
+:::
+::: {.column width="22%"}
+::: {.callout-important icon="false"}
+### Ressourcenverschwen\-dung durch temporäre Sportanlagen
+:::
+:::
+::: {.column width="16%"}
+::: {.callout-important icon="false"}
+### Eingriffe in schützenswerte Natur
+:::
+:::
+:::
+</div>
+
+<!-- CSS Arrows -->
+<div style="position: relative; height: 0px; margin-top: -226px;">
+  <!-- Arrow from "Zusätzliche Kosten" to "kosten viel"  -->
+  <div style="position: absolute; left: 10%; top: 22px; width: 2px; height: 102px; background: green; transform: rotate(40deg);"></div>
+  <div style="position: absolute; left: 12.5%; top: 30px; width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 12px solid green; transform: rotate(40deg);"></div>
+
+  <!-- Arrow from "Finanzrisiken" to "kosten viel" -->
+  <div style="position: absolute; left: 20%; top: 22px; width: 2px; height: 102px; background: green; transform: rotate(320deg);"></div>
+  <div style="position: absolute; left: 16.35%; top: 30px; width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 12px solid green; transform: rotate(320deg);"></div>
+
+  <!-- Arrow from "Gefahr einer Abhängigkeit" to "unfairer Partner" -->
+  <div style="position: absolute; left: 40%; top: 48px; width: 2px; height: 75px; background: green; transform: rotate(45deg);"></div>
+  <div style="position: absolute; left: 42%; top: 52px; width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 12px solid green; transform: rotate(45deg);"></div>
+
+  <!-- Arrow from "Unfaire Verteilung" to "unfairer Partner" -->
+  <div style="position: absolute; left: 50.4%; top: 48px; width: 2px; height: 75px; background: green; transform: rotate(315deg);"></div>
+  <div style="position: absolute; left: 47%; top: 52px; width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 12px solid green; transform: rotate(315deg);"></div>
+
+  <!-- Arrow from "Ressourcenverschwendung" to "ökologische Belastungen"  -->
+  <div style="position: absolute; left: 77%; top: 22px; width: 2px; height: 102px; background: green; transform: rotate(40deg);"></div>
+  <div style="position: absolute; left: 79.5%; top: 30px; width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 12px solid green; transform: rotate(40deg);"></div>
+
+  <!-- Arrow from "Eingriffe in Natur" to "ökologische Belastungen" -->
+  <div style="position: absolute; left: 88%; top: 22px; width: 2px; height: 102px; background: green; transform: rotate(320deg);"></div>
+  <div style="position: absolute; left: 84.35%; top: 30px; width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 12px solid green; transform: rotate(320deg);"></div>
+</div>
+
+<div style="position: relative; margin-top: 23%;">
+
+::: {.fragment}
+**Weitere mögliche Konsequenzen**
+
+::: {.column width="33%"}
+::: {.callout-important icon="false"}
+### [Zunahme sozialer Ungleichheiten]{style="color:#e34a33"}
+:::
+:::
+:::
+</div>
+
+<div style="position: relative; margin-top: 1%;">
+
+::: {.fragment}
+**Widersprüche zu Pro-Behauptungen**
+
+::: {.columns}
+::: {.column width="25%"}
+::: {.callout-important icon="false"}
+### Gewinne für die lokale Wirtschaft gering und von kurzer Dauer
+:::
+:::
+::: {.column width="25%"}
+::: {.callout-important icon="false"}
+### Erfahrungen bisheriger Sportgroßveranstaltungen nicht übertragbar auf Olympia
+:::
+:::
+::: {.column width="25%"}
+::: {.callout-important icon="false"}
+### München braucht keine zusätzlichen Image-Kampagnen
+:::
+:::
+::: {.column width="25%"}
+::: {.callout-important icon="false"}
+### Keine Vorteile für den Breitensport durch die Olympische Spiele
+:::
+:::
+:::
+:::
+
+</div>
+
+<!-- Lliste und Graphik der Contra-GEsichtspunkte
+## Ergebnis 1.2: Beitragende Contra-Gründe
+
+::: {.panel-tabset}
+### Liste der Contra-Gründe
+::: {.callout-important icon="false" collapse="true" .nonincremental}
+#### Kosten und Finanzrisiken
+
+* **Hohe Kosten für temporäre Olympia-Infrastruktur**: Obwohl München über viele Sportstätten verfügt, werden für die Olympia-Ausrichtung bestehende Sportstätten auf Olympia-Niveau ausgebaut werden müssen. Trotz der finanziellen Zuschüsse wird dieser Ausbau den Stadthaushalt stark belasten und wichtigere Projekte aufschieben.
+
+* **Finanzrisiken**: Es besteht die Gefahr, dass die tatsächlichen Kosten für die Durchführung der Olympischen Spiele höher ausfallen werden als geschätzt und dass sie von der Stadt München getragen werden müssen. 
+:::
+
+::: {.callout-important icon="false" collapse="true" .nonincremental}
+#### Langfristige negative Auswirkungen
+
+* **Eingriffe in die schützenswerte Natur und Umwelt**: Für die Spiele könnten wertvolle Naturflächen zerstört oder beeinträchtigt werden, beispielsweise Versiegelung des Ackerbodens in Daglfing für das Olympische Dorf. 
+
+* **Negative soziale Folgen**: Gentrifizierung, Gefahr, dass die geplanten Wohnungen teuer vermietet werden. 
+:::
+
+::: {.callout-important icon="false" collapse="true" .nonincremental}
+## Das IOC kein fairer Partner
+
+* **Risiko einer "Geiselnahme" durch das IOC**: Städte, die Olympische Spiele ausrichten, müssen Verträge unterzeichnen, die dem IOC umfassende Rechte einräumen -- etwa bei der Nutzung öffentlicher Flächen, der Werbung oder der Sicherheit. Diese Verträge können die Stadt daran hindern, die Spiele so auszurichten, wie sie sie ursprünglich geplant haben.
+:::
+
+### Graphische Darstellung
+```{=html}
+<iframe src="./arg-rekos/contra-olympia-gruende.html" width="100%" height="500px">
+</iframe>
+```
+
+:::
+-->
+
+# Schritt 2: Interpretation der Kontroverse
+
+## Dialektische Lage im Lichte der vorgebrachten Pros und Cons{auto-animate="true" visibility="hidden"}
+
+```{=html}
+<iframe src="./arg-rekos/dialektik-pro-con-gesichtspunkte-hierarchisch.html" width="100%" height="400px">
+</iframe>
+```
+
+
+## Dialektische Lage im Lichte der vorgebrachten Pros und Cons{auto-animate="true" visibility="uncounted"}
+
+```{=html}
+<iframe src="./arg-rekos/dialektik-pro-con-gesichtspunkte-v2.html" width="100%" height="400px">
+</iframe>
+```
+
+## Interpretation der Dialektik
+
+::: {.nonincremental}
+
+Einige der vorgebrachten Pro- und Kontra-Gründe sind umstritten:
+  
+  * Beispielsweise [wenden die Gegner\*innen ein]{style="color: #FFA44F;"}, Olympische Spiele würden zu unverhältnismäßig hohen ökologischen Belastungen führen. Dem [widersprechen jedoch die Befürworter\*innen]{style="color: #2ca25f;"}: nach ihren Planungen sollen die Spiele in Einklang mit den Zielen Nachhaltiger Entwicklung durchgeführt werden und unverhältnismäßige Ressourcennutzung oder Bodenversiegelung vermieden werden
+  * Beispielsweise [führen die Befürworter\*innen an]{style="color: #2ca25f;"}, die Ausrichtung der Spiele würde das Image der Stadt verbessern. Dagegen [wenden die Gegner\*innen ein]{style="color: #FFA44F;"}, dass eine Imageverbesserung für München gar nicht erforderlich sei.
+
+Mehrere der vorgebrachten Gründe dafür und dagegen sind aber unstrittig. Darauf konzentrieren wir uns:
+:::
+
+::: {.columns}
+::: {.column width="5%"}
+:::
+::: {.column width="90%"}
+<div style="text-align: center; color: red;">
+Mit welchen Argumenten kann eine Zustimmung oder eine Ablehnung der Olympia-Bewerbung begründet werden, angesichts dessen, dass einige Gesichtspunkte dafür, andere jedoch dagegen sprechen?
+</div>
+:::
+::: {.column width="5%"}
+:::
+:::
+
+
+
+## Dialektik angesichts unstrittiger Pro- und Kontra-Gründe{auto-animate="true"}
+
+::: {.panel-tabset}
+### Dialektik
+
+<div style="position: relative; margin-top: 3%;">
+
+::: {.columns}
+::: {.column width="10%"}
+:::
+::: {.column width="36%"}
+::: {.callout-tip icon="false"}
+#### Pro-Olympia-Bewerbung
+Die Stadt München sollte sich um die Ausrichtung der Olympischen Spiele 2036/40/44 bewerben.
+:::
+:::
+::: {.column width="10%"}
+:::
+::: {.column width="40%"}
+::: {.callout-important icon="false"}
+#### Gegen-Olympia-Bewerbung
+Die Stadt München sollte sich nicht um die Ausrichtung der Olympischen Spiele 2036/40/44 bewerben.
+:::
+:::
+::: {.column width="4%"}
+:::
+:::
+</div>
+
+<div style="position: relative; margin-top: 3%;">
+
+::: {.columns}
+::: {.column width="15%"}
+::: {.callout-tip icon="false"}
+#### Förderung der Stadtent\-wicklung
+:::
+:::
+::: {.column width="14%"}
+::: {.callout-tip icon="false"}
+#### Verbesserung der Inklusion
+:::
+:::
+::: {.column width="15%"}
+::: {.callout-tip icon="false"}
+#### Kurzfristige Wirtschafts\-gewinne
+:::
+:::
+::: {.column width="13%"}
+::: {.callout-tip icon="false"}
+#### Einzigartige Erlebnisse
+:::
+:::
+::: {.column width="4%"}
+:::
+::: {.column width="21%"}
+::: {.callout-important icon="false"}
+#### Unverhältnismäßig hohe Kosten und Finanzrisiken
+:::
+:::
+::: {.column width="18%"}
+::: {.callout-important icon="false"}
+#### Das IOC ist ein unfairer Partner
+:::
+:::
+:::
+
+</div>
+
+<!-- CSS Arrows -->
+<div style="position: relative; height: 0px; margin-top: -226px;">
+  <!-- Arrow from "Förderung" to "pro-olymp"  -->
+  <div style="position: absolute; left: 18%; top: -37px; width: 2px; height: 235px; background: green; transform: rotate(75deg);"></div>
+  <div style="position: absolute; left: 28.6%; top: 42px; width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 12px solid green; transform: rotate(75deg);"></div>
+
+  <!-- Arrow from "Inklusion" to "pro" -->
+  <div style="position: absolute; left: 26%; top: 20px; width: 2px; height: 120px; background: green; transform: rotate(58deg);"></div>
+  <div style="position: absolute; left: 30%; top: 42px; width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 12px solid green; transform: rotate(58deg);"></div>
+
+  <!-- Arrow from "Wirtschaftsgewinne" to "pro" -->
+  <div style="position: absolute; left: 34%; top: 32px; width: 2px; height: 92px; background: green; transform: rotate(315deg);"></div>
+  <div style="position: absolute; left: 30.5%; top: 42px; width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 12px solid green; transform: rotate(315deg);"></div>
+
+  <!-- Arrow from "Erlebnisse" to "pro" -->
+  <div style="position: absolute; left: 42%; top: -10px; width: 2px; height: 180px; background: green; transform: rotate(290deg);"></div>
+  <div style="position: absolute; left: 33%; top: 42px; width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 12px solid green; transform: rotate(290deg);"></div>
+
+  <!-- Arrow from "hohe Kosten" to "Gegen-Olympia"  -->
+  <div style="position: absolute; left: 74.2%; top: 30px; width: 2px; height: 98px; background: green; transform: rotate(50deg);"></div>
+  <div style="position: absolute; left: 77%; top: 42px; width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 12px solid green; transform: rotate(50deg);"></div>
+
+  <!-- Arrow from "IOC unfair" to "Gegen-Olympia" -->
+  <div style="position: absolute; left: 88%; top: 30px; width: 2px; height: 98px; background: green; transform: rotate(310deg);"></div>
+  <div style="position: absolute; left: 83.8%; top: 42px; width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 12px solid green; transform: rotate(310deg);"></div>
+</div>
+
+
+### ArgDown-Graphik
+```{=html}
+<iframe src="./arg-rekos/dialektik-unstrittig.html" width="100%" height="400px">
+</iframe>
+```
+:::
+
+## Dialektik angesichts unstrittiger Pro- und Kontra-Gründe{auto-animate="true" visibility="uncounted"}
+
+::: {.panel-tabset}
+### Das Argumentations-Puzzle: Struktur
+
+::: {.columns}
+::: {.column width="10%"}
+:::
+::: {.column width="36%"}
+::: {.callout-tip icon="false"}
+#### Pro-Olympia-Bewerbung
+:::
+:::
+::: {.column width="10%"}
+:::
+::: {.column width="40%"}
+::: {.callout-important icon="false"}
+#### Gegen-Olympia-Bewerbung
+:::
+:::
+::: {.column width="4%"}
+:::
+:::
+
+::: {.fragment .nonincremental}
+::: {.columns}
+::: {.column width="50%"}
+::: {.callout-tip icon="false"}
+#### Pro-Argument?
+Wie sieht ein Argument aus, das
+
+* im Lichte der Pro-Gesichtspunkte und
+* im Lichte von Kontra-Gesichtspunkten
+* zu schlussfolgern erlaubt, dass München sich **bewerben sollte**?
+:::
+:::
+::: {.column width="50%"}
+::: {.callout-important icon="false"}
+#### Contra-Argument?
+Wie sieht ein Argument aus, das
+
+* im Lichte der Pro-Gesichtspunkte und
+* im Lichte von Kontra-Gesichtspunkten
+* zu schlussfolgern erlaubt, dass München sich **nicht bewerben sollte**?
+:::
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="15%"}
+::: {.callout-tip icon="false"}
+#### Förderung der Stadtent\-wicklung
+:::
+:::
+::: {.column width="14%"}
+::: {.callout-tip icon="false"}
+#### Verbesserung der Inklusion
+:::
+:::
+::: {.column width="15%"}
+::: {.callout-tip icon="false"}
+#### Kurzfristige Wirtschafts\-gewinne
+:::
+:::
+::: {.column width="13%"}
+::: {.callout-tip icon="false"}
+#### Einzigartige Erlebnisse
+:::
+:::
+::: {.column width="3%"}
+:::
+::: {.column width="19%"}
+::: {.callout-important icon="false"}
+#### Unverhältnismäßig hohe Kosten und Finanzrisiken
+:::
+:::
+::: {.column width="17%"}
+::: {.callout-important icon="false"}
+#### Das IOC ist ein unfairer Partner
+:::
+:::
+:::
+
+
+
+### ArgDown-Graphik
+```{=html}
+<iframe src="./arg-rekos/dialektik-problemstruktur-unstrittig.html" width="100%" height="400px">
+</iframe>
+```
+:::
+
+
+# Schritt 3: Argument(re-)konstruktion
+
+# Schritt 3.1: Pro-Argumente
+
+## Pro-Argument: argumentative Lücke{auto-animate="true"}
+
+::: {.columns}
+::: {.column width="85%" .nonincremental}
+1. `[Pro-Gesichtspunkte]:` Die Ausrichtung der Olympischen Spiele in München würde der Stadt und ihren Bewohner\*innen folgende Vorteile bringen: Einzigartige Erlebnisse; Realisierung wichtiger Stadtentwicklungsprojekte; Ausbau der Barrierefreiheit; Mehreinnahmen bei der lokalen Wirtschaft.
+2. `[Kontra-Gesichtspunkte]:` Die Ausrichtung der Olympischen Spiele in München birgt folgende Nachteile bzw. Risiken: Kooperation mit dem IOC,einem unfairen Partner; Zusätzliche Belastungen des Stadthaushalts und Kostenrisiko.
+
+---
+
+3. `[Konklusion Pro-Olympia]:` München soll sich um die Ausrichtung bewerben.
+:::
+::: {.column width="15%"}
+<div style="position: absolute; bottom: 18%; text-align: center;">
+
+::: {.fragment style="font-size: 0.8em; color: red;"}
+aus den beiden Prämissen folgt die Konklusion nicht
+:::
+</div>
+
+:::
+:::
+
+## Pro-Argument: argumentative Lücke{auto-animate="true" visibility="uncounted"}
+
+::: {.columns}
+::: {.column width="85%" .nonincremental}
+1. `[Pro-Gesichtspunkte]:` Die Ausrichtung der Olympischen Spiele in München würde der Stadt und ihren Bewohner\*innen folgende Vorteile bringen: Einzigartige Erlebnisse; Realisierung wichtiger Stadtentwicklungsprojekte; Ausbau der Barrierefreiheit; Mehreinnahmen bei der lokalen Wirtschaft.
+2. `[Kontra-Gesichtspunkte]:` Die Ausrichtung der Olympischen Spiele in München birgt folgende Nachteile bzw. Risiken: Kooperation mit dem IOC,einem unfairen Partner; Zusätzliche Belastungen des Stadthaushalts und Kostenrisiko.
+
+[3. ???]{style="color: red;"}
+
+---
+
+4. `[Konklusion Pro-Olympia]:` München soll sich um die Ausrichtung bewerben.
+:::
+::: {.column width="15%"}
+<div style="position: absolute; bottom: 14%; text-align: center;">
+
+::: {style="font-size: 0.8em; color: red;"}
+Welche Prämissen müssen ergänzt werden, damit die Pro-Konklusion folgt?
+:::
+</div>
+
+:::
+:::
+<!--
+## Pro-Argumentation: zwei Strategien {auto-animate="true"}
+
+::: {.panel-tabset}
+### Debunking-Vorteile
+::: {.panel-tabset}
+#### Struktur des Arguments
+::: {.columns}
+::: {.column width="85%" .nonincremental}
+1. `[Pro-Gesichtspunkte]:` [Die Ausrichtung der Olympischen Spiele in München würde folgende Vorteile bringen: [...]]{style="font-size: 0.8em;"}
+2. `[Kontra-Gesichtspunkte]:` [Die Ausrichtung der Olympischen Spiele in München birgt folgende Nachteile bzw. Risiken: [...]]{style="font-size: 0.8em;"}
+
+    [<--]{style="color: red;"} <Zurückweisung der Nachteile>: Die befürchteten Nachteile werden nicht eintreten.
+
+3. `[Entscheidungsprinzip]:` Wenn eine Maßnahme große Vorteile und keine Nachteile mit sich bringt, soll die Maßnahme realisiert werden.
+
+---
+
+4. `[Konklusion Pro-Olympia]:` München soll sich um die Ausrichtung bewerben.
+:::
+::: {.column width="15%"}
+
+:::
+:::
+
+#### Graphik
+
+:::
+
+### Abwägungs-Argument
+::: {.panel-tabset}
+#### Struktur des Arguments
+::: {.columns}
+::: {.column width="85%" .nonincremental}
+1. `[Pro-Gesichtspunkte]:` [Die Ausrichtung der Olympischen Spiele in München würde folgende Vorteile bringen: [...]]{style="font-size: 0.8em;"}
+2. `[Kontra-Gesichtspunkte]:` [Die Ausrichtung der Olympischen Spiele in München birgt folgende Nachteile bzw. Risiken: [...]]{style="font-size: 0.8em;"}
+3. `[Entscheidungsprinzip: Abwägung]`
+
+---
+
+4. `[Konklusion Pro-Olympia]:` München soll sich um die Ausrichtung bewerben.
+:::
+::: {.column width="15%"}
+
+:::
+:::
+
+#### Graphik
+
+:::
+:::
+-->
+
+## Pro-Argumentation: Abwägung {auto-animate="true"}
+
+::: {.columns}
+::: {.column width="85%" .nonincremental}
+1. `[Pro-Gesichtspunkte]:` [Die Ausrichtung der Olympischen Spiele in München würde folgende Vorteile bringen: [...]]{style="font-size: 0.8em;"}
+2. `[Kontra-Gesichtspunkte]:` [Die Ausrichtung der Olympischen Spiele in München birgt folgende Nachteile bzw. Risiken: [...]]{style="font-size: 0.8em;"}
+3. `[Entscheidungsprinzip: Abwägung]`
+
+---
+
+4. `[Konklusion Pro-Olympia]:` München soll sich um die Ausrichtung bewerben.
+:::
+::: {.column width="15%"}
+
+:::
+:::
+
+## Pro-Argumentation: Abwägungsprinzip {auto-animate="true" visibility="uncounted" style="font-size: 0.8em;"}
+
+::: {.columns}
+::: {.column width="85%" .nonincremental}
+1. `[Pro-Gesichtspunkte]:` [Die Ausrichtung der Olympischen Spiele in München würde folgende Vorteile bringen: [...]]{style="font-size: 0.8em; color: #969696;"}
+2. `[Kontra-Gesichtspunkte]:` [Die Ausrichtung der Olympischen Spiele in München birgt folgende Nachteile bzw. Risiken: [...]]{style="font-size: 0.8em; color: #969696;"}
+3. `[Abwägungsprinzip]:`Wenn von einer Maßnahme M zu erwarten ist, dass sie sowohl erstrebenswerten Konsequenzen EK als auch zu Nachteilen N führen wird, soll die Maßnahme M genau dann durchgeführt werden, wenn gilt: 
+    i) das Herbeiführen der erwünschten Konsequenzen EK ist insgesamt besser als das Vermeiden der erwarteten Nachteile N und 
+    ii) es gibt keinen anderen Weg als M, die Vorteile EK mit geringeren Nachteilen als N zu realisieren.
+
+---
+
+4. `[Konklusion Pro-Olympia]:` München soll sich um die Ausrichtung bewerben.
+:::
+::: {.column width="15%"}
+<div style="position: absolute; bottom: 33%; text-align: center;">
+
+::: {.fragment style="font-size: 0.8em; color: red;"}
+Nun müssen zwei weitere Prämissen ergänzt werden, die die beiden Bedingungen im Abwägungsprinzip spezifizieren.
+:::
+</div>
+
+:::
+:::
+
+## Pro-Argumentation: ergänzte Prämissen {auto-animate="true" visibility="uncounted" style="font-size: 0.8em;"}
+
+::: {.columns}
+::: {.column width="85%" .nonincremental}
+1. `[Pro-Gesichtspunkte]:` [Die Ausrichtung der Olympischen Spiele in München würde folgende Vorteile bringen: [...]]{style="font-size: 0.8em; color: #969696;"}
+2. `[Kontra-Gesichtspunkte]:` [Die Ausrichtung der Olympischen Spiele in München birgt folgende Nachteile bzw. Risiken: [...]]{style="font-size: 0.8em; color: #969696;"}
+3. `[Abwägungsprinzip]:`[[...]]{style="color: #969696;"}
+4. `[Abwägung Pro-Olympia]`
+5. `[Optimalität der Olympia-Bewerbung]`
+
+---
+
+6. `[Konklusion Pro-Olympia]:` München soll sich um die Ausrichtung bewerben.
+:::
+::: {.column}
+:::
+:::
+
+
+## 1. Pro-Argument: ergänzte Prämissen {auto-animate="true" visibility="uncounted" style="font-size: 0.8em;"}
+
+::: {.columns}
+::: {.column width="85%" .nonincremental}
+1. `[Pro-Gesichtspunkte]:` [Die Ausrichtung der Olympischen Spiele in München würde folgende Vorteile bringen: [...]]{style="font-size: 0.8em; color: #969696;"}
+2. `[Kontra-Gesichtspunkte]:` [Die Ausrichtung der Olympischen Spiele in München birgt folgende Nachteile bzw. Risiken: [...]]{style="font-size: 0.8em; color: #969696;"}
+3. `[Abwägungsprinzip]:`[[...]]{style="color: #969696;"}
+4. `[Abwägung-1 Pro-Olympia]`: Trotz der benötigten Investitionen für die Ausrichtung der Olympischen Spiele, der damit verbundenen Finanzrisiken und der Risiken der Einflussnahme durch das IOC ist es insgesamt besser, die einzigartigen Erlebnisse, die mittel- bis langfristigen Vorteile aus dem Ausbau der städtischen Infrastruktur einschließlich der Barrierefreiheit sowie die zusätzlichen Gewinne für die lokale Wirtschaft zu realisieren.
+5. `[Optimalität der Olympia-Bewerbung]`: Es gibt keinen anderen Weg, mit geringeren Nachteilen als denen, die durch eine erfolgreiche Olympia-Bewerbung entstehen können, die positiven Konsequenzen für die Stadt zu realisieren, die von der Ausrichtung der Olympischen Spiele zu erwarten sind.
+
+---
+
+6. `[Konklusion Pro-Olympia]:` München soll sich um die Ausrichtung bewerben.
+:::
+::: {.column width="15%"}
+<div style="position: absolute; bottom: 20%; text-align: center;">
+
+::: {.fragment style="color: red;"}
+Wie können die beiden Prämissen [Abwägung-1] und [Optimalität] begründet werden?
+:::
+</div>
+:::
+:::
+
+## 1. Pro-Argument: Begründung ergänzter Prämissen {auto-animate="true" style="font-size: 0.8em;"}
+
+::: {.nonincremental}
+
+::: {.panel-tabset}
+### Argumente für [Abwägung] und [Optimalität]
+
+1. `[Pro-Gesichtspunkte]:` [Die Ausrichtung der Olympischen Spiele in München würde folgende Vorteile bringen: [...]]{style="font-size: 0.8em; color: #969696;"}
+2. `[Kontra-Gesichtspunkte]:` [Die Ausrichtung der Olympischen Spiele in München birgt folgende Nachteile bzw. Risiken: [...]]{style="font-size: 0.8em; color: #969696;"}
+3. `[Abwägungsprinzip]:`[[...]]{style="color: #969696;"}
+4. `[Abwägung-1 Pro-Olympia]`: Trotz der benötigten Investitionen für die Ausrichtung der Olympischen Spiele, der damit verbundenen Finanzrisiken und der Risiken der Einflussnahme durch das IOC ist es insgesamt besser, die einzigartigen Erlebnisse, die mittel- bis langfristigen Vorteile aus dem Ausbau der städtischen Infrastruktur einschließlich der Barrierefreiheit sowie die zusätzlichen Gewinne für die lokale Wirtschaft zu realisieren.
+<!--    
+    [<+]{style="color: green;"} [`<Nachteile-Debunking-Argument>`: Nachteile aus der Ausrichtung Olympischer Spiele sind vernachlässigbar](#nachteile-debunking-argument)-->
+    
+    [<+]{style="color: green;"} [`<A1.1: Erwartungswert-Argument>`](#a1.1-erwartungswert-argument)
+
+5. `[Optimalität der Olympia-Bewerbung]`: Es gibt keinen anderen Weg, mit geringeren Nachteilen als denen, die durch eine erfolgreiche Olympia-Bewerbung entstehen können, die positiven Konsequenzen für die Stadt zu realisieren, die von der Ausrichtung der Olympischen Spiele zu erwarten sind.
+     
+     [<+]{style="color: green;"} [`<A1.2: Finanzielle Zuschüsse>`](#a1.2-finanzielle-zuschüsse)
+
+---
+
+6. `[Konklusion Pro-Olympia]` 
+
+### Dialektik als ArgDown-Graphik
+
+```{=html}
+<iframe src="./arg-rekos/a1-pro-dialektik.html" width="100%" height="400px">
+</iframe>
+```
+:::
+:::
+
+## 2. Pro-Argument: unter Ungewissheit {auto-animate="true"  style="font-size: 0.8em;"}
+
+::: {.columns}
+::: {.column width="85%" .nonincremental}
+1. `[Pro-Gesichtspunkte]:` [Die Ausrichtung der Olympischen Spiele in München würde folgende Vorteile bringen: [...]]{style="font-size: 0.8em; color: #969696;"}
+2. `[Kontra-Gesichtspunkte]:` [Die Ausrichtung der Olympischen Spiele in München birgt folgende Nachteile bzw. Risiken: [...]]{style="font-size: 0.8em; color: #969696;"}
+3. `[Abwägungsprinzip]:`[[...]]{style="color: #969696;"}
+4. [`[Abwägung-1 Pro-Olympia]`: Trotz der benötigten Investitionen für die Ausrichtung der Olympischen Spiele, der damit verbundenen Finanzrisiken und der Risiken der Einflussnahme durch das IOC ist es insgesamt besser, die einzigartigen Erlebnisse, die mittel- bis langfristigen Vorteile aus dem Ausbau der städtischen Infrastruktur einschließlich der Barrierefreiheit sowie die zusätzlichen Gewinne für die lokale Wirtschaft zu realisieren.]{style="color: red;"}
+5. `[Optimalität der Olympia-Bewerbung]`: Es gibt keinen anderen Weg, mit geringeren Nachteilen als denen, die durch eine erfolgreiche Olympia-Bewerbung entstehen können, die positiven Konsequenzen für die Stadt zu realisieren, die von der Ausrichtung der Olympischen Spiele zu erwarten sind.
+
+---
+
+6. `[Konklusion Pro-Olympia]:` München soll sich um die Ausrichtung bewerben.
+:::
+::: {.column width="15%"}
+<div style="position: absolute; bottom: 38%; font-size: 0.8em; text-align: center; color: red;">
+
+Wie kann die Konklusion begründet werden, wenn die Vorteile und Nachteile der Durchführung ungewiss sind?
+
+</div>
+
+:::
+:::
+
+## 2. Pro-Argument: Prinzip der Chancen-Ergreifung {auto-animate="true"  style="font-size: 0.8em"}
+
+::: {.nonincremental}
+::: {.columns}
+::: {.column width="85%"}
+
+1. `[Pro-Gesichtspunkte]:` [Die Ausrichtung der Olympischen Spiele in München würde folgende Vorteile bringen: [...]]{style="font-size: 0.8em; color: #969696;"}
+2. `[Kontra-Gesichtspunkte]:` [Die Ausrichtung der Olympischen Spiele in München birgt folgende Nachteile bzw. Risiken: [...]]{style="font-size: 0.8em; color: #969696;"}
+3. `[Prinzip der Chancenergreifung]`: Wenn in einer Entscheidungssituation der erwartete Nutzen der verfügbaren Handlungsoptionen nicht bestimmbar ist, sind die möglichen Vorteile einer Handlungsoption dann insgesamt besser als ihre möglichen Nachteile, wenn gilt: 
+
+    i. der potentielle Gewinn an gesamtgesellschaftlichem Nutzen aus der Realisierung der Handlungsoption ist signifikant höher als der maximal mögliche Verlust an gesamtgesellschaftlichem Nutzen aus der Realisierung und 
+
+    ii. die möglichen Verluste aus der Realisierung der Handlungsoption können so aufgeteilt werden, dass niemand von den die Verluste Tragenden gewichtig benachteiligt wird. 
+
+    iii. es gibt keinen anderen Weg als M, die maximal möglichen Vorteile EK mit geringeren Nachteilen als N zu realisieren.
+
+... weitere Prämissen
+
+---
+
+4. `[Konklusion Pro-Olympia]:` München soll sich um die Ausrichtung bewerben.
+:::
+
+::: {.column width="15%"}
+
+<div style="position: absolute; bottom: 23%; text-align: center; color: red; font-size: 0.8em;">
+
+::: {.fragment}
+Nun müssen vier weitere Prämissen ergänzt werden, die die Bedingungen im Entscheidungsprinzip spezifizieren.
+:::
+
+</div>
+
+:::
+:::
+:::
+
+
+## 2. Pro-Argument der Chancen-Ergreifung {auto-animate="true" style="font-size: 0.8em"}
+
+::: {.nonincremental}
+::: {.panel-tabset}
+### Rekonstruktion
+1. `[Pro-Gesichtspunkte]:` [Die Ausrichtung der Olympischen Spiele in München würde folgende Vorteile bringen: [...]]{style="font-size: 0.8em; color: #969696;"}
+2. `[Kontra-Gesichtspunkte]:` [Die Ausrichtung der Olympischen Spiele in München birgt folgende Nachteile bzw. Risiken: [...]]{style="font-size: 0.8em; color: #969696;"}
+3. `[Prinzip der Chancenergreifung]:` [[...]]{style="font-size: 0.8em; color: #969696;"}
+4. Der erwartete Nutzen der Ausrichtung der Olympischen Spiele (und der Nutzen ihrer Unterlassung) ist nicht bestimmbar.
+5. Maximal mögliche Gewinne an gesamtgesellschaftlichem Nutzen aus der Ausrichtung der Olympischen Spiele in München -- Infrastrukturausbau, Sporterlebnisse, finanzielle Gewinne -- sind höher als die maximal möglichen Verluste an gesamtgesellschaftlichen Nutzen (Kosten und Finanzrisiken, Risiken aus der Kooperation mit dem IOC).
+6. Die möglichen Verluste an gesamtgesellschaftlichem Nutzen aus der Ausrichtung der Olympischen Spiele (unerwartete finanzielle Belastungen) können, sollten sie auftreten, so aufgeteilt werden, dass dadurch niemand moralisch signifikant benachteiligt wird. 
+7. `[Optimalität der Olympia-Bewerbung]`: Es gibt keinen anderen Weg, mit geringeren Nachteilen als denen, die durch eine erfolgreiche Olympia-Bewerbung entstehen können, die positiven Konsequenzen für die Stadt zu realisieren, die von der Ausrichtung der Olympischen Spiele zu erwarten sind.
+    
+    [<+]{style="color: green;"} [`<A1.2: Finanzielle Zuschüsse>`](#a1.2-finanzielle-zuschüsse)
+
+---
+
+8. `[Konklusion Pro-Olympia]:` München soll sich um die Ausrichtung bewerben.
+
+
+### Dialektik als Graphik
+```{=html}
+<iframe src="./arg-rekos/a2-pro-dialektik.html" width="100%" height="400px">
+</iframe>
+```
+
+### Erläuterungen
+
+#### Zweck
+
+Dieses Argument begründet die Kernthese (Pro-Olympia-Bewerbung)  unter der Annahme, dass die Konsequenzen aus der Ausrichtung Olympischer Spiele unsicher sind: es ist unbekannt, wie wahrscheinlich es ist, dass die erwarteten Vorteile oder die erwarteten Nachteile eintreten. Dadurch kann der erwartete Nutzen aus der Ausrichtung nicht bestimmt werden.
+
+#### Grundidee
+
+* Das Argument unterstellt ein Prinzip für Entscheidungen, die angesichts von solch unsicheren Konsequenzen getroffen werden müssen. Die Idee:
+  * Eine Entscheidung für eine Handlung mit unsicheren, möglicherweise erstrebenswerten, möglicherweise vermeidenswerten Konsequenzen, ist dann gerechtfertigt, wenn dadurch etwas sehr Wichtiges realisiert werden kann, die möglichen Nachteile jedoch fair getragen werden können, falls sie eintreten. 
+
+#### Anmerkungen
+
+* Ich interpretiere die Empfehlungen in der Studie der MCube Consulting GmbH [(Schröder und Waldner 2025)](https://mcube-cluster.de/wp-content/uploads/2025/10/251009_MCube_Olympia_07.pdf) dahingehend, dass ihnen dieses Argument zugrunde liegt:
+
+  * Prämisse 5: die Studie schätzt den maximal möglichen gesamtwirtschaftlichen Nutzen (rund 17 Mrd nach 65 Jahren) und schlimmstenfalls mögliche Kosten (rund 4 Mrd Euro nach 65 Jahren)
+  * Prämisse 6: die Studie macht Vorschläge, wie die möglichen Nachteile vermieden werden können: Infrastrukturvorhaben mit hohen finanziellen Risiken (Bau der U9 etc.) auslassen. Diese Überlegungen können dahingehend ergänzt werden, dass Szenarien beschrieben werden, wie die nicht vermeidbaren Nachteile fair aufgeteilt werden könnten. 
+:::
+:::
+
+## 3.Pro-Argument: Nachteile-Zurückweisung {auto-animate="true" style="font-size: 0.8em;"}
+
+::: {.columns}
+::: {.column width="80%" .nonincremental}
+1. `[Pro-Gesichtspunkte]:` [Die Ausrichtung der Olympischen Spiele in München würde folgende Vorteile bringen: [...]]{style="color: #969696;"}
+2. `[Nachteile nicht signifikant]:` Die aus der Ausrichtung der Olympischen Spiele befürchteten Nachteile -- Finanzrisiken, Kooperation mit dem IOC und Ausrichtungskosten -- sind nicht gewichtig.
+3. `[Abwägungsprinzip]:`[[...]]{style="color: #969696;"}
+4. `[Abwägung-2 Pro-Olympia]`: Von der Ausrichtung der Olympischen Spiele sind signifikante Vorteile zu erwarten -- die einzigartigen Erlebnisse, die mittel- bis langfristigen Vorteile aus dem Ausbau der städtischen Infrastruktur einschließlich der Barrierefreiheit sowie die zusätzlichen Gewinne für die lokale Wirtschaft -- und die Nachteile sind nicht gewichtig. 
+5. `[Optimalität der Olympia-Bewerbung]`: [Es gibt keinen anderen Weg, mit geringeren Nachteilen als denen, die durch eine erfolgreiche Olympia-Bewerbung entstehen können, die positiven Konsequenzen für die Stadt zu realisieren, die von der Ausrichtung der Olympischen Spiele zu erwarten sind.]{style="color: #969696;"}
+
+---
+
+6. `[Konklusion Pro-Olympia]:` München soll sich um die Ausrichtung bewerben.
+:::
+::: {.column style="width:20%; position: relative; min-height: 500px;"}
+
+<div style="position: absolute; bottom: 28%; text-align: center;">
+
+::: {.fragment .fade-in-then-out style="color: red;"}
+Diese Abwägungsbehaup\-tung dürfte unkontrovers sein (im Gegensatz zu [Abwägung-1]). 
+:::
+</div>
+
+<div style="position: absolute; top: 12%; text-align: center;">
+
+::: {.fragment style="color: red;"}
+* Diese Prämisse (2) widerspricht der Prämisse [Kontra-Gesichtspunkte]. 
+* Wie lässt sie sich begründen? 
+:::
+</div>
+
+:::
+:::
+
+
+## 3.Pro-Argument: Nachteile-Zurückweisung {auto-animate="true" style="font-size: 0.8em;"}
+
+::: {.panel-tabset}
+### Argumentrekonstruktion
+::: {.columns}
+::: {.column style="width:20%; position: relative; min-height: 400px;"}
+
+<div style="position: absolute; top: 40%; left: 0; right: 0; text-align: center; color: red;">
+Befürworter*innen dieser Behauptung müssen folgende Argumente vorbringen:
+</div>
+
+:::
+::: {.column width="80%" .nonincremental}
+1. `[Pro-Gesichtspunkte]:` [Die Ausrichtung der Olympischen Spiele in München würde folgende Vorteile bringen: [...]]{style="color: #969696;"}
+2. `[Nachteile nicht signifikant]:` Die aus der Ausrichtung der Olympischen Spiele befürchteten Nachteile -- Finanzrisiken, Kooperation mit dem IOC und Ausrichtungskosten -- sind nicht gewichtig.
+
+    [<+]{style="color: green;"} [`<A3.1: Finanzrisiken sind überschaubar>`](#a3.1-3.3-nachteile-debunking-argumente)
+
+    [<+]{style="color: green;"} [`<A3.2: Ausrichtungskosten sind ohne Benachteiligungen Dritter tragbar>`](#a3.1-3.3-nachteile-debunking-argumente)
+
+    [<+]{style="color: green;"} [`<A3.3: IOC ist ein vertrauenswürdiger Kooperationspartner>`](#a3.1-3.3-nachteile-debunking-argumente)
+
+3. `[Abwägungsprinzip]:`[[...]]{style="color: #969696;"}
+4. `[Abwägung-2 Pro-Olympia]`: Von der Ausrichtung der Olympischen Spiele sind signifikante Vorteile zu erwarten -- die einzigartigen Erlebnisse, die mittel- bis langfristigen Vorteile aus dem Ausbau der städtischen Infrastruktur einschließlich der Barrierefreiheit sowie die zusätzlichen Gewinne für die lokale Wirtschaft -- und die Nachteile sind nicht gewichtig. 
+5. `[Optimalität der Olympia-Bewerbung]`: [Es gibt keinen anderen Weg, mit geringeren Nachteilen als denen, die durch eine erfolgreiche Olympia-Bewerbung entstehen können, die positiven Konsequenzen für die Stadt zu realisieren, die von der Ausrichtung der Olympischen Spiele zu erwarten sind.]{style="color: #969696;"}
+
+---
+
+6. `[Konklusion Pro-Olympia]:` München soll sich um die Ausrichtung bewerben.
+:::
+
+:::
+
+### Dialektik als Graphik
+
+```{=html}
+<iframe src="./arg-rekos/a3-pro-dialektik.html" width="100%" height="400px">
+</iframe>
+```
+:::
+
+
+
+
+## Graphik der Dialektik der Pro-Argumente
+
+```{=html}
+<iframe src="./arg-rekos/dialektik-pro-argumentation.html" width="100%" height="400px">
+</iframe>
+```
+
+# Schritt 3.2: Contra-Argumentation 
+
+## Contra-Argument: Vorgebrachte Pro- und Kontra-Gesichtspunkte {auto-animate="true"}
+
+::: {.columns}
+::: {.column width="85%" .nonincremental}
+1. `[Pro-Gesichtspunkte]:` Die Ausrichtung der Olympischen Spiele in München würde der Stadt und ihren Bewohner\*innen folgende Vorteile bringen: Einzigartige Erlebnisse; Realisierung wichtiger Stadtentwicklungsprojekte; Ausbau der Barrierefreiheit; Mehreinnahmen bei der lokalen Wirtschaft.
+2. `[Kontra-Gesichtspunkte]:` Die Ausrichtung der Olympischen Spiele in München birgt folgende Nachteile bzw. Risiken: Kooperation mit dem IOC,einem unfairen Partner; Zusätzliche Belastungen des Stadthaushalts und Kostenrisiko.
+
+---
+
+3. `[Konklusion Gegen-Olympia]:` München soll sich nicht um die Ausrichtung der Olympischen Spiele bewerben.
+:::
+::: {.column width="15%"}
+<div style="position: absolute; bottom: 10%; text-align: center;">
+
+::: {.fragment style="font-size: 0.8em; color: red;"}
+aus den beiden Prämissen folgt die Konklusion nicht
+:::
+</div>
+
+:::
+:::
+
+
+## Contra-Argument: Ergänzung eines Entscheidungsprinzips {auto-animate="true" style="font-size: 0.8em;"}
+
+::: {.columns style="min-height: 60vh;"}
+::: {.column style="width:85%;" .nonincremental}
+1. `[Pro-Gesichtspunkte]:` [Die Ausrichtung der Olympischen Spiele in München folgende Vorteile bringen: [...]]{style="color: #969696;"}
+2. `[Kontra-Gesichtspunkte]:` [Die Ausrichtung der Olympischen Spiele in München birgt folgende Nachteile bzw. Risiken: [...]]{style="color: #969696;"}
+3. `[Abwägungsprinzip]:` Wenn von einer Maßnahme M zu erwarten ist, dass sie sowohl erstrebenswerten Konsequenzen EK als auch zu Nachteilen N führen wird, soll die Maßnahme M genau dann durchgeführt werden, wenn gilt: 
+    i) das Herbeiführen der erwünschten Konsequenzen EK insgesamt besser ist als das Vermeiden der erwarteten Nachteile N und 
+    ii) es gibt keinen anderen Weg als M, die Vorteile EK mit geringeren Nachteilen als N zu realisieren.
+
+---
+
+4. `[Konklusion Gegen-Olympia]:` München soll sich nicht um die Ausrichtung der Olympischen Spiele bewerben.
+:::
+::: {.column style="width:15%; position: relative; height: 100%;"}
+
+<div style="position: absolute; top: 30%; text-align: center;">
+
+::: {.fragment style="font-size: 0.8em; color: red;"}
+Damit die `[Konklusion Gegen-Olympia]` folgt, muss gelten, dass die Bedingung (i) oder die Bedingung (ii) nicht erfüllt ist. 
+:::
+</div>
+
+:::
+:::
+
+## Contra-Argument 1: Kontra-Abwägung {auto-animate="true" style="font-size: 0.8em;"}
+
+::: {.columns}
+::: {.column width="85%" .nonincremental}
+1. `[Pro-Gesichtspunkte]:` [Die Ausrichtung der Olympischen Spiele in München folgende Vorteile bringen: [...]]{style="color: #969696;"}
+2. `[Kontra-Gesichtspunkte]:` [Die Ausrichtung der Olympischen Spiele in München birgt folgende Nachteile bzw. Risiken: [...]]{style="color: #969696;"}
+3. `[Abwägungsprinzip]` [[...]]{style="color: #969696;"}
+3. `[Abwägung Kontra-Olympia]`: Die erwarteten positiven Konsequenzen aus einer Ausrichtung von Olympischen Spielen in München überwiegen nicht die erwarteten Nachteile aus den Finanzrisiken und der unvermeidbaren Kooperation mit einem unfairen Partner.
+
+---
+
+5. `[Konklusion Gegen-Olympia]:` München soll sich nicht um die Ausrichtung der Olympischen Spiele bewerben.
+:::
+:::
+
+## Contra-Argument 1: Kontra-Abwägung {auto-animate="true" style="font-size: 0.8em;" visibility="uncounted"}
+
+::: {.panel-tabset}
+### Argumentrekonstruktion
+::: {.columns}
+::: {.column width="85%" .nonincremental}
+1. `[Pro-Gesichtspunkte]:` [Die Ausrichtung der Olympischen Spiele in München folgende Vorteile bringen: [...]]{style="color: #969696;"}
+2. `[Kontra-Gesichtspunkte]:` [Die Ausrichtung der Olympischen Spiele in München birgt folgende Nachteile bzw. Risiken: [...]]{style="color: #969696;"}
+3. `[Abwägungsprinzip]` [[...]]{style="color: #969696;"}
+3. `[Abwägung Kontra-Olympia]`: Die erwarteten positiven Konsequenzen aus einer Ausrichtung von Olympischen Spielen in München überwiegen nicht die erwarteten Nachteile aus den Finanzrisiken und der unvermeidbaren Kooperation mit einem unfairen Partner.
+
+    [<+]{style="color: green;"} [`<A4.1: Erwartungswertargument>:` Das Aggregat der erwarteten Nachteile ist höher als das Aggregat der erwarteten Vorteile](#a4.1-erwartungswert-argument-gegen-olympia)
+
+---
+
+5. `[Konklusion Gegen-Olympia]:` München soll sich nicht um die Ausrichtung der Olympischen Spiele bewerben.
+:::
+:::
+
+### Dialektik als Graphik
+
+```{=html}
+<iframe src="./arg-rekos/a4-contra-abwaegung.html" width="100%" height="400px">
+</iframe>
+```
+
+:::
+
+## Contra-Argument 2: Bessere Alternative{auto-animate="true" style="font-size: 0.8em;"}
+
+::: {.columns}
+::: {.column width="85%" .nonincremental}
+1. `[Pro-Gesichtspunkte]:` [Die Ausrichtung der Olympischen Spiele in München folgende Vorteile bringen: [...]]{style="color: #969696;"}
+2. `[Kontra-Gesichtspunkte]:` [Die Ausrichtung der Olympischen Spiele in München birgt folgende Nachteile bzw. Risiken: [...]]{style="color: #969696;"}
+3. `[Abwägungsprinzip]` [Wenn von einer Maßnahme M zu erwarten ist, dass sie sowohl erstrebenswerten Konsequenzen EK als auch zu Nachteilen N führen wird, soll die Maßnahme M genau dann durchgeführt werden, wenn gilt:]{style="color: #969696;"}
+
+    [i) das Herbeiführen der erwünschten Konsequenzen EK insgesamt besser ist als das Vermeiden der erwarteten Nachteile N und]{style="color: #969696;"}
+    ii) es gibt keinen anderen Weg als M, die Vorteile EK mit geringeren Nachteilen als N zu realisieren.
+
+---
+
+5. `[Konklusion Gegen-Olympia]:` München soll sich nicht um die Ausrichtung der Olympischen Spiele bewerben.
+:::
+:::
+
+## Contra-Argument 2: Bessere Alternative{auto-animate="true" visibility="uncounted" style="font-size: 0.8em;"}
+
+::: {.columns}
+::: {.column width="85%" .nonincremental}
+1. `[Pro-Gesichtspunkte]:` [Die Ausrichtung der Olympischen Spiele in München folgende Vorteile bringen: [...]]{style="color: #969696;"}
+2. `[Kontra-Gesichtspunkte]:` [Die Ausrichtung der Olympischen Spiele in München birgt folgende Nachteile bzw. Risiken: [...]]{style="color: #969696;"}
+3. `[Abwägungsprinzip]` [Wenn von einer Maßnahme M zu erwarten ist, dass sie sowohl erstrebenswerten Konsequenzen EK als auch zu Nachteilen N führen wird, soll die Maßnahme M genau dann durchgeführt werden, wenn gilt:]{style="color: #969696;"}
+
+    [i) das Herbeiführen der erwünschten Konsequenzen EK insgesamt besser ist als das Vermeiden der erwarteten Nachteile N und]{style="color: #969696;"}
+  
+    ii) es gibt keinen anderen Weg als M, die Vorteile EK mit geringeren Nachteilen als N zu realisieren.
+4. `[Bessere Alternative]:` Wenn die Stadt München die Infrastrukturvorhaben, die sie im Zuge der Olympia-Ausrichtung realisieren will, vollständig selbst finanziert, hat sie insgesamt geringere Nachteile zu tragen als durch ihre Realisierung mittels Olympia-Ausrichtung, auch wenn dadurch auf einmalige Erlebnisse verzichtet wird.
+
+---
+
+5. `[Konklusion Gegen-Olympia]:` München soll sich nicht um die Ausrichtung der Olympischen Spiele bewerben.
+:::
+:::
+
+## Contra-Argument 2: Bessere Alternative{auto-animate="true" style="font-size: 0.8em;" visibility="uncounted"}
+
+::: {.panel-tabset}
+### Rekonstruktion
+
+::: {.columns}
+::: {.column width="85%" .nonincremental}
+1. `[Pro-Gesichtspunkte]:` [Die Ausrichtung der Olympischen Spiele in München folgende Vorteile bringen: [...]]{style="color: #969696;"}
+2. `[Kontra-Gesichtspunkte]:` [Die Ausrichtung der Olympischen Spiele in München birgt folgende Nachteile bzw. Risiken: [...]]{style="color: #969696;"}
+3. `[Abwägungsprinzip]` [[...]]{style="color: #969696;"}
+4. `[Bessere Alternative]:` Wenn die Stadt München die Infrastrukturvorhaben, die sie im Zuge der Olympia-Ausrichtung realisieren will, vollständig selbst finanziert, hat sie insgesamt geringere Nachteile zu tragen als durch ihre Realisierung mittels Olympia-Ausrichtung, auch wenn dadurch auf einmalige Erlebnisse verzichtet wird.
+    
+    [<+]{style="color: green;"} [`<A5.1: Infrastrukturausbau unabhängig von Olympia>`: Es ist besser für die Stadt München, ihre Infrastrukturmaßnahmen selbst zu finanzieren.](#a5.1-infrastrukturausbau-unabhängig-von-olympia)
+
+---
+
+5. `[Konklusion Gegen-Olympia]:` München soll sich nicht um die Ausrichtung der Olympischen Spiele bewerben.
+:::
+:::
+
+### Dialektik als Graphik
+
+
+```{=html}
+<iframe src="./arg-rekos/A5-contra-alternativen.html" width="100%" height="400px">
+</iframe>
+```
+
+:::
+
+
+## 3. Contra-Argument: unter Ungewissheit {auto-animate="true" style="font-size: 0.8em;"} 
+
+
+::: {.columns}
+::: {.column width="85%" .nonincremental}
+1. `[Pro-Gesichtspunkte]:` [Die Ausrichtung der Olympischen Spiele in München würde folgende Vorteile bringen: [...]]{style="font-size: 0.8em; color: #969696;"}
+2. `[Kontra-Gesichtspunkte]:` [Die Ausrichtung der Olympischen Spiele in München birgt folgende Nachteile bzw. Risiken: [...]]{style="font-size: 0.8em; color: #969696;"}
+3. `[Abwägungsprinzip]:`[[...]]{style="color: #969696;"}
+4. [`[Abwägung Kontra-Olympia]`: Die erwarteten positiven Konsequenzen aus einer Ausrichtung von Olympischen Spielen in München überwiegen nicht die erwarteten Nachteile aus den Finanzrisiken und der unvermeidbaren Kooperation mit einem unfairen Partner.]{style="color: red;"}
+5. [`[Bessere Alternative]:` Wenn die Stadt München die Infrastrukturvorhaben, die sie im Zuge der Olympia-Ausrichtung realisieren will, vollständig selbst finanziert, hat sie insgesamt geringere Nachteile zu tragen als durch ihre Realisierung mittels Olympia-Ausrichtung, auch wenn dadurch auf einmalige Erlebnisse verzichtet wird.]{style="color: red;"}
+
+---
+
+6. `[Konklusion Gegen-Olympia]:` München soll sich nicht um die Ausrichtung der Olympischen Spiele bewerben.
+:::
+::: {.column width="15%"}
+<div style="position: absolute; bottom: 20%; font-size: 0.8em; text-align: center; color: red;">
+
+Wie kann die Konklusion begründet werden, wenn die Vorteile und Nachteile der Durchführung ungewiss sind, und damit die Prämissen (4) und (5) nicht begründbar?
+
+</div>
+
+:::
+:::
+
+
+
+## 3. Contra-Argument: Vorsorgeprinzip {auto-animate="true" visibility="uncounted" style="font-size: 0.8em;"} 
+
+::: {.nonincremental}
+::: {.columns}
+
+::: {.column width="85%"}
+
+
+1. `[Pro-Gesichtspunkte]:` [Die Ausrichtung der Olympischen Spiele in München würde folgende Vorteile bringen: [...]]{style="font-size: 0.8em; color: #969696;"}
+2. `[Kontra-Gesichtspunkte]:` [Die Ausrichtung der Olympischen Spiele in München birgt folgende Nachteile bzw. Risiken: [...]]{style="font-size: 0.8em; color: #969696;"}
+3. `[Vorsorgeprinzip]:` Wenn von einer Maßnahme M zu erwarten ist, dass sie sowohl erstrebenswerten Konsequenzen EK als auch zu Nachteilen N führen wird, der erwartete Nutzen bzw. Schaden aus EK oder N aber nicht bestimmbar ist, dann soll die Maßnahme unterlassen werden, wenn gilt: 
+
+  (i) der schlimmst mögliche Schaden kann deutlich höher werden als der bestmögliche Nutzen und 
+  (ii) der schlimmst mögliche Schaden kann derart gravierend werden, dass er nicht ohne moralisch signifikante Benachteiligungen aufgefangen werden kann.
+
+... weitere Prämissen
+
+---
+
+4. `[Konklusion Gegen-Olympia]:` München soll sich nicht um die Ausrichtung der Olympischen Spiele bewerben.
+
+:::
+
+::: {.column width="15%"}
+::: {.fragment}
+<div style="position: absolute; bottom: 30%; font-size: 0.8em; text-align: center; color: red;">
+
+Nun müssen drei weitere Prämissen ergänzt werden, die die Bedingungen im Vorsorgeprinzip spezifizieren.
+
+</div>
+
+:::
+:::
+:::
+:::
+
+
+## 3. Contra-Argument: Vorsorgeprinzip {auto-animate="true" visibility="uncounted" style="font-size: 0.8em;"} 
+
+::: {.nonincremental}
+::: {.panel-tabset}
+### Rekonstruktion
+1. `[Pro-Gesichtspunkte]:` [Die Ausrichtung der Olympischen Spiele in München würde folgende Vorteile bringen: [...]]{style="font-size: 0.8em; color: #969696;"}
+2. `[Kontra-Gesichtspunkte]:` [Die Ausrichtung der Olympischen Spiele in München birgt folgende Nachteile bzw. Risiken: [...]]{style="font-size: 0.8em; color: #969696;"}
+3. `[Vorsorgeprinzip]:` [...]{style="font-size: 0.8em; color: #969696;"}
+
+4. Der erwartete Nutzen der Ausrichtung der Olympischen Spiele (und der Nutzen ihrer Unterlassung) ist nicht bestimmbar.
+
+5. Die maximal möglichen Verluste an gesamtgesellschaftlichem Nutzen aus der Ausrichtung der Olympischen Spiele -- ökologische Schäden sowie unerwartete finanzielle Belastungen -- können deutlich höher ausfallen als die maximal möglichen Gewinne -- Infrastrukturausbau, Sporterlebnisse, finanzielle Gewinne.
+
+    [<+]{style="color: green;"} [`<A6.1: Finanzielle Risiken für die Stadt München aus einer Kooperation mit dem IOC>](#a6.1.-risiken-aus-einer-kooperation-mit-dem-ioc)
+
+6. Die maximal möglichen Verluste aus der Ausrichtung der Olympischen Spiele können derart gravierend werden, dass ihr Auffangen zu moralisch signifikanten Benachteiligungen führen wird. 
+
+---
+
+7. `[Konklusion Gegen-Olympia]:` München soll sich nicht um die Ausrichtung der Olympischen Spiele bewerben.
+
+### Dialektik als Graphik
+
+```{=html}
+<iframe src="./arg-rekos/a6-contra-ungewissheit.html" width="100%" height="400px">
+</iframe>
+```
+
+### Erläuterungen
+#### Zweck
+Dieses Argument begründet die Kernthese (Contra-Olympia-Bewerbung) unter der Annahme, dass die Konsequenzen aus der Ausrichtung Olympischer Spiele unsicher sind: es ist unbekannt, wie wahrscheinlich es ist, dass die erwarteten Vorteile oder die erwarteten Nachteile eintreten. Dadurch kann der erwartete Nutzen aus der Ausrichtung nicht bestimmt werden.
+
+#### Grundidee
+
+* Das Argument unterstellt ein Prinzip für Entscheidungen, die angesichts von solch unsicheren Konsequenzen getroffen werden müssen. Die Idee:
+
+  * Eine Handlung mit unsicheren, möglicherweise erstrebenswerten, möglicherweise vermeidenswerten Konsequenezn, soll dann unterlassen werden, wenn die schlimstenfalls eintretenden Konsequenzen besonders schwerwiegend sind und es keine möglichkeit gibt, sie fair zwischen den Personen aufzuteilen, die sie tragen müssen. 
+
+#### Anmerkung
+* Dieses Argument ist ein Vorschlag, mir ist nicht bekannt, dass sich jemand  in der öffentlichen Debatte darauf gestützt hätte.
+
+:::
+:::
+
+## Graphik der Dialektik der Contra-Argumente
+
+```{=html}
+<iframe src="./arg-rekos/dialektik-contra-argumentation.html" width="100%" height="400px">
+</iframe>
+```
+
+# Schritt 4: Bewertung der rekonstruierten Argumente
+
+## Argumentations-Puzzle: Ausgangspunkt {auto-animate="true"}
+
+::: {.panel-tabset}
+### Struktur
+
+::: {.nonincremental}
+::: {.columns}
+::: {.column width="10%"}
+:::
+::: {.column width="36%"}
+::: {.callout-tip icon="false"}
+#### Pro-Olympia-Bewerbung
+:::
+:::
+::: {.column width="10%"}
+:::
+::: {.column width="40%"}
+::: {.callout-important icon="false"}
+#### Gegen-Olympia-Bewerbung
+:::
+:::
+::: {.column width="4%"}
+:::
+:::
+
+::: {.columns}
+::: {.column width="50%"}
+::: {.callout-tip icon="false"}
+#### Pro-Argument?
+Wie sieht ein Argument aus, das
+
+* im Lichte der Pro-Gesichtspunkte und
+* im Lichte von Kontra-Gesichtspunkten
+* zu schlussfolgern erlaubt, dass München sich **bewerben sollte**?
+:::
+:::
+::: {.column width="50%"}
+::: {.callout-important icon="false"}
+#### Contra-Argument?
+Wie sieht ein Argument aus, das
+
+* im Lichte der Pro-Gesichtspunkte und
+* im Lichte von Kontra-Gesichtspunkten
+* zu schlussfolgern erlaubt, dass München sich **nicht bewerben sollte**?
+:::
+:::
+:::
+:::
+
+::: {.columns}
+::: {.column width="15%"}
+::: {.callout-tip icon="false"}
+#### Förderung der Stadtent\-wicklung
+:::
+:::
+::: {.column width="14%"}
+::: {.callout-tip icon="false"}
+#### Verbesserung der Inklusion
+:::
+:::
+::: {.column width="15%"}
+::: {.callout-tip icon="false"}
+#### Kurzfristige Wirtschafts\-gewinne
+:::
+:::
+::: {.column width="13%"}
+::: {.callout-tip icon="false"}
+#### Einzigartige Erlebnisse
+:::
+:::
+::: {.column width="3%"}
+:::
+::: {.column width="19%"}
+::: {.callout-important icon="false"}
+#### Unverhältnismäßig hohe Kosten und Finanzrisiken
+:::
+:::
+::: {.column width="17%"}
+::: {.callout-important icon="false"}
+#### Das IOC ist ein unfairer Partner
+:::
+:::
+:::
+
+
+
+### ArgDown-Graphik
+```{=html}
+<iframe src="./arg-rekos/dialektik-problemstruktur-unstrittig.html" width="100%" height="400px">
+</iframe>
+```
+:::
+
+## Argumentations-Puzzle: Auflösung {auto-animate="true" visibility="uncounted"}
+
+::: {.panel-tabset}
+### Struktur
+
+::: {.columns}
+::: {.column width="10%"}
+:::
+::: {.column width="36%"}
+::: {.callout-tip icon="false"}
+#### Pro-Olympia-Bewerbung
+:::
+:::
+::: {.column width="10%"}
+:::
+::: {.column width="40%"}
+::: {.callout-important icon="false"}
+#### Gegen-Olympia-Bewerbung
+:::
+:::
+::: {.column width="4%"}
+:::
+:::
+
+::: {.columns}
+::: {.column width="16%"}
+::: {.callout-tip icon="false"}
+#### A1: Pro-Abwägung
+Vorteile aus der Ausrichtung überwiegen die Nachteile
+:::
+:::
+::: {.column width="16%"}
+::: {.callout-tip icon="false"}
+#### A2: Nachteile-Zurückweisung
+Ausrichtung der Spiele bringt kaum Nachteile
+:::
+:::
+::: {.column width="16%"}
+::: {.callout-tip icon="false"}
+#### A3: Chancen-Ergreifung
+Chancen der Ausrichtung sollten nicht verpasst werden
+:::
+:::
+::: {.column width="17%"}
+::: {.callout-important icon="false"}
+#### A4: Kontra-Abwägung
+Nachteile aus der Ausrichtung überwiegen die Vorteile
+:::
+:::
+::: {.column width="18%"}
+::: {.callout-important icon="false"}
+#### A5: Bessere Alternative
+Es ist besser, die Stadtinfrastruk\-tur ohne Olympia auszubauen
+:::
+:::
+::: {.column width="17%"}
+::: {.callout-important icon="false"}
+#### A6: Risiken-Minimierung
+Risiken aus der Ausrichtung sollten vermieden werden.
+:::
+:::
+:::
+
+
+::: {.columns}
+::: {.column width="15%"}
+::: {.callout-tip icon="false"}
+#### Förderung der Stadtent\-wicklung
+:::
+:::
+::: {.column width="14%"}
+::: {.callout-tip icon="false"}
+#### Verbesserung der Inklusion
+:::
+:::
+::: {.column width="15%"}
+::: {.callout-tip icon="false"}
+#### Kurzfristige Wirtschafts\-gewinne
+:::
+:::
+::: {.column width="13%"}
+::: {.callout-tip icon="false"}
+#### Einzigartige Erlebnisse
+:::
+:::
+::: {.column width="3%"}
+:::
+::: {.column width="19%"}
+::: {.callout-important icon="false"}
+#### Unverhältnismäßig hohe Kosten und Finanzrisiken
+:::
+:::
+::: {.column width="17%"}
+::: {.callout-important icon="false"}
+#### Das IOC ist ein unfairer Partner
+:::
+:::
+:::
+
+
+
+### ArgDown-Graphik
+```{=html}
+<iframe src="./arg-rekos/dialektik-pro-con-simpel.html" width="100%" height="400px">
+</iframe>
+```
+:::
+
+
+## Erwartunswert-Argumente (A1 & A4)
+::: {.nonincremental}
+
+::: {.columns}
+
+::: {.column width="60%"}
+
+::: {.callout-important icon="false" style="text-align: center;"}
+#### Erwartungswert-Argumente sind unentscheidbar
+:::
+
+[Widerspruch: **Erwarteter Nutzen** aus der Ausrichtung von Olympischen Spielen versus **Erwarteter Schaden** daraus]{style="font-size: 0.8em;"}
+
+#### [Möglichkeit zur Auflösung]{style="font-size: 0.8em;"}
+* [diese Kontroverse kann nur durch eine präzisere Schätzung des gesamtgesellschaftlichen Werts der Konsequenzen aus der Ausrichtung der Olympischen Spiele aufgelöst werden.]{style="font-size: 0.8em;"} 
+
+#### [Problem der Auflösung]{style="font-size: 0.8em;"}
+* [die mir [bekannte Schätzung](https://mcube-cluster.de/wp-content/uploads/2025/10/251009_MCube_Olympia_07.pdf) ist nicht präzise genug (sie gibt keine Wahrscheinlichkeitswerte an)]{style="font-size: 0.8em;"}
+
+  * [ich vermute, dass es nicht möglich ist, hinreichend präzise Schätzungen des Erwartungswertes zu erhalten.]{style="font-size: 0.8em;"}
+  * [In diesem Fall sollten diese Argumente nicht verwendet werden]{style="font-size: 0.8em;"} 
+:::
+
+::: {.column width="40%"}
+
+```{=html}
+<iframe src="./arg-rekos/kontroverse-erwartungswert-a1-a4.html" width="100%" height="600px">
+</iframe>
+```
+
+:::
+:::
+:::
+
+## Nachteile-Debunking (A2)
+
+::: {.nonincremental}
+
+::: {.columns}
+
+::: {.column width="60%"}
+
+::: {.callout-important icon="false" style="text-align: center;"}
+#### Debunking-Argument basiert auf unbegründeten Behauptungen
+:::
+
+* das Argument erfordert Festlegungen auf Behauptungen, deren Wahrheit nicht gesichert ist:
+
+
+::: {.columns}
+::: {.column width="33%"}
+::: {.callout-tip icon="false"}
+### Es ist nicht zu erwarten, dass das IOC auf eine untragbare Weise das Ausrichtungs\-konzept der Stadt München beeinflusst
+:::
+:::
+
+::: {.column width="33%"}
+::: {.callout-tip icon="false"}
+### Es ist nicht zu erwarten, dass die Ausrichtung der Olympischen Spiele dem Stadthaushalt unerwartete Kosten aufbürdet
+:::
+:::
+
+::: {.column width="34%"}
+::: {.callout-tip icon="false"}
+### Es ist nicht zu erwarten, dass die Ausrichtung der Olympischen Spiele dazu führt, dass andere Haushalts\-posten der Stadt signifikant gekürzt werden
+:::
+:::
+:::
+
+* Vorbringen dieses Arguments bringt die Debatte nicht weiter
+:::
+
+::: {.column width="40%"}
+
+```{=html}
+<iframe src="./arg-rekos/bewertung-a3-debunking.html" width="100%" height="600px">
+</iframe>
+```
+:::
+:::
+:::
+
+## Kontroversen unter Ungewissheit {auto-animate="true"}
+::: {.columns}
+::: {.column width="50%"}
+::: {.nonincremental}
+[Wenn man akzeptiert, dass die Konsequenzen aus der Durchführung der Olympischen Spiele ungewiss sind^[d.h. mögliche Konsequenzen lassen sich vorhersagen, aber es können keine Wahrscheinlichkeitswerte für die möglichen Konsequenzen angegeben werden.], dann besteht zwischen den Befürworter\*innen und Gegner\*innen der Ausrichtung Uneinigkeit über drei Behauptungen^[die als Prämissen in ihren jeweiligen Argumenten vorkommen]: ]{style="font-size: 0.8em;"}
+
+
+::: {.columns}
+
+::: {.column width="47%"}
+::: {.callout-tip icon="false"}
+### Mögliche Gewinne höher als mögliche Verluste {style="text-align: center;"}
+:::
+:::
+
+::: {.column width="6%"}
+:::
+
+::: {.column width="47%"}
+::: {.callout-important icon="false"}
+### Maximale Verluste deutlich höher als potentielle  Gewinne
+:::
+:::
+:::
+
+::: {.columns}
+
+::: {.column width="47%"}
+::: {.callout-tip icon="false"}
+### Mögliche Verluste sind tragbar
+:::
+:::
+
+::: {.column width="6%"}
+:::
+
+::: {.column width="47%"}
+::: {.callout-important icon="false"}
+### Maximale Verluste sind gravierend
+:::
+:::
+:::
+
+::: {.columns}
+
+::: {.column width="47%"}
+::: {.callout-tip icon="false"}
+### Keine bessere Alternative für Stadtentwicklung
+:::
+:::
+
+::: {.column width="6%"}
+:::
+
+::: {.column width="47%"}
+::: {.callout-important icon="false"}
+### Stadtentwicklung unabhängig von Olympia-Zuschüssen ist besser
+:::
+:::
+:::
+
+:::
+:::
+
+::: {.column width="50%"}
+
+```{=html}
+<iframe src="./arg-rekos/kontroverse-unsicherheit-kurz.html" width="100%" height="600px">
+</iframe>
+```
+:::
+:::
+
+## Kontroversen unter Ungewissheit {auto-animate="true" visibility="uncounted"}
+::: {.columns}
+::: {.column width="50%"}
+::: {.nonincremental}
+[Wenn man akzeptiert, dass die Konsequenzen aus der Durchführung der Olympischen Spiele ungewiss sind^[d.h. mögliche Konsequenzen lassen sich vorhersagen, aber es können keine Wahrscheinlichkeitswerte für die möglichen Konsequenzen angegeben werden.], dann besteht zwischen den Befürworter\*innen und Gegner\*innen der Ausrichtung Uneinigkeit über drei Behauptungen^[die als Prämissen in ihren jeweiligen Argumenten vorkommen]: ]{style="font-size: 0.8em;"}
+
+
+::: {.columns}
+
+::: {.column width="47%"}
+::: {.callout-tip icon="false"}
+### Mögliche Gewinne höher als mögliche Verluste {style="text-align: center;"}
+:::
+:::
+
+::: {.column width="6%"}
+:::
+
+::: {.column width="47%"}
+::: {.callout-important icon="false"}
+### Maximale Verluste deutlich höher als potentielle Gewinne
+:::
+:::
+:::
+
+* [Diese Kontroverse ist kaum mit Gründen entscheidbar]{style="font-size: 0.8em;"}
+
+::: {.columns}
+
+::: {.column width="47%"}
+::: {.callout-tip icon="false"}
+### Mögliche Verluste sind tragbar
+:::
+:::
+
+::: {.column width="6%"}
+:::
+
+::: {.column width="47%"}
+::: {.callout-important icon="false"}
+### Maximale Verluste sind gravierend
+:::
+:::
+:::
+
+::: {.columns}
+
+::: {.column width="47%"}
+::: {.callout-tip icon="false"}
+### Keine bessere Alternative für Stadtentwicklung
+:::
+:::
+
+::: {.column width="6%"}
+:::
+
+::: {.column width="47%"}
+::: {.callout-important icon="false"}
+### Stadtentwicklung unabhängig von Olympia-Zuschüssen ist besser
+:::
+:::
+:::
+
+:::
+:::
+
+::: {.column width="50%"}
+
+```{=html}
+<iframe src="./arg-rekos/kontroverse-unsicherheit-max-verluste.html" width="100%" height="600px">
+</iframe>
+```
+:::
+:::
+
+## Kontroversen unter Ungewissheit {auto-animate="true" visibility="uncounted"}
+::: {.columns}
+::: {.column width="50%"}
+::: {.nonincremental}
+[Wenn man akzeptiert, dass die Konsequenzen aus der Durchführung der Olympischen Spiele ungewiss sind^[d.h. mögliche Konsequenzen lassen sich vorhersagen, aber es können keine Wahrscheinlichkeitswerte für die möglichen Konsequenzen angegeben werden.], dann besteht zwischen den Befürworter\*innen und Gegner\*innen der Ausrichtung Uneinigkeit über drei Behauptungen^[die als Prämissen in ihren jeweiligen Argumenten vorkommen]: ]{style="font-size: 0.8em;"}
+
+::: {.columns}
+
+::: {.column width="47%"}
+::: {.callout-tip icon="false"}
+### Mögliche Verluste sind tragbar
+:::
+:::
+
+::: {.column width="6%"}
+:::
+
+::: {.column width="47%"}
+::: {.callout-important icon="false"}
+### Maximale Verluste sind gravierend
+:::
+:::
+:::
+
+::: {.columns}
+
+::: {.column width="47%"}
+::: {.callout-tip icon="false"}
+### Keine bessere Alternative für Stadtentwicklung
+:::
+:::
+
+::: {.column width="6%"}
+:::
+
+::: {.column width="47%"}
+::: {.callout-important icon="false"}
+### Stadtentwicklung unabhängig von Olympia-Zuschüssen ist besser
+:::
+:::
+:::
+* [In dieser Kontroverse können weitere Gründe angeführt werden]{style="font-size: 0.8em;"}
+
+:::
+:::
+
+::: {.column width="50%"}
+
+```{=html}
+<iframe src="./arg-rekos/kontroverse-unsicherheit-kurz-altern.html" width="100%" height="600px">
+</iframe>
+```
+:::
+:::
+
+## Kontroversen unter Ungewissheit: Verluste {auto-animate="true" style="font-size: 0.8em;"}
+::: {.nonincremental}
+::: {.panel-tabset}
+### Sind maximale Verluste tragbar?
+::: {.columns}
+
+::: {.column width="36%"}
+::: {.callout-tip icon="false"}
+### Mögliche Verluste sind tragbar
+Mögliche Verluste können, sollten sie auftreten, so aufgeteilt werden, dass dadurch niemand moralisch signifikant benachteiligt wird.
+:::
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="48%"}
+::: {.callout-important icon="false"}
+### Maximale Verluste sind gravierend
+Die maximal möglichen Verluste aus der Ausrichtung können derart gravierend werden, dass ihr Auffangen zu moralisch signifikanten Benachteiligungen führen wird.
+:::
+:::
+::: {.column width="4%"}
+:::
+:::
+
+<!-- CSS Arrows -->
+<div style="position: relative; height: 0px; margin-top: -140px;">
+  <!-- Double-Arrow -->
+  <div style="position: absolute; left: 41%; top: 0px; width: 2px; height: 118px; background: red; transform: rotate(90deg);"></div>
+  <div style="position: absolute; left: 34.5%; top: 53.7px; width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 12px solid red; transform: rotate(270deg);"></div>
+  <div style="position: absolute; left: 45.5%; top: 53.7px; width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 12px solid red; transform: rotate(90deg);"></div>
+</div>
+
+### ArgDown-Graphik
+
+```{=html}
+<iframe src="./arg-rekos/kontroverse-unsicherheit-kurz-verluste.html" width="100%" height="600px">
+</iframe>
+```
+:::
+:::
+
+## Kontroversen unter Ungewissheit: Verluste {auto-animate="true" visibility="uncounted" style="font-size: 0.8em;"}
+::: {.nonincremental}
+
+::: {.panel-tabset}
+### Sind maximale Verluste tragbar?
+::: {.columns}
+
+::: {.column width="36%"}
+::: {.callout-tip icon="false"}
+### Mögliche Verluste sind tragbar
+Mögliche Verluste können, sollten sie auftreten, so aufgeteilt werden, dass dadurch niemand moralisch signifikant benachteiligt wird.
+:::
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="48%"}
+::: {.callout-important icon="false"}
+### Maximale Verluste sind gravierend
+Die maximal möglichen Verluste aus der Ausrichtung können derart gravierend werden, dass ihr Auffangen zu moralisch signifikanten Benachteiligungen führen wird.
+:::
+:::
+::: {.column width="4%"}
+:::
+:::
+
+<!-- CSS Arrows -->
+<div style="position: relative; height: 0px; margin-top: -140px;">
+  <!-- Double-Arrow -->
+  <div style="position: absolute; left: 41%; top: 0px; width: 2px; height: 118px; background: red; transform: rotate(90deg);"></div>
+  <div style="position: absolute; left: 34.5%; top: 53.7px; width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 12px solid red; transform: rotate(270deg);"></div>
+  <div style="position: absolute; left: 45.5%; top: 53.7px; width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 12px solid red; transform: rotate(90deg);"></div>
+</div>
+
+<div style="position: relative; margin-top: 15%;">
+
+::: {.columns}
+
+::: {.column width="2%"}
+:::
+::: {.column width="32%"}
+::: {.callout-tip icon="false"}
+### Strategie zum fairen Aufteilen möglicher Verluste
+:::
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="33%"}
+::: {.callout-important icon="false"}
+### Gewinninteresse des IOC kann zu untragbaren Belastungen führen
+
+Wenn das IOC auf seinen Interessen besteht, können die Zusatzbelastungen für die Stadt München derart gravierend werden, dass sie nicht ohne signifikante moralische Belastungen aufgefangen werden.
+:::
+:::
+::: {.column width="29%"}
+::: {.callout-important icon="false"}
+### Interessenskonflikte mit dem IOC
+
+Es bestehen zahlreiche Interessenskonflikte zwischen dem Gewinninteresse des IOC und den Zielen der Stadt Müchnen (Kostenreduktion und Nachhaltigkeit). 
+:::
+:::
+:::
+
+</div>
+
+<!-- CSS Arrows -->
+<div style="position: relative; height: 0px; margin-top: -308px;">
+  <!-- Arrow from "Strategie" to "Mögliche Verluste tragbar" -->
+  <div style="position: absolute; left: 17%; top: 60px; width: 2px; height: 55px; background: green; transform: rotate(0deg);"></div>
+  <div style="position: absolute; left: 16.35%; top: 60px; width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 12px solid green; transform: rotate(0deg);"></div>
+
+  <!-- Arrow from "Gewinninteresse" to "maximale Verluste"  -->
+  <div style="position: absolute; left: 55.2%; top: 54px; width: 2px; height: 68px; background: green; transform: rotate(40deg);"></div>
+  <div style="position: absolute; left: 56.5%; top: 58px; width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 12px solid green; transform: rotate(40deg);"></div>
+
+  <!-- Arrow from "Interessenskonflikte" to "maximale Verluste" -->
+  <div style="position: absolute; left: 84%; top: 54px; width: 2px; height: 68px; background: green; transform: rotate(320deg);"></div>
+  <div style="position: absolute; left: 81.5%; top: 58px; width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 12px solid green; transform: rotate(320deg);"></div>
+</div>
+
+
+<div style="position: relative; margin-top: 30%;">
+
+::: {.fragment}
+#### Wege zum Auflösen dieser Kontroverse
+
+::: {.columns}
+::: {.column width="49%"}
+<div style="text-align: center;">
+Befürworter\*innen:
+</div>
+
+* Aufzeigen einer Strategie zum fairen Aufteilen möglicher Zusatzlasten
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="49%"}
+<div style="text-align: center;">
+Gegner\*innen:
+</div>
+
+* Aufzeigen, wie hoch die ungeplanten finanziellen und ökologischen Belastungen ausfallen können.
+:::
+:::
+
+:::
+
+</div>
+
+### ArgDown-Graphik
+
+```{=html}
+<iframe src="./arg-rekos/kontroverse-unsicherheit-max-verluste.html" width="100%" height="600px">
+</iframe> 
+```
+:::
+:::
+
+## Kontroversen unter Ungewissheit: Alternativen {auto-animate="true" style="font-size: 0.8em;"}
+::: {.nonincremental}
+::: {.panel-tabset}
+### Bessere Alternativen?
+::: {.columns}
+
+::: {.column width="46%"}
+::: {.callout-tip icon="false"}
+### Keine bessere Alternative für Stadtentwicklung
+Es gibt keinen anderen Weg, mit geringeren Nachteilen als denen, die durch eine Olympia-Ausrichtung  entstehen können, die positiven Konsequenzen für die Stadt zu realisieren, die von der Ausrichtung der Olympischen Spiele zu erwarten sind.
+:::
+:::
+
+::: {.column width="8%"}
+:::
+
+::: {.column width="46%"}
+::: {.callout-important icon="false"}
+### Bessere Alternative
+Wenn die Stadt München die Infrastrukturvorhaben, die sie im Zuge der Olympia-Ausrichtung realisieren will, vollständig selbst finanziert, hat sie insgesamt geringere Nachteile zu tragen als mittels Olympia-Ausrichtung.
+:::
+:::
+:::
+
+<!-- CSS Arrows -->
+<div style="position: relative; height: 0px; margin-top: -140px;">
+  <!-- Double-Arrow -->
+  <div style="position: absolute; left: 50%; top: 13.5px; width: 2px; height: 90px; background: red; transform: rotate(90deg);"></div>
+  <div style="position: absolute; left: 45%; top: 53.7px; width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 12px solid red; transform: rotate(270deg);"></div>
+  <div style="position: absolute; left: 53.5%; top: 53.7px; width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 12px solid red; transform: rotate(90deg);"></div>
+</div>
+
+### ArgDown-Graphik
+
+```{=html}
+<iframe src="./arg-rekos/kontroverse-unsicherheit-altern.html" width="100%" height="600px">
+</iframe>
+```
+:::
+:::
+
+## Kontroversen unter Ungewissheit: Alternativen {auto-animate="true" visibility="uncounted" style="font-size: 0.8em;"}
+::: {.nonincremental}
+::: {.panel-tabset}
+### Bessere Alternativen?
+::: {.columns}
+
+::: {.column width="46%"}
+::: {.callout-tip icon="false"}
+### Keine bessere Alternative für Stadtentwicklung
+Es gibt keinen anderen Weg, mit geringeren Nachteilen als denen, die durch eine Olympia-Ausrichtung  entstehen können, die positiven Konsequenzen für die Stadt zu realisieren, die von der Ausrichtung der Olympischen Spiele zu erwarten sind.
+:::
+:::
+
+::: {.column width="8%"}
+:::
+
+::: {.column width="46%"}
+::: {.callout-important icon="false"}
+### Bessere Alternative
+Wenn die Stadt München die Infrastrukturvorhaben, die sie im Zuge der Olympia-Ausrichtung realisieren will, vollständig selbst finanziert, hat sie insgesamt geringere Nachteile zu tragen als mittels Olympia-Ausrichtung.
+:::
+:::
+:::
+
+<!-- CSS Arrows -->
+<div style="position: relative; height: 0px; margin-top: -140px;">
+  <!-- Double-Arrow -->
+  <div style="position: absolute; left: 50%; top: 13.5px; width: 2px; height: 90px; background: red; transform: rotate(90deg);"></div>
+  <div style="position: absolute; left: 45%; top: 53.7px; width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 12px solid red; transform: rotate(270deg);"></div>
+  <div style="position: absolute; left: 53.5%; top: 53.7px; width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 12px solid red; transform: rotate(90deg);"></div>
+</div>
+
+<div style="position: relative; margin-top: 15%;">
+
+::: {.columns}
+
+::: {.column width="46%"}
+::: {.callout-tip icon="false"}
+### Zuschüsse für Infrastruktur wichtiger als Olympia-Risiken
+Die zusätzliche Belastung des Stadthaushalts (durch den Wegfall der Zuschüsse) hat insgesamt höhere Nachteile als das Tragen der Risiken aus der Kooperation mit dem IOC.
+:::
+:::
+
+::: {.column width="8%"}
+:::
+
+::: {.column width="46%"}
+::: {.callout-important icon="false"}
+### Risiken der IOC-Kooperation schlimmer als Verzicht auf finanzielle Zuschüsse
+
+Die zusätzliche Belastung des Stadthaushalts für die Realisierung der Infrastrukturvorhaben ist insgesamt leichter zu bewältigen als das Tragen der Risiken aus der Kooperation mit dem IOC.
+:::
+:::
+:::
+
+</div>
+
+<!-- CSS Arrows -->
+<div style="position: relative; height: 0px; margin-top: -268px;">
+  <!-- Arrow links" -->
+  <div style="position: absolute; left: 23%; top: 60px; width: 2px; height: 53px; background: green; transform: rotate(0deg);"></div>
+  <div style="position: absolute; left: 22.4%; top: 58px; width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 12px solid green; transform: rotate(0deg);"></div>
+
+  <!-- Arrow rechts -->
+  <div style="position: absolute; left: 77%; top: 60px; width: 2px; height: 53px; background: green; transform: rotate(0deg);"></div>
+  <div style="position: absolute; left: 76.4%; top: 58px; width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 12px solid green; transform: rotate(0deg);"></div>
+</div>
+
+<div style="position: relative; margin-top: 27%;">
+
+::: {.columns}
+
+::: {.column width="54%"}
+:::
+::: {.column width="46%"}
+::: {.callout-important icon="false"}
+### Interessenskonflikte mit dem IOC
+
+Es bestehen zahlreiche Interessenskonflikte zwischen dem Gewinninteresse des IOC und den Zielen der Stadt Müchnen (Kostenreduktion und Nachhaltigkeit).
+:::
+:::
+:::
+
+</div>
+
+<!-- CSS Arrows -->
+<div style="position: relative; height: 0px; margin-top: -240px;">
+  <!-- Arrow rechts -->
+  <div style="position: absolute; left: 77%; top: 60px; width: 2px; height: 50px; background: green; transform: rotate(0deg);"></div>
+  <div style="position: absolute; left: 76.4%; top: 58px; width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 12px solid green; transform: rotate(0deg);"></div>
+</div>
+
+### Anmerkungen zur Kontroverse
+
+* Die Kontroverse richtet sich auf den Vergleich des Wertes
+
+  - der Risiken aus einer Kooperation mit dem IOC
+  - der Höhe der finanziellen Zuschüsse für den Infrastrukturausbau
+
+* Die Bewertung der Risiken aus einer Kooperation mit dem IOC basiert auf der gleichen Prämisse wie das Unsicherheits-Kontra-Argument:
+  * `[Risiko aus der Gewinnorientierung des IOC]`: Bei der Festlegung des Konzepts der Olympischen Spiele ist damit zu rechnen, dass das IOC auf Lösungen besteht, die die IOC-Einnahmen maximieren und die Spiele für die Stadt München teurer und weniger nachhaltig machen. 
+
+#### Wege zum Auflösen dieser Kontroverse
+
+* Aufzeigen, wie hoch die ungeplanten finanziellen und ökologischen Belastungen durch mögliche Eingriffe des IOC ausfallen können.
+
+
+### ArgDown-Graphik
+
+```{=html}
+<iframe src="./arg-rekos/kontroverse-unsicherheit-altern.html" width="100%" height="500px">
+</iframe>
+```
+:::
+:::
+
+
+
+# Fazit
+
+## Lehren -- Wege zum konstruktiven Debattieren 
+
+::: {.nonincremental}
+
+::: {.callout-important icon="false"}
+### Bewertung von Risiken und Chancen
+
+* Wie können die möglichen Nachteile aufgefangen und fair verteilt werden?
+  * Befürworter\*innen: ihre Position wird gestärkt, wenn sie Konzepte zum fairen Aufteilen der erwarteten Nachteile aufzeigen.
+  * Gegner\*innen: ihre Position wird gestärkt, wenn sie aufzeigen, dass die Nachteile derart hoch ausfallen können, dass sie nicht ohne signifikante Belastungen aufgefangen werden könnten. 
+
+:::
+
+::: {.callout-important icon="false"}
+### Risiko der IOC-Einflussnahme
+
+Zwei Argumente der Gegner\*innen basieren auf der Behauptung, dass die Möglichkeit ernst genommen werden sollte, dass das IOC das Ausrichtungskonzept der Stadt konterkariert. 
+
+* der beste Weg, um diese Behauptung zu widerlegen, liegt darin, das Ausrichtungskonzept der Stadt München nach Einigung mit dem IOC zur Abstimmung durch die Bewohner\*innen zu stellen. 
+
+* die Einwände der Gegner\*innen können somit durch einen anders gestalteten politischen Prozess entkräftigt werden:
+  *  **Bürger\*innen-Abstimmung über die Olympischen Spiele nach der Aushandlung eines Konzepts für die Spiele zwischen der Stadt und dem IOC**.
+
+:::
+:::
+
+
+
+
+# Argumentrekonstruktionen
+
+## A1.1: Erwartungswert-Argument {style="font-size: 0.8em"}
+
+::: {.nonincremental}
+::: {.panel-tabset}
+### Idee des Arguments
+
+#### Zweck
+
+Dieses Argument soll begründen, wie genau die Vor- und die Nachteile aus der Ausrichtung Olympischer Spiele -- die als unstrittig betrachtet werden -- miteinander verrechnet wurden.
+
+#### Grundidee
+Das Argument greift auf ein bekanntes Prinzip für die Bewertung von Handlungsoptionen mit unsicheren Konsequenzen zurück: der Wert einer Handlungsoption entspricht dem erwarteten Nutzen ihrer Konsequenzen. 
+
+#### Anmerkungen
+
+* Das Argument ist voraussetzungsreich und dürfte kontrovers sein:
+  * Prämisse 1 behauptet implizit, dass die Bewertung mit der Theorie des erwarteten Nutzens, die beste Theorie für die Bewertung darstellt. 
+  * Prämisse 2 behauptet das Ergebnis der Bewertung. Ihre Begründung -- die Berechnung des erwarteten Nutzens der Ausrichtung von Olympischen Spiele in einer Stadt -- ist höchst komplex. 
+    * Eine Abschätzung der möglichen Nutzen der für die Ausrichtung der Spiele geplanten Infrastrukturmaßnahmen hat eine Studie der MCube Consulting GmbH [(Schröder und Waldner 2025)](https://mcube-cluster.de/wp-content/uploads/2025/10/251009_MCube_Olympia_07.pdf) vorgenommen. Demnach 
+      * kann die Ausrichtung nach 65 Jahren im besten Fall einen gesamtwirtschaftlichen Gewinn in Höhe von 17 Mrd Euro bringen;
+      * im schlechtesten Fall bleibt nach 65 Jahren ein Verlust in Höhe von 4 Mrd Euro.
+      * eine quantitative Abschätzung dessen, wie wahrscheinlich es ist, dass das beste und das schlechteste Szenario eintreten, geben die Autor\*innen nicht an.  
+
+* Diese Rekonstruktion macht zwei Behauptungen explizit, die Befürworter\*innen der Olympischen Spiele begründen müssen, wenn sie schlüssig argumentieren wollen. 
+
+### Rekonstruktion
+
+1. `[Normative Grundlage: Erwarteter Nutzen]`: Das Herbeiführen der möglichen Vorteile einer Handlungsoption ist dann besser als das Vermeiden ihrer möglichen Nachteile,  wenn der erwartete gesamtgesellschaftliche Nutzen der möglichen Vorteile höher ist als der erwartete gesamtgesellschaftliche Schaden aus den möglichen Nachteilen. 
+2. `[Erwarteter Nutzen von Olympischen Spielen]`: Der erwartete gesamtgesellschaftliche Nutzen aus den möglichen Vorteilen der Ausrichtung Olympischer Spiele
+    
+    * Infrastrukturausbau, 
+    * einzigartige Erlebnisse, 
+    * finanzielle Gewinne für die lokale Wirtschaft 
+    
+    ist höher als der erwartete gesamtgesellschaftliche Schaden aus den möglichen Nachteilen der Ausrichtung:
+    
+    * Kosten- und Finanzrisiken sowie 
+    * Kooperation mit einem unfairen Partner. 
+
+----
+
+3. `[Abwägung-1 Pro-Olympia]`: Trotz der Nachteile und Risiken aus der Ausrichtung der Olympischen Spiele ist es ingesamt besser sie auszurichten, um ihre Vorteile zu realisieren. 
+
+<!--
+#### Priorisierende Abwägung
+
+2. `[Priorisierende Aggregation von Werten]`: Es ist besser, eine Maßnahme M zu realisieren als dies zu unterlassen, wenn ihre Konsequenzen für die Gruppe G positiv
+von den positiven Konsequenzen 
+die Summe des erwarteten Werts aller ihrer positiven Konsequenzen höher ist als die Summe des (erwarteten) Wert aller ihrer negativer Konsequenzen. 
+
+1. Der Wert aller positiven Konsequenzen, die aus 
+    * der Realisierung vno Infrastrukturprojekten in der Stadt München, die erst durch die finanziellen Zuschüsse zur Ausrichtung der Olympischen Spiele ermöglicht werden sowie
+    * finanzielle Gewinne der lokalen Wirtschaft sowie
+    * den Erlebnissen der Stadtbewohner\*innen bei den Olympischen Spielen
+
+  resultieren, überwiegen den Wert der negativen Konsequenzen, die aus der Ausrichtung der Olympischen Spiele resultieren können:
+
+    * zusätzliche Verschuldung des Stadthaushalts wegen unerwarteter Mehrkosten
+    * Kosten für etwaige Anpassungen an die Interessen des IOC
+   
+---
+
+3. `[Konklusion: Abwägung Pro-Olympia]`: Trotz der benötigten Investitionen für die Ausrichtung der Olympischen Spiele, der damit verbundenen Finanzrisiken und der Risiken der Einflussnahme durch das IOC bringen die einzigartigen Erlebnisse, die mittel- bis langfristigen Vorteile des Ausbaus der städtischen Infrastruktur einschließlich der Barrierefreiheit sowie die zusätzlichen Gewinne für die lokale Wirtschaft insgesamt höhere Vorteile für die Stadt und ihre Bewohner\*innen.
+-->
+
+<!--
+### Graphik in ArgDown
+-->
+:::
+
+:::
+
+
+## A1.2: Finanzielle Zuschüsse {style="font-size: 0.8em"}
+
+::: {.nonincremental}
+
+::: {.panel-tabset}
+### Idee des Arguments
+
+#### Zweck
+Dieses Argument begründet die `[Optimalitäts-Behauptung]` in der Prämisse (5)^[Es gibt keinen anderen Weg, mit geringeren Nachteilen als denen, die durch eine erfolgreiche Olympia-Bewerbung entstehen können, die positiven Konsequenzen für die Stadt zu realisieren, die von der Ausrichtung der Olympischen Spiele zu erwarten sind.]. 
+
+#### Grundidee
+
+* Der Zuschlag für die Ausrichtung der Olympischen Spiele in München führt dazu, dass der Bund und der Freistaat Bayern sich an der Finanzierung der Infrastrukturvorhaben beteiligen. Das wiederum senkt die Kosten der Infrastrukturprojekte, die die Stadt München tragen muss und ermöglicht, dass sie früher realisiert werden als ohne die Zuschüsse.
+
+* Der finanzielle Zuschuss ist derart bedeutend, dass es sich lohnt, dafür die Nachteile der Ausrichtung der Olympischen Spiele (Risiken aus der Kooperation mit dem IOC) in Kauf zu nehmen. 
+
+#### Anmerkungen
+
+In den mir bekannten öffentlichen Debatten wurde diese Argumentation nicht vorgebracht. Diese Rekonstruktion ist als ein Vorschlag zu interpretieren, wie eine Begründung der Prämisse `[Optimalität der Olympia-Bewerbung]` aussehen kann.
+
+* Auch dieses Argument dürfte sehr kontrovers sein:
+
+  * Prämisse 6 `[Finanzielle Zuschüsse wichtiger als Risiken IOC-Kooperation]` enthält eine Abwägung zwischen dem Nutzen der finanziellen Zuschüsse und dem erwarteten Schaden aus den Nachteilen der Ausrichtung der Spiele. 
+  * Sie ist begründungsbedürftig, Begründungen hierfür aus der öffentlichen Debatte sind mir nicht bekannt. 
+
+### Rekonstruktion
+
+
+1. `[Zuschüsse vom Bund und Land]`: Genau dann, wenn die Stadt München den Zuschlag für die Ausrichtung der Olympischen Spiele bekommt, erhält sie finanzielle Zuschüsse vom Bund und Land für die Realisierung ihrer Infrastrukturprojekte. 
+
+----
+
+2. Wenn die Stadt München ihre Infrastrukturprojekte umsetzt und nicht die Olympischen Spiele ausrichtet, erhält sie keine finanziellen Zuschüsse vom Land und Bund. 
+
+3. Realisierung von Infrastrukturprojekten der Stadt München ohne die Zuschüsse vom Land und Bund führt zu höherer Belastung von Stadthaushalt.
+
+4. Wenn die Stadt München ihre Infrastrukturprojekte umsetzt und nicht die Olympischen Spiele ausrichtet, geht sie keine Risiken aus der Kooperation mit dem IOC.
+
+----
+
+5. Wenn die Stadt München ihre Infrastrukturprojekte umsetzt und nicht die Olympischen Spiele ausrichtet, wird das Stadthaushalt höher belastet und es gibt keine Risiken aus der Kooperation mit dem IOC.
+
+6. `[Finanzielle Zuschüsse wichtiger als Risiken IOC-Kooperation]`: Die zusätzliche Belastung des Stadthaushalts (durch den Wegfall der Zuschüsse) hat insgesamt höhere Nachteile als das Tragen der Risiken aus der Kooperation mit dem IOC.
+
+----
+
+7. Wenn die Stadt München ihre Infrastrukturprojekte umsetzt und nicht die Olympischen Spiele ausrichtet, hat sie größere Nachteile als wenn sie die Olympischen Spiele ausrichtet und dabei die Infrastrukturprojekte umsetzt.
+
+8. Entweder wird die Stadt München ihre Infrastrukturprojekte realisieren und Olympische Spiele ausrichten oder sie wird sie realisieren und keine Olympischen Spiele ausrichten. 
+
+----
+
+9. `[Optimalität der Olympia-Bewerbung]`: Es ist nicht möglich, die Vorteile der Ausrichtung der Olympischen Spiele zu realisieren (Infrastrukturprojekte) und geringere Nachteile als denen, die durch eine erfolgreiche Olympia-Bewerbung entstehen können (Risiken aus der Kooperation mit dem IOC), in Kauf zu nehmen. 
+
+:::
+:::
+
+
+
+
+## A3.1-3.3: Nachteile-Debunking-Argumente {auto-animate="true" style="font-size: 0.8em;"}
+
+::: {.nonincremental}
+::: {.panel-tabset}
+### A3.1 Finanzrisiken überschaubar
+#### Zweck
+Das Argument soll die folgende Behauptung begründen: 
+
+* Es ist nicht zu erwarten, dass die Ausrichtung der Olympischen Spiele ungeplante finanzielle Lasten für den Stadthaushalt verursacht. 
+
+#### Anmerkungen
+
+Aus den öffentlichen Debatten ist mir keine Begründung dieser Behauptung bekannt. 
+  
+  * Bei der Diskussion der Kosten der Ausrichtung der Spiele verweist die Stadt München in den [FAQs](https://www.olympiabewerbung-muenchen.com/#faq) wird nicht darauf eingangen, dass Kosten der Infrastrukturvorhaben vielfach höher ausfallen als ursprünglich geplant.
+
+Der Studie der MCube Consulting GmbH [(Schröder und Waldner 2025)](https://mcube-cluster.de/wp-content/uploads/2025/10/251009_MCube_Olympia_07.pdf) lässt sich eine Idee dafür entnehmen, wie für diese Behauptung argumentiert werden könnte:
+  
+  * die Studie bewertet die geplanten Infrastrukturvorhaben nach dem Höhe ihrer Risiken (Abb. 16, S.61). 
+  * Die Befürworter\*innen können auf dieser Basis Risiken minimierende Strategien wählen:
+    * sich verpflichten, nur diejenigen Infrastrukturmaßnahmen umzusetzen, die geringe finanzielle Risiken mit sich bringen;
+    * Konzepte vorstellen, mit denen vermieden werden kann, dass die Risiken sich realisieren. 
+
+
+### A3.2 Ausrichtungskosten tragbar
+
+#### Zweck
+Das Argument soll die folgende Behauptung begründen: 
+
+* Es ist nicht zu erwarten, dass die Finanzierung der Ausrichtung der Olympischen Spiele dazu führt, dass andere Haushaltsposten der Stadt München hierfür gekürzt werden. 
+
+#### Anmerkungen
+
+Aus den öffentlichen Debatten ist mir keine Begründung dieser Behauptung bekannt. 
+
+  * Bei der Diskussion der Kosten der Ausrichtung der Spiele verweist die Stadt München in den [FAQs](https://www.olympiabewerbung-muenchen.com/#faq) darauf, dass die Durchführung der Spiele sich selbst tragen soll und dass die Infrastrukturinvestitionen durch den Bund und möglicherweise privaten Sektor bezuschusst werden. 
+  
+  * Das erklärt aber nicht, wie die dennoch verbleibenden Infrastrukturkosten, die die Stadt tragen muss, finanziert werden und wie die Gefahr vermieden werden kann, dass dadurch in anderen Bereichen des Haushalts gekürzt wird.
+
+### A3.3 Reformiertes IOC
+
+#### Zweck
+Das Argument soll die folgende Behauptung begründen: 
+
+* Es ist nicht zu erwarten, dass das IOC auf eine untragbare Weise das Ausrichtungskonzept der Stadt München beeinflusst.
+
+#### Grundidee
+
+* Nach der Reform der Vergabebedingungen strebt das IOC es an, dass die Spiele kostengünstig und nachhaltig ausgerichtet werden, so die Befürworter\*innen der Ausrichtung (siehe [Argumentationssheet – Aufbruch für die Gesellschaft](https://www.olympiabewerbung-muenchen.com/wp-content/uploads/2025/09/OlympiJa-PRO-Argumente-vertieft.pdf), Seite 7). 
+* Weil Kostendeckelung und Nachhaltigkeit zu den Grundzielen des IOC gehören, ist es nicht zu erwarten, dass das IOC die Stadt München daran hindert, die Spiele kostenminimierend und nachhaltig durchzuführen.
+:::
+:::
+
+<!--
+## A2.1: Nachteile nicht signifikant {auto-animate="true" style="font-size: 0.8em;"}
+
+::: {.nonincremental}
+::: {.panel-tabset}
+### Idee des Arguments
+
+#### Zweck
+
+Das Argument begründet die Behauptung in der Prämisse `[Pro-Olympia Abwägung]`[^longnote].
+
+#### Grundidee
+
+* die erwarteten Nachteile aus der Ausrichtung von Olympischen Spielen nicht signifikant sind bzw. vermieden werden können.
+
+Trifft dies zu, ist die Abwägung unkontrovers:
+
+* die erwarteten Nachteile aus der Ausrichtung sind nicht signifikant;
+* die erwarteten Vorteile sind bedeutsam. 
+
+[^longnote]: Trotz der benötigten Investitionen für die Ausrichtung der Olympischen Spiele, der damit verbundenen Finanzrisiken und der Risiken der Einflussnahme durch das IOC bringen die einzigartigen Erlebnisse, die mittel- bis langfristigen Vorteile des Ausbaus der städtischen Infrastruktur einschließlich der Barrierefreiheit sowie die zusätzlichen Gewinne für die lokale Wirtschaft insgesamt höhere Vorteile für die Stadt und ihre Bewohner\*innen.
+
+### Rekonstruktion
+
+1. `[Finanzrisiken überschaubar]`: Es ist nicht zu erwarten, dass die Ausrichtung der Olympischen Spiele dem Stadthaushalt unerwartete Kosten aufbürdet. 
+
+    [<+]{style="color: green"} [`<Transparente Kostenstruktur>`](#risiken-zurückweisung-argumente)
+
+    [<+]{style="color: green"} [`<Erfahrungen aus Paris und London>`](#risiken-zurückweisung-argumente)
+
+2. `[Risiko der Kooperation mit dem IOC überschaubar]`: Es ist nicht zu erwarten, dass das IOC auf eine untragbare Weise das Ausrichtungskonzept der Stadt München beeinflusst. 
+
+    [<+]{style="color: green"} [`<Reformiertes IOC>`](#risiken-zurückweisung-argumente)
+
+3. `[Kosten der Ausrichtung tragbar]`: Die Finanzierung der Ausrichtung der Olympischen Spiele wird nicht zu unfairen Kürzung anderer Haushaltsposten im Stadtbudget führen.
+
+--- 
+
+4. `[Zwischenkonklusion]`: Die aus der Ausrichtung der Olympischen Spiele befürchteten Nachteile -- Finanzrisiken, Kooperation mit dem IOC und Ausrichtungskosten -- sind nicht gewichtig.
+
+5. `[Pro-Gesichtspunkte]`: Die Ausrichtung der Olympischen Spiele in München würde folgende Vorteile bringen: […]
+
+---
+
+6. `[Konklusion: Abwägung Pro-Olympia]`: Trotz der benötigten Investitionen für die Ausrichtung der Olympischen Spiele, der damit verbundenen Finanzrisiken und der Risiken der Einflussnahme durch das IOC bringen die einzigartigen Erlebnisse, die mittel- bis langfristigen Vorteile des Ausbaus der städtischen Infrastruktur einschließlich der Barrierefreiheit sowie die zusätzlichen Gewinne für die lokale Wirtschaft insgesamt höhere Vorteile für die Stadt und ihre Bewohner\*innen.
+
+:::
+:::
+
+## A2.1.1 und A2.1.2: Zurückweisung der Nachteile {auto-animate="true" style="font-size: 0.8em;"}
+
+::: {.nonincremental}
+::: {.panel-tabset}
+### Transparente Kostenstruktur
+
+### Erfahrungen von Paris&London
+
+1. Die Durchführung der Olympischen Spiele in Paris und London hat gezeigt, dass die Spiele keine unvorhergesehenen Finanzlücken in Stadthaushalten gerissen haben und dass die Spiele die städtische Entwicklung vorangetrieben haben.
+ 
+2. Die Städte Paris, London und München sind sich in allen relevanten Hinsichten ähnlich, die für die Organisation und Durchführung von Olympischen Spielen einschlägig sind. 
+
+3. Bei der Abschätzung von unsicheren Kosten einer Maßnahme ist es vernünftig, Erfahrungswerte von Akteuren zugrunde zu legen, welche in allen relevanten Hinsichten in Bezug auf die Organisation und Durchführung der Maßnahme ähnlich sind. 
+
+----
+
+4. Es ist vernünftig davon auszugehen, dass die Durchführung der Olympischen Spiele in München keine unvorhergesehenen Finanzlücken in Stadthaushalt reissen wird und dass sie die städtische Entwicklung vorantreibt. 
+
+---
+
+5. `[Konklusion: keine Finanzlücken]`: Die Durchführung der Olympischen Spiele in München wird keine unvorhergesehenen Finanzlücken im Stadthaushalt reissen.
+
+### Reformiertes IOC
+:::
+:::
+
+-->
+## A4.1: Erwartungswert-Argument gegen Olympia {style="font-size: 0.8em;"}
+::: {.nonincremental}
+::: {.panel-tabset}
+### Grundidee
+
+### Rekonstruktion
+
+1. Das Herbeiführen der möglichen Vorteile einer Handlungsoption ist dann besser als das Vermeiden ihrer möglichen Nachteile,  wenn der erwartete gesamtgesellschaftliche Nutzen der möglichen Vorteile höher ist als der erwartete gesamtgesellschaftliche Schaden aus den möglichen Nachteilen. 
+
+2. `[erwartete Nachteile überwiegen erwartete Vorteile]`: Der erwartete gesamtgesellschaftliche Nutzen aus den möglichen Vorteilen der Ausrichtung Olympischer Spiele -- Infrastrukturausbau, einzigartige Erlebnisse, finanzielle Gewinne für die lokale Wirtschaft -- ist geringer als der erwartete gesamtgesellschaftliche Schaden aus den möglichen Nachteilen der Ausrichtung (Kosten- und Finanzrisiken, Kooperation mit einem unfairen Partner, zusätzliche ökologische Belastungen durch die Spiele). 
+
+----
+
+3. `[Abwägung Kontra-Olympia]`: Die erwarteten positiven Konsequenzen aus einer Ausrichtung von Olympischen Spielen in München überwiegen nicht die erwarteten Nachteile aus den Finanzrisiken und der unvermeidbaren Kooperation mit einem unfairen Partner.
+:::
+:::
+
+## A5.1: Infrastrukturausbau unabhängig von Olympia {style="font-size: 0.8em;"}
+::: {.nonincremental}
+::: {.panel-tabset}
+### Idee des Arguments
+
+
+### Rekonstruktion
+
+1. Wenn die Stadt München ihre Infrastrukturprojekte umsetzt und nicht die Olympischen Spiele ausrichtet, wird das Stadthaushalt höher belastet und es gibt keine Risiken aus der Kooperation mit dem IOC.
+
+   [<+]{style="color: green"} [`<A5.1.1: Ohne Olympia-Ausrichtung keine Zuschüsse>`](#a5.1.1.-ohne-olympia-ausrichtung-keine-zuschüsse)
+
+2. [Risiken der IOC-Kooperation schlimmer als Verzicht auf finanzielle Zuschüsse]: Die zusätzliche Belastung des Stadthaushalts (durch den Wegfall der Zuschüsse) für die Realisierung der Infrastrukturvorhaben ist insgesamt leichter zu bewältigen als das Tragen der Risiken aus der Kooperation mit dem IOC.
+
+----
+
+3. Wenn die Stadt München ihre Infrastrukturprojekte umsetzt und nicht die Olympischen Spiele ausrichtet, hat sie größere Nachteile als wenn sie die Olympischen Spiele ausrichtet und dabei die Infrastrukturprojekte umsetzt.
+
+----
+
+4. `[Bessere Alternative]`: Wenn die Stadt München die Infrastrukturvorhaben, die sie im Zuge der Olympia-Ausrichtung realisieren will, vollständig selbst finanziert, hat sie insgesamt geringere Nachteile zu tragen als durch ihre Realisierung mittels Olympia-Ausrichtung, auch wenn dadurch auf einmalige Erlebnisse verzichtet wird.
+
+:::
+:::
+
+## A5.1.1. Ohne Olympia-Ausrichtung keine Zuschüsse {style="font-size: 0.8em;"}
+::: {.nonincremental}
+::: {.panel-tabset}
+### Idee
+
+### Rekonstruktion
+
+1. `[Zuschüsse vom Bund und Land]`: Genau dann, wenn die Stadt München den Zuschlag für die Ausrichtung der Olympischen Spiele bekommt, erhält sie finanzielle Zuschüsse vom Bund und Land für die Realisierung ihrer Infrastrukturprojekte.
+
+----
+
+2. Wenn die Stadt München ihre Infrastrukturprojekte umsetzt und nicht die Olympischen Spiele ausrichtet, erhält sie keine finanziellen Zuschüsse vom Land und Bund.
+3. Realisierung von Infrastrukturprojekten der Stadt München ohne die Zuschüsse vom Land und Bund führt zu höherer Belastung von Stadthaushalt.
+4. Wenn die Stadt München ihre Infrastrukturprojekte umsetzt und nicht die Olympischen Spiele ausrichtet, geht sie keine Risiken aus der Kooperation mit dem IOC.
+
+----
+
+5. Wenn die Stadt München ihre Infrastrukturprojekte umsetzt und nicht die Olympischen Spiele ausrichtet, wird das Stadthaushalt höher belastet und es gibt keine Risiken aus der Kooperation mit dem IOC.
+:::
+:::
+
+
+## A6.1. Risiken aus einer Kooperation mit dem IOC {style="font-size: 0.8em;"}
+::: {.nonincremental}
+::: {.panel-tabset}
+### Idee des Arguments
+
+### Rekonstruktion
+1. `[Risiko aus der Gewinnorientierung des IOC]`: Bei der Festlegung des Konzepts der Olympischen Spiele ist damit zu rechnen, dass das IOC auf zahlreichen Lösungen besteht, die die IOC-Einnahmen maximieren und die Spiele für die Stadt München teurer  und weniger nachhaltig machen. 
+    
+    [<+]{style="color: green"} [<A6.1.1. Das IOC ist ein unfairer Kooperationspartner>](#a6.1.1-das-ioc-ist-ein-unfairer-kooperationspartner)
+  
+2. Wenn da IOC auf zahlreichen Lösungen besteht, die die Spiele die Spiele für die Stadt München teurer  und weniger nachhaltig machen, können die Verluste aus der Ausrichtung der Spiele die Gewinne deutlich übertreffen.
+
+----
+
+3. Die maximal möglichen Verluste an gesamtgesellschaftlichem Nutzen aus der Ausrichtung der Olympischen Spiele -- ökologische Schäden sowie unerwartete finanzielle Belastungen -- können deutlich höher ausfallen als die maximal möglichen Gewinne -- Infrastrukturausbau, Sporterlebnisse, finanzielle Gewinne.
+
+:::
+:::
+
+## A6.1.1 Das IOC ist ein unfairer Kooperationspartner
+::: {.nonincremental}
+::: {.panel-tabset}
+### Grundidee
+
+### Rekonstruktion
+
+1. Beim IOC spielt das Interesse, mit den Olympischen Spielen, möglichst hohe Einnahmen zu generieren, eine prioritäre Rolle.
+2. Wenn ein Ausrichter einer Veranstaltung das Ziel Z priorisiert, dann ist damit zu rechnen, dass der Ausrichter bei Zielkonflikten häufig für die Realisierung von Z entscheiden wird. 
+3. Bei der Festlegung des Konzepts der Olympischen Spiele zwischen der Stadt München und dem IOC ist mit zahlreichen Konflikten zwischen dem Finanzinteresse des IOC und den Zielen der Stadt München (Nachhaltigkeit, Kostenreduktion) zu rechnen. 
+
+----
+
+4. `[Risiko aus der Gewinnorientierung des IOC]`: Bei der Festlegung des Konzepts der Olympischen Spiele ist damit zu rechnen, dass das IOC auf zahlreichen Lösungen besteht, die die IOC-Einnahmen maximieren und die Spiele für die Stadt München teurer  und weniger nachhaltig machen.
+:::
+:::

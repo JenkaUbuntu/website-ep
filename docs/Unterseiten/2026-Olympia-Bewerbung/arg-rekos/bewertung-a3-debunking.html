@@ -1,0 +1,358 @@
+<head>
+    <meta charset="UTF-8">
+    <!-- Weitere Meta-Tags und Stylesheets -->
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css"><script src="https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js" type="module"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js"></script><figure  role="group" class="argdown-figure"><argdown-map    without-logo="true"  initial-view="map"><div slot="source" class=""><pre class="language-argdown"><code class="language-argdown"><span class="hljs-meta">===
+title: Pro-Argumentation -- Argument aus der Zurückweisung der Nachteile aus der Ausrichtung der Olympischen Spiele
+color:
+    colorizeByTag: true
+    tagColors:
+        tag-1: &quot;#f3d942&quot;
+        pro: &quot;#51ffae&quot;
+        contra: &quot;#FFA44F&quot; 
+        neutral: &quot;#bdbdbd&quot;
+        wid: &quot;#ff2626&quot;
+        unkl: &quot;#9ecae1&quot;
+model: 
+  removeTagsFromText: true
+webComponent:
+  withoutLogo: true
+selection:
+    excludeDisconnected: false
+dot:
+    argument:
+        shape: egg
+        style: filled
+        minWidth: 0
+        title:
+          charactersInLine: 25
+        text:
+          charactesInLine: 30
+    statement:
+        minWidth: 0
+        title:
+            charactersInLine: 23
+        text:
+            charactersInLine: 40
+===</span>
+
+<span class="hljs-statement-title">[Pro-Olympia-Bewerbung]:</span> Die Stadt München sollte sich um die Ausrichtung der Olympischen Spiele 2036/40/44 bewerben. <span class="hljs-tag">#(pro)</span>
+
+<span class="hljs-statement-title">[Abwägungsprinzip]:</span> Eine Maßnahme M, die zu erwünschten Konsequenzen EK und zu Nachteilen N führt, soll genau dann durchgeführt werden, wenn gilt: (i) das Herbeiführen der erwünschten Konsequenzen EK ist insgesamt besser als das Vermeiden der erwarteten Nachteile N und (ii) 
+es gibt keinen anderen Weg als M, die Vorteile EK mit geringeren Nachteilen als N zu realisieren. <span class="hljs-tag">#neutral</span>
+
+<span class="hljs-statement-title">[Alle unkontroversen Pro-Gesichtspunkte]:</span> Von der Ausrichtung der Olympischen Spiele in München sind folgende Vorteile zu erwarten: Förderung der Stadtentwicklung, Verbesserung der Inklusion durch Ausbau der Barrierefreiheit, Gewinne für die lokale Wirtschaft sowie einzigartige Erlebnisse für die Stadtbewohner<span class="hljs-meta">\*</span>innen. <span class="hljs-tag">#pro</span>
+
+
+<span class="hljs-statement-title">[Alle unkontroversen Contra-Gesichtspunkte]:</span> Von der Ausrichtung der Olympischen Spiele in München sind folgende Nachteile zu erwarten: ihre Ausrichtung belastet den Stadthaushalt, sie birgt hohe finanzielle Risiken und die Ausrichtung erfordert Kooperation mit einem unfairen Partner, dem IOC.<span class="hljs-tag">#contra</span>
+
+
+
+<span class="hljs-section">## Nachteile-Zurückweisung </span>
+
+<span class="hljs-argument-title">&lt;A3: Pro-Abwägung-2&gt;:</span> Ausrichtung der Olympischen Spiele bringt zahlreiche Vorteile und kaum signifikante Nachteile.<span class="hljs-tag">#pro</span>
+
+<span class="hljs-argument-statement-nr">(1)</span> <span class="hljs-statement-title">[Abwägungsprinzip]</span>
+<span class="hljs-argument-statement-nr">(2)</span> <span class="hljs-statement-title">[Abwägung Pro-Olympia 2]:</span>  Ausrichtung der Olympischen Spiele in München bringt signifikante Vorteile und kaum Nachteile.<span class="hljs-tag">#(pro)</span>
+<span class="hljs-contradiction">  &gt;&lt;</span> <span class="hljs-statement-title">[Alle unkontroversen Contra-Gesichtspunkte]</span>
+<span class="hljs-support">  &lt;+</span> <span class="hljs-statement-title">[Alle unkontroversen Pro-Gesichtspunkte]</span>
+<span class="hljs-argument-statement-nr">(3)</span> <span class="hljs-statement-title">[Optimalität der Olympia-Bewerbung]:</span> Es gibt keinen anderen Weg, mit geringeren Nachteilen als denen, die durch eine erfolgreiche Olympia-Bewerbung entstehen können, die positiven Konsequenzen für die Stadt zu realisieren, die von der Ausrichtung der Olympischen Spiele zu erwarten sind.<span class="hljs-tag">#(pro)</span> <span class="hljs-meta">{isInMap: false}</span>
+<span class="hljs-support"> &lt;+</span> <span class="hljs-argument-title">&lt;A1.3: Finanzielle Zuschüsse vom Land und Bund&gt;</span><span class="hljs-tag">#pro</span>
+<span class="hljs-inference">----</span>
+<span class="hljs-argument-statement-nr">(3)</span> <span class="hljs-statement-title">[Pro-Olympia-Bewerbung]</span>
+
+<span class="hljs-section">## Debunking-Argumente</span>
+
+<span class="hljs-argument-title">&lt;A3.3: IOC ist ein vertrauenswürdiger Kooperationspartner&gt;</span><span class="hljs-tag">#pro</span>
+<span class="hljs-attack">  -&gt;</span> <span class="hljs-statement-title">[Alle unkontroversen Contra-Gesichtspunkte]</span>
+<span class="hljs-support">  &lt;+</span> <span class="hljs-statement-title">[Es ist nicht zu erwarten, dass das IOC auf eine untragbare Weise das Ausrichtungskonzept der Stadt München beeinflusst.]</span><span class="hljs-tag">#pro</span>
+<span class="hljs-support">   &lt;+</span> <span class="hljs-argument-title">&lt;❓ 😞&gt;</span><span class="hljs-tag">#unkl</span>
+
+<span class="hljs-argument-title">&lt;A3.1: Finanzrisiken überschaubar&gt;</span><span class="hljs-tag">#(pro)</span>
+<span class="hljs-attack">  -&gt;</span> <span class="hljs-statement-title">[Alle unkontroversen Contra-Gesichtspunkte]</span>
+<span class="hljs-support">  &lt;+</span> <span class="hljs-statement-title">[Es ist nicht zu erwarten, dass die Ausrichtung der Olympischen Spiele dem Stadthaushalt unerwartete Kosten aufbürdet.]</span><span class="hljs-tag">#pro</span>
+<span class="hljs-support">    &lt;+</span> <span class="hljs-argument-title">&lt; ❓ 😞 &gt;</span><span class="hljs-tag">#unkl</span>
+
+
+<span class="hljs-argument-title">&lt;A3.2: Ausrichtungskosten sind tragbar&gt;</span><span class="hljs-tag">#pro</span>
+<span class="hljs-attack">  -&gt;</span> <span class="hljs-statement-title">[Alle unkontroversen Contra-Gesichtspunkte]</span>
+<span class="hljs-support">  +</span> <span class="hljs-statement-title">[Es ist nicht zu erwarten, dass die Finanzierung der Ausrichtung der Olympischen Spiele dazu führt, dass andere Haushaltsposten der Stadt München hierfür gekürzt werden.]</span><span class="hljs-tag">#pro</span>
+<span class="hljs-support">    &lt;+</span> <span class="hljs-argument-title">&lt; ❓ 😞  &gt;</span><span class="hljs-tag">#unkl</span>
+
+<span class="hljs-argument-title">&lt;A1.3: Finanzielle Zuschüsse vom Land und Bund&gt;</span><span class="hljs-tag">#pro</span> <span class="hljs-meta">{isInMap: false}</span>
+
+<span class="hljs-argument-statement-nr">(1)</span> Genau dann, wenn die Stadt München den Zuschlag für die Ausrichtung der Olympischen Spiele bekommt, erhält sie finanzielle Zuschüsse vom Bund und Land für die Realisierung ihrer Infrastrukturprojekte.
+<span class="hljs-inference">----</span>
+<span class="hljs-argument-statement-nr">(2)</span> Wenn die Stadt München ihre Infrastrukturprojekte umsetzt und nicht die Olympischen Spiele ausrichtet, erhält sie keine finanziellen Zuschüsse vom Land und Bund.
+<span class="hljs-argument-statement-nr">(3)</span> Realisierung von Infrastrukturprojekten der Stadt München ohne die Zuschüsse vom Land und Bund führt zu höherer Belastung von Stadthaushalt.
+<span class="hljs-argument-statement-nr">(4)</span> Wenn die Stadt München ihre Infrastrukturprojekte umsetzt und nicht die Olympischen Spiele ausrichtet, geht sie keine Risiken aus der Kooperation mit dem IOC.
+<span class="hljs-inference">----</span>
+<span class="hljs-argument-statement-nr">(5)</span> Wenn die Stadt München ihre Infrastrukturprojekte umsetzt und nicht die Olympischen Spiele ausrichtet, wird das Stadthaushalt höher belastet und es gibt keine Risiken aus der Kooperation mit dem IOC.
+<span class="hljs-argument-statement-nr">(6)</span> Die zusätzliche Belastung des Stadthaushalts (durch den Wegfall der Zuschüsse) hat insgesamt höhere Nachteile als das Tragen der Risiken aus der Kooperation mit dem IOC.
+<span class="hljs-inference">----</span>
+<span class="hljs-argument-statement-nr">(7)</span> Wenn die Stadt München ihre Infrastrukturprojekte umsetzt und nicht die Olympischen Spiele ausrichtet, hat sie größere Nachteile als wenn sie die Olympischen Spiele ausrichtet und dabei die Infrastrukturprojekte umsetzt.
+<span class="hljs-argument-statement-nr">(8)</span> Entweder wird die Stadt München ihre Infrastrukturprojekte realisieren und Olympische Spiele ausrichten oder sie wird sie realisieren und keine Olympischen Spiele ausrichten.
+<span class="hljs-inference">----</span>
+<span class="hljs-argument-statement-nr">(9)</span> <span class="hljs-statement-title">[Optimalität der Olympia-Bewerbung]:</span> Es ist nicht möglich, die Vorteile der Ausrichtung der Olympischen Spiele zu realisieren (Infrastrukturprojekte) und geringere Nachteile als denen, die durch eine erfolgreiche Olympia-Bewerbung entstehen können (Risiken aus der Kooperation mit dem IOC), in Kauf zu nehmen.
+
+
+
+</code></pre></div><div slot="map">
+<!-- Generated by graphviz version 2.47.0 (20210316.0004)
+ -->
+<!-- Title: Argument Map Pages: 1 -->
+<svg width="720pt" height="458pt"
+ viewBox="0.00 0.00 720.00 457.68" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(0.65 0.65) rotate(0) translate(4 700)">
+<title>Argument Map</title>
+<g id="clust1" class="cluster">
+<title>cluster_1</title>
+<polygon fill="#dadada" stroke="#dadada" points="211.5,-308 211.5,-605.67 499.5,-605.67 499.5,-308 211.5,-308"/>
+<text text-anchor="start" x="283.5" y="-590.87" font-family="arial" font-size="12.00" fill="#000000">Nachteile&#45;Zurückweisung</text>
+</g>
+<g id="clust2" class="cluster">
+<title>cluster_2</title>
+<polygon fill="#dadada" stroke="#dadada" points="507.5,-8 507.5,-408.11 1091.5,-408.11 1091.5,-8 507.5,-8"/>
+<text text-anchor="start" x="739.49" y="-393.31" font-family="arial" font-size="12.00" fill="#000000">Debunking&#45;Argumente</text>
+</g>
+<!-- n4 -->
+<g id="node1" class="node">
+<title>n4</title>
+<path fill="white" stroke="#51ffae" stroke-width="2" d="M459,-380C459,-380 292,-380 292,-380 286,-380 280,-374 280,-368 280,-368 280,-328 280,-328 280,-322 286,-316 292,-316 292,-316 459,-316 459,-316 465,-316 471,-322 471,-328 471,-328 471,-368 471,-368 471,-374 465,-380 459,-380"/>
+<text text-anchor="start" x="319.33" y="-366" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000">Abwägung Pro&#45;Olympia 2</text>
+<text text-anchor="start" x="290.15" y="-349" font-family="arial" font-size="10.00" fill="#000000">Ausrichtung der Olympischen Spiele in</text>
+<text text-anchor="start" x="291.54" y="-337" font-family="arial" font-size="10.00" fill="#000000"> München bringt signifikante Vorteile</text>
+<text text-anchor="start" x="329.04" y="-325" font-family="arial" font-size="10.00" fill="#000000"> und kaum Nachteile.</text>
+</g>
+<!-- n8 -->
+<g id="node2" class="node">
+<title>n8</title>
+<polygon fill="#51ffae" stroke="black" points="368.09,-485.08 376.43,-485.33 384.68,-485.7 392.82,-486.19 400.79,-486.8 408.59,-487.53 416.17,-488.37 423.5,-489.33 430.56,-490.4 437.32,-491.58 443.76,-492.87 449.85,-494.25 455.58,-495.74 460.92,-497.32 465.86,-498.98 470.39,-500.74 474.49,-502.57 478.16,-504.48 481.39,-506.46 484.17,-508.5 486.51,-510.6 488.4,-512.76 489.85,-514.96 490.86,-517.2 491.44,-519.48 491.6,-521.79 491.34,-524.12 490.68,-526.46 489.63,-528.82 488.21,-531.18 486.44,-533.54 484.32,-535.88 481.87,-538.21 479.12,-540.52 476.09,-542.8 472.78,-545.04 469.22,-547.24 465.43,-549.4 461.42,-551.5 457.22,-553.54 452.83,-555.52 448.29,-557.43 443.59,-559.26 438.77,-561.02 433.83,-562.68 428.78,-564.26 423.65,-565.75 418.43,-567.13 413.15,-568.42 407.81,-569.6 402.42,-570.67 396.99,-571.63 391.52,-572.47 386.02,-573.2 380.5,-573.81 374.96,-574.3 369.41,-574.67 363.85,-574.92 358.28,-575.04 352.72,-575.04 347.15,-574.92 341.59,-574.67 336.04,-574.3 330.5,-573.81 324.98,-573.2 319.48,-572.47 314.01,-571.63 308.58,-570.67 303.19,-569.6 297.85,-568.42 292.57,-567.13 287.35,-565.75 282.22,-564.26 277.17,-562.68 272.23,-561.02 267.41,-559.26 262.71,-557.43 258.17,-555.52 253.78,-553.54 249.58,-551.5 245.57,-549.4 241.78,-547.24 238.22,-545.04 234.91,-542.8 231.88,-540.52 229.13,-538.21 226.68,-535.88 224.56,-533.54 222.79,-531.18 221.37,-528.82 220.32,-526.46 219.66,-524.12 219.4,-521.79 219.56,-519.48 220.14,-517.2 221.15,-514.96 222.6,-512.76 224.49,-510.6 226.83,-508.5 229.61,-506.46 232.84,-504.48 236.51,-502.57 240.61,-500.74 245.14,-498.98 250.08,-497.32 255.42,-495.74 261.15,-494.25 267.24,-492.87 273.68,-491.58 280.44,-490.4 287.5,-489.33 294.83,-488.37 302.41,-487.53 310.21,-486.8 318.18,-486.19 326.32,-485.7 334.57,-485.33 342.91,-485.08 351.3,-484.96 359.7,-484.96 368.09,-485.08"/>
+<text text-anchor="start" x="309.88" y="-548" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000">A3: Pro&#45;Abwägung&#45;2</text>
+<text text-anchor="start" x="275.43" y="-531" font-family="arial" font-size="10.00" fill="#000000">Ausrichtung der Olympischen Spiele</text>
+<text text-anchor="start" x="276.26" y="-519" font-family="arial" font-size="10.00" fill="#000000"> bringt zahlreiche Vorteile und kaum</text>
+<text text-anchor="start" x="305.99" y="-507" font-family="arial" font-size="10.00" fill="#000000"> signifikante Nachteile.</text>
+</g>
+<!-- n4&#45;&gt;n8 -->
+<g id="edge14" class="edge">
+<title>n4&#45;&gt;n8</title>
+<path fill="none" stroke="#00ff00" d="M372.02,-380.35C369.13,-406.33 364.96,-443.84 361.54,-474.68"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="358.03,-474.53 360.4,-484.86 364.99,-475.31 358.03,-474.53"/>
+</g>
+<!-- n3 -->
+<g id="node15" class="node">
+<title>n3</title>
+<path fill="white" stroke="#ffa44f" stroke-width="2" d="M795.5,-596C795.5,-596 631.5,-596 631.5,-596 625.5,-596 619.5,-590 619.5,-584 619.5,-584 619.5,-476 619.5,-476 619.5,-470 625.5,-464 631.5,-464 631.5,-464 795.5,-464 795.5,-464 801.5,-464 807.5,-470 807.5,-476 807.5,-476 807.5,-584 807.5,-584 807.5,-590 801.5,-596 795.5,-596"/>
+<text text-anchor="start" x="669.32" y="-582" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000">Alle unkontroversen</text>
+<text text-anchor="start" x="660.99" y="-572" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000"> Contra&#45;Gesichtspunkte</text>
+<text text-anchor="start" x="629.32" y="-557" font-family="arial" font-size="10.00" fill="#000000">Von der Ausrichtung der Olympischen</text>
+<text text-anchor="start" x="635.98" y="-545" font-family="arial" font-size="10.00" fill="#000000"> Spiele in München sind folgende</text>
+<text text-anchor="start" x="652.66" y="-533" font-family="arial" font-size="10.00" fill="#000000"> Nachteile zu erwarten: ihre</text>
+<text text-anchor="start" x="657.09" y="-521" font-family="arial" font-size="10.00" fill="#000000"> Ausrichtung belastet den</text>
+<text text-anchor="start" x="648.75" y="-509" font-family="arial" font-size="10.00" fill="#000000"> Stadthaushalt, sie birgt hohe</text>
+<text text-anchor="start" x="654.32" y="-497" font-family="arial" font-size="10.00" fill="#000000"> finanzielle Risiken und die</text>
+<text text-anchor="start" x="629.04" y="-485" font-family="arial" font-size="10.00" fill="#000000"> Ausrichtung erfordert Kooperation mit</text>
+<text text-anchor="start" x="637.1" y="-473" font-family="arial" font-size="10.00" fill="#000000"> einem unfairen Partner, dem IOC.</text>
+</g>
+<!-- n4&#45;&gt;n3 -->
+<g id="edge1" class="edge">
+<title>n4&#45;&gt;n3</title>
+<path fill="none" stroke="#ff0000" d="M433.47,-386.56C455.15,-400.13 480.17,-415.24 503.5,-428 537.13,-446.4 574.63,-465.01 608.53,-481.16"/>
+<polygon fill="#ff0000" stroke="#ff0000" points="433.27,-386.43 426.06,-386.62 423.12,-380.03 430.33,-379.85 433.27,-386.43"/>
+<polygon fill="#ff0000" stroke="#ff0000" points="608.56,-481.18 615.69,-480.13 619.4,-486.32 612.26,-487.36 608.56,-481.18"/>
+</g>
+<!-- n0 -->
+<g id="node12" class="node">
+<title>n0</title>
+<path fill="white" stroke="#51ffae" stroke-width="2" d="M439.5,-696C439.5,-696 271.5,-696 271.5,-696 265.5,-696 259.5,-690 259.5,-684 259.5,-684 259.5,-644 259.5,-644 259.5,-638 265.5,-632 271.5,-632 271.5,-632 439.5,-632 439.5,-632 445.5,-632 451.5,-638 451.5,-644 451.5,-644 451.5,-684 451.5,-684 451.5,-690 445.5,-696 439.5,-696"/>
+<text text-anchor="start" x="300.77" y="-682" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000">Pro&#45;Olympia&#45;Bewerbung</text>
+<text text-anchor="start" x="269.38" y="-665" font-family="arial" font-size="10.00" fill="#000000">Die Stadt München sollte sich um die</text>
+<text text-anchor="start" x="273.54" y="-653" font-family="arial" font-size="10.00" fill="#000000"> Ausrichtung der Olympischen Spiele</text>
+<text text-anchor="start" x="302.98" y="-641" font-family="arial" font-size="10.00" fill="#000000"> 2036/40/44 bewerben. </text>
+</g>
+<!-- n8&#45;&gt;n0 -->
+<g id="edge12" class="edge">
+<title>n8&#45;&gt;n0</title>
+<path fill="none" stroke="#00ff00" d="M355.5,-575.32C355.5,-590.27 355.5,-606.88 355.5,-621.6"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="352,-621.92 355.5,-631.92 359,-621.92 352,-621.92"/>
+</g>
+<!-- n5 -->
+<g id="node3" class="node">
+<title>n5</title>
+<path fill="white" stroke="#51ffae" stroke-width="2" d="M1044.5,-201C1044.5,-201 948.5,-201 948.5,-201 942.5,-201 936.5,-195 936.5,-189 936.5,-189 936.5,-131 936.5,-131 936.5,-125 942.5,-119 948.5,-119 948.5,-119 1044.5,-119 1044.5,-119 1050.5,-119 1056.5,-125 1056.5,-131 1056.5,-131 1056.5,-189 1056.5,-189 1056.5,-195 1050.5,-201 1044.5,-201"/>
+<text text-anchor="start" x="965.66" y="-187" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000">Es ist nicht zu</text>
+<text text-anchor="start" x="952.88" y="-177" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000"> erwarten, dass das</text>
+<text text-anchor="start" x="967.05" y="-167" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000"> IOC auf eine</text>
+<text text-anchor="start" x="946.21" y="-157" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000"> untragbare Weise das</text>
+<text text-anchor="start" x="948.71" y="-147" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000"> Ausrichtungskonzept</text>
+<text text-anchor="start" x="948.99" y="-137" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000"> der Stadt München</text>
+<text text-anchor="start" x="969.83" y="-127" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000"> beeinflusst.</text>
+</g>
+<!-- n9 -->
+<g id="node6" class="node">
+<title>n9</title>
+<polygon fill="#51ffae" stroke="black" points="1004.57,-318.16 1009.91,-318.33 1015.2,-318.57 1020.41,-318.9 1025.52,-319.3 1030.52,-319.79 1035.37,-320.35 1040.07,-320.99 1044.6,-321.7 1048.93,-322.48 1053.05,-323.33 1056.96,-324.26 1060.62,-325.24 1064.05,-326.29 1067.21,-327.4 1070.11,-328.56 1072.74,-329.78 1075.09,-331.05 1077.16,-332.36 1078.94,-333.72 1080.44,-335.12 1081.66,-336.55 1082.58,-338.01 1083.23,-339.5 1083.6,-341.01 1083.7,-342.55 1083.54,-344.09 1083.12,-345.65 1082.44,-347.22 1081.54,-348.78 1080.4,-350.35 1079.04,-351.91 1077.47,-353.45 1075.71,-354.99 1073.76,-356.5 1071.64,-357.99 1069.36,-359.45 1066.93,-360.88 1064.37,-362.28 1061.67,-363.64 1058.86,-364.95 1055.95,-366.22 1052.95,-367.44 1049.85,-368.6 1046.69,-369.71 1043.46,-370.76 1040.17,-371.74 1036.82,-372.67 1033.44,-373.52 1030.02,-374.3 1026.56,-375.01 1023.08,-375.65 1019.58,-376.21 1016.06,-376.7 1012.52,-377.1 1008.97,-377.43 1005.41,-377.67 1001.85,-377.84 998.28,-377.92 994.72,-377.92 991.15,-377.84 987.59,-377.67 984.03,-377.43 980.48,-377.1 976.94,-376.7 973.42,-376.21 969.92,-375.65 966.44,-375.01 962.98,-374.3 959.56,-373.52 956.18,-372.67 952.83,-371.74 949.54,-370.76 946.31,-369.71 943.15,-368.6 940.05,-367.44 937.05,-366.22 934.14,-364.95 931.33,-363.64 928.63,-362.28 926.07,-360.88 923.64,-359.45 921.36,-357.99 919.24,-356.5 917.29,-354.99 915.53,-353.45 913.96,-351.91 912.6,-350.35 911.46,-348.78 910.56,-347.22 909.88,-345.65 909.46,-344.09 909.3,-342.55 909.4,-341.01 909.77,-339.5 910.42,-338.01 911.34,-336.55 912.56,-335.12 914.06,-333.72 915.84,-332.36 917.91,-331.05 920.26,-329.78 922.89,-328.56 925.79,-327.4 928.95,-326.29 932.38,-325.24 936.04,-324.26 939.95,-323.33 944.07,-322.48 948.4,-321.7 952.93,-320.99 957.63,-320.35 962.48,-319.79 967.48,-319.3 972.59,-318.9 977.8,-318.57 983.09,-318.33 988.43,-318.16 993.81,-318.08 999.19,-318.08 1004.57,-318.16"/>
+<text text-anchor="start" x="960.1" y="-355" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000">A3.3: IOC ist ein</text>
+<text text-anchor="start" x="948.44" y="-345" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000"> vertrauenswürdiger</text>
+<text text-anchor="start" x="949.82" y="-335" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000"> Kooperationspartner</text>
+</g>
+<!-- n5&#45;&gt;n9 -->
+<g id="edge5" class="edge">
+<title>n5&#45;&gt;n9</title>
+<path fill="none" stroke="#00ff00" d="M996.5,-201.36C996.5,-233.04 996.5,-276.86 996.5,-308.15"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="993,-308.24 996.5,-318.24 1000,-308.24 993,-308.24"/>
+</g>
+<!-- n6 -->
+<g id="node4" class="node">
+<title>n6</title>
+<path fill="white" stroke="#51ffae" stroke-width="2" d="M856,-201C856,-201 769,-201 769,-201 763,-201 757,-195 757,-189 757,-189 757,-131 757,-131 757,-125 763,-119 769,-119 769,-119 856,-119 856,-119 862,-119 868,-125 868,-131 868,-131 868,-189 868,-189 868,-195 862,-201 856,-201"/>
+<text text-anchor="start" x="782.16" y="-187" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000">Es ist nicht zu</text>
+<text text-anchor="start" x="770.77" y="-177" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000"> erwarten, dass die</text>
+<text text-anchor="start" x="776.6" y="-167" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000"> Ausrichtung der</text>
+<text text-anchor="start" x="767.44" y="-157" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000"> Olympischen Spiele</text>
+<text text-anchor="start" x="769.93" y="-147" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000"> dem Stadthaushalt</text>
+<text text-anchor="start" x="768.26" y="-137" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000"> unerwartete Kosten</text>
+<text text-anchor="start" x="785.22" y="-127" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000"> aufbürdet.</text>
+</g>
+<!-- n11 -->
+<g id="node8" class="node">
+<title>n11</title>
+<polygon fill="#51ffae" stroke="black" points="819.82,-325.29 824.67,-325.42 829.47,-325.6 834.2,-325.85 838.84,-326.16 843.37,-326.53 847.78,-326.95 852.04,-327.44 856.15,-327.98 860.08,-328.58 863.82,-329.23 867.36,-329.93 870.69,-330.68 873.8,-331.48 876.67,-332.32 879.3,-333.21 881.69,-334.13 883.82,-335.1 885.7,-336.1 887.32,-337.13 888.68,-338.19 889.78,-339.28 890.62,-340.4 891.21,-341.53 891.54,-342.68 891.64,-343.85 891.49,-345.03 891.1,-346.21 890.49,-347.4 889.67,-348.6 888.64,-349.79 887.4,-350.97 885.98,-352.15 884.38,-353.32 882.62,-354.47 880.69,-355.6 878.62,-356.72 876.42,-357.81 874.09,-358.87 871.64,-359.9 869.1,-360.9 866.45,-361.87 863.72,-362.79 860.92,-363.68 858.05,-364.52 855.11,-365.32 852.13,-366.07 849.09,-366.77 846.02,-367.42 842.92,-368.02 839.78,-368.56 836.62,-369.05 833.44,-369.47 830.25,-369.84 827.04,-370.15 823.82,-370.4 820.59,-370.58 817.36,-370.71 814.12,-370.77 810.88,-370.77 807.64,-370.71 804.41,-370.58 801.18,-370.4 797.96,-370.15 794.75,-369.84 791.56,-369.47 788.38,-369.05 785.22,-368.56 782.08,-368.02 778.98,-367.42 775.91,-366.77 772.87,-366.07 769.89,-365.32 766.95,-364.52 764.08,-363.68 761.28,-362.79 758.55,-361.87 755.9,-360.9 753.36,-359.9 750.91,-358.87 748.58,-357.81 746.38,-356.72 744.31,-355.6 742.38,-354.47 740.62,-353.32 739.02,-352.15 737.6,-350.97 736.36,-349.79 735.33,-348.6 734.51,-347.4 733.9,-346.21 733.51,-345.03 733.36,-343.85 733.46,-342.68 733.79,-341.53 734.38,-340.4 735.22,-339.28 736.32,-338.19 737.68,-337.13 739.3,-336.1 741.18,-335.1 743.31,-334.13 745.7,-333.21 748.33,-332.32 751.2,-331.48 754.31,-330.68 757.64,-329.93 761.18,-329.23 764.92,-328.58 768.85,-327.98 772.96,-327.44 777.22,-326.95 781.63,-326.53 786.16,-326.16 790.8,-325.85 795.53,-325.6 800.33,-325.42 805.18,-325.29 810.06,-325.23 814.94,-325.23 819.82,-325.29"/>
+<text text-anchor="start" x="770.49" y="-350" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000">A3.1: Finanzrisiken</text>
+<text text-anchor="start" x="777.16" y="-340" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000"> überschaubar</text>
+</g>
+<!-- n6&#45;&gt;n11 -->
+<g id="edge8" class="edge">
+<title>n6&#45;&gt;n11</title>
+<path fill="none" stroke="#00ff00" d="M812.5,-201.36C812.5,-235.38 812.5,-283.43 812.5,-314.89"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="809,-315.27 812.5,-325.27 816,-315.27 809,-315.27"/>
+</g>
+<!-- n7 -->
+<g id="node5" class="node">
+<title>n7</title>
+<path fill="white" stroke="#51ffae" stroke-width="2" d="M671.5,-216C671.5,-216 559.5,-216 559.5,-216 553.5,-216 547.5,-210 547.5,-204 547.5,-204 547.5,-116 547.5,-116 547.5,-110 553.5,-104 559.5,-104 559.5,-104 671.5,-104 671.5,-104 677.5,-104 683.5,-110 683.5,-116 683.5,-116 683.5,-204 683.5,-204 683.5,-210 677.5,-216 671.5,-216"/>
+<text text-anchor="start" x="584.66" y="-202" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000">Es ist nicht zu</text>
+<text text-anchor="start" x="573.27" y="-192" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000"> erwarten, dass die</text>
+<text text-anchor="start" x="576.6" y="-182" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000"> Finanzierung der</text>
+<text text-anchor="start" x="579.1" y="-172" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000"> Ausrichtung der</text>
+<text text-anchor="start" x="569.94" y="-162" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000"> Olympischen Spiele</text>
+<text text-anchor="start" x="574.66" y="-152" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000"> dazu führt, dass</text>
+<text text-anchor="start" x="598.55" y="-142" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000"> andere</text>
+<text text-anchor="start" x="568.26" y="-132" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000"> Haushaltsposten der</text>
+<text text-anchor="start" x="557.16" y="-122" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000"> Stadt München hierfür</text>
+<text text-anchor="start" x="574.66" y="-112" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000"> gekürzt werden.</text>
+</g>
+<!-- n13 -->
+<g id="node10" class="node">
+<title>n13</title>
+<polygon fill="#51ffae" stroke="black" points="624.78,-325.29 630.93,-325.42 637.01,-325.6 643,-325.85 648.88,-326.16 654.63,-326.53 660.21,-326.95 665.62,-327.44 670.82,-327.98 675.81,-328.58 680.55,-329.23 685.04,-329.93 689.26,-330.68 693.2,-331.48 696.84,-332.32 700.17,-333.21 703.2,-334.13 705.9,-335.1 708.28,-336.1 710.33,-337.13 712.06,-338.19 713.45,-339.28 714.52,-340.4 715.26,-341.53 715.69,-342.68 715.8,-343.85 715.62,-345.03 715.13,-346.21 714.36,-347.4 713.31,-348.6 712,-349.79 710.44,-350.97 708.64,-352.15 706.61,-353.32 704.37,-354.47 701.94,-355.6 699.31,-356.72 696.52,-357.81 693.56,-358.87 690.47,-359.9 687.24,-360.9 683.89,-361.87 680.43,-362.79 676.87,-363.68 673.23,-364.52 669.51,-365.32 665.73,-366.07 661.88,-366.77 657.99,-367.42 654.05,-368.02 650.08,-368.56 646.08,-369.05 642.04,-369.47 637.99,-369.84 633.93,-370.15 629.84,-370.4 625.75,-370.58 621.65,-370.71 617.55,-370.77 613.45,-370.77 609.35,-370.71 605.25,-370.58 601.16,-370.4 597.07,-370.15 593.01,-369.84 588.96,-369.47 584.92,-369.05 580.92,-368.56 576.95,-368.02 573.01,-367.42 569.12,-366.77 565.27,-366.07 561.49,-365.32 557.77,-364.52 554.13,-363.68 550.57,-362.79 547.11,-361.87 543.76,-360.9 540.53,-359.9 537.44,-358.87 534.48,-357.81 531.69,-356.72 529.06,-355.6 526.63,-354.47 524.39,-353.32 522.36,-352.15 520.56,-350.97 519,-349.79 517.69,-348.6 516.64,-347.4 515.87,-346.21 515.38,-345.03 515.2,-343.85 515.31,-342.68 515.74,-341.53 516.48,-340.4 517.55,-339.28 518.94,-338.19 520.67,-337.13 522.72,-336.1 525.1,-335.1 527.8,-334.13 530.83,-333.21 534.16,-332.32 537.8,-331.48 541.74,-330.68 545.96,-329.93 550.45,-329.23 555.19,-328.58 560.18,-327.98 565.38,-327.44 570.79,-326.95 576.37,-326.53 582.12,-326.16 588,-325.85 593.99,-325.6 600.07,-325.42 606.22,-325.29 612.4,-325.23 618.6,-325.23 624.78,-325.29"/>
+<text text-anchor="start" x="559.31" y="-350" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000">A3.2: Ausrichtungskosten</text>
+<text text-anchor="start" x="588.22" y="-340" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000"> sind tragbar</text>
+</g>
+<!-- n7&#45;&gt;n13 -->
+<g id="edge11" class="edge">
+<title>n7&#45;&gt;n13</title>
+<path fill="none" stroke="#00ff00" d="M615.5,-216.05C615.5,-248.2 615.5,-287.66 615.5,-314.81"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="612,-314.93 615.5,-324.93 619,-314.93 612,-314.93"/>
+</g>
+<!-- n9&#45;&gt;n3 -->
+<g id="edge3" class="edge">
+<title>n9&#45;&gt;n3</title>
+<path fill="none" stroke="#ff0000" d="M967.39,-375.46C948.93,-391.6 924.14,-412.1 900.5,-428 874.25,-445.65 844.61,-462.8 816.8,-477.81"/>
+<polygon fill="#ff0000" stroke="#ff0000" points="815,-474.8 807.84,-482.61 818.31,-480.98 815,-474.8"/>
+</g>
+<!-- n10 -->
+<g id="node7" class="node">
+<title>n10</title>
+<polygon fill="#9ecae1" stroke="black" points="999.28,-16.05 1001.12,-16.15 1002.93,-16.3 1004.73,-16.49 1006.49,-16.74 1008.21,-17.03 1009.88,-17.36 1011.49,-17.75 1013.05,-18.18 1014.54,-18.65 1015.96,-19.16 1017.3,-19.71 1018.57,-20.31 1019.74,-20.94 1020.83,-21.61 1021.83,-22.31 1022.74,-23.04 1023.55,-23.8 1024.26,-24.59 1024.87,-25.41 1025.39,-26.25 1025.8,-27.11 1026.12,-27.99 1026.35,-28.89 1026.47,-29.8 1026.51,-30.72 1026.45,-31.65 1026.31,-32.59 1026.08,-33.53 1025.76,-34.47 1025.37,-35.41 1024.9,-36.35 1024.36,-37.28 1023.76,-38.2 1023.09,-39.11 1022.36,-40.01 1021.57,-40.89 1020.74,-41.75 1019.85,-42.59 1018.93,-43.41 1017.96,-44.2 1016.96,-44.96 1015.92,-45.69 1014.86,-46.39 1013.77,-47.06 1012.66,-47.69 1011.53,-48.29 1010.38,-48.84 1009.21,-49.35 1008.03,-49.82 1006.85,-50.25 1005.65,-50.64 1004.44,-50.97 1003.23,-51.26 1002.01,-51.51 1000.79,-51.7 999.57,-51.85 998.34,-51.95 997.11,-52 995.89,-52 994.66,-51.95 993.43,-51.85 992.21,-51.7 990.99,-51.51 989.77,-51.26 988.56,-50.97 987.35,-50.64 986.15,-50.25 984.97,-49.82 983.79,-49.35 982.62,-48.84 981.47,-48.29 980.34,-47.69 979.23,-47.06 978.14,-46.39 977.08,-45.69 976.04,-44.96 975.04,-44.2 974.07,-43.41 973.15,-42.59 972.26,-41.75 971.43,-40.89 970.64,-40.01 969.91,-39.11 969.24,-38.2 968.64,-37.28 968.1,-36.35 967.63,-35.41 967.24,-34.47 966.92,-33.53 966.69,-32.59 966.55,-31.65 966.49,-30.72 966.53,-29.8 966.65,-28.89 966.88,-27.99 967.2,-27.11 967.61,-26.25 968.13,-25.41 968.74,-24.59 969.45,-23.8 970.26,-23.04 971.17,-22.31 972.17,-21.61 973.26,-20.94 974.43,-20.31 975.7,-19.71 977.04,-19.16 978.46,-18.65 979.95,-18.18 981.51,-17.75 983.12,-17.36 984.79,-17.03 986.51,-16.74 988.27,-16.49 990.07,-16.3 991.88,-16.15 993.72,-16.05 995.57,-16 997.43,-16 999.28,-16.05"/>
+<text text-anchor="start" x="985.38" y="-32" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000">❓ 😞</text>
+</g>
+<!-- n10&#45;&gt;n5 -->
+<g id="edge4" class="edge">
+<title>n10&#45;&gt;n5</title>
+<path fill="none" stroke="#00ff00" d="M996.5,-52.24C996.5,-66.93 996.5,-88.79 996.5,-108.92"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="993,-108.92 996.5,-118.92 1000,-108.92 993,-108.92"/>
+</g>
+<!-- n11&#45;&gt;n3 -->
+<g id="edge6" class="edge">
+<title>n11&#45;&gt;n3</title>
+<path fill="none" stroke="#ff0000" d="M800.56,-370.71C789.04,-391.65 770.95,-424.54 754.24,-454.93"/>
+<polygon fill="#ff0000" stroke="#ff0000" points="751.09,-453.4 749.33,-463.85 757.22,-456.77 751.09,-453.4"/>
+</g>
+<!-- n12 -->
+<g id="node9" class="node">
+<title>n12</title>
+<polygon fill="#9ecae1" stroke="black" points="815.61,-16.05 817.68,-16.15 819.72,-16.3 821.73,-16.49 823.7,-16.74 825.63,-17.03 827.5,-17.36 829.31,-17.75 831.06,-18.18 832.73,-18.65 834.32,-19.16 835.83,-19.71 837.25,-20.31 838.57,-20.94 839.79,-21.61 840.91,-22.31 841.92,-23.04 842.83,-23.8 843.63,-24.59 844.32,-25.41 844.89,-26.25 845.36,-27.11 845.72,-27.99 845.97,-28.89 846.11,-29.8 846.15,-30.72 846.09,-31.65 845.93,-32.59 845.67,-33.53 845.32,-34.47 844.88,-35.41 844.35,-36.35 843.75,-37.28 843.07,-38.2 842.32,-39.11 841.5,-40.01 840.62,-40.89 839.68,-41.75 838.69,-42.59 837.65,-43.41 836.57,-44.2 835.44,-44.96 834.28,-45.69 833.09,-46.39 831.87,-47.06 830.62,-47.69 829.35,-48.29 828.06,-48.84 826.76,-49.35 825.43,-49.82 824.1,-50.25 822.76,-50.64 821.41,-50.97 820.05,-51.26 818.68,-51.51 817.31,-51.7 815.94,-51.85 814.56,-51.95 813.19,-52 811.81,-52 810.44,-51.95 809.06,-51.85 807.69,-51.7 806.32,-51.51 804.95,-51.26 803.59,-50.97 802.24,-50.64 800.9,-50.25 799.57,-49.82 798.24,-49.35 796.94,-48.84 795.65,-48.29 794.38,-47.69 793.13,-47.06 791.91,-46.39 790.72,-45.69 789.56,-44.96 788.43,-44.2 787.35,-43.41 786.31,-42.59 785.32,-41.75 784.38,-40.89 783.5,-40.01 782.68,-39.11 781.93,-38.2 781.25,-37.28 780.65,-36.35 780.12,-35.41 779.68,-34.47 779.33,-33.53 779.07,-32.59 778.91,-31.65 778.85,-30.72 778.89,-29.8 779.03,-28.89 779.28,-27.99 779.64,-27.11 780.11,-26.25 780.68,-25.41 781.37,-24.59 782.17,-23.8 783.08,-23.04 784.09,-22.31 785.21,-21.61 786.43,-20.94 787.75,-20.31 789.17,-19.71 790.68,-19.16 792.27,-18.65 793.94,-18.18 795.69,-17.75 797.5,-17.36 799.37,-17.03 801.3,-16.74 803.27,-16.49 805.28,-16.3 807.32,-16.15 809.39,-16.05 811.46,-16 813.54,-16 815.61,-16.05"/>
+<text text-anchor="start" x="799.11" y="-32" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000"> ❓ 😞 </text>
+</g>
+<!-- n12&#45;&gt;n6 -->
+<g id="edge7" class="edge">
+<title>n12&#45;&gt;n6</title>
+<path fill="none" stroke="#00ff00" d="M812.5,-52.24C812.5,-66.93 812.5,-88.79 812.5,-108.92"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="809,-108.92 812.5,-118.92 816,-108.92 809,-108.92"/>
+</g>
+<!-- n13&#45;&gt;n3 -->
+<g id="edge9" class="edge">
+<title>n13&#45;&gt;n3</title>
+<path fill="none" stroke="#ff0000" d="M627.32,-370.71C638.72,-391.65 656.63,-424.54 673.18,-454.93"/>
+<polygon fill="#ff0000" stroke="#ff0000" points="670.17,-456.74 678.03,-463.85 676.32,-453.39 670.17,-456.74"/>
+</g>
+<!-- n14 -->
+<g id="node11" class="node">
+<title>n14</title>
+<polygon fill="#9ecae1" stroke="black" points="618.83,-16.05 621.03,-16.15 623.21,-16.3 625.35,-16.49 627.46,-16.74 629.52,-17.03 631.52,-17.36 633.46,-17.75 635.32,-18.18 637.11,-18.65 638.81,-19.16 640.42,-19.71 641.93,-20.31 643.34,-20.94 644.64,-21.61 645.84,-22.31 646.92,-23.04 647.89,-23.8 648.74,-24.59 649.48,-25.41 650.1,-26.25 650.6,-27.11 650.98,-27.99 651.25,-28.89 651.4,-29.8 651.44,-30.72 651.37,-31.65 651.2,-32.59 650.92,-33.53 650.55,-34.47 650.08,-35.41 649.52,-36.35 648.87,-37.28 648.15,-38.2 647.34,-39.11 646.47,-40.01 645.53,-40.89 644.53,-41.75 643.47,-42.59 642.36,-43.41 641.2,-44.2 640,-44.96 638.76,-45.69 637.49,-46.39 636.18,-47.06 634.85,-47.69 633.5,-48.29 632.12,-48.84 630.72,-49.35 629.31,-49.82 627.89,-50.25 626.46,-50.64 625.01,-50.97 623.56,-51.26 622.1,-51.51 620.64,-51.7 619.17,-51.85 617.71,-51.95 616.24,-52 614.76,-52 613.29,-51.95 611.83,-51.85 610.36,-51.7 608.9,-51.51 607.44,-51.26 605.99,-50.97 604.54,-50.64 603.11,-50.25 601.69,-49.82 600.28,-49.35 598.88,-48.84 597.5,-48.29 596.15,-47.69 594.82,-47.06 593.51,-46.39 592.24,-45.69 591,-44.96 589.8,-44.2 588.64,-43.41 587.53,-42.59 586.47,-41.75 585.47,-40.89 584.53,-40.01 583.66,-39.11 582.85,-38.2 582.13,-37.28 581.48,-36.35 580.92,-35.41 580.45,-34.47 580.08,-33.53 579.8,-32.59 579.63,-31.65 579.56,-30.72 579.6,-29.8 579.75,-28.89 580.02,-27.99 580.4,-27.11 580.9,-26.25 581.52,-25.41 582.26,-24.59 583.11,-23.8 584.08,-23.04 585.16,-22.31 586.36,-21.61 587.66,-20.94 589.07,-20.31 590.58,-19.71 592.19,-19.16 593.89,-18.65 595.68,-18.18 597.54,-17.75 599.48,-17.36 601.48,-17.03 603.54,-16.74 605.65,-16.49 607.79,-16.3 609.97,-16.15 612.17,-16.05 614.39,-16 616.61,-16 618.83,-16.05"/>
+<text text-anchor="start" x="600.22" y="-32" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000"> ❓ 😞 &#160;</text>
+</g>
+<!-- n14&#45;&gt;n7 -->
+<g id="edge10" class="edge">
+<title>n14&#45;&gt;n7</title>
+<path fill="none" stroke="#00ff00" d="M615.5,-52.24C615.5,-63.27 615.5,-78.34 615.5,-93.68"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="612,-93.77 615.5,-103.77 619,-93.77 612,-93.77"/>
+</g>
+<!-- n1 -->
+<g id="node13" class="node">
+<title>n1</title>
+<path fill="white" stroke="#bdbdbd" stroke-width="2" d="M191,-428C191,-428 12,-428 12,-428 6,-428 0,-422 0,-416 0,-416 0,-280 0,-280 0,-274 6,-268 12,-268 12,-268 191,-268 191,-268 197,-268 203,-274 203,-280 203,-280 203,-416 203,-416 203,-422 197,-428 191,-428"/>
+<text text-anchor="start" x="61.44" y="-414" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000">Abwägungsprinzip</text>
+<text text-anchor="start" x="10.04" y="-397" font-family="arial" font-size="10.00" fill="#000000">Eine Maßnahme M, die zu erwünschten</text>
+<text text-anchor="start" x="12.8" y="-385" font-family="arial" font-size="10.00" fill="#000000"> Konsequenzen EK und zu Nachteilen N</text>
+<text text-anchor="start" x="15.31" y="-373" font-family="arial" font-size="10.00" fill="#000000"> führt, soll genau dann durchgeführt</text>
+<text text-anchor="start" x="45.05" y="-361" font-family="arial" font-size="10.00" fill="#000000"> werden, wenn gilt: (i) das</text>
+<text text-anchor="start" x="25.6" y="-349" font-family="arial" font-size="10.00" fill="#000000"> Herbeiführen der erwünschten</text>
+<text text-anchor="start" x="12.25" y="-337" font-family="arial" font-size="10.00" fill="#000000"> Konsequenzen EK ist insgesamt besser</text>
+<text text-anchor="start" x="25.6" y="-325" font-family="arial" font-size="10.00" fill="#000000"> als das Vermeiden der erwarteten</text>
+<text text-anchor="start" x="25.88" y="-313" font-family="arial" font-size="10.00" fill="#000000"> Nachteile N und (ii) es gibt keinen</text>
+<text text-anchor="start" x="13.37" y="-301" font-family="arial" font-size="10.00" fill="#000000"> anderen Weg als M, die Vorteile EK mit</text>
+<text text-anchor="start" x="32.26" y="-289" font-family="arial" font-size="10.00" fill="#000000"> geringeren Nachteilen als N zu</text>
+<text text-anchor="start" x="74.78" y="-277" font-family="arial" font-size="10.00" fill="#000000"> realisieren. </text>
+</g>
+<!-- n1&#45;&gt;n8 -->
+<g id="edge13" class="edge">
+<title>n1&#45;&gt;n8</title>
+<path fill="none" stroke="#00ff00" d="M203.27,-424.97C204.69,-425.99 206.1,-427 207.5,-428 232.98,-446.18 261.3,-465.67 286.28,-482.64"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="284.38,-485.57 294.62,-488.29 288.31,-479.78 284.38,-485.57"/>
+</g>
+<!-- n2 -->
+<g id="node14" class="node">
+<title>n2</title>
+<path fill="white" stroke="#51ffae" stroke-width="2" d="M457.5,-232C457.5,-232 293.5,-232 293.5,-232 287.5,-232 281.5,-226 281.5,-220 281.5,-220 281.5,-100 281.5,-100 281.5,-94 287.5,-88 293.5,-88 293.5,-88 457.5,-88 457.5,-88 463.5,-88 469.5,-94 469.5,-100 469.5,-100 469.5,-220 469.5,-220 469.5,-226 463.5,-232 457.5,-232"/>
+<text text-anchor="start" x="331.32" y="-218" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000">Alle unkontroversen</text>
+<text text-anchor="start" x="330.21" y="-208" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000"> Pro&#45;Gesichtspunkte</text>
+<text text-anchor="start" x="291.31" y="-193" font-family="arial" font-size="10.00" fill="#000000">Von der Ausrichtung der Olympischen</text>
+<text text-anchor="start" x="297.98" y="-181" font-family="arial" font-size="10.00" fill="#000000"> Spiele in München sind folgende</text>
+<text text-anchor="start" x="293.64" y="-169" font-family="arial" font-size="10.00" fill="#000000"> Vorteile zu erwarten: Förderung der</text>
+<text text-anchor="start" x="293.81" y="-157" font-family="arial" font-size="10.00" fill="#000000"> Stadtentwicklung, Verbesserung der</text>
+<text text-anchor="start" x="313.54" y="-145" font-family="arial" font-size="10.00" fill="#000000"> Inklusion durch Ausbau der</text>
+<text text-anchor="start" x="299.66" y="-133" font-family="arial" font-size="10.00" fill="#000000"> Barrierefreiheit, Gewinne für die</text>
+<text text-anchor="start" x="296.33" y="-121" font-family="arial" font-size="10.00" fill="#000000"> lokale Wirtschaft sowie einzigartige</text>
+<text text-anchor="start" x="331.61" y="-109" font-family="arial" font-size="10.00" fill="#000000"> Erlebnisse für die</text>
+<text text-anchor="start" x="323.54" y="-97" font-family="arial" font-size="10.00" fill="#000000"> Stadtbewohner*innen. </text>
+</g>
+<!-- n2&#45;&gt;n4 -->
+<g id="edge2" class="edge">
+<title>n2&#45;&gt;n4</title>
+<path fill="none" stroke="#00ff00" d="M375.5,-232.11C375.5,-256.97 375.5,-284.03 375.5,-305.65"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="372,-305.79 375.5,-315.79 379,-305.79 372,-305.79"/>
+</g>
+</g>
+</svg>
+</div></argdown-map><figcaption>Pro-Argumentation -- Argument aus der Zurückweisung der Nachteile aus der Ausrichtung der Olympischen Spiele</figcaption></figure>

@@ -1,0 +1,359 @@
+<head>
+    <meta charset="UTF-8">
+    <!-- Weitere Meta-Tags und Stylesheets -->
+</head>
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.css"><script src="https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-bundle.js" type="module"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@argdown/web-components/dist/argdown-map.js"></script><figure  role="group" class="argdown-figure"><argdown-map    without-logo="true"  initial-view="map"><div slot="source" class=""><pre class="language-argdown"><code class="language-argdown"><span class="hljs-meta">===
+title: Argumentstruktur für und gegen eine Olympia-Bewerbung
+color:
+    colorizeByTag: true
+    tagColors:
+        tag-1: &quot;#f3d942&quot;
+        pro: &quot;#51ffae&quot;
+        contra: &quot;#FFA44F&quot; 
+model: 
+  removeTagsFromText: true
+webComponent:
+  withoutLogo: true
+selection:
+    excludeDisconnected: false
+dot:
+    argument:
+        shape: egg
+        style: filled
+        minWidth: 0
+    statement:
+        minWidth: 0
+        title:
+            charactersInLine: 23
+        text:
+            charactersInLine: 60
+===</span>
+
+<span class="hljs-statement-title">[Pro-Olympia-Bewerbung]:</span> Die Stadt München sollte sich um die Ausrichtung der Olympischen Spiele 2036/40/44 bewerben. <span class="hljs-tag">#(pro)</span>
+<span class="hljs-contradiction">  &gt;&lt;</span> <span class="hljs-statement-title">[Gegen-Olympia-Bewerbung]</span>
+
+<span class="hljs-statement-title">[Gegen-Olympia-Bewerbung]:</span> Die Stadt München sollte sich nicht um die Ausrichtung der Olympischen Spiele 2036/40/44 bewerben. <span class="hljs-tag">#(contra)</span>
+
+<span class="hljs-section">## Pro-Argumentation</span>
+
+<span class="hljs-argument-title">&lt;Pro-Argument&gt;:</span> ?
+<span class="hljs-support"> &lt;+</span> <span class="hljs-statement-title">[Alle unkontroversen Pro-Gesichtspunte]</span>
+<span class="hljs-support"> +&gt;</span> <span class="hljs-statement-title">[Pro-Olympia-Bewerbung]</span>
+
+<span class="hljs-statement-title">[Alle unkontroversen Pro-Gesichtspunte]</span><span class="hljs-tag">#pro</span>
+
+<span class="hljs-section">### Unstrittige Pro-Gesichtspunkte</span>
+
+<span class="hljs-statement-title">[Förderung der Stadtentwicklung]</span> <span class="hljs-tag">#pro</span>
+<span class="hljs-support"> &lt;+</span> <span class="hljs-statement-title">[Finanzielle Zuschüsse vom Bund und Land]</span>
+<span class="hljs-support"> +&gt;</span> <span class="hljs-statement-title">[Alle unkontroversen Pro-Gesichtspunte]</span>
+
+<span class="hljs-statement-title">[Verbesserung der Inklusion]</span><span class="hljs-tag">#(pro)</span>
+<span class="hljs-support"> &lt;+</span> <span class="hljs-statement-title">[Finanzielle Zuschüsse vom Bund und Land]</span>
+<span class="hljs-support"> +&gt;</span> <span class="hljs-statement-title">[Alle unkontroversen Pro-Gesichtspunte]</span>
+
+<span class="hljs-statement-title">[Kurzfristige Gewinne für die lokale Wirtschaft]</span><span class="hljs-tag">#(pro)</span>
+<span class="hljs-support"> +&gt;</span> <span class="hljs-statement-title">[Alle unkontroversen Pro-Gesichtspunte]</span>
+
+<span class="hljs-statement-title">[Einzigartige Erlebnisse]</span><span class="hljs-tag">#(pro)</span>
+<span class="hljs-support"> +&gt;</span> <span class="hljs-statement-title">[Alle unkontroversen Pro-Gesichtspunte]</span>
+
+<span class="hljs-statement-title">[Finanzielle Zuschüsse vom Bund und Land]</span><span class="hljs-tag">#(pro)</span>
+
+<span class="hljs-section">## Contra-Argumentation</span>
+
+<span class="hljs-argument-title">&lt;Contra-Argument&gt;:</span> ?<span class="hljs-tag">#contra</span>
+<span class="hljs-support"> &lt;+</span> <span class="hljs-statement-title">[Alle unkontroversen Contra-Gesichtspunkte]</span>
+<span class="hljs-support"> &lt;+</span> <span class="hljs-statement-title">[Alle unkontroversen Pro-Gesichtspunte]</span>
+<span class="hljs-support"> +&gt;</span> <span class="hljs-statement-title">[Gegen-Olympia-Bewerbung]</span>
+
+<span class="hljs-statement-title">[Alle unkontroversen Contra-Gesichtspunkte]</span><span class="hljs-tag">#contra</span>
+<span class="hljs-support"> +&gt;</span> <span class="hljs-argument-title">&lt;Pro-Argument&gt;</span>
+
+<span class="hljs-section">### Unstrittige Einwände</span>
+
+<span class="hljs-statement-title">[Olympische Spiele kosten unverhältnismäßig viel]</span><span class="hljs-tag">#(contra)</span>
+<span class="hljs-support"> +&gt;</span> <span class="hljs-statement-title">[Alle unkontroversen Contra-Gesichtspunkte]</span>
+
+<span class="hljs-statement-title">[Das IOC ist ein unfairer Partner, mit dem nicht kooperiert werden sollte]</span><span class="hljs-tag">#(contra)</span>
+<span class="hljs-support"> +&gt;</span> <span class="hljs-statement-title">[Alle unkontroversen Contra-Gesichtspunkte]</span>
+
+<span class="hljs-statement-title">[Zusätzliche Kosten für den Stadthaushalt]</span><span class="hljs-tag">#(contra)</span>
+<span class="hljs-support"> +&gt;</span> <span class="hljs-statement-title">[Olympische Spiele kosten unverhältnismäßig viel]</span> 
+
+<span class="hljs-statement-title">[Finanzrisiken]</span><span class="hljs-tag">#(contra)</span>
+<span class="hljs-support"> +&gt;</span> <span class="hljs-statement-title">[Olympische Spiele kosten unverhältnismäßig viel]</span>
+
+<span class="hljs-statement-title">[Gefahr einer Abhängigkeit vom IOC]</span> <span class="hljs-tag">#contra</span>
+<span class="hljs-support"> +&gt;</span> <span class="hljs-statement-title">[Das IOC ist ein unfairer Partner, mit dem nicht kooperiert werden sollte]</span>
+
+<span class="hljs-statement-title">[Unfaire Verteilung der Gewinne]</span> <span class="hljs-tag">#(contra)</span>
+<span class="hljs-support"> +&gt;</span> <span class="hljs-statement-title">[Das IOC ist ein unfairer Partner, mit dem nicht kooperiert werden sollte]</span></code></pre></div><div slot="map">
+<!-- Generated by graphviz version 2.47.0 (20210316.0004)
+ -->
+<!-- Title: Argument Map Pages: 1 -->
+<svg width="720pt" height="369pt"
+ viewBox="0.00 0.00 720.00 369.01" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(0.73 0.73) rotate(0) translate(4 503.39)">
+<title>Argument Map</title>
+<g id="clust1" class="cluster">
+<title>cluster_1</title>
+<polygon fill="#dadada" stroke="#dadada" points="546,-8 546,-351.39 974,-351.39 974,-8 546,-8"/>
+<text text-anchor="start" x="709.66" y="-336.59" font-family="arial" font-size="12.00" fill="#000000">Pro&#45;Argumentation</text>
+</g>
+<g id="clust2" class="cluster">
+<title>cluster_2</title>
+<polygon fill="#bababa" stroke="#bababa" points="554,-16 554,-176.4 966,-176.4 966,-16 554,-16"/>
+<text text-anchor="start" x="678.65" y="-161.6" font-family="arial" font-size="12.00" fill="#000000">Unstrittige Pro&#45;Gesichtspunkte</text>
+</g>
+<g id="clust3" class="cluster">
+<title>cluster_3</title>
+<polygon fill="#dadada" stroke="#dadada" points="8,-11 8,-351.39 538,-351.39 538,-11 8,-11"/>
+<text text-anchor="start" x="213.99" y="-336.59" font-family="arial" font-size="12.00" fill="#000000">Contra&#45;Argumentation</text>
+</g>
+<g id="clust4" class="cluster">
+<title>cluster_4</title>
+<polygon fill="#bababa" stroke="#bababa" points="16,-19 16,-184.4 530,-184.4 530,-19 16,-19"/>
+<text text-anchor="start" x="218.33" y="-169.6" font-family="arial" font-size="12.00" fill="#000000">Unstrittige Einwände</text>
+</g>
+<!-- n2 -->
+<g id="node1" class="node">
+<title>n2</title>
+<path fill="white" stroke="#51ffae" stroke-width="2" d="M715,-228.4C715,-228.4 631,-228.4 631,-228.4 625,-228.4 619,-222.4 619,-216.4 619,-216.4 619,-204.4 619,-204.4 619,-198.4 625,-192.4 631,-192.4 631,-192.4 715,-192.4 715,-192.4 721,-192.4 727,-198.4 727,-204.4 727,-204.4 727,-216.4 727,-216.4 727,-222.4 721,-228.4 715,-228.4"/>
+<text text-anchor="start" x="628.82" y="-212.4" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000">Alle unkontroversen</text>
+<text text-anchor="start" x="630.21" y="-202.4" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000"> Pro&#45;Gesichtspunte</text>
+</g>
+<!-- n15 -->
+<g id="node2" class="node">
+<title>n15</title>
+<polygon fill="#1b9e77" stroke="black" points="624.74,-264.68 628.54,-264.84 632.29,-265.07 636,-265.37 639.63,-265.75 643.18,-266.21 646.64,-266.73 649.98,-267.33 653.19,-268 656.27,-268.74 659.21,-269.54 661.98,-270.4 664.59,-271.33 667.02,-272.31 669.27,-273.35 671.34,-274.45 673.2,-275.59 674.88,-276.78 676.35,-278.01 677.61,-279.29 678.68,-280.6 679.54,-281.94 680.2,-283.31 680.66,-284.71 680.93,-286.13 681,-287.57 680.88,-289.03 680.58,-290.49 680.1,-291.96 679.46,-293.43 678.65,-294.9 677.68,-296.36 676.57,-297.81 675.32,-299.25 673.93,-300.67 672.42,-302.07 670.8,-303.45 669.08,-304.79 667.25,-306.1 665.34,-307.38 663.34,-308.61 661.27,-309.8 659.13,-310.94 656.93,-312.04 654.68,-313.08 652.38,-314.06 650.04,-314.99 647.67,-315.85 645.26,-316.65 642.83,-317.39 640.37,-318.06 637.9,-318.65 635.41,-319.18 632.9,-319.64 630.39,-320.02 627.87,-320.32 625.34,-320.55 622.8,-320.71 620.27,-320.78 617.73,-320.78 615.2,-320.71 612.66,-320.55 610.13,-320.32 607.61,-320.02 605.1,-319.64 602.59,-319.18 600.1,-318.65 597.63,-318.06 595.17,-317.39 592.74,-316.65 590.33,-315.85 587.96,-314.99 585.62,-314.06 583.32,-313.08 581.07,-312.04 578.87,-310.94 576.73,-309.8 574.66,-308.61 572.66,-307.38 570.75,-306.1 568.92,-304.79 567.2,-303.45 565.58,-302.07 564.07,-300.67 562.68,-299.25 561.43,-297.81 560.32,-296.36 559.35,-294.9 558.54,-293.43 557.9,-291.96 557.42,-290.49 557.12,-289.03 557,-287.57 557.07,-286.13 557.34,-284.71 557.8,-283.31 558.46,-281.94 559.32,-280.6 560.39,-279.29 561.65,-278.01 563.12,-276.78 564.8,-275.59 566.66,-274.45 568.73,-273.35 570.98,-272.31 573.41,-271.33 576.02,-270.4 578.79,-269.54 581.73,-268.74 584.81,-268 588.02,-267.33 591.36,-266.73 594.82,-266.21 598.37,-265.75 602,-265.37 605.71,-265.07 609.46,-264.84 613.26,-264.68 617.09,-264.6 620.91,-264.6 624.74,-264.68"/>
+<text text-anchor="start" x="587.89" y="-298.69" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000">Pro&#45;Argument</text>
+<text text-anchor="start" x="616.22" y="-281.69" font-family="arial" font-size="10.00" fill="#000000">?</text>
+</g>
+<!-- n2&#45;&gt;n15 -->
+<g id="edge2" class="edge">
+<title>n2&#45;&gt;n15</title>
+<path fill="none" stroke="#00ff00" d="M661.55,-228.43C655.99,-236.69 649.11,-246.93 642.5,-256.75"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="639.49,-254.96 636.81,-265.21 645.3,-258.86 639.49,-254.96"/>
+</g>
+<!-- n16 -->
+<g id="node9" class="node">
+<title>n16</title>
+<polygon fill="#ffa44f" stroke="black" points="464.67,-264.68 469.09,-264.84 473.46,-265.07 477.76,-265.37 481.99,-265.75 486.12,-266.21 490.13,-266.73 494.02,-267.33 497.76,-268 501.34,-268.74 504.75,-269.54 507.97,-270.4 511.01,-271.33 513.83,-272.31 516.45,-273.35 518.85,-274.45 521.02,-275.59 522.96,-276.78 524.67,-278.01 526.15,-279.29 527.39,-280.6 528.39,-281.94 529.16,-283.31 529.69,-284.71 530,-286.13 530.08,-287.57 529.95,-289.03 529.6,-290.49 529.04,-291.96 528.29,-293.43 527.35,-294.9 526.23,-296.36 524.93,-297.81 523.48,-299.25 521.87,-300.67 520.11,-302.07 518.23,-303.45 516.22,-304.79 514.1,-306.1 511.87,-307.38 509.55,-308.61 507.14,-309.8 504.66,-310.94 502.1,-312.04 499.49,-313.08 496.81,-314.06 494.09,-314.99 491.33,-315.85 488.53,-316.65 485.71,-317.39 482.85,-318.06 479.97,-318.65 477.08,-319.18 474.16,-319.64 471.24,-320.02 468.31,-320.32 465.37,-320.55 462.42,-320.71 459.47,-320.78 456.53,-320.78 453.58,-320.71 450.63,-320.55 447.69,-320.32 444.76,-320.02 441.84,-319.64 438.92,-319.18 436.03,-318.65 433.15,-318.06 430.29,-317.39 427.47,-316.65 424.67,-315.85 421.91,-314.99 419.19,-314.06 416.51,-313.08 413.9,-312.04 411.34,-310.94 408.86,-309.8 406.45,-308.61 404.13,-307.38 401.9,-306.1 399.78,-304.79 397.77,-303.45 395.89,-302.07 394.13,-300.67 392.52,-299.25 391.07,-297.81 389.77,-296.36 388.65,-294.9 387.71,-293.43 386.96,-291.96 386.4,-290.49 386.05,-289.03 385.92,-287.57 386,-286.13 386.31,-284.71 386.84,-283.31 387.61,-281.94 388.61,-280.6 389.85,-279.29 391.33,-278.01 393.04,-276.78 394.98,-275.59 397.15,-274.45 399.55,-273.35 402.17,-272.31 404.99,-271.33 408.03,-270.4 411.25,-269.54 414.66,-268.74 418.24,-268 421.98,-267.33 425.87,-266.73 429.88,-266.21 434.01,-265.75 438.24,-265.37 442.54,-265.07 446.91,-264.84 451.33,-264.68 455.77,-264.6 460.23,-264.6 464.67,-264.68"/>
+<text text-anchor="start" x="419.66" y="-298.69" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000">Contra&#45;Argument</text>
+<text text-anchor="start" x="455.22" y="-281.69" font-family="arial" font-size="10.00" fill="#000000">?</text>
+</g>
+<!-- n2&#45;&gt;n16 -->
+<g id="edge11" class="edge">
+<title>n2&#45;&gt;n16</title>
+<path fill="none" stroke="#00ff00" d="M627.4,-228.43C596.53,-239.96 555.33,-255.35 521.29,-268.06"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="520.03,-264.79 511.89,-271.57 522.48,-271.35 520.03,-264.79"/>
+</g>
+<!-- n0 -->
+<g id="node16" class="node">
+<title>n0</title>
+<path fill="white" stroke="#51ffae" stroke-width="2" d="M739.5,-411.39C739.5,-411.39 498.5,-411.39 498.5,-411.39 492.5,-411.39 486.5,-405.39 486.5,-399.39 486.5,-399.39 486.5,-371.39 486.5,-371.39 486.5,-365.39 492.5,-359.39 498.5,-359.39 498.5,-359.39 739.5,-359.39 739.5,-359.39 745.5,-359.39 751.5,-365.39 751.5,-371.39 751.5,-371.39 751.5,-399.39 751.5,-399.39 751.5,-405.39 745.5,-411.39 739.5,-411.39"/>
+<text text-anchor="start" x="564.77" y="-397.39" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000">Pro&#45;Olympia&#45;Bewerbung</text>
+<text text-anchor="start" x="496.98" y="-380.39" font-family="arial" font-size="10.00" fill="#000000">Die Stadt München sollte sich um die Ausrichtung der</text>
+<text text-anchor="start" x="521.41" y="-368.39" font-family="arial" font-size="10.00" fill="#000000"> Olympischen Spiele 2036/40/44 bewerben. </text>
+</g>
+<!-- n15&#45;&gt;n0 -->
+<g id="edge3" class="edge">
+<title>n15&#45;&gt;n0</title>
+<path fill="none" stroke="#00ff00" d="M619,-320.91C619,-329.78 619,-339.76 619,-349.13"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="615.5,-349.36 619,-359.36 622.5,-349.36 615.5,-349.36"/>
+</g>
+<!-- n3 -->
+<g id="node3" class="node">
+<title>n3</title>
+<path fill="white" stroke="#51ffae" stroke-width="2" d="M648,-146C648,-146 574,-146 574,-146 568,-146 562,-140 562,-134 562,-134 562,-122 562,-122 562,-116 568,-110 574,-110 574,-110 648,-110 648,-110 654,-110 660,-116 660,-122 660,-122 660,-134 660,-134 660,-140 654,-146 648,-146"/>
+<text text-anchor="start" x="577.76" y="-130" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000">Förderung der</text>
+<text text-anchor="start" x="571.82" y="-120" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000"> Stadtentwicklung</text>
+</g>
+<!-- n3&#45;&gt;n2 -->
+<g id="edge5" class="edge">
+<title>n3&#45;&gt;n2</title>
+<path fill="none" stroke="#00ff00" d="M624.15,-146.05C632.7,-157.14 643.99,-171.79 653.57,-184.2"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="650.99,-186.59 659.87,-192.37 656.54,-182.32 650.99,-186.59"/>
+</g>
+<!-- n4 -->
+<g id="node4" class="node">
+<title>n4</title>
+<path fill="white" stroke="#51ffae" stroke-width="2" d="M676,-63C676,-63 574,-63 574,-63 568,-63 562,-57 562,-51 562,-51 562,-39 562,-39 562,-33 568,-27 574,-27 574,-27 676,-27 676,-27 682,-27 688,-33 688,-39 688,-39 688,-51 688,-51 688,-57 682,-63 676,-63"/>
+<text text-anchor="start" x="571.66" y="-47" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000">Finanzielle Zuschüsse</text>
+<text text-anchor="start" x="578.87" y="-37" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000"> vom Bund und Land</text>
+</g>
+<!-- n4&#45;&gt;n3 -->
+<g id="edge4" class="edge">
+<title>n4&#45;&gt;n3</title>
+<path fill="none" stroke="#00ff00" d="M622.03,-63.18C620.19,-73.81 617.79,-87.69 615.7,-99.8"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="612.22,-99.4 613.96,-109.85 619.12,-100.59 612.22,-99.4"/>
+</g>
+<!-- n5 -->
+<g id="node5" class="node">
+<title>n5</title>
+<path fill="white" stroke="#51ffae" stroke-width="2" d="M765.5,-146C765.5,-146 690.5,-146 690.5,-146 684.5,-146 678.5,-140 678.5,-134 678.5,-134 678.5,-122 678.5,-122 678.5,-116 684.5,-110 690.5,-110 690.5,-110 765.5,-110 765.5,-110 771.5,-110 777.5,-116 777.5,-122 777.5,-122 777.5,-134 777.5,-134 777.5,-140 771.5,-146 765.5,-146"/>
+<text text-anchor="start" x="688.77" y="-130" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000">Verbesserung der</text>
+<text text-anchor="start" x="707.38" y="-120" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000"> Inklusion</text>
+</g>
+<!-- n4&#45;&gt;n5 -->
+<g id="edge6" class="edge">
+<title>n4&#45;&gt;n5</title>
+<path fill="none" stroke="#00ff00" d="M646.84,-63.18C661.73,-74.88 681.63,-90.53 698,-103.4"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="696.16,-106.42 706.19,-109.85 700.49,-100.91 696.16,-106.42"/>
+</g>
+<!-- n5&#45;&gt;n2 -->
+<g id="edge7" class="edge">
+<title>n5&#45;&gt;n2</title>
+<path fill="none" stroke="#00ff00" d="M716.34,-146.05C708.83,-157.03 698.92,-171.5 690.48,-183.85"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="687.4,-182.14 684.65,-192.37 693.18,-186.1 687.4,-182.14"/>
+</g>
+<!-- n6 -->
+<g id="node6" class="node">
+<title>n6</title>
+<path fill="white" stroke="#51ffae" stroke-width="2" d="M806,-66C806,-66 718,-66 718,-66 712,-66 706,-60 706,-54 706,-54 706,-36 706,-36 706,-30 712,-24 718,-24 718,-24 806,-24 806,-24 812,-24 818,-30 818,-36 818,-36 818,-54 818,-54 818,-60 812,-66 806,-66"/>
+<text text-anchor="start" x="715.88" y="-52" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000">Kurzfristige Gewinne</text>
+<text text-anchor="start" x="728.39" y="-42" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000"> für die lokale</text>
+<text text-anchor="start" x="738.39" y="-32" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000"> Wirtschaft</text>
+</g>
+<!-- n6&#45;&gt;n2 -->
+<g id="edge8" class="edge">
+<title>n6&#45;&gt;n2</title>
+<path fill="none" stroke="#00ff00" d="M774.59,-66.3C791,-95.64 814.55,-150.16 787,-184.4 780.2,-192.86 759.12,-198.62 736.91,-202.45"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="736.34,-199 727.01,-204.03 737.44,-205.91 736.34,-199"/>
+</g>
+<!-- n7 -->
+<g id="node7" class="node">
+<title>n7</title>
+<path fill="white" stroke="#51ffae" stroke-width="2" d="M945.5,-63C945.5,-63 848.5,-63 848.5,-63 842.5,-63 836.5,-57 836.5,-51 836.5,-51 836.5,-39 836.5,-39 836.5,-33 842.5,-27 848.5,-27 848.5,-27 945.5,-27 945.5,-27 951.5,-27 957.5,-33 957.5,-39 957.5,-39 957.5,-51 957.5,-51 957.5,-57 951.5,-63 945.5,-63"/>
+<text text-anchor="start" x="846.66" y="-43" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000">Einzigartige Erlebnisse</text>
+</g>
+<!-- n7&#45;&gt;n2 -->
+<g id="edge9" class="edge">
+<title>n7&#45;&gt;n2</title>
+<path fill="none" stroke="#00ff00" d="M889.84,-63.25C876.51,-93.1 844.9,-154.1 798,-184.4 780.03,-196.01 757.8,-202.42 737.1,-205.9"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="736.46,-202.45 727.08,-207.38 737.49,-209.38 736.46,-202.45"/>
+</g>
+<!-- n8 -->
+<g id="node8" class="node">
+<title>n8</title>
+<path fill="white" stroke="#ffa44f" stroke-width="2" d="M508.5,-228.4C508.5,-228.4 407.5,-228.4 407.5,-228.4 401.5,-228.4 395.5,-222.4 395.5,-216.4 395.5,-216.4 395.5,-204.4 395.5,-204.4 395.5,-198.4 401.5,-192.4 407.5,-192.4 407.5,-192.4 508.5,-192.4 508.5,-192.4 514.5,-192.4 520.5,-198.4 520.5,-204.4 520.5,-204.4 520.5,-216.4 520.5,-216.4 520.5,-222.4 514.5,-228.4 508.5,-228.4"/>
+<text text-anchor="start" x="414.32" y="-212.4" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000">Alle unkontroversen</text>
+<text text-anchor="start" x="405.99" y="-202.4" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000"> Contra&#45;Gesichtspunkte</text>
+</g>
+<!-- n8&#45;&gt;n15 -->
+<g id="edge13" class="edge">
+<title>n8&#45;&gt;n15</title>
+<path fill="none" stroke="#00ff00" d="M492.14,-228.43C513.83,-239.25 542.33,-253.46 566.83,-265.67"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="565.48,-268.91 575.99,-270.25 568.61,-262.65 565.48,-268.91"/>
+</g>
+<!-- n8&#45;&gt;n16 -->
+<g id="edge10" class="edge">
+<title>n8&#45;&gt;n16</title>
+<path fill="none" stroke="#00ff00" d="M458,-228.43C458,-236.05 458,-245.37 458,-254.48"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="454.5,-254.58 458,-264.58 461.5,-254.58 454.5,-254.58"/>
+</g>
+<!-- n1 -->
+<g id="node17" class="node">
+<title>n1</title>
+<path fill="white" stroke="#ffa44f" stroke-width="2" d="M670,-499.39C670,-499.39 406,-499.39 406,-499.39 400,-499.39 394,-493.39 394,-487.39 394,-487.39 394,-459.39 394,-459.39 394,-453.39 400,-447.39 406,-447.39 406,-447.39 670,-447.39 670,-447.39 676,-447.39 682,-453.39 682,-459.39 682,-459.39 682,-487.39 682,-487.39 682,-493.39 676,-499.39 670,-499.39"/>
+<text text-anchor="start" x="476.05" y="-485.39" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000">Gegen&#45;Olympia&#45;Bewerbung</text>
+<text text-anchor="start" x="403.53" y="-468.39" font-family="arial" font-size="10.00" fill="#000000">Die Stadt München sollte sich nicht um die Ausrichtung der</text>
+<text text-anchor="start" x="439.91" y="-456.39" font-family="arial" font-size="10.00" fill="#000000"> Olympischen Spiele 2036/40/44 bewerben. </text>
+</g>
+<!-- n16&#45;&gt;n1 -->
+<g id="edge12" class="edge">
+<title>n16&#45;&gt;n1</title>
+<path fill="none" stroke="#00ff00" d="M458.05,-320.84C459.13,-345.67 463.37,-382.79 478,-411.39 483.34,-421.82 491.08,-431.62 499.24,-440.18"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="496.92,-442.8 506.47,-447.37 501.85,-437.84 496.92,-442.8"/>
+</g>
+<!-- n9 -->
+<g id="node10" class="node">
+<title>n9</title>
+<path fill="white" stroke="#ffa44f" stroke-width="2" d="M506.5,-149C506.5,-149 409.5,-149 409.5,-149 403.5,-149 397.5,-143 397.5,-137 397.5,-137 397.5,-119 397.5,-119 397.5,-113 403.5,-107 409.5,-107 409.5,-107 506.5,-107 506.5,-107 512.5,-107 518.5,-113 518.5,-119 518.5,-119 518.5,-137 518.5,-137 518.5,-143 512.5,-149 506.5,-149"/>
+<text text-anchor="start" x="417.11" y="-135" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000">Olympische Spiele</text>
+<text text-anchor="start" x="442.38" y="-125" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000"> kosten</text>
+<text text-anchor="start" x="407.95" y="-115" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000"> unverhältnismäßig viel</text>
+</g>
+<!-- n9&#45;&gt;n8 -->
+<g id="edge14" class="edge">
+<title>n9&#45;&gt;n8</title>
+<path fill="none" stroke="#00ff00" d="M458,-149.29C458,-159.27 458,-171.43 458,-182.21"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="454.5,-182.38 458,-192.38 461.5,-182.38 454.5,-182.38"/>
+</g>
+<!-- n10 -->
+<g id="node11" class="node">
+<title>n10</title>
+<path fill="white" stroke="#ffa44f" stroke-width="2" d="M265.5,-154C265.5,-154 176.5,-154 176.5,-154 170.5,-154 164.5,-148 164.5,-142 164.5,-142 164.5,-114 164.5,-114 164.5,-108 170.5,-102 176.5,-102 176.5,-102 265.5,-102 265.5,-102 271.5,-102 277.5,-108 277.5,-114 277.5,-114 277.5,-142 277.5,-142 277.5,-148 271.5,-154 265.5,-154"/>
+<text text-anchor="start" x="187.89" y="-140" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000">Das IOC ist ein</text>
+<text text-anchor="start" x="175.94" y="-130" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000"> unfairer Partner, mit</text>
+<text text-anchor="start" x="174.82" y="-120" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000"> dem nicht kooperiert</text>
+<text text-anchor="start" x="190.66" y="-110" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000"> werden sollte</text>
+</g>
+<!-- n10&#45;&gt;n8 -->
+<g id="edge15" class="edge">
+<title>n10&#45;&gt;n8</title>
+<path fill="none" stroke="#00ff00" d="M277.77,-148.26C314.1,-160.58 361.17,-176.55 398.09,-189.08"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="397.14,-192.45 407.73,-192.35 399.39,-185.82 397.14,-192.45"/>
+</g>
+<!-- n11 -->
+<g id="node12" class="node">
+<title>n11</title>
+<path fill="white" stroke="#ffa44f" stroke-width="2" d="M510,-63C510,-63 408,-63 408,-63 402,-63 396,-57 396,-51 396,-51 396,-39 396,-39 396,-33 402,-27 408,-27 408,-27 510,-27 510,-27 516,-27 522,-33 522,-39 522,-39 522,-51 522,-51 522,-57 516,-63 510,-63"/>
+<text text-anchor="start" x="405.94" y="-47" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000">Zusätzliche Kosten für</text>
+<text text-anchor="start" x="417.31" y="-37" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000"> den Stadthaushalt</text>
+</g>
+<!-- n11&#45;&gt;n9 -->
+<g id="edge16" class="edge">
+<title>n11&#45;&gt;n9</title>
+<path fill="none" stroke="#00ff00" d="M458.79,-63.18C458.67,-72.99 458.51,-85.58 458.37,-96.97"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="454.87,-96.95 458.25,-106.99 461.87,-97.03 454.87,-96.95"/>
+</g>
+<!-- n12 -->
+<g id="node13" class="node">
+<title>n12</title>
+<path fill="white" stroke="#ffa44f" stroke-width="2" d="M366,-63C366,-63 312,-63 312,-63 306,-63 300,-57 300,-51 300,-51 300,-39 300,-39 300,-33 306,-27 312,-27 312,-27 366,-27 366,-27 372,-27 378,-33 378,-39 378,-39 378,-51 378,-51 378,-57 372,-63 366,-63"/>
+<text text-anchor="start" x="309.56" y="-43" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000">Finanzrisiken</text>
+</g>
+<!-- n12&#45;&gt;n9 -->
+<g id="edge17" class="edge">
+<title>n12&#45;&gt;n9</title>
+<path fill="none" stroke="#00ff00" d="M364.24,-63.18C380.42,-74.19 401.73,-88.7 419.95,-101.1"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="418.37,-104.26 428.6,-106.99 422.31,-98.47 418.37,-104.26"/>
+</g>
+<!-- n13 -->
+<g id="node14" class="node">
+<title>n13</title>
+<path fill="white" stroke="#ffa44f" stroke-width="2" d="M270,-63C270,-63 172,-63 172,-63 166,-63 160,-57 160,-51 160,-51 160,-39 160,-39 160,-33 166,-27 172,-27 172,-27 270,-27 270,-27 276,-27 282,-33 282,-39 282,-39 282,-51 282,-51 282,-57 276,-63 270,-63"/>
+<text text-anchor="start" x="193.22" y="-47" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000">Gefahr einer</text>
+<text text-anchor="start" x="169.88" y="-37" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000"> Abhängigkeit vom IOC</text>
+</g>
+<!-- n13&#45;&gt;n10 -->
+<g id="edge18" class="edge">
+<title>n13&#45;&gt;n10</title>
+<path fill="none" stroke="#00ff00" d="M221,-63.18C221,-71.52 221,-81.86 221,-91.78"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="217.5,-91.85 221,-101.85 224.5,-91.85 217.5,-91.85"/>
+</g>
+<!-- n14 -->
+<g id="node15" class="node">
+<title>n14</title>
+<path fill="white" stroke="#ffa44f" stroke-width="2" d="M129.5,-63C129.5,-63 36.5,-63 36.5,-63 30.5,-63 24.5,-57 24.5,-51 24.5,-51 24.5,-39 24.5,-39 24.5,-33 30.5,-27 36.5,-27 36.5,-27 129.5,-27 129.5,-27 135.5,-27 141.5,-33 141.5,-39 141.5,-39 141.5,-51 141.5,-51 141.5,-57 135.5,-63 129.5,-63"/>
+<text text-anchor="start" x="34.88" y="-47" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000">Unfaire Verteilung der</text>
+<text text-anchor="start" x="62.38" y="-37" font-family="arial" font-weight="bold" font-size="10.00" fill="#000000"> Gewinne</text>
+</g>
+<!-- n14&#45;&gt;n10 -->
+<g id="edge19" class="edge">
+<title>n14&#45;&gt;n10</title>
+<path fill="none" stroke="#00ff00" d="M112.27,-63.18C128.87,-72.92 150.13,-85.4 169.44,-96.74"/>
+<polygon fill="#00ff00" stroke="#00ff00" points="167.76,-99.81 178.15,-101.85 171.3,-93.77 167.76,-99.81"/>
+</g>
+<!-- n0&#45;&gt;n1 -->
+<g id="edge1" class="edge">
+<title>n0&#45;&gt;n1</title>
+<path fill="none" stroke="#ff0000" d="M586.68,-420.71C581.2,-426.52 575.52,-432.55 570.05,-438.36"/>
+<polygon fill="#ff0000" stroke="#ff0000" points="586.91,-420.46 588.11,-413.35 595.14,-411.73 593.93,-418.84 586.91,-420.46"/>
+<polygon fill="#ff0000" stroke="#ff0000" points="569.92,-438.5 568.72,-445.61 561.69,-447.23 562.9,-440.12 569.92,-438.5"/>
+</g>
+</g>
+</svg>
+</div></argdown-map><figcaption>Argumentstruktur für und gegen eine Olympia-Bewerbung</figcaption></figure>
