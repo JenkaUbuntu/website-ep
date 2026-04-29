@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Eugen Pissarskoi"
-  description: Ethik Nachhaltiger Entwicklung -- Argumentatanalyse
+  description: Ethik Nachhaltiger Entwicklung -- Argumentanalyse
   page-navigation: true
   back-to-top-navigation: true
   favicon: ./graphics/EugenPissarskoi_kleiner_off.jpg
