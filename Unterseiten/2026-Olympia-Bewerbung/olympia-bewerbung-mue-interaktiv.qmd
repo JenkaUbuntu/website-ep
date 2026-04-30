@@ -1884,7 +1884,7 @@ Durch die Ausrichtung der Spiele in München werden die Mietpreise für Wohnunge
 ```
 
 
-## Dialektische Lage im Lichte der vorgebrachten Pros und Cons{auto-animate="true" visibility="uncounted"}
+## Dialektische Lage im Lichte der vorgebrachten Pros und Cons{auto-animate="true"}
 
 ```{=html}
 <iframe src="./arg-rekos/dialektik-pro-con-gesichtspunkte-v2.html" width="100%" height="400px">
