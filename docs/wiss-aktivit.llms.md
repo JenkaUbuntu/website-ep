@@ -66,11 +66,11 @@ chronologische Auflistung
 >
 > Matthias Fersterer, janas gebauer und Eugen Pissarskoi (2025) [Unleashing Fantasy for Transformation. Mit Spekulativer Fiktion am Utopischen arbeiten](https://www.shop-hirnkost.de/produkt/das-science-fiction-jahr-2025/). In: Melanie Wylutzki & Hardy Kettlitz (Hrsg.): Das Science Fiction Jahr 2025. Hirnkost, Berlin, 37-48.
 >
-> Matthias Kiesselbach and Eugen Pissarskoi (2021) [Weniger Fleisch, mehr Geld](https://www.nd-aktuell.de/artikel/1157244.grundeinkommen-weniger-fleisch-mehr-geld.llms.md). Kolumne in der Tageszeitung „Neues Deutschland“, 04.11.2021.
+> Matthias Kiesselbach and Eugen Pissarskoi (2021) [Weniger Fleisch, mehr Geld](https://www.nd-aktuell.de/artikel/1157244.grundeinkommen-weniger-fleisch-mehr-geld.html). Kolumne in der Tageszeitung „Neues Deutschland“, 04.11.2021.
 >
 > Matthias Kiesselbach und Eugen Pissarskoi (2021) [How to lower meat consumption without backlash](https://medium.com/@matthias.kiesselbach/meat-backlash-94290f6eec8f), Blogbeitrag auf Medium.com.
 >
-> Eugen Pissarskoi (2020) [Kontroverse über gesellschaftliche Grundziele nötig](https://www.wissenschaftsjahr.de/2020-21/aktuelles-aus-der-biooekonomie/koepfe-des-wandels/kontroverse-ueber-gesellschaftliche-grundziele-noetig.llms.md), Beitrag für die Initiative Wissenschaftsjahr 2020/21 Bioökonomie des BMBF.
+> Eugen Pissarskoi (2020) [Kontroverse über gesellschaftliche Grundziele nötig](https://www.wissenschaftsjahr.de/2020-21/aktuelles-aus-der-biooekonomie/koepfe-des-wandels/kontroverse-ueber-gesellschaftliche-grundziele-noetig.html), Beitrag für die Initiative Wissenschaftsjahr 2020/21 Bioökonomie des BMBF.
 >
 > Eugen Pissarskoi (2020) Beiträge zum Podcast [Mission Energiewende \| Klima und Ethik](https://detektor.fm/gesellschaft/mission-energiewende-klima-und-ethik) (produziert von Eva-Josephine Weber und Christian Eichler) auf detektor.fm.
 >
@@ -84,7 +84,7 @@ chronologische Auflistung
 >
 > Eugen Pissarskoi (2015) [Gutes Leben und Gerechtigkeit in einer Postwachstums­gesellschaft](https://publixphere.net/i/publixphere-de/proposal/2101-Gutes_Leben_und_Gerechtigkeit_in_einer_P). In: Publixphere.net
 >
-> Eugen Pissarskoi (2012) [Gibt es ein gutes Leben jenseits des Wachstums?](http://www.wiwo.de/technologie/green/wirtschaft-gibt-es-ein-gutes-leben-jenseits-des-wachstums/13544850.llms.md) Gastkolumne auf dem Green-Portal der Wirtschaftswoche.
+> Eugen Pissarskoi (2012) [Gibt es ein gutes Leben jenseits des Wachstums?](http://www.wiwo.de/technologie/green/wirtschaft-gibt-es-ein-gutes-leben-jenseits-des-wachstums/13544850.html) Gastkolumne auf dem Green-Portal der Wirtschaftswoche.
 >
 > Ulrich Petschow und Eugen Pissarskoi, 2010, Strategien im Umgang mit dem Klimawandel, Neue Gesellschaft / Frankfurter Hefte, 5/2010: 47-49.
 
@@ -94,19 +94,19 @@ chronologische Auflistung
 >
 > Ulrich Petschow, Nils aus dem Moore, Nils, Eugen Pissarskoi, Thorben Korfhage, Steffen Lange, Annekathrin Schoofs, David Hofmann (2020) [Social Well-Being Within Planetary Boundaries: the Precautionary Post-Growth Approach](https://www.umweltbundesamt.de/publikationen/social-well-being-within-planetary-boundaries-the) Partial Report for the “Approaches to Resource Conservation in the Context of Post-Growth Concepts” project. UBA-Texte 234/2020, Dessau \* englische Übersetzung der Publikation Petschow et al. (2018)
 >
-> Ulrich Petschow, Nils aus dem Moore, Eugen Pissarskoi, Bettina Bahn-Walkowiak, Hermann E. Ott, David Hofmann, Steffen Lange, Thorben Korfhage, Annekathrin Schoofs, Henning Wilts, Benjamin Best, Justus Benke, Johannes Buhl, Laura Galinski, Rainer Lucas, Carina Koop, Stefan Werland, Holger Berg (2020) [Ansätze zur Ressourcenschonung im Kontext von Postwachstumskonzepten](https://www.umweltbundesamt.de/sites/default/files/medien/479/publikationen/texte_98-2020_powares_endbericht.pdf) UBA-Texte 98/2020, Dessau.
+> Ulrich Petschow, Nils aus dem Moore, Eugen Pissarskoi, Bettina Bahn-Walkowiak, Hermann E. Ott, David Hofmann, Steffen Lange, Thorben Korfhage, Annekathrin Schoofs, Henning Wilts, Benjamin Best, Justus Benke, Johannes Buhl, Laura Galinski, Rainer Lucas, Carina Koop, Stefan Werland, Holger Berg (2020) [Ansätze zur Ressourcenschonung im Kontext von Postwachstumskonzepten](https://www.umweltbundesamt.de/publikationen/ansaetze-zur-ressourcenschonung-im-kontext-von) UBA-Texte 98/2020, Dessau.
 >
 > Ulrich Petschow, Nils aus dem Moore, Nils, Eugen Pissarskoi, Thorben Korfhage, Steffen Lange, Annekathrin Schoofs, David Hofmann (2018) [Gesellschaftliches Wohlergehen innerhalb planetarer Grenzen. Der Ansatz einer vorsorgeorientierten Postwachstumsposition](https://www.umweltbundesamt.de/publikationen/vorsorgeorientierte-postwachstumsposition) UBA-Texte 89/2018, Dessau.
 >
-> Eugen Pissarskoi, Thomas Vogelpohl, Tanja Schäfer (2018) [Diskurse zum guten Leben: Analyse ihrer Begriffe guten Lebens, ihrer Akteure und damit verbundener politischer Strategien](https://www.umweltbundesamt.de/publikationen/vorsorgeorientierte-postwachstumsposition) UBA-Texte 17/2018, Dessau.
+> Eugen Pissarskoi, Thomas Vogelpohl, Tanja Schäfer (2018) [Diskurse zum guten Leben: Analyse ihrer Begriffe guten Lebens, ihrer Akteure und damit verbundener politischer Strategien](https://www.umweltbundesamt.de/publikationen/diskurse-guten-leben-analyse-ihrer-begriffe-ihrer) UBA-Texte 17/2018, Dessau.
 >
-> Eugen Pissarskoi, Thomas Vogelpohl, Stephan Lessenich, Valentin Tappeser, Daniel Weiß (2018) [Was kann Nachhaltigkeitspolitik vom guten Leben lernen?](https://www.umweltbundesamt.de/sites/default/files/medien/1410/publikationen/2018-02-23_texte_18-2018_nachhaltigkeit-gutes-leben.pdf) UBA-Texte 18/2018, Dessau.
+> Eugen Pissarskoi, Thomas Vogelpohl, Stephan Lessenich, Valentin Tappeser, Daniel Weiß (2018) [Was kann Nachhaltigkeitspolitik vom guten Leben lernen?](https://www.umweltbundesamt.de/publikationen/was-kann-nachhaltigkeitspolitik-vom-guten-leben) UBA-Texte 18/2018, Dessau.
 >
 > Wilfried Konrad, Esther Hoffmann, Eugen Pissarskoi, Dirk Scheer und Anna Trefzer (2017) [Das Smart Grid im Privathaushalt. Zur Digitalisierung des Energiesystems aus Verbrauchersicht](https://www.ioew.de/publikation/innosmart_partizipative_gestaltung_von_verbrauchernahen_innovationen_fuer_smart_grids). Inno-Smart Arbeitsbericht 06, Berlin/Stuttgart. [dauerhafter Link zum Bericht](https://nextclouds.webo.hosting/s/XCTM98dRmiXgJXR)
 >
 > Franziska Mohaupt, Wilfried Konrad, Frieder Schnabel, Esther Hoffmann, Manuel Kern, Eugen Pissarskoi, Dirk Scheer und Michael Schubert (2016) [InnoSmart – Partizipative Gestaltung von verbrauchernahen Innovationen für Smart Grids](https://www.ioew.de/publikation/innosmart_partizipative_gestaltung_von_verbrauchernahen_innovationen_fuer_smart_grids). Schlussbericht zum Vorhaben im Rahmen des Schwerpunktprogramms “Umwelt- und gesellschaftsverträgliche Transformation des Energiesystems” der Sozial-ökologische Forschung. [dauerhafter Link zum Bericht](https://publica-rest.fraunhofer.de/server/api/core/bitstreams/5d8d05b0-ad27-489b-8363-4e59231764c2/content)
 >
-> Martina Schäfer, Carsten Mann, Jana Rückert-John, Melanie Jaeger-Erben, Ulrich Petschow, Eugen Pissarskoi, Thomas Vogelpohl (2015) [Umwelt- und Naturschutzpolitik – Konzepte und zukünftige Herausforderungen](https://www.umweltbundesamt.de/sites/default/files/medien/378/publikationen/texte_94_2015_umwelt-_und_naturschutzpolitik_als_gesellschaftspolitik_0.pdf), UBA-Texte 94/2015, Dessau.
+> Martina Schäfer, Carsten Mann, Jana Rückert-John, Melanie Jaeger-Erben, Ulrich Petschow, Eugen Pissarskoi, Thomas Vogelpohl (2015) [Umwelt- und Naturschutzpolitik – Konzepte und zukünftige Herausforderungen](https://www.umweltbundesamt.de/publikationen/umwelt-naturschutzpolitik-als-gesellschaftspolitik), UBA-Texte 94/2015, Dessau.
 >
 > Jesko Hirschfeld, Eugen Pissarskoi, Sven Schulze, Jana Stöver (2015) [Kosten des Kli­ma­wandels und der Anpassung an den Klimawandel aus vier Perspektiven](https://www.fona.de/medien/pdf/Hintergrundpapier_Forum_Kosten.pdf?m=1548322391&) Fact sheet, erstellt für das erste Forum „Klimaökonomie“.
 >
@@ -118,7 +118,7 @@ chronologische Auflistung
 >
 > Hans Diefenbacher, Ulrich Petschow, Eugen Pissarskoi, Dorothee Rodenhäuser, Roland Zieschank (2011) Grüne Wirtschaftspolitik und regionaler Wohlfahrtsindex für Schleswig-Holstein. Thesen und Empfehlungen. Forschungsbericht.
 >
-> Arnim von Gleich, Christian Pade, Ulrich Petschow und Eugen Pissarskoi (2007) [Bionik. Aktuelle Trends und zukünftige Potentiale](https://www.ioew.de/fileadmin/user_upload/DOKUMENTE/Publikationen/2007/Bionik_Aktuelle_Trends_und_zukünftige_Potenziale.pdf). Endbericht des Forschungsprojektes „Potenziale und Trends der Bionik”. Berlin/Bremen.
+> Arnim von Gleich, Christian Pade, Ulrich Petschow und Eugen Pissarskoi (2007) [Bionik. Aktuelle Trends und zukünftige Potentiale](https://www.ioew.de/fileadmin/user_upload/DOKUMENTE/Publikationen/2007/Bionik_Aktuelle_Trends_und_zuk%C3%BCnftige_Potenziale.pdf). Endbericht des Forschungsprojektes „Potenziale und Trends der Bionik”. Berlin/Bremen.
 
 # Projekte
 
@@ -127,7 +127,7 @@ chronologische Auflistung
 > [BATATA - Bioökonomie als gesellschaftlicher Wandel, Modul2 (2): Whose Bioeconomy? Tracing Visions of Socio-ecological Transformation and their Ethical Deliberation in Tanzania](http://batata-bioeconomy.de/), Oktober 2019-September 2022, gefördert durch das Bundesministerium für Bildung und Forschung (BMBF), Bonn. Projektpartner:
 >
 > - [Internationales Zentrum für Ethik in den Wissenschaften, Universität Tübingen](https://uni-tuebingen.de/de/166338)
-> - [Professur für Wirtschaftsgeographie, Universität Bayreuth](https://www.wigeo.uni-bayreuth.de/en/index.llms.md)
+> - [Professur für Wirtschaftsgeographie, Universität Bayreuth](https://www.wigeo.uni-bayreuth.de/en/index.html)
 >
 > Herausforderungen für Nachhaltigkeitsstrategien, März 2015 – Dezember 2017, im Auftrag des Umweltbundesamtes (UBA), Dessau.
 
@@ -169,7 +169,7 @@ chronologische Auflistung
 >
 > [Exploring New Methods for Applied Ethics](https://uni-tuebingen.de/de/170463), Summer School at the University of Tübingen, Part 2, Hybrid-Meeting: 30.06-03.07.2021
 >
-> [Was können Ethiker\*innen, was andere nicht können?](https://uni-tuebingen.de/de/207267) Gemeinsamer Workshop des [IZEW der Universität Tübingen](https://uni-tuebingen.de/de/8682) und des [Münchner Kollegs für Ethik in der Praxis](https://www.zepp.uni-muenchen.de/veranstaltungenlehre/archiv/mkep/index.llms.md) zur „Ethik in der Praxis”: 21-22.01.2021
+> [Was können Ethiker\*innen, was andere nicht können?](https://uni-tuebingen.de/de/207267) Gemeinsamer Workshop des [IZEW der Universität Tübingen](https://uni-tuebingen.de/de/8682) und des [Münchner Kollegs für Ethik in der Praxis](https://www.zepp.uni-muenchen.de/veranstaltungenlehre/archiv/mkep/index.html) zur „Ethik in der Praxis”: 21-22.01.2021
 >
 > [Exploring New Methods for Applied Ethics](https://uni-tuebingen.de/de/170463), Summer School at the University of Tübingen, Part 1, online: 02-04.07.2020
 >

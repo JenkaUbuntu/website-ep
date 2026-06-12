@@ -105,15 +105,15 @@ Ulrich Petschow, Nils aus dem Moore, Eugen Pissarskoi, Bettina Bahn-Walkowiak, H
 
 Ulrich Petschow, Nils aus dem Moore, Nils, Eugen Pissarskoi, Thorben Korfhage, Steffen Lange, Annekathrin Schoofs, David Hofmann (2018) [Gesellschaftliches Wohlergehen innerhalb planetarer Grenzen. Der Ansatz einer vorsorgeorientierten Postwachstumsposition](https://www.umweltbundesamt.de/publikationen/vorsorgeorientierte-postwachstumsposition) UBA-Texte 89/2018, Dessau.
 
-Eugen Pissarskoi, Thomas Vogelpohl, Tanja Schäfer (2018) [Diskurse zum guten Leben: Analyse ihrer Begriffe guten Lebens, ihrer Akteure und damit verbundener politischer Strategien](https://www.umweltbundesamt.de/publikationen/vorsorgeorientierte-postwachstumsposition) UBA-Texte 17/2018, Dessau.  
+Eugen Pissarskoi, Thomas Vogelpohl, Tanja Schäfer (2018) [Diskurse zum guten Leben: Analyse ihrer Begriffe guten Lebens, ihrer Akteure und damit verbundener politischer Strategien](https://www.umweltbundesamt.de/publikationen/diskurse-guten-leben-analyse-ihrer-begriffe-ihrer) UBA-Texte 17/2018, Dessau.  
 
-Eugen Pissarskoi, Thomas Vogelpohl, Stephan Lessenich, Valentin Tappeser, Daniel Weiß (2018) [Was kann Nachhaltigkeitspolitik vom guten Leben lernen?](https://www.umweltbundesamt.de/sites/default/files/medien/1410/publikationen/2018-02-23_texte_18-2018_nachhaltigkeit-gutes-leben.pdf) UBA-Texte 18/2018, Dessau.
+Eugen Pissarskoi, Thomas Vogelpohl, Stephan Lessenich, Valentin Tappeser, Daniel Weiß (2018) [Was kann Nachhaltigkeitspolitik vom guten Leben lernen?](https://www.umweltbundesamt.de/publikationen/was-kann-nachhaltigkeitspolitik-vom-guten-leben) UBA-Texte 18/2018, Dessau.
 
 Wilfried Konrad, Esther Hoffmann, Eugen Pissarskoi, Dirk Scheer und Anna Trefzer (2017) [Das Smart Grid im Privathaushalt. Zur Digitalisierung des Energiesystems aus Verbrauchersicht](https://www.ioew.de/publikation/innosmart_partizipative_gestaltung_von_verbrauchernahen_innovationen_fuer_smart_grids). Inno-Smart Arbeitsbericht 06, Berlin/Stuttgart. [dauerhafter Link zum Bericht](https://nextclouds.webo.hosting/s/XCTM98dRmiXgJXR) 
 
 Franziska Mohaupt, Wilfried Konrad, Frieder Schnabel, Esther Hoffmann, Manuel Kern, Eugen Pissarskoi, Dirk Scheer und Michael Schubert (2016) [InnoSmart -- Partizipative Gestaltung von verbrauchernahen Innovationen für Smart Grids](https://www.ioew.de/publikation/innosmart_partizipative_gestaltung_von_verbrauchernahen_innovationen_fuer_smart_grids). Schlussbericht zum Vorhaben im Rahmen des Schwerpunktprogramms "Umwelt- und gesellschaftsverträgliche Transformation des Energiesystems" der Sozial-ökologische Forschung. [dauerhafter Link zum Bericht](https://publica-rest.fraunhofer.de/server/api/core/bitstreams/5d8d05b0-ad27-489b-8363-4e59231764c2/content)
 
-Martina Schäfer, Carsten Mann, Jana Rückert-John, Melanie Jaeger-Erben, Ulrich Petschow, Eugen Pissarskoi, Thomas Vogelpohl (2015) [Umwelt- und Naturschutzpolitik – Konzepte und zukünftige Herausforderungen](https://www.umweltbundesamt.de/sites/default/files/medien/378/publikationen/texte_94_2015_umwelt-_und_naturschutzpolitik_als_gesellschaftspolitik_0.pdf), UBA-Texte 94/2015, Dessau.
+Martina Schäfer, Carsten Mann, Jana Rückert-John, Melanie Jaeger-Erben, Ulrich Petschow, Eugen Pissarskoi, Thomas Vogelpohl (2015) [Umwelt- und Naturschutzpolitik – Konzepte und zukünftige Herausforderungen](https://www.umweltbundesamt.de/publikationen/umwelt-naturschutzpolitik-als-gesellschaftspolitik), UBA-Texte 94/2015, Dessau.
 
 Jesko Hirschfeld, Eugen Pissarskoi, Sven Schulze, Jana Stöver (2015) [Kosten des Kli­ma­wandels und der Anpassung an den Klimawandel aus vier Perspektiven](https://www.fona.de/medien/pdf/Hintergrundpapier_Forum_Kosten.pdf?m=1548322391&) Fact sheet, erstellt für das erste Forum „Klimaökonomie“.
 
@@ -126,7 +126,7 @@ Hans Diefenbacher, Marcus Düwell, Jos Philips, Klaus Leggewie, Bernd Sommer, Ul
 
 Hans Diefenbacher, Ulrich Petschow, Eugen Pissarskoi, Dorothee Rodenhäuser, Roland Zieschank (2011) Grüne Wirtschaftspolitik und regionaler Wohlfahrtsindex für Schleswig-Holstein. Thesen und Empfehlungen. Forschungsbericht. 
 
-Arnim von Gleich, Christian Pade, Ulrich Petschow und Eugen Pissarskoi (2007) [Bionik. Aktuelle Trends und zukünftige Potentiale](https://www.ioew.de/fileadmin/user_upload/DOKUMENTE/Publikationen/2007/Bionik_Aktuelle_Trends_und_zukünftige_Potenziale.pdf). Endbericht des Forschungsprojektes „Potenziale und Trends der Bionik”. Berlin/Bremen.
+Arnim von Gleich, Christian Pade, Ulrich Petschow und Eugen Pissarskoi (2007) [Bionik. Aktuelle Trends und zukünftige Potentiale](https://www.ioew.de/fileadmin/user_upload/DOKUMENTE/Publikationen/2007/Bionik_Aktuelle_Trends_und_zuk%C3%BCnftige_Potenziale.pdf). Endbericht des Forschungsprojektes „Potenziale und Trends der Bionik”. Berlin/Bremen.
 :::
 
 # Projekte
