@@ -26,6 +26,10 @@ chronologische Auflistung
 >
 > Stefan Ouma, Eugen Pissarskoi, Kerstin Schopp und Leiyo Singo (2022) [Beyond Pro­duc­tivity: Reimagining Futures of Agriculture and Bioeconomy. Workshop Report](https://roape.net/2022/02/17/beyond-productivity-reimagining-futures-of-agriculture-and-bioeconomy/), publiziert auf der Blog-Seite der Zeitschrift „Review of African Political Economy“.
 >
+> Ulrich Petschow, Nils aus dem Moore, David Hofmann, Eugen Pissarskoi und Steffen Lange (2021) [Cornerstones and positions of a precautionary post-growth economy](https://www.transcript-open.de/doi/10.14361/9783839457337-024), in: Bastian Lange, Martina Hülz, Benedikt Schmid, Christian Schulz (eds): Post-Growth Geographies. Spatial Relations of Diverse and Alternative Economies, Bielefeld, 323-345.
+>
+> - englische Übersetzung von Petschow et al. 2020.
+>
 > Eugen Pissarskoi, Stefan Ouma, Kerstin Schopp, Leiyo Singo & Thomas Potthast (2020) [Welche Bio_Ökonomie für welche Zukunft? Zur Repolitisierung eines Diskurses im Globalen Norden durch Einsichten aus Tansania](https://doi.org/10.3224/peripherie.v40i3-4.03), PERIPHERIE Nr. 159/160(40): 258-283.
 >
 > Ulrich Petschow, Nils aus dem Moore, David Hofmann, Eugen Pissarskoi, Steffen Lange (2020) [Eckpunkte und Positionen einer Vorsorgeorientierten Postwachs­tums­ökonomie. Vom Ende des wachsenden Wohlstandsmodells](https://doi.org/10.14361/9783839451809), in: Bastian Lange, Martina Hülz, Benedikt Schmid, Christian Schulz (Hg.): Postwachs­tums­geographien. Raumbezüge diverser und alternativer Ökonomien, transcript, Bielefeld, 343-368.
@@ -92,7 +96,9 @@ chronologische Auflistung
 >
 > Eugen Pissarskoi und Michael Maes (2024) [Twin of Online Social Networks – Impact Assessment and Ethical Guidance Handbook](https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e50a9b9303&appId=PPGMS) Deliverable 7.2 for the project „TWON – TWin of Online social Networks“, funded by the European Commission.
 >
-> Ulrich Petschow, Nils aus dem Moore, Nils, Eugen Pissarskoi, Thorben Korfhage, Steffen Lange, Annekathrin Schoofs, David Hofmann (2020) [Social Well-Being Within Planetary Boundaries: the Precautionary Post-Growth Approach](https://www.umweltbundesamt.de/publikationen/social-well-being-within-planetary-boundaries-the) Partial Report for the “Approaches to Resource Conservation in the Context of Post-Growth Concepts” project. UBA-Texte 234/2020, Dessau \* englische Übersetzung der Publikation Petschow et al. (2018)
+> Ulrich Petschow, Nils aus dem Moore, Nils, Eugen Pissarskoi, Thorben Korfhage, Steffen Lange, Annekathrin Schoofs, David Hofmann (2020) [Social Well-Being Within Planetary Boundaries: the Precautionary Post-Growth Approach](https://www.umweltbundesamt.de/publikationen/social-well-being-within-planetary-boundaries-the) Partial Report for the “Approaches to Resource Conservation in the Context of Post-Growth Concepts” project. UBA-Texte 234/2020, Dessau
+>
+> - englische Übersetzung der Publikation Petschow et al. (2018)
 >
 > Ulrich Petschow, Nils aus dem Moore, Eugen Pissarskoi, Bettina Bahn-Walkowiak, Hermann E. Ott, David Hofmann, Steffen Lange, Thorben Korfhage, Annekathrin Schoofs, Henning Wilts, Benjamin Best, Justus Benke, Johannes Buhl, Laura Galinski, Rainer Lucas, Carina Koop, Stefan Werland, Holger Berg (2020) [Ansätze zur Ressourcenschonung im Kontext von Postwachstumskonzepten](https://www.umweltbundesamt.de/publikationen/ansaetze-zur-ressourcenschonung-im-kontext-von) UBA-Texte 98/2020, Dessau.
 >

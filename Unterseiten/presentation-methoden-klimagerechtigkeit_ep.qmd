@@ -1,0 +1,214 @@
+---
+title: "Stellungnahme des Ethikrats Klimagerechtigkeit"
+subtitle: Rekonstruktion des methodischen Vorgehens
+date: 06/19/2026
+format: 
+    revealjs: 
+        controls: true
+        incremental: false
+        scrollable: true
+        smaller: true
+        theme: simple
+        slide-number: c/t
+        footer: Eugen Pissarskoi
+---
+
+## Struktur der Stellungnahme
+
+::: {.panel-tabset}
+
+### Kap. 1: Einleitung
+
+### Kap. 2: Sachstand
+
+2.1 & 2.2: Klimawissenschaft: Ursachen und voraussichtliche Folgen;
+
+2.3: Überblick über klimapolitische Optionen (Kosten der C0~2~-Vermeidung, Anpassung, Geo-Engineering);
+
+2.4: Juristischer Sachstand;
+
+2.5: Psychologische Forschung;
+
+2.6: gesellschaftspolitische Debatten (u.a. Klimaskepsis, ziviler Ungehorsam)
+
+2.7: **Grundlagen der Klimaethik**
+
+
+### Kap. 3: Klimawandel und Gerechtigkeit
+
+3.1: Klimawandel als Gerechtigkeitsproblem
+
+3.2: **Gerechtigkeitstheoretische Grundlagen**: 
+  
+   * Einführung eines substantiellen Prinzips, das bestimmt, wie gesellschaftspolitische Klimaschutzaktivitäten zu priorisieren sind.
+
+3.3: Dimensionen der Klimagerechtigkeit: Implikationen dieses Prinzips auf
+  
+  * innergesellschaftliche Klimaschutzaktivitäten;
+  * internationale Klimaschutzaktivitäten;
+  * intergenerationelle Klimaschutzaktivitäten
+
+3.4: Gerechte Prozeduren: Faire Gestaltung politischer Verständigungsprozesse
+
+
+### Kap. 4: Verantwortung im Klimawandel
+
+4.1: Freiheit und Verantwortung
+
+4.2: Multiakteursverantwortung im Umgang mit dem Klimawandel
+
+  * Individuen & private Kollektive haben eine Mitwirkungspflicht, sind aber allein nicht für die Klimagerechtigkeit verantwortlich;
+  * öffentliche Kollektive: "Die gesellschaftlichen Verhältnisse und rechtlichen Rahmenbedingungen sind so umzugestalten, dass emissionsärmeres Verhalten ohne unzumutbare oder ungerechte persönliche bzw. unternehmerische Belastungen möglich ist." (S. 87)
+  * öffentliche Kollektive: Verantwortung für internationale Kooperation
+
+4.3: Konsequenzen für klimagerechtes Handeln für verschiedene Akteure
+
+
+
+### Kap. 5: Empfehlungen
+
+### Sondervotum
+
+* Ziel der Stellungnahme: "verlässliche ethische Orientierung für die
+notwendigen Abwägungsentscheidungen" (S. 110)
+  * wegen "argumentativer Probleme und normativer Leerstellen" nicht eingelöst
+
+* Gerechtigkeitsprinzip:
+  * die suffizientaristische Schwellenwertkonzeption der Klimagerechtigkeit zu abstrakt, um Handlungsempfehlungen zu begründen
+    * verteilungsrelevante Schwellenwerte nicht spezifiziert;
+    * wie Konflikte zwischen genannten Verteilungsprinzipien gelöst werden sollen, nicht erläutert;
+    * wie Unsicherheiten über die Klimafolgen in die Abwägungen eingehen, nicht erwähnt;
+  * Inhaltliche Differenz: finanzieller Ausgleich der CO~2~-Bepreisung kein faires Instrument (113)
+
+* Verantwortung:
+  * Inhaltliche Differenz: nationale Reduktion der CO~2~-Emissionen hat derart geringe Wirkungen auf die globalen Klimaziele, dass die für ihre Durchsetzung erforderlichen "massiven Eingriffe in die Freiheit der eigenen Bürger" nicht rechtfertigbar sind.
+:::
+
+## Ziele der Stellungnahme
+
+::: {.columns}
+
+::: {.column width="40%"}
+::: {.callout-note icon="false" .fragment}
+### Laut Abschnitt 1: Einleitung
+
+* "Beitrag zur Diskussion" schwieriger ethischer Probleme bezüglich der Bewältigung des Klimawandels (S. 25)
+  * Pariser Klimaabkommen, Urteil des Bundesverfassungsgerichts: enthalten normative Begriffe, die erst spezifiziert werden müssen:
+    * gemeinsame, aber unterschiedliche Verantwortlichkeiten und jeweiligen Fähigkeiten (Pariser Abkommen)
+    * Klimaschutzmaßnahmen [sind ...] zumutbar zu verteilen" (BVfG)
+:::
+:::
+
+::: {.column width= "60%"}
+::: {.callout-note icon="false" .fragment}
+### Laut Abschnitt 2.7: Grundlagen der Klimaethik
+
+* Moralische Besonderheiten beim Umgang mit dem Klimawandel:
+  * Problem kollektiven Handelns: Verantwortung Einzelner unklar/strittig
+  * Langfristige Wirkungen: keine Handlungsanreize für heute lebende Akteure; epistemische Probleme
+
+* Ziel der Klimaethik:
+  * Normative Orientierung für individuelles und kollektives Handeln angesichts der moralischen Besonderheiten: 
+  
+  > "Analyse und normative Beurteilung von gegenwärtigen und langfristigen Verteilungs- und Verantwortungsproblemen in Bezug auf Klimaschutzmaßnahmen, und zwar unter Bedingungen epistemischer Unsicherheit und Berücksichtigung vielfältiger Verflechtungen mit anderen gesellschaftlichen Herausforderungen" (S. 48, Verweis auf Kallhoff 2021)
+
+* Aufgabe der Klimaethik (S. 50, Verweis auf Düwell 2017):
+  * Möglichkeiten für verantwortliches politisches/individuelles Handeln aufzeigen;
+  * moralisch vertretbare Handlungsoptionen begründen
+:::
+
+:::
+
+:::
+
+
+## Versprochene inhaltliche Ergebnisse
+
+> "der Deutsche Ethikrat [entwickelt] Vorschläge [zum gerechten Umgang mit dem Klimawandel], die verschiedene Gerechtigkeitsauffassungen und klimaethische Argumente ebenso berücksichtigen wie bestehende Ungleichheiten, Ungerechtigkeiten und Zuständigkeiten hinsichtlich der wichtigsten Umsetzungsfragen." (S. 26)
+
+* Entwickelt ein Gerechtigkeitskonzept, 
+
+  > "das darauf abzielt, die Verteilung von Lasten und Pflichten so zu gestalten, dass die Mindestvoraussetzungen für ein gutes, gelingendes Leben für alle jetzt und in Zukunft erfüllt sind." (S. 27).
+
+* Kapitel 5: politische Handlungsempfehlungen
+  
+
+## Methodisches Vorgehen
+
+
+::: {.panel-tabset}
+
+### 2.7: Grundlagen der Klimaethik
+
+* Ziel der Klimaethik: Analyse und normative Beurteilung von Verteilungs- und Verantwortungszuschreibungen
+* erfordert: "Einführung und Begründung von Prinzipien mittlerer Reichweite" (49):
+
+  * Gleichheitsprinzip
+  * Verursacherprinzip
+  + Nutznießerprinzip
+  * Leistungsfähigkeitsprinzip
+
+### 3.2: Gerechtigkeitstheoretische Grundlagen
+> "Das in dieser Stellungnahme vertretene Konzept von Klimagerechtigkeit greift egalitaristische, suffizientaristische und prioritaristische Überlegungen auf. [...] Diese drei Konzeptionen [lassen sich] so miteinander kombinieren, dass eine insgesamt ausgewogenere Sichtweise entsteht. Der maßgebliche Gesichtspunkt für eine gerechte Verteilung [...] ist dabei die Ermöglichung eines guten, gelingenden Lebens für alle Menschen." (59)
+
+
+::: {.fragment}
+  * erstens (egalitaristisch): grundsätzlich allen Menschen die gleichen Möglichkeiten zustehen, ein gutes, gelingendes Leben zu führen
+  * zweitens (suffizientaristisch): als Mindestvoraussetzung sind Schwellenwerte für wichtige Grundgüter bzw. Befähigungen zu bestimmen, wie etwa Gesundheit, Ernährung, Wasser, Sicherheit oder Mobilität (61f.).
+  * drittens (prioritaristisch): Vorrang bei Klimaschutzmaßnahmen für diejenigen, die am stärksten daran gehindert sind, die Schwellenwerte zu erreichen
+:::
+:::
+
+## Anmerkungen zur Methode
+
+::: {.callout-warning icon="false" .fragment}
+### Diskrepanz zwischen den Zielen und den Ergebnissen:
+* Ziele: normative Orientierung; normative Beurteilung von Verteilungs- und Handlungsproblemen
+* Ergebnisse: substantielles Gerechtigkeitskonzept, politische Handlungsempfehlungen
+:::
+
+::: {.callout-warning icon="false" .fragment}
+### Diskrepanz zwischen der Methode und den Ergebnissen:
+* Der Ethikrat legt sich auf ein substantielles (und kontroverses) normatives Prinzip: Vorrang für die am stärksten Benachteiligten (innerhalb einer Gesellschaft, global und intertemporal) bei der Auswahl von Klimaschutzmaßnahmen: 
+  * unklar, wie es sich zu den vier Prinzipien mittlerer Reichweite verhält
+:::
+
+::: {.callout-warning icon="false" .fragment}
+### Suggestion eines Konsenses, den es nicht gibt:
+* "Das in dieser Stellungnahme vertretene Konzept von Klimagerechtigkeit greift egalitaristische, suffizientaristische und prioritaristische Überlegungen auf. [...] Diese drei Konzeptionen [lassen sich] so miteinander kombinieren, dass eine insgesamt ausgewogenere Sichtweise entsteht."
+
+* der Ethikrat gewichtet eigentlich miteinander konfligierende Verteilungsprinzipien (egalitaristisch versus prioritär) auf eine bestimmte Weise: erst prioritaristisch verteilen, danach egalitär
+:::
+
+::: {.callout-warning icon="false" .fragment}
+### Eine explizite Begründung für das Vorrang-Prinzip führt die Stellungnahme nicht an
+
+:::
+  
+
+## Fragen an den Ethikrat
+
+* Diskrepanz zwischen Zielen und Ergebnissen: wie kommt es dazu?
+  * Wie wurden Ziele und angestrebte Ergebnisse festgelegt?
+
+* behauptete Ergebnisse: viel zu ambitioniert -- warum hat sich der Ethikrat darauf festgelegt?
+
+* Wurde beim Design der Stellungnahme über mögliche Zielsetzungen diskutiert?
+  * Aufklärung über gesellschaftspolitische Kontroversen;
+  * Vorbringen eines substantiellen Handlungsprinzips
+
+* Gab es methodische Diskussionen bei der Erstellung der Stellungnahme?
+
+## Notizen zu einer methodischen Handreichung für Ethikräte
+
+* Beschreibungen der Ziele unklar, sollten spezifiziert werden:
+  * "normative Orientierung";
+  * "normative Beurteilung von Verteilungskonflikten";
+  * "Begründung moralisch vertretbarer Handlungsoptionen"
+
+* Mögliche Ziele einer ethischen Stellungnahme unterscheiden: 
+  * Argumentarium: Aufklärung darüber, welche Überzeugungen in gesellschaftspolitischen Meinungsverschiedenheiten kontrovers sind und warum diese Kontroversen nicht aufgelöst werden können; Empfehlungen dazu, wie die Kontroversen konstruktiver geführt werden können
+  * ethische Positionierung: Vorbringen der eigenen ethischen Position zu einem gesellschaftspolitischen Thema
+
+
+
