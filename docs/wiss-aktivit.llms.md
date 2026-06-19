@@ -26,7 +26,7 @@ chronologische Auflistung
 >
 > Stefan Ouma, Eugen Pissarskoi, Kerstin Schopp und Leiyo Singo (2022) [Beyond Pro­duc­tivity: Reimagining Futures of Agriculture and Bioeconomy. Workshop Report](https://roape.net/2022/02/17/beyond-productivity-reimagining-futures-of-agriculture-and-bioeconomy/), publiziert auf der Blog-Seite der Zeitschrift „Review of African Political Economy“.
 >
-> Ulrich Petschow, Nils aus dem Moore, David Hofmann, Eugen Pissarskoi und Steffen Lange (2021) [Cornerstones and positions of a precautionary post-growth economy](https://www.transcript-open.de/doi/10.14361/9783839457337-024), in: Bastian Lange, Martina Hülz, Benedikt Schmid, Christian Schulz (eds): Post-Growth Geographies. Spatial Relations of Diverse and Alternative Economies, Bielefeld, 323-345.
+> Ulrich Petschow, Nils aus dem Moore, David Hofmann, Eugen Pissarskoi und Steffen Lange (2021) [Cornerstones and positions of a precautionary post-growth economy](https://www.transcript-open.de/doi/10.14361/9783839457337-024), in: Bastian Lange, Martina Hülz, Benedikt Schmid, Christian Schulz (eds): [Post-Growth Geographies. Spatial Relations of Diverse and Alternative Economies](https://www.transcript-open.de/isbn/5733), Bielefeld, 323-345.
 >
 > - englische Übersetzung von Petschow et al. 2020.
 >
