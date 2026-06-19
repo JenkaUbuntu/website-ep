@@ -1,5 +1,5 @@
 ---
-title: "Stellungnahme des Ethikrats Klimagerechtigkeit"
+title: "Stellungnahme des Ethikrats [Klimagerechtigkeit](https://www.ethikrat.org/publikationen/stellungnahmen/klimagerechtigkeit/)"
 subtitle: Rekonstruktion des methodischen Vorgehens
 date: 06/19/2026
 format: 
