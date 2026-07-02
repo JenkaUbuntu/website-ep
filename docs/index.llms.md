@@ -2,9 +2,9 @@
 
 Dr.phil.
 
-Mit meiner Forschungs- sowie Politik-beratungsarbeit möchte ich zu einer reflektierten Handlungsorientierung in Bezug auf Nachhaltige Entwicklung beitragen.
+Mit meiner Forschungs- sowie Politik-beratungsarbeit möchte ich zu reflektierten Handlungsorientierung in Bezug auf Nachhaltige Entwicklung beitragen.
 
-Mein Fokus liegt darin, Argumente zu präzisieren, mit denen über die Ziele der Nachhaltigkeitstransformation und geeignete Wege dazu innerhalb der Wissenschaft, in politischen Prozessen und in der breiten Öffentlichkeit debattiert wird.
+Mein Fokus liegt darin, Argumente zu veranschaulichen, mit denen über die Ziele der Nachhaltigkeitstransformation und geeignete Wege dazu innerhalb der Wissenschaft, in politischen Prozessen und in der breiten Öffentlichkeit debattiert wird.
 
 ##### Schwerpunkte
 
