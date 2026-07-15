@@ -8,11 +8,11 @@ Published
 
 June 20, 2026
 
-# Vorreiter-Rolle
+Argumentanalyse kann dazu beitragen, argumentative Wege in einer vertrackten öffentlichen Kontroverse aufzuzeigen: die Debatte über die Vorreiter-Rolle in der Klimapolitik.
 
-Argumentanalyse kann dazu beitragen, argumentative Wege in einer vertrackten öffentlichen Kontroverse aufzuzeigen: die Debatte über die Vorreiter-Rolle in der Klimapolitik
+# Die Kontroverse
 
-Klimaschutz ist ein kollektives Unterfangen. Wenn ich sofort aufhöre, jegliche Treibhausgase zu emittiere, wird ein klimapolitisches Ziel, wie Begrenzung der Erderwärmung auf 1,5 oder 2° C, nicht erreicht. Auch wenn die Bundesrepublik Deutschland ihre Treibhausemissionen von heute auf morgen auf Null reduziert, wird die Erderwärmung nicht ausreichend stark reduziert.[^1] Um das vereinbarte Klimaziel der Begrenzung der Erderwärmung auf 1,5 bis 2° C zu erreichen, müssen hinreichend viele Menschen weltweit dazu beitragen, indem sie ihre Treibhausgasemissionen reduzieren.
+Klimaschutz ist ein kollektives Unterfangen. Wenn ich sofort aufhöre, jegliche Treibhausgase zu emittieren, wird ein klimapolitisches Ziel, wie Begrenzung der Erderwärmung auf 1,5 oder 2° C, nicht erreicht. Auch wenn die Bundesrepublik Deutschland ihre Treibhausemissionen von heute auf morgen auf Null reduziert, wird die Erderwärmung nicht ausreichend stark reduziert.[^1] Um das vereinbarte Klimaziel der Begrenzung der Erderwärmung auf 1,5 bis 2° C zu erreichen, müssen hinreichend viele Menschen weltweit dazu beitragen, indem sie ihre Treibhausgasemissionen reduzieren.
 
 Auf der internationalen Ebene sieht es derzeit aber nicht danach aus, dass Derzeit sieht es aber nicht danach aus, dass ausreichend viele Staaten klimapolitisch kooperieren, um das 2°-Ziel zu erreichen \[quellen suchen\]. Vor diesem Hintergrund stellt sich für die deutsche Politik die Frage:
 
@@ -93,7 +93,7 @@ Betrachten wir, wie gut die beiden kontroversen Behauptungen – Wirksamkeit und
 
 ## Wirksamkeit
 
-In der Debatte werden verschiedene Interpretationen dessen, was “Wirksamkeit” bedeutet, vertreten. Führen wir uns diese unterschiedlichen Wirksamkeits-Thesen vor Augen:
+In der Debatte werden verschiedene Interpretationen dessen, was “Wirksamkeit” bedeutet, vertreten. Führen wir uns diese Wirksamkeits-Thesen vor Augen:
 
 > **TIP:**
 >
@@ -169,8 +169,17 @@ In der Debatte werden verschiedene Interpretationen dessen, was “Wirksamkeit�
 
 Die Präzisierung der Wirksamkeits-Behauptungen verdeutlicht, dass sowohl die Befürworter\*innen als auch Gegner\*innen sich auf empirisch nicht adäquate Wirksamkeits-Behauptungen festlegen:
 
-- Die Befürworter\*innen scheinen eine proportionale Wirksamkeit zu unterstellen. Dies ist jedoch falsch: nationale THG-Reduktionen haben einen deutlich abgeschwächten Gesamteffekt auf die globale Emissionsmenge. Das wenden die Gegner\*innen auch berechtigterweise ein.
-- Die Gegner\*innen bestreiten in ihren Einwänden gegen die unilaterale Klimapolitik jegliche Wirkung bzw. unterstellen sogar negative Effekte. Diese Behauptungen sind ebenfalls unhaltbar.
+**Befürworter\*innen der Vorreiter-Rolle**
+
+scheinen eine proportionale Wirksamkeit zu unterstellen;
+
+- diese Behauptung ist falsch
+
+**Gegner\*innen der Vorreiter-Rolle**
+
+unterstellen keine oder negative Wirkung;
+
+- diese Behauptung ist falsch
 
 Die empirisch haltbare Behauptung “schwache Wirksamkeit” findet sich hingegen weder in der Argumentation der Befürworter\*innen noch der Gegner\*innen. Betrachten wir daher im nächsten Schritt, was dies für den weiteren Gang der Argumentation bedeutet.
 
