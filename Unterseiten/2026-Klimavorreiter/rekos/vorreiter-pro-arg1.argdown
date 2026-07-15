@@ -1,0 +1,31 @@
+===
+title: Ethikrat-Argumentation für die Vorreiter-Rolle 
+subtitle: Vorreiter-Rolle als Gefahrenabwendung unter Unsicherheit
+color:
+    colorizeByTag: true
+    tagColors:
+        tag-1: "#f3d942"
+        pro: "#51ffae"
+        contra: "#FFA44F" 
+        neutral: "#bdbdbd"
+        wid: "#ff2626"
+        unkl: "#9ecae1"
+model: 
+  removeTagsFromText: true
+webComponent:
+  withoutLogo: true
+  initialView: source
+sourceHighlighter:
+  removeFrontMatter: true
+===
+
+<Unilaterale Klimapolitik als letztes Mittel zur Gefahrenabwendung>: "in Situationen, in denen die Gefahr nicht sicher abgewandt werden kann, muss ggf. auf Abwehrmaßnahmen zurückgegriffen werden, die unsicher sind." #pro 
+
+(1) [Handlungsprinzip]: Wenn (i) katastrophale Folgen kollektiven Handelns nur im Kollektiv vermieden werden können und wenn (ii) es wenig aussichtsreich ist, dass hinreichend viele Parteien sich zum kollektiven Handeln zusammenschließen und wenn (iii) einzelne Mitglieder des Kollektivs über Handlungsoptionen verfügen, mit denen das Ausmaß der katastrophalen Folgen gemindert wird und die es erleichtern, dass  kollektives Handeln induziert wird, und wenn (iv) das Ausführen dieser Handlungsoptionen keine ungerechte Belastungen für die Akteure mit sich bringen, dann sollen die einzelnen Akteure die ihnen zur Verfügung stehenden Handlungsoptionen ausüben. 
+(2) Moralisch inakzeptable Folgen des Klimawandels können mit Sicherheit nur durch international koordiniertes Handeln vermieden werden.
+(3) Es ist wenig aussichtsreich, dass ein global koordinierter Klimaschutz im hinreichend starken Maße gelingt. 
+(4) [Wirksamkeit nationaler Reduktionen]: Wenn Deutschland unilateral Klimaschutzmaßnahmen ergreift (z.B. Erhöhung der CO2-Steuer), dann wird das Ausmaß der katastrophalen Auswirkungen des Klimawandels verringert. #pro
+(5) [Wirksamkeit Vorreiterrolle]: Wenn Deutschland unilateral Klimaschutzmaßnahmen ergreift (z.B. Erhöhung der CO2-Steuer), dann wird erleichtert, dass die unilaterale Klimaschutzpolitik Nachahmer in anderen Ländern findet.#pro
+(6) [Verhältnismäßigkeit]: Deutschland kann seine THG-Emissionen signifikant im nationalen Alleingang reduzieren, ohne dass seine Bewohner\*innen dadurch unverhältnismäßig hohe Nachteile tragen müssen: z.B. durch CO2-Bepreisung und Umverteilung der Einnahmen. #pro
+----
+(7) [Klimaschutz auch als nationaler Alleingang]: Deutschland soll seine Treibhausgasemissionen signifikant reduzieren, selbst wenn es kein international koordinierten Klimaschutz gibt, der die Umsetzung hinreichend absichert. #pro

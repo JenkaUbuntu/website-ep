@@ -1,0 +1,60 @@
+===
+title: Gegen nationale Alleingänge 
+subtitle: Klimaschutz im nationalen Alleingang ist unwirksam
+color:
+    colorizeByTag: true
+    tagColors:
+        tag-1: "#f3d942"
+        pro: "#51ffae"
+        contra: "#FFA44F" 
+        neutral: "#bdbdbd"
+        wid: "#ff2626"
+        unkl: "#9ecae1"
+model: 
+  removeTagsFromText: true
+webComponent:
+  withoutLogo: true
+sourceHighlighter:
+  removeFrontMatter: true
+dot:
+    argument:
+        shape: egg
+        style: filled
+        minWidth: 0
+        title:
+            charactersInLine: 30
+        text:
+            charactersInLine: 50
+    statement:
+        minWidth: 0
+        title:
+            charactersInLine: 30
+        text:
+            charactersInLine: 40
+===
+
+<Unilaterale Klimapolitik als letztes Mittel zur Gefahrenabwendung>: "in Situationen, in denen die Gefahr nicht sicher abgewandt werden kann, muss ggf. auf Abwehrmaßnahmen zurückgegriffen werden, die unsicher sind." #pro 
+
+(1) Wenn (i) katastrophale Folgen kollektiven Handelns nur im Kollektiv vermieden werden können und wenn (ii) es wenig aussichtsreich ist, dass hinreichend viele Parteien sich zum kollektiven Handeln zusammenschließen und wenn (iii) einzelne Mitglieder des Kollektivs über Handlungsoptionen verfügen, mit denen das Ausmaß der katastrophalen Folgen gemindert wird und die es erleichtern, dass  kollektives Handeln induziert wird, und wenn (iv) das Ausführen dieser Handlungsoptionen keine ungerechte Belastungen für die Akteure mit sich bringen, dann sollen die einzelnen Akteure die ihnen zur Verfügung stehenden Handlungsoptionen ausüben. 
+(2) Moralisch inakzeptable Folgen des Klimawandels können mit Sicherheit nur durch international koordiniertes Handeln vermieden werden.
+(3) Es ist wenig aussichtsreich, dass ein global koordinierter Klimaschutz im hinreichend starken Maße gelingt. 
+(4) [Wirksamkeit nationaler Reduktionen]: Wenn Deutschland unilateral Klimaschutzmaßnahmen ergreift (z.B. Erhöhung der CO2-Steuer), dann wird das Ausmaß der katastrophalen Auswirkungen des Klimawandels verringert. #pro
+(5) [Wirksamkeit Vorreiterrolle]: Wenn Deutschland unilateral Klimaschutzmaßnahmen ergreift (z.B. Erhöhung der CO2-Steuer), dann wird erleichtert, dass die unilaterale Klimaschutzpolitik Nachahmer in anderen Ländern findet.#pro
+(6) [Verhältnismäßigkeit]: Deutschland kann seine THG-Emissionen signifikant im nationalen Alleingang reduzieren, ohne dass seine Bewohner\*innen dadurch unverhältnismäßig hohe Nachteile tragen müssen: z.B. durch CO2-Bepreisung und Umverteilung der Einnahmen. #pro
+----
+(7) [Klimaschutz auch als nationaler Alleingang]: : Deutschland soll seine Treibhausgasemissionen signifikant reduzieren, selbst wenn es kein international koordinierten Klimaschutz gibt, der die Umsetzung hinreichend absichert. #pro
+
+# Gegen die Vorreiter Rolle 
+
+## Unwirksamkeits-Einwände
+
+<Nationale Klimaschutzpolitik senkt nicht die globalen Treibhausgasemissionen>: Wegen des Leakage-Effekts führt eine Verringerung der lokalen THG-Emissionen infolge sinkender Preise für THG-Emissionen keinen Effekt auf die Höhe der globalen THG-Emissionen, unter Umständen sogar einen negativen Effekt (i.e. höhere Emissionen).#contra
+ -> [Wirksamkeit nationaler Reduktionen]
+
+<Nationale Klimaschutzpolitik löst keine internationale Nachahmung aus>: "Die Idee, dass reduktionsstarke Nationen anderen zum Vorbild werden, steht auf keinem wissenschaftlich validen Fundament." (Rostalski 2025, S. 58) #contra
+ -> [Wirksamkeit Vorreiterrolle]
+ 
+## Unverhältnismäßigkeit
+ 
+<Klimaschutzpolitik im nationalen Alleingang bringt unverhältnismäßig hohe Belastungen>: ambitionierte Klimaschutzpolitik wird zu signifikanten Belastungen aller Bürger\*innen führen und eine finanzielle Kompensation wird nicht alle moralisch signifikanten Benachteiligungen ausgleichen können #contra
+  -> [Verhältnismäßigkeit]

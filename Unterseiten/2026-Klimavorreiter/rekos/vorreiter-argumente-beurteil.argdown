@@ -1,0 +1,191 @@
+===
+title: Soll Deutschland Klimaschutz im nationalen Alleingang betreiben?
+color:
+    colorizeByTag: true
+    tagColors:
+        tag-1: "#f3d942"
+        pro: "#51ffae"
+        contra: "#FFA44F" 
+        neutral: "#bdbdbd"
+        wid: "#ff2626"
+        unkl: "#9ecae1"
+model: 
+  removeTagsFromText: true
+webComponent:
+  withoutLogo: true
+sourceHighlighter:
+  removeFrontMatter: true
+selection:
+    excludeDisconnected: true
+dot:
+    argument:
+        shape: egg
+        style: filled
+        minWidth: 0
+        title:
+            charactersInLine: 40
+        text:
+            charactersInLine: 50
+    statement:
+        minWidth: 0
+        title:
+            charactersInLine: 30
+        text:
+            charactersInLine: 40
+===
+
+[Klimaschutz auch als nationaler Alleingang]: Deutschland soll seine Treibhausgasemissionen signifikant reduzieren, selbst wenn es kein international koordinierten Klimaschutz gibt, der die Umsetzung hinreichend absichert. #pro
+
+[Nationaler Klimaschutz nur bei globaler Koordination]: Deutschland soll seine Treibhausgasemissionen erst dann signifikant reduzieren, wenn es eine glaubwürdige internationale Kooperation gibt. #contra
+
+# Ethikrat-Argumentation
+
+<Unilaterale Klimapolitik als letztes Mittel zur Gefahrenabwendung>: "in Situationen, in denen die Gefahr nicht sicher abgewandt werden kann, muss ggf. auf Abwehrmaßnahmen zurückgegriffen werden, die unsicher sind." .?. #unkl 
+
+(1) Wenn (i) katastrophale Folgen kollektiven Handelns nur im Kollektiv vermieden werden können und wenn (ii) es wenig aussichtsreich ist, dass hinreichend viele Parteien sich zum kollektiven Handeln zusammenschließen und wenn (iii) einzelne Mitglieder des Kollektivs über Handlungsoptionen verfügen, mit denen das Ausmaß der katastrophalen Folgen gemindert wird und die es erleichtern, dass  kollektives Handeln induziert wird, und wenn (iv) das Ausführen dieser Handlungsoptionen keine ungerechte Belastungen für die Akteure mit sich bringen, dann sollen die einzelnen Akteure die ihnen zur Verfügung stehenden Handlungsoptionen ausüben. 
+(2) Moralisch inakzeptable Folgen des Klimawandels können mit Sicherheit nur durch international koordiniertes Handeln vermieden werden.
+(3) Es ist wenig aussichtsreich, dass ein global koordinierter Klimaschutz im hinreichend starken Maße gelingt. 
+(4) [Wirksamkeit nationaler Reduktionen]: Wenn Deutschland unilateral Klimaschutzmaßnahmen ergreift (z.B. Erhöhung der CO2-Steuer), dann wird das Ausmaß der katastrophalen Auswirkungen des Klimawandels verringert. .?. #unkl
+(5) [Wirksamkeit Vorreiterrolle]: Wenn Deutschland unilateral Klimaschutzmaßnahmen ergreift (z.B. Erhöhung der CO2-Steuer), dann wird erleichtert, dass die unilaterale Klimaschutzpolitik Nachahmer in anderen Ländern findet. .y. #pro
+(6) [Verhältnismäßigkeit]: Deutschland kann seine THG-Emissionen signifikant im nationalen Alleingang reduzieren, ohne dass seine Bewohner\*innen dadurch unverhältnismäßig hohe Nachteile tragen müssen: z.B. durch CO2-Bepreisung und Umverteilung der Einnahmen :?: #unkl 
+----
+(7) [Klimaschutz auch als nationaler Alleingang]: : Deutschland soll seine Treibhausgasemissionen signifikant reduzieren, selbst wenn es kein international koordinierten Klimaschutz gibt, der die Umsetzung hinreichend absichert. #pro
+
+# Gegen die Vorreiter-Rolle
+
+## Klimaschutzpolitik im Alleingang ist unwirksam
+
+<Nationale Klimaschutzpolitik senkt nicht die globalen Treibhausgasemissionen>: Wegen des Leakage-Effekts führt eine Verringerung der lokalen THG-Emissionen infolge sinkender Preise für THG-Emissionen keinen Effekt auf die Höhe der globalen THG-Emissionen, unter Umständen sogar einen negativen Effekt (i.e. höhere Emissionen). .n. #unkl
+ -> [Wirksamkeit nationaler Reduktionen]
+
+<Nationale Klimaschutzpolitik löst keine internationale Nachahmung aus>: "Die Idee, dass reduktionsstarke Nationen anderen zum Vorbild werden, steht auf keinem wissenschaftlich validen Fundament." (Rostalski 2025, S. 58) .?. #unkl
+ -> [Wirksamkeit Vorreiterrolle]
+
+## Klimaschutzpolitik im Alleingang ist unverhältnismäßig
+ 
+<Klimaschutzpolitik im nationalen Alleingang bringt unverhältnismäßig hohe Belastungen>: ambitionierte Klimaschutzpolitik wird zu signifikanten Belastungen aller Bürger\*innen führen und eine finanzielle Kompensation wird nicht alle moralisch signifikanten Benachteiligungen ausgleichen können. .?. #unkl
+  -> [Verhältnismäßigkeit]
+
+## Klimaschutzpolitik im Alleingang ist unverhältnismäßig
+ 
+<Klimaschutzpolitik im nationalen Alleingang bringt unverhältnismäßig hohe Belastungen>: ambitionierte Klimaschutzpolitik wird zu signifikanten Belastungen aller Bürger\*innen führen und eine finanzielle Kompensation wird nicht alle moralisch signifikanten Benachteiligungen ausgleichen können. .?. #unkl
+  -> [Verhältnismäßigkeit]
+
+<!--
+# Bereinigtes Argument
+
+<Unilaterale Klimapolitik>: "in Situationen, in denen die Gefahr nicht sicher abgewandt werden kann, muss ggf. auf Abwehrmaßnahmen zurückgegriffen werden, die unsicher sind." #pro 
+
+(1) [Handlungsprinzip-1]: Wenn (i) katastrophale Folgen kollektiven Handelns nur im Kollektiv vermieden werden können und wenn (ii) es wenig aussichtsreich ist, dass hinreichend viele Parteien sich zum kollektiven Handeln zusammenschließen und wenn (iii) einzelne Mitglieder des Kollektivs über Handlungsoptionen verfügen, mit denen das Ausmaß der katastrophalen Folgen gemindert wird und es möglich bleibt, dass kollektives Handeln induziert wird, und wenn (iv) das Ausführen dieser Handlungsoptionen keine ungerechte Belastungen für die Akteure mit sich bringen, dann sollen die einzelnen Akteure die ihnen zur Verfügung stehenden Handlungsoptionen ausüben. 
+(2) Moralisch inakzeptable Folgen des Klimawandels können mit Sicherheit nur durch international koordiniertes Handeln vermieden werden.
+(3) Es ist wenig aussichtsreich, dass ein global koordinierter Klimaschutz im hinreichend starken Maße gelingt. 
+(4) [Wirksamkeit nationaler Reduktionen-1]: Wenn Deutschland unilateral Klimaschutzmaßnahmen ergreift (z.B. Erhöhung der CO2-Steuer), dann wird das Ausmaß der katastrophalen Auswirkungen des Klimawandels unterproportional verringert. #pro
+(5) [Wirksamkeit Vorreiterrolle]: Wenn Deutschland unilateral Klimaschutzmaßnahmen ergreift (z.B. Erhöhung der CO2-Steuer), dann ist es möglich, dass die unilaterale Klimaschutzpolitik Nachahmer in anderen Ländern findet. .y. #pro
+(6) [Verhältnismäßigkeit]: Deutschland kann seine THG-Emissionen signifikant im nationalen Alleingang reduzieren, ohne dass seine Bewohner\*innen dadurch unverhältnismäßig hohe Nachteile tragen müssen: z.B. durch CO2-Bepreisung und Umverteilung der Einnahmen. .?. #pro
+----
+(7) [Klimaschutz auch als nationaler Alleingang]: : Deutschland soll seine Treibhausgasemissionen signifikant reduzieren, selbst wenn es kein international koordinierten Klimaschutz gibt, der die Umsetzung hinreichend absichert. #pro
+
+
+
+# Alte Versuche
+
+<!--
+
+
+## Gefahrenabwendung unter Unsicherheit
+
+<Teil 1: Gefahrenabwendung unter Unsicherheit-1>: in Situationen, in denen die Gefahr nicht sicher abgewandt werden kann, muss ggf. auf Abwehrmaßnahmen zurückgegriffen werden, die unsicher sind. (S. 93) #pro 
+
+(1) Moralisch inakzeptable Folgen des Klimawandels können mit Sicherheit nur durch international koordiniertes Handeln vermieden werden.
+(2) Es ist wenig aussichtsreich, dass ein global koordinierter Klimaschutz im hinreichend starken Maße gelingt. 
+(3) In Situationen, in denen die Gefahr nicht sicher abgewandt werden kann, muss auf Abwehrmaßnahmen zurückgegriffen werden, die unsicher sind. (S. 93)
+----
+(4) [Klimaschutzpolitik erfordert unsichere Abwehrmaßnahmen]: Um die Gefahr aus den Folgen des Klimawandels abzuwenden, muss auf Abwehrmaßnahmen zurückgegriffen werden, die unsicher sind.
+ +> <Teil 2: Klimaschutz in Deutschland ist eine mögliche Abwehrmaßnahme>
+
+<Teil 2: Klimaschutz in Deutschland ist eine mögliche Abwehrmaßnahme>
+
+(1) Um die Gefahr aus den Folgen des Klimawandels abzuwenden, muss auf Abwehrmaßnahmen zurückgegriffen werden, die unsicher sind.
+(2) Je gravierender diese Schäden aus einer Gefahr G sind, desto eher sind zu ihrer Abwendung auch Maßnahmen prima facie geboten, die zumindest eine Chance bieten, die Realisierung der betreffenden Gefahr zu verhindern oder ihr Ausmaß zu verkleinern. (S. 93)
+(3) Ungebremster Klimawandel wird katastrophale Folgen für die in der Zukunft lebende Menschheit mit sich bringen.
+(4) [Nationale Klimaschutzpolitik ist wirksam]: Substantielle Reduktion der THG-Emissionen in einem Staat wie Deutschland verkleinert mit Sicherheit das Ausmaß der Klimaschäden um einen geringen Beitrag und es ist möglich, wenn auch wenig verlässlich, dass es Nachahmung bei anderen Staaten auslöst, durch die das Ausmaß der Klimaschäden signifikant sinkt. 
+----
+(5) Es ist prima facie geboten, dass Deutschland seine THG-Emissionen signifikant reduziert.
+ +> <Teil 3: Klimaschutzpolitik im nationalen Alleingang ist verhältnismäßig>
+
+<Teil 3: Klimaschutzpolitik im nationalen Alleingang ist verhältnismäßig>
+
+(1) Es ist prima facie geboten, dass Deutschland seine THG-Emissionen signifikant reduziert. 
+(2) [Verhältnismäßigkeit]: Wenn es prima facie geboten ist, dass ein Akteur eine Maßnahmen M unternimmt und der Akteur kann M umsetzen, ohne dass es ihm unverhältnismäßig hohe Nachteile bringt, dann ist es geboten, dass der Akteur M unternimmt.
+(3) Deutschland kann seine THG-Emissionen signifikant im nationalen Alleingang reduzieren, ohne dass seine Bewohner\*innen dadurch unverhältnismäßig hohe Nachteile tragen müssen: z.B. durch CO2-Bepreisung und Umverteilung der Einnahmen.
+----
+(4) [Klimaschutz auch als nationaler Alleingang]
+
+
+### Erster Versuch
+
+<Gefahrenabwendung unter Unsicherheit>: in Situationen, in denen die Gefahr nicht sicher abgewandt werden kann, muss ggf. auf Abwehrmaßnahmen zurückgegriffen werden, die unsicher sind. (S. 93) #pro 
+
+(1) Moralisch inakzeptable Folgen des Klimawandels können mit Sicherheit nur durch international koordiniertes Handeln vermieden werden.
+(2) Es ist wenig aussichtsreich, dass ein global koordinierter Klimaschutz im hinreichend starken Maße gelingt. 
+(3) In Situationen, in denen die Gefahr nicht sicher abgewandt werden kann, muss auf Abwehrmaßnahmen zurückgegriffen werden, die unsicher sind. (S. 93)
+----
+(4) Um die Gefahr aus den Folgen des Klimawandels abzuwenden, muss auf Abwehrmaßnahmen zurückgegriffen werden, die unsicher sind.
+(5) Je gravierender diese Schäden aus einer Gefahr G sind, desto eher sind zu ihrer Abwendung auch Maßnahmen prima facie geboten, die zumindest eine Chance bieten, die Realisierung der betreffenden Gefahr zu verhindern oder ihr Ausmaß zu verkleinern. (S. 93)
+(6) Ungebremster Klimawandel wird katastrophale Folgen für die in der Zukunft lebende Menschheit mit sich bringen.
+(7) Substantielle Reduktion der THG-Emissionen in einem Staat wie Deutschland verkleinert mit Sicherheit das Ausmaß der Klimaschäden um einen geringen Beitrag und es ist möglich, wenn auch wenig verlässlich, dass es Nachahmung bei anderen Staaten auslöst, durch die das Ausmaß der Klimaschäden signifikant sinkt. 
+----
+(8) Es ist prima facie geboten, dass Deutschland seine THG-Emissionen signifikant reduziert. 
+(9) [Verhältnismäßigkeit]: Wenn es prima facie geboten ist, dass ein Akteur eine Maßnahmen M unternimmt und der Akteur kann M umsetzen, ohne dass es ihm unverhältnismäßig hohe Nachteile bringt, dann ist es geboten, dass der Akteur M unternimmt.
+(10) Deutschland kann seine THG-Emissionen signifikant im nationalen Alleingang reduzieren, ohne dass seine Bewohner\*innen dadurch unverhältnismäßig hohe Nachteile tragen müssen: z.B. durch CO2-Bepreisung und Umverteilung der Einnahmen.
+----
+(11) [Klimaschutz auch als nationaler Alleingang]
+
+"die Bemühungen um effektivere internationale Klimaschutzabkommen (würden) ohne zeitgleiche nationale bzw. europäische Anstrengungen politisch unglaubwürdig" (94)"
+
+<Vorreiter-Rolle notwendig für globale Kooperation>: Ohne ambitionierten nationalen bzw. europäischen Klimaschutz wird es kein effektives internationales Klimaschutzhandeln geben. 
+
+(1) Damit eine globale Kooperation für die Erreichung der Pariser Klimaziele zustande kommt, ist es notwendig, dass das wohlhabende und zum Klimawandel überproportional viel beitragendes Land Deutschland seine Treibhausgasemissionen hinreichend stark reduziert. 
+(2) Moralisch inakzeptable Folgen des Klimawandels können mit Sicherheit nur durch international koordiniertes Handeln vermieden werden.
+(3) Wenn für die Erreichung eines moralisch gebotenen Ziels es notwendig ist, dass p, dann ist es prima facie moralisch geboten, dass p.
+----
+(4) Es ist prima facie moralisch geboten, dass das wohlhabende und zum Klimawandel überproportional viel beitragendes Land Deutschland seine Treibhausgasemissionen hinreichend stark reduziert.
+(5) Wenn es prima facie moralisch geboten ist, dass ein Akteur A q tut, und die Ausführung von q keine überproportional hohen Kosten für A mit sich bringt, dann hat A die moralische Pflicht, q zu tun. 
+(6) Deutschland kann seine THG-Emissionen signifikant im nationalen Alleingang reduzieren, ohne dass seine Bewohner\*innen dadurch unverhältnismäßig hohe Nachteile tragen müssen: z.B. durch CO2-Bepreisung und Umverteilung der Einnahmen.
+----
+(7) [Klimaschutz auch als nationaler Alleingang]
+
+
+<Vorreiter-Rolle erleichtert die Realisierung der internationalen Kooperation>: Deutschlands Vorreiter-Rolle beim Klimaschutz erhöht signifikant die Chancen, dass es zu einer effektiven internationalen Klimaschutzpolitik kommt. 
+
+(1) Wenn das wohlhabende und zum Klimawandel überproportional viel beitragendes Land Deutschland seine Treibhausgasemissionen hinreichend stark reduziert, steigen die Chancen, dass es zu einer effektiven internationalen Klimaschutzpolitik kommt.
+(2) Katastrophale Auswirkungen des Klimawandels können nur durch eine effektive internationale Klimaschutzpolitik vermieden werden.
+(3) [Abwägung-1]: Wenn ein Akteur A durch die Maßnahme M die Chancen auch nur geringfügig erhöht, dass katastrophale Folgen vermieden werden, dann hat A die moralische Pflicht, M zu tun, wenn die folgenden Bedingungen erfüllt sind: (i) Realisierung der Maßnahme M bürdet A keine moralisch signifikante Benachteiligungen auf; (ii) es ist nahezu ausgeschlossen, dass die katastrophalen Folgen auf eine andere Weise verhindert werden, die geringere Benachteiligungen für A mit sich bringt <!-- (iii) es gibt keinen anderen Weg für A, zur Vermeidung katastrophaler Folgen beizutragen, als M. (Diese Bedingung hier nicht nötig, da es ja nur ein Beitrag ist)--><!--
+(4) Deutschland kann seine THG-Emissionen signifikant im nationalen Alleingang reduzieren, ohne dass seine Bewohner\*innen dadurch unverhältnismäßig hohe Nachteile tragen müssen: z.B. durch CO2-Bepreisung und Umverteilung der Einnahmen.
+----
+(5) [Klimaschutz auch als nationaler Alleingang]
+
+<Vorreiter-Rolle Abwägung-2>
+
+(1) [Abwägung-2]: Wenn ein Akteur A durch die Maßnahme M dazu beiträgt, dass moralisch signifikante Benachteiligungen Dritter, an deren Verursachung A eine Mitschuld trägt, abgemildert werden, dann hat A die moralische Pflicht, M zu tun, wenn die folgenden Bedingungen erfüllt sind: (i) Realisierung der Maßnahme M bürdet A geringere moralisch signifikante Kosten als das Ausmaß der durch M verhinderten Benachteiligungen Dritter; (ii) es ist nahezu ausgeschlossen, dass die katastrophalen Folgen auf eine andere Weise verhindert werden, die geringere Benachteiligungen für A mit sich bringt.
+für die Erreichung eines moralisch gebotenen Ziels es notwendig ist, dass p, dann ist es prima facie moralisch geboten, dass p.
+(2)
+(3)
+----
+(4) [Klimaschutz als nationaler Alleingang]
+
+<!--
+<Individuelle Verantwortung beim Problem kollektiven Handelns>
+
+(1) Wenn 
+  * eine Gruppe von Akteuren leistet individuelle Beiträge, die sich akkumulieren und mit dem Überschreiten eines Niveaus katastrophale Auswirkungen auf Dritte ausüben;
+  * das Überschreiten des Niveaus, das katastrophale Folgen auslöst, kann nur kollektiv vermieden werden (i.e. wenn hinreichend viele Akteure ihren individuellen Beitrag reduzieren);
+  * ein Teil der beitragenden Akteure weigert sich, ihren Beitrag zu reduzieren. 
+  * der Beitrag jedes einzelnen Akteurs verstärkt das Ausmaß deer negativen Konsequenzen für Dritte;
+  * die zur Kooperation motivierten Akteure können ihren SChadensbeitrag reduzieren, ohne dass es dadurch für sie zu moralisch nicht tragbaren Nachteilen kommt.
+  DANN sollen die zur Kooperation motivierten Akteure ihren Schadensbeitrag reduzieren.
+
+(1) Treibhausgasemissionen tragen kausal zur Erderwärmung bei. 
+
+-->
+
