@@ -36,8 +36,6 @@ Betrachten wir, was in dieser Kontroverse schief läuft.
 
 In der Stellungnahme des Ethikrates finde ich das folgende Argument für die Behauptung, dass Deutschland (bzw. Europa) eine Vorreiterrolle in der Klimaschutzpolitik einnehmen sollte[^6].
 
-### Argument des Ethikrats: Gefahrenabwendung unter Unsicherheit
-
 > **NOTE:**
 >
 > - Ungebremster Klimawandel hätte katastrophale Folgen für die Menschheit. Die katastrophalen Auswirkungen können nur durch Begrenzung der Erderwärmung auf unter 2°C vermieden werden, was nur mittels internationaler Kooperation in der Klimaschutzpolitik gelingen kann. Derzeit ist es allerdings wenig aussichtsreich, dass die internationale Kooperation gelingt.
@@ -218,7 +216,7 @@ Die zweite Kontroverse richtet sich auf die Beurteilung der Verhältnismäßigke
 
 ## Ergebnis der Argumentanalyse
 
-> **CAUTION:**
+> **NOTE:**
 >
 > In ihren Annahmen über die Klimaschutzwirkung einer unilateralen Klimapolitik unterstellen sowohl die Befürworter\*innen als auch die Gegner\*innen irreführende Behauptungen:
 >
@@ -230,7 +228,7 @@ Die zweite Kontroverse richtet sich auf die Beurteilung der Verhältnismäßigke
 >
 > verneinen jegliche Klimaschutzwirkung unilateraler Klimapolitik – das stimmt schlicht nicht.
 
-> **CAUTION:**
+> **NOTE:**
 >
 > **Befürworter\*innen der Vorreiter-Rolle**
 >
@@ -385,7 +383,9 @@ Um die Verhältnismäßigkeit zu beurteilen, muss noch geprüft werden, zu welch
 > > >
 > > >   - Wenn ich mich zwischen zwei Handlungsoptionen, p und q, die beide moralisch untragbare Konsequenzen verursachen können, entscheiden muss, und die Konsequenzen aus p und q sind nicht präzise und auch nicht probabilistisch vorhersagbar sind, p und q sich aber darin unterscheiden, wie gut sich ihre Umsetzung steuern lässt, dann soll ich mich für diejenige Handlungsoption entscheiden, deren Umsetzung besser kontrollierbar ist.  
 
-\<!– \# Fazit
+# Resultierende Dialektik
+
+Die nachfolgende Graphik bildet graphisch die Dialektik der Kontroverse über die Verhältnismäßigkeit ab – einer Kontroverse, die eigentlich geführt werden sollte.
 
 Back to top
 

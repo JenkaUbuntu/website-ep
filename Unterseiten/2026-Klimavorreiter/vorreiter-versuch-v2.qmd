@@ -52,9 +52,6 @@ Betrachten wir, was in dieser Kontroverse schief läuft.
 
 In der Stellungnahme des Ethikrates finde ich das folgende Argument für die Behauptung, dass Deutschland (bzw. Europa) eine Vorreiterrolle in der Klimaschutzpolitik einnehmen sollte^[d.h. seine Treibhausgas-Emissionen in Einklang mit den aus dem Pariser-Abkommen resultierenden nationalen/europaweiten Verpflichtungen reduzieren soll (Reduktion der THG-Emissionen auf netto Null bis spätestens 2050)].
 
-### Argument des Ethikrats: Gefahrenabwendung unter Unsicherheit
-
-
 ::: {.callout-note icon="false" collapse="true"}
 #### Idee des Arguments
 
@@ -75,7 +72,7 @@ In der Stellungnahme des Ethikrates finde ich das folgende Argument für die Beh
 Ich schlage vor, diese Überlegungen als das folgende Argument für eine unilaterale Klimaschutzpolitik zu interpretieren: 
 
 ```{=html}
-<iframe src="./rekos/pro-arg2-component.html" width="100%" height="500px">
+<iframe src="./rekos/vorreiter-pro-arg1.component.html" width="100%" height="300px">
 </iframe>
 ```
 
@@ -358,7 +355,7 @@ Begründung ind er Stellungnahme:
 ## Ergebnis der Argumentanalyse
 
 
-::: {.callout-caution icon="false" collapse="true"}
+::: {.callout-note icon="false" collapse="true"}
 ### Ein Teil der geführten Kontroverse ist unnötig
 
 In ihren Annahmen über die Klimaschutzwirkung einer unilateralen Klimapolitik unterstellen sowohl die Befürworter\*innen als auch die Gegner\*innen irreführende Behauptungen: 
@@ -396,7 +393,7 @@ verneinen jegliche Klimaschutzwirkung unilateraler Klimapolitik -- das stimmt sc
 :::
 
 
-::: {.callout-caution icon="false" collapse="true"}
+::: {.callout-note icon="false" collapse="true"}
 ### Relevante Kontroverse über die Verhältnismäßigkeit der unilateralen Klimaschutzpolitik wird nicht ausgetragen
 
 ::: {.columns}
@@ -761,16 +758,18 @@ Dann ist die Abwägung der Verhältnismäßigkeit eine Abwägung zwischen Konseq
 
 -->
 
+# Resultierende Dialektik
 
+Die nachfolgende Graphik bildet graphisch die Dialektik der Kontroverse über die Verhältnismäßigkeit ab -- einer Kontroverse, die eigentlich geführt werden sollte.
 
 ```{=html}
-<iframe src="./rekos/arg5-eigentl-kontr.component.html" width="100%" height="500px">
+<iframe src="./rekos/arg5-eigentl-kontr-dialektik.component.html" width="100%" height="370px">
 </iframe>
 ```
 
 <!--
 # Fazit
-
+-->
 
 
 

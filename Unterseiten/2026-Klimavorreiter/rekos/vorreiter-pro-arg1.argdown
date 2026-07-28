@@ -15,6 +15,7 @@ model:
 webComponent:
   withoutLogo: true
   initialView: source
+  useArgVu: true
 sourceHighlighter:
   removeFrontMatter: true
 ===
