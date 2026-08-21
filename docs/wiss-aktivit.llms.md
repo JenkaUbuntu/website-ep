@@ -68,6 +68,8 @@ chronologische Auflistung
 
 > **NOTE:**
 >
+> Eugen Pissarskoi (2026): [Vorreiter-Rolle in der Klimapolitik – Argumentanalyse einer aktuellen Kontroverse](https://eugenpissarskoi.de/Unterseiten/2026-Klimavorreiter/vorreiter-kontroverse.html).
+>
 > Eugen Pissarskoi und Patrick Goldbach (2026): [Podacst-Gespräch zu Klima und Wirtschaft](https://open.spotify.com/episode/2uepKONX6zxi8So8CyE9tr?si=2hzfSyXSQeGMKbZ1ao544Q&nd=1&dlsi=7f525fbd250041d5) auf dem Podcast [Hochspannung – powered by Volt](https://open.spotify.com/show/6b0AFJN249hJy4YAdbvTTx).
 >
 > Matthias Fersterer, janas gebauer und Eugen Pissarskoi (2025) [Unleashing Fantasy for Transformation. Mit Spekulativer Fiktion am Utopischen arbeiten](https://www.shop-hirnkost.de/produkt/das-science-fiction-jahr-2025/). In: Melanie Wylutzki & Hardy Kettlitz (Hrsg.): Das Science Fiction Jahr 2025. Hirnkost, Berlin, 37-48.

@@ -1,0 +1,520 @@
+# Forschungsinhalte
+
+> **NOTE:**
+>
+> [Dieses Buch](https://www.oekom.de/buch/gesellschaftliche-wohlfahrt-und-kimawandel-9783865816856) legt die Grundlagen für meine Beschäftigung mit den Themen
+>
+> - Handeln angesichts von [Ungewissheiten](#handeln-angesichts-von-ungewissheiten)
+> - Handeln angesichts von Uneinigkeit darüber, was [Gutes Leben](#vielfalt-von-vorstellungen-guten-lebens) ausmacht
+> - angemessene [Methoden](#methoden-wissenschaftlicher-politikberatung) für Rechtfertigung von Handlungsempfehlungen.
+>
+> In diesem Buch **analysiere ich**,
+>
+> - wie Klimaökonom\*innen mit Hilfe von integrierten klima-ökonomischen Modellen (so genannte Integrated Assessment Models) mit der epistemischen und normativen Herausforderung umgehen.
+>
+> Darin **kritisiere ich**,
+>
+> - dass die untersuchten klima-ökonomischen Modelle die bekannten Unsicherheiten nicht vollständig berücksichtigen
+> - dass die untersuchten klima-ökonomischen Modelle eine Theorie für die Bewertung von Konsequenzen von Klimastrategien unterstellen, gegen die sich zahlreiche normative Einwände vorbringen lassen (d.h. die Theorie widerspricht anderen, gut begründeten und breit akzeptierten normativen Thesen).
+>
+> Ausgehend davon **konstruiere ich** ein Argument für ein Klimaziel,
+>
+> - das lediglich possibilistisches Zukunftswissen unterstellt und
+> - Schutz der am meisten Benachteiligten als handlungsleitendes Prinzip für die Klimapolitik annimmt.
+
+# 1 Aus Eigeninteresse verfolgten Forschungsthemen
+
+## 1.1 Handeln angesichts von Ungewissheiten
+
+> **NOTE:**
+>
+> In Blogbeiträgen habe ich gesellschaftliche Kontroversen kommentiert, die aus dem fehlenden Anerkennen der Ungewissheiten über die Folgen von anthropogenen Eingriffen in natürliche Systeme resultieren:
+>
+> - Im Beitrag [Vorreiter-Rolle in der Klimapolitik](https://eugenpissarskoi.de/Unterseiten/2026-Klimavorreiter/vorreiter-kontroverse.html) rekonstruiere ich die aktuelle Kontroverse zur Frage, ob Deutschland ambitionierte Klimapolitik im nationalen Alleingang umsetzen sollte. Gemäß meiner Analyse der Meinungsverschiedenheit liegt die eigentliche Kontroverse in der Begründung einer Handlungsoption (Vorreiter oder kein Vorreiter) angesichts von Ungewissheiten über die Handlungskonsequenzen.
+>
+> - Im Podacst-Gespräch [Klima und Wirtschaft](https://open.spotify.com/episode/2uepKONX6zxi8So8CyE9tr?si=2hzfSyXSQeGMKbZ1ao544Q&nd=1&dlsi=7f525fbd250041d5) mit Patrick Goldbach diskutieren wir zahlreiche klimapolitische Debatten, in denen, so mein Eindruck, Abwägungen unter Unsicherheit ausgeblendet werden.
+>
+> - Im Beitrag [Radikaler versus behutsamer Klimaschutz](https://www.praefaktisch.de/klimakrise/radikaler-versus-behutsamer-klimaschutz-warum-behutsamkeit-angesichts-der-risiken-ungerecht-waere/) kritisiere ich den Klimawissenschaftler Hans von Storch für seine in einem SPIEGEL-Interview geäußerte Kritik an Fridays for Future. Die eigentliche Kontroverse liegt in Uneinigkeit über richtiges Handeln angesichts von Ungewissheiten.
+>
+> - Im Beitrag [Die philosophisch anspruchsvolle Hinterlassenschaft des Berichts Grenzen des Wachstums](https://www.praefaktisch.de/grenzen-des-wachstums/die-philosophisch-anspruchsvolle-hinterlassenschaft-des-berichtes-grenzen-des-wachstums/) argumentiere ich, dass der Bericht “Grenzen des Wachstums” die Menschheit mit dem Problem des Entscheidens angesichts von Ungewissheiten konfrontiert hat. Sowohl die Kritiker\*innen des Berichts als auch seine Verteidiger\*innen haben das jedoch übersehen.
+
+> **NOTE:**
+>
+> Ich argumentiere, dass die bislang diskutierten Prinzipien für Entscheidungen unter Ungewissheit Ergebnis-abhängig (outcome-dependent) sind: sie leiten eine Handlungsempfehlung ausgehend vom Wert der möglichen Konsequenzen (Ergebnisse) der verfügbaren Entscheidungsoptionen ab.
+>
+> - **Ergebnis-abhängige Entscheidungsprinzipien** können allerdings keine Entscheidung für ein Klimaziel begründen, da mögliche Konsequenzen der verfügbaren Handlungsoptionen nicht in eine Bewertungsrangfolge gebracht werden können.
+>
+> Als Alternative dazu schlage ich vor, Entscheidungen unter Ungewissheit mit Hilfe von **Prozess-orientierten Entscheidungsprinzipien** zu begründen.
+>
+> - Ich erläutere die Grundstruktur von Prozess-orientierten Entscheidungsprinzipien.
+>
+> - Das Kontrollierbarkeits-Vorsorgeprinzip ist ein Beispiel für ein Prozess-orientiertes Entscheidungsprinzip. Ich schlage einen Weg zu dessen Operationalisierung vor.
+>
+> [Link zum Text](https://nextclouds.webo.hosting/s/tPKYJrs3RjJpPme)
+
+> **NOTE:**
+>
+> - Ich kritisiere zwei Argumente, die unter Anerkennung von Ungewissheiten über die Klimafolgen ein Klimaziel begründen. Mein Einwand richtet sich auf Varianten des Vorsorgeprinzips, die in den Argumenten unterstellt werden.
+>
+> - Als Alternative dazu entwickele ich eine weitere Variante des Vorsorgeprinzips – das Kontrollierbarkeits-Vorsorgeprinzip, mit dem ein Klimaziel gerechtfertigt werden kann.
+>
+> Der Aufsatz ist [hier](https://doi.org/10.1093/oso/9780198813248.003.0011) erschienen.
+
+> **NOTE:**
+>
+> In [diesem Kapitel](https://nextclouds.webo.hosting/s/SDerSpMWeSBY7pM) des [Buches](https://www.oekom.de/buch/gesellschaftliche-wohlfahrt-und-kimawandel-9783865816856) entwickele ich ein Argument für ein Klimaziel, das lediglich possibilistische Vorhersagen über die Folgen des Klimawandels berücksichtigt.
+
+## 1.2 Vorstellungen Guten Lebens
+
+In einem früh industrialisierten und heute relativ wohlhabenden Land wie Deutschland stellt die Befürchtung, die Umsetzung von Nachhaltigkeitspolitiken würde die Lebensqualität[^1] in diesen Ländern mindern, ein politisches Hemmnis für die Realisierung der Nachhaltigen Entwicklung dar.
+
+Um zu Handlungsorientierung bezüglich dieses gesellschaftspolitischen Hemmnisses zu gelangen, habe ich mich mit den folgenden Fragen auseinandergesetzt:
+
+- welche gesellschaftspolitischen Akteure vertreten diese Befürchtung und welche Akteure verneinen sie, und aus welchen Gründen? Werden dabei kontroverse Auffassungen Guten Lebens vertreten? – siehe dazu UBA-Berichte (2018), Pissarskoi und Singo (2024)
+
+- welche theoretischen Systematisierungen von Auffassungen Guten Lebens werden in der philosophischen, ökonomischen und psychologischen Forschung unterschieden? – siehe dazu Pissarskoi (2014)
+
+- Wie sollen andere Mitmenschen dazu angeregt werden werden, ihre Auffassung Guten Lebens zu verändern? – siehe Pissarskoi (unpublished) und Kollektiv “Unleashing Fantasy for Transformation”
+
+> **NOTE:**
+>
+> In [diesem Text](https://nextclouds.webo.hosting/s/K4nTDA6mWXmQEoq)
+>
+> - argumentiere ich dafür, dass die Befürchtung, dass eine ambitionierte Reduktion von Ressourcennutzung und Treibhausgasemissionen zur Minderung der Lebensqualität führe, auf der Annahme basiert, dass Auffassungen dessen, was Gutes Leben ausmacht, nicht veränderbar sind. Ich halte es jedoch für adäquater, dass Auffassungen Guten Lebens subjektive Gewichtungen von Bestandteilen Guten Lebens enthalten. Diese Gewichtungen von Bestandteilen Guten Lebens können sich verändern: durch neue Erfahrungen, Gewöhnung, Änderung sozialer Praktiken können sich die Gewichte dessen, für wie wichtig wir einzelne Bestandteile Guten Lebens halten, verändern.
+>
+> - Wenn diese Diagnose stimmt, ändert sich die argumentative Struktur der Debatte darüber, ob Nachhaltigkeitspolitiken die Lebensqualität mindern:
+>
+>   - Vielmehr geht es nun um die (empirisch zu entscheidende) Frage, ob und wie Nachhaltigkeitspolitiken unsere Wertschätzungen (i.e. Gewichtungen der Bestandteile Guten Lebens) verändern.
+>
+> - Und es ergeben sich eine neue ethische Frage für die Begründung von Nachhaltigkeitspolitiken:
+>
+>   - Sollen wir die Möglichkeit zulassen, unsere Wertschätzungen zu transformieren?
+>   - Ich beschreibe, wie diese Frage beantwortet werden kann.
+
+> **NOTE:**
+>
+> [Dieser Text](https://link.springer.com/article/10.1007/s12115-024-00988-4) ist im Rahmen des Forschungsvorhabens [BATATA](https://batata-bioeconomy.de/) erstellt worden (s. auch das Themenfeld [Bioökonomie](#bioökonomie)). Darin
+>
+> - spezifizieren wir zwei kontroverse Auffassungen Guten Lebens:
+>   - eine im Globalen Norden weit verbreitete Auffassung
+>   - eine aus der Kritik an der verbreiteten Auffassung abgeleitete Konzeption Guten Lebens. Die Kritik stammt von einigen zivilgesellschaftlichen Akteuren aus dem Globalen Norden sowie aus dem post-kolonialen Diskurs.
+> - präsentieren Ergebnisse von Feldforschung unter semi-nomadisch lebenden Viehzüchtern in Tansania. Darin haben wir sie nach ihren Auffassungen Guten Lebens befragt.
+>   - Aus den geführten Interviews ergibt sich, dass unter Maasai-Viehzüchtern eine analoge Uneinigkeit über Vorstellungen Guten Lebens herrscht, wie wir sie im Globalen Norden extrahiert haben.
+> - Wir argumentieren auf der Basis dieser Ergebnisse, dass die kontroversen Auffassungen Guten Lebens Eingang in politische Entscheidungsfindungsprozesse finden sollen.
+
+> **NOTE:**
+>
+> Im Auftrag des Umweltbundesamtes haben wir analysiert, welche inhaltlichen Bezüge zwischen gesellschaftlichen Diskursen zum Thema “Gutes Leben” und der Nachhaltigkeitspolitik gibt.
+>
+> - Der Bericht [Diskurse zum Guten Leben: Analyse ihrer Begriffe, ihrer Akteure und damit verbundener politischer Strategien](https://www.umweltbundesamt.de/publikationen/diskurse-guten-leben-analyse-ihrer-begriffe-ihrer) analysiert drei Diskurse, die um das Jahr 2015 in der Wissenschaft, Politik und unter zivilgesellschaftlichen Akteuren das Thema “Gutes Leben” zum Gegenstand hatten:
+>   - Beyond-GDP-Diskurs
+>   - Glück
+>   - Postwachstum
+> - Der Bericht [Was kann Nachhaltigkeitspolitik vom Guten Leben lernen?](https://www.umweltbundesamt.de/publikationen/was-kann-nachhaltigkeitspolitik-vom-guten-leben)
+>   - analysiert inhaltliche Überschneidungen zwischen den Diskursen zum Guten Leben und den Zielen der Nachhaltigen Entwicklung.
+>   - eruiert Überlegungen, ob und wie die politische Akzeptanz von Nachhaltigkeitsbelangen durch Bezüge zu Diskursen Guten Lebens verbessert werden kann.
+
+> **NOTE:**
+>
+> Wie sollte eine erstrebenswerte Welt aussehen? Meist geben wir negative Antworten auf diese Fragen, indem wir auflisten, welche Ungerechtigkeiten aus der bestehenden Welt beseitigt werden sollten. Positive Antworten – Visionen einer erstrebenswerten Welt – sind selten zu hören.
+>
+> Visionen sind uns aber aus einer Literaturgattung vertraut: Science Fiction. Dort sind es meist naturwissenschaftlich prinzipiell manipulierbare Eigenschaften, die den Gegenstand des Visionierens darstellen. [Ursula K. Le Guin](https://de.wikipedia.org/wiki/Ursula_K._Le_Guin) ist beispielsweise eine Autorin, in deren möglichen Welten soziale Institutionen und implizite Normen – Eigentumsverhältnisse, Geschlechterstereotypen etc. – anders – eben erstrebenswert – gestaltet sind.
+>
+> Mit unserem Kollektiv, das von [janas gebauer](https://www.kaloikostopia.org) initiiert wurde, organisieren wir Gelegenheiten zum Visionieren, Spekulieren und Brainstormen über Gutes Leben. In Fersterer et al. 2025, einem Beitrag für [Science Fiction, Jahr 2025](https://www.shop-hirnkost.de/produkt/das-science-fiction-jahr-2025/) haben wir zusammengefasst, wie wir Science Fiction dazu nutzen, Utopien einer ernsthaft erstrebenswerten Lebensweise zu imaginieren.
+
+> **NOTE:**
+>
+> Innerhalb der Wohlfahrtsökonomik werden politische Maßnahmen auf ihre Wirkungen auf gesamtgesellschaftliche Wohlfahrt bzw. gesamtgesellschaftliches Wohlergehen analysiert. Klimaökonom\*innen nutzen Theorien der Wohlfahrtsökonomik, um klimapolitische Strategien im Hinblick auf ihre Wohlfahrtswirkungen zu analysieren.
+>
+> In den [Kapiteln 4 bis 6](https://nextclouds.webo.hosting/s/KR5gaJ7STgC59Ck) analysiere ich, welche Bedeutung von “Wohlfahrt” innerhalb der Wohlfahrtsökonomik unterstellt wird.
+>
+> - In Kapitel 4 erläutere ich, welche deskriptive und welche normative Verwendung des Begriffes “Wohlfahrt” sich innerhalb der Ökonomik etabliert hat.
+> - In Kapitel 5 kritisiere ich die normative Verwendung.
+> - In Kapitel 6 diskutiere ich einige Alternativen zur etablierten Verwendung von “Wohlfahrt”:
+>   - deliberative Methoden zur Identifikation von idealisierten Präferenzen;
+>   - hedonistische Interpretationen von individueller Wohlfahrt.
+
+## 1.3 Methoden der gesellschaftspolitischen Beratung
+
+In meinen Forschungsarbeiten begründe ich normative Behauptungen[^2].
+
+Seit ich in meinem Promotionsvorhaben mit der Aufgabe konfrontiert war, zu begründen, welches Klimaziel die Menschheit verfolgen sollte, beschäftigen mich Fragen nach angemessenen Methoden hierfür:
+
+- Mit welchen Methoden können normative Behauptungen begründet werden?
+- Welche Beitrag sollte wissenschaftliche Forschung zur Begründung normativer Behauptungen[^3] leisten?
+- Welchen Beitrag sollten kreative Methoden – Design Thinking, Visionieren, fiktionales Erzählen – dabei spielen?
+
+## Methoden aus der Ökonomik
+
+Umwelt- und Klimaökonom\*innen verwenden computergestützte Modelle. so genannte Integrierte Bewertungsmodelle[^4], um zu analysieren, welche umweltpolitischen Szenarien zu welchen Wohlfahrtseffekten führen werden.
+
+Ergebnisse von ökonomischen Analysen von umweltpolitischen Szenarien werden dafür verwendet, um politische Handlungsempfehlungen auszusprechen.
+
+In meinen Arbeiten habe ich
+
+- rekonstruiert, wie mit Hilfe von computergestützten umweltökonomischen Modellen Handlungsempfehlungen begründet werden (Pissarskoi 2014, 2016a);
+- Einwände dagegen vorgebracht, mit Hilfe von IAMs Handlungsempfehlungen zu begründen (Pissarskoi 2014, 2016b, 2019);
+- Vorschläge unterbreitet, wie computergestützte Modelle dazu genutzt werden könnten, politische Handlungsempfehlungen zu begründen (Pissarskoi 2016a, 2016b, 2019).
+
+> **NOTE:**
+>
+> In [diesem Aufsatz](https://makronom.de/economists-for-future-was-eine-moderne-klimaoekonomik-beruecksichtigen-sollte-33199)
+>
+> - bringe ich Einwände dagegen vor, klimapolitische Entscheidungen mit Hilfe der Theorie des Erwarteten Nutzens – einer in der Ökonomik verbreiteten Theorie zur Entscheidungsfindung unter Unsicherheit – zu begründen.
+>
+> - unterbreite ich Vorschläge, welche Beiträge klimaökonom\*innen zur klimapolitischen Entscheidungsfindung leisten könnten.
+>
+> [Frei zugängliche Version des Textes](https://www.exploring-economics.org/de/entdecken/moderne-klimaoekonomik/)
+
+> **NOTE:**
+>
+> In [diesem Aufsatz](https://doi.org/10.14512/OEW310439)
+>
+> - fasse ich die Kritik zusammen, warum Ergebnisse von Integrierten Bewertungsmodellen keine Handlungsorientierung in der Klima- oder Umweltpolitik leisten sollen.
+> - Ich unterbreite einen Vorschlag, wie die Modelle gestaltet werden sollten, damit sie einen Beitrag zur gesellschaftlichen Entscheidungsfindung in der Klima- und Umweltpolitik leisten können.
+
+> **NOTE:**
+>
+> In diesem Aufsatz
+>
+> - beschreibe ich, wie mit Hilfe von energieökonomischen Modellen ökonomische Konsequenzen von energiepolitischen Szenarien analysiert werden und in Policy Papers veröffentlicht werden.
+>
+> - Ich kritisiere, dass die Veröffentlichungen in den Policy Papers zu Missverständnissen bezüglich der bestehenden Unsicherheiten über die analysierten Szenarien einladen. Wegen dieser Missverständnisse können ungerechtfertigte Handlungsempfehlungen geschlussfolgert werden.
+>
+> - Ich unterbreite Vorschläge, wie öffentliche Kommunikation von energiepolitischen Szenarienanalyse in demokratischen Gesellschaften verbessert werden könnte.
+>
+> [Link zum Aufsatz](https://nextclouds.webo.hosting/s/pLXx9oNd2eHMBAL)
+
+> **NOTE:**
+>
+> In [diesem Kapitel](https://nextclouds.webo.hosting/s/qXnN2ZFpPJGr6QK)
+>
+> - mache ich epistemische und normative Annahmen explizit, die in klimaökonomischen Modellen (IAMs) unterstellt werden;
+> - rekonstruiere das Argument, mit dem Ergebnisse der IAMS dazu genutzt werden, politische Handlungsempfehlungen auszusprechen;
+> - zeige auf, warum Ergebnisse der IAMs sich nicht dazu eignen, Handlungsempfehlugen zu begründen.
+
+## Methoden Praktischer Ethik
+
+Gibt es Methoden aus der Philosophie bzw. ihrer Subdisziplin “Praktische Ethik”[^5], mit denen Handlungsempfehlungen begründet werden können?
+
+> **NOTE:**
+
+> **NOTE:**
+>
+> In [diesem Beitrag](https://www.oxfordpublicphilosophy.com/blog/ppt-making-philosophy-t9km2) stellen wir einen Zusammenhang zwischen
+>
+> - Rollen, die Philosoph\*innen in außer-akademischen Kontexten einnehmen können, auf der einen Seite
+> - und Methoden, mit denen sie die den Rollen angemessenen Aussagen rechtfertigen können.
+
+> **NOTE:**
+>
+> In diesem Aufsatz erläutere ich eine Besonderheit von Begründungen von Entscheidungen unter Unsicherheit aufmerksam:
+>
+> - sie beinhalten ethisch-epistemische Abwägungen, nämlich Abwägungen zwischen dem epistemischen Status möglicher Konsequenzen von Handlungsoptionen auf der einen und dem moralischen Wert ihrer möglichen Konsequenzen auf der anderen Seite.
+>
+> Anschließend mache ich auf eine Forschungslücke aufmerksam:
+>
+> - Es ist keine Theorie bekannt, die allgemein erklärt, wie zwischen dem epistemischen Status möglicher Konsequenzen und ihrem moralischen Wert abgewogen werden soll.
+>
+> [Link zum Aufsatz](https://nextclouds.webo.hosting/s/iGea6BSAzSE75Ts)
+
+> **NOTE:**
+>
+> In [diesem Kapitel](https://nextclouds.webo.hosting/s/87En3xcFfzDiDD3) diskutiere ich mehrere Vorschläge dafür, mit welchen Methoden ein klimapolitisches Ziel begründet werden kann.
+>
+> Ich spreche mich dafür aus, das in der philosophischen Literatur als “Überlegungsgleichgewicht” bekannte Methode mit einer Argumentanalyse zu kombinieren, um die Plausibilität der normativen Begründungen für ein Klimaziel transparent zu machen. Diese Methode wende ich in den folgenden Kapiteln des Buches an.
+
+## Transdisziplinäre Methoden
+
+Bei gesellschaftspolitischen Auseinandersetzungen um Auffassungen Guten Lebens bzw. um Werthaltungen gegenüber Alltagspraktiken[^6]
+
+spielen nicht nur Argumente, sondern auch Erfahrungen der Alltagspraktiken, Vorstellungen von möglichen Praktiken, Gewohnheiten und gesellschaftlichen Kooperationsformen eine Rolle.
+
+Transdisziplinäre Forschungsmethoden bezwecken, Experimentierräume zu kreieren, in denen Menschen von außerhalb der Wissenschaft mögliche Praktiken ausprobieren, das Wünschenswerte imaginieren, Ideen und Vorstellungen entfalten und ausprobieren und idealerweise eine Wirkung hinterlassen.
+
+Mit dem Kollektiv “Unleashing Fantasy” habe ich Visionieren-Workshops mitgestaltet. Dabei interessiert mich folgende Meta-Fragen zu unserem Vorgehen:
+
+- Wie subjektiv sind Visionen? Bzw. sind sie interpersonell teilbar? Wenn andere Menschen diejenige Vision, die ich attraktiv finde, nicht für erstrebenswert halten, begeht dann eine\*r von uns einen Irrtum?
+
+- Wie vollständig sollten Visionen sein, die den Zweck haben, gesellschaftliche Handlungsorientierung zu unterstützen?
+
+- Wie weit dürfen sich Visionen vom Status quo abkoppeln, um relevant zu sein bzw. zur Handlungsorientierung beizutragen? Anders formuliert: wie durchgeknallt dürfen sie sein?
+
+## Methoden konstruktiven Streitens
+
+Argumentationstheorie kann dazu genutzt werden, bei Meinungsverschiedenheiten konstruktiv miteinander zu streiten und auf diese Weise die eigene Meinung oder die der/des Andersdenkenden zu verbessern. Austausch von Argumenten ist gleichwohl kein Allheilmittel bei tiefgreifenden Kontroversen. Neben der argumentativen Auseinandersetzung spielen weitere Faktoren eine erhebliche Rolle: Gesprächsumfeld, kommunikative Haltung, Einfühlungsvermögen, Zeit etc.
+
+Mit dem Kollektiv [Forum für Streitkultur](https://forum-streitkultur.de/) sowie mit der [ArgumentationsAgentur](https://argumentationsagentur.de/)
+
+- biete ich Workshops und Trainings an,
+  - in denen Kompetenzen zum konstruktiven Streiten mit Andersdenkenden vermittelt werden, beispielsweise im Umgang mit Rechtspopulismus;
+  - in denen Wege zur Entscheidungsfindung bei Auseinandersetzungen angesichts von unsicheren Prognosen und unterschiedlichen Risiko-Einstellungen erarbeitet werden;
+- halte Vorträge [(ein Beispiel)](Unterseiten/crisp-vortrag.llms.md) und
+- schreibe hin und wieder [Blogbeiträge](https://argumentationsagentur.de/blog/) zu diesen Themen.
+
+# 2 Gesellschaftspolitisch motivierte Themen
+
+## 2.1 Ziele und Strategien Nachhaltiger Entwicklung
+
+## Visionen und Strategien: Green-Growth, Degrowth etc.
+
+Wenn wir anerkennen, dass ein früh industrialisiertes und relativ wohlhabendes Land wie Deutschland seinen Ressourcenverbrauch und seine Treibhausgasemissionen drastisch reduzieren soll, stellt sich die Frage, auf welche Weise bzw. mit welcher Strategie das am besten erfolgen sollte.
+
+Seit der Mitte 2000er Jahre werden Visionen bzw. wirtschaftspolitische Strategien, die alle eine sozial-ökologische Transformation von früh industrialisierten Ländern anstreben, unter einer großen Vielfalt von Namen diskutiert: Green Growth, Green Economy, Circular Economy, Postwachstum, Degrowth, A-Growth etc.
+
+Ich habe mich zum einen daran beteiligt,
+
+- diese Diskurse zu systematisieren (Diefenbacher et al. 2015, Petschow et al. 2018).
+- Die aktuell prominent diskutierten wirtschaftspolitischen Strategien, Degrowth und Green-Growth, beide als nicht überzeugend rechtfertigbar kritisiert (Petschow et al. 2018, Petschow und Pissarskoi 2025).
+- auf der Grundlage dieser Kritik eine alternative Strategie mitentwickelt: die **Vorsorgeorientierte Postwachstumsposition** (Petschow et al. 2018, Petschow und Pissarskoi 2025).
+- Zwischen 2011 und 2017 habe ich den Blog [Postwachstum](https://www.postwachstum.de/) redaktionell koordiniert.
+
+> **NOTE:**
+>
+> - Dieser Aufsatz aktualisiert die Argumente aus Petschow et al. (2018) im Lichte der aktuelleren Literatur zu Green-Growth und Degrowth-Strategien.
+>
+> - Wir leiten die Vorsorgeorientierte Postwachstumsposition aus der Kritik an den Positionen Green-Growth und Degrowth, beschreiben eine Grundstruktur von politischen Maßnahmen, die sie fordert, und weisen auf ihre Lücken hin
+
+> **NOTE:**
+>
+> In Kapitel 2 [dieses Berichts](https://www.umweltbundesamt.de/publikationen/vorsorgeorientierte-postwachstumsposition)
+>
+> - werden die einander widersprechenden Festlegungen der beiden kontroversen Strategien explizit benannt;
+>
+> - wird dafür argumentiert, dass die Festlegungen sowohl in den Green-Growth als auch Degrowth-Positionen nicht begründet sind – die Entscheidung über die wirtschaftspolitische Strategie zur Erreichung der Ziele Nachhaltiger Entwicklung muss unter Ungewissheit gerechtfertigt werden;
+>
+> - wird die Vorsorgeorientierte Postwachstumsposition als vernünftige Handlungsoption in der epistemischen Situation der Ungewissheit verteidigt.
+>
+> Ergebnisse dieser Studie sind darüber hinaus erschienen in:
+>
+> - [Englische Fassung des Berichts](https://www.umweltbundesamt.de/publikationen/social-well-being-within-planetary-boundaries-the)
+> - [Zusammenfassung der Ergebnisse](https://doi.org/10.14361/9783839451809-025)
+
+> **NOTE:**
+>
+> In Kapitel 7 [dieses Berichts](https://www.umweltbundesamt.de/publikationen/konzepte-gesellschaftlichen-wohlstands-oekologische)
+>
+> - haben wir mehrere Vorschläge für eine Systematisierung von Visionen und Strategien für eine sozial-ökologische Transformation erarbeitet. Die von uns betrachteten Positionen wurden in den Jahren um 2010 herum in Deutschland öffentlich artikuliert.
+
+## Bioökonomie
+
+Den Begriff “Bioökonomie” nutzen insbesondere politische Institutionen des Globalen Nordens (z.B. [OECD](https://www.oecd.org/en/publications/the-bioeconomy-to-2030_9789264056886-en.html), [Europäische Kommission](https://knowledge4policy.ec.europa.eu/bioeconomy_en), [Bundesregierung](https://www.wissenschaftsjahr.de/2020-21/index.html)) für Visionen einer Wirtschaftsweise und ihre wirtschaftspolitische Strategien, bei der die nicht-erneuerbaren Rohstoffe durch erneuerbare (bio-basierte) Ressourcen ersetzt sind. Realisierung einer Bioökonomie birgt ethische Konflikte: Auf der einen Seite liefert die Forderung nach intergenerationeller Gerechtigkeit einen Grund dafür, Nutzung nicht-erneuerbarer Rohstoffe zu minimieren. Auf der anderen Seite benötigt eine Bioökonomie zusätzliche Biomasse, deren Erzeugung landwirtschaftliche Flächen braucht. Letztere sind bereits heute knapp, da Landflächen vielfältigen Bedarfen dienen.
+
+Im Rahmen des Forschungsprojekts [BATATA – Whose Bioeconomy? Tracing Visions of Socio-ecological Transformation and their Ethical Deliberation in Tanzania](https://batata-bioeconomy.de/) haben wir Konflikte zwischen Interessen der Länder Globalen Nordens, in denen Visionen der Bioökonomie entwickelt und politisch vorangetrieben werden, und Interessen der Bewohner\*innen der Länder des Globalen Südens – in unserem Fall Tansania in Ostafrika, deren landwirtschaftliche Flächen in eine globale Bioökonome eingebunden werden sollen. Wir haben untersucht:
+
+- empirisch: welche Visionen einer nachhaltigen Landnutzung marginalisierte Gruppen in Tansania haben: semi-nomadisch lebende Viehzüchter und Kleinbäuerinnen.
+- ethisch: welche ethischen Konflikte diese Visionen mit sich bringen und welche Handlungsoptionen im Lichte dieser Konflikte sich rechtfertigten lassen.
+
+In [Diesem Blogbeitrag](https://www.wissenschaftsjahr.de/2020-21/aktuelles-aus-der-biooekonomie/koepfe-des-wandels/kontroverse-ueber-gesellschaftliche-grundziele-noetig.html) ([dauerhafter Link](https://doi.org/10.57754/FDAT.p33f8-5wf74)) plädiere ich dafür, über die Ziele der Bioökonomie mit breiter gesellschaftlicher Beteiligung zu reflektieren.
+
+Gesamte Projektergebnisse sind über die [Projektwebseite](https://batata-bioeconomy.de/) sowie auf dem [Repositorium der Universität Tübingen](https://fdat.uni-tuebingen.de/communities/batata?q=&l=list&p=1&s=10&sort=newest) zugänglich.
+
+> **NOTE:**
+>
+> [Dieser Aufsatz](https://doi.org/10.3224/peripherie.v40i3-4.03) zeigt die Breite von Optionen einer Bioökonomie in Abhängigkeit von Zielen dessen, was eine Ökonomie verfolgen soll.
+>
+> - Wir rekonstruieren ethische Hintergrundannahmen, die in bioökonomischen Politikstrategien enthalten sind
+> - Wir zeigen auf, dass diese ethischen Hintergrundannahmen kontrovers beurteilt werden können
+> - Wir kritisieren, dass in den Ländern des GLobalen Nordens, die Bioökonomie-Politik bereits betreiben, keine öffentliche Debatte über die ethischen Hintergrundannahmen von Bioökonomie-Strategien stattfindet;
+> - Wir zeigen auf, dass zu Bioökonomie-Politik analoge politische Prozesse in einem ostafrikanischen Land, Tansania, durchaus zu finden sind.
+>   - Dort sind es allerdings explizit ethische Diskurse, die kontrovers geführt werden
+>     - Das veranschaulichen wir anhand von Einblicken in die Debatten zur Landnutzung und zu Nutzung von genetisch modifiziertem Saatgut.
+
+> **NOTE:**
+>
+> [Dieser Text](https://doi.org/10.57754/FDAT.r1y0c-a1291) ist ein Bericht über die von uns ausgerichteten [Workshop “Beyond Producitivity”](https://uni-tuebingen.de/en/214393). Der Workshop adressierte die Frage:
+>
+> - Wie soll das Ziel der Produktivitätssteigerung in einer nachhaltigen Landwirtschaft beurteilt werden?
+>
+> Eine Kurzfassung des Berichts ist auf dem [Blog der Zeitschrift Review of African Political Economy](https://roape.net/2022/02/17/beyond-productivity-reimagining-futures-of-agriculture-and-bioeconomy/) erschienen.
+
+## Klimaschutzziele
+
+Eine Herausforderung, ein globales Klimaschutzziel zu begründen, liegt darin, dass die Folgen des Klimawandels sowie die Kosten des Aufwandes für Klimaschutz nur unpräzise vorhergesagt werden können. Selbst wenn die Menschheit sich darauf einigt, ein bestimmtes Temperaturziel zu verfolgen – wie das 1.5°C aus dem Pariser Abkommen in 2015 – bleibt noch zu klären, wie hoch die Treibhausgaskonzentration in der Atmosphäre sein darf, um dieses Temperaturziel einzuhalten.
+
+In meinen Arbeiten habe ich dafür argumentiert, ein solches Klimaziel mit Hilfe von Spezifikationen des Vorsorgeprinzips – ich habe das Kontrollierbarkeits-Vorsorgeprinzip vorgeschlagen (Pissarskoi 2018, unpublished) – zu rechtfertigen: Details in Publikationen zu [Handeln angesichts von Ungewissheiten](#handeln-angesichts-von-ungewissheiten).
+
+Unter Akzeptanz der von mir verteidigten Vorsorgeprinzipien sollte die Menschheit die **Treibhausgaskonzentration auf das vorindustrielle Niveau (von max. 350ppm \\CO_2\\) so schnell wie möglich zurückführen**.
+
+Diese These habe ich in Pissarskoi ([2014]() und [2018]()) verteidigt.
+
+## 2.2 Sozial-ökologische Transformationspolitik
+
+## Klimaanapassung
+
+In den folgenden Forschungsvorhaben habe ich dazu beigetragen,
+
+- ökonomische Bewertungen von Klimaanpassungsmaßnahmen in Deutschland zu erstellen ([econCCadapt](http://www.oekonomie-klimawandel.de/))
+- Visionen einer klimaresilienten Gesellschaft zu erarbeiten und politische Strategien zu ihrer Realisierung zu eruieren (Deutschland im Klimawandel
+
+> **NOTE:**
+>
+> In diesem Verbundvorhaben wurde
+>
+> - ein bestehendes ökonometrisches Modell (Panta Rhei von GWS) erweitert und kalibriert, um Szenarien mit Klimawandelfolgen für Deutschland berechnen zu können,
+> - ein regionales Input-Output-Modell für die Bewertung von Klimawandelkosten entwickelt sowie
+> - institutionenökonomische Analysen von Klimaanpassungspolitiken durchgeführt.
+>
+> Darüber hinaus waren wir an der Begleitforschung beteiligt, in der Ergebnisse aus parallel stattfindenden Forschungsvorhaben zu Ökonomie des Klimawandels in Deutschland zusammengeführt und kommuniziert wurden. Mein Anliegen in diesem Projekt lag darin, ökonomische Bewertungen von Kosten und Nutzen, die gewöhnlich auf der normativen Theorie des Präferenz-Utilitarismus basieren, um weitere normative Theorien zu erweitern, insbesondere um Bewertungen auf der Grundlage von Grundbefähigungen (capabilities). Hierbei bin ich über das Stadium von Skizzen und Diskussionspapieren nicht hinausgekommen. Zu den folgenden Publikationen habe ich hingegen beigetragen:
+>
+> - Hirschfeld et al. 2015a: [Kosten des Klimawandels und der Anpassung an den Klimawandel aus vier Perspektiven](https://www.fona.de/medien/pdf/Hintergrundpapier_Forum_Kosten.pdf?m=1548322391&): Policy Paper, das die Erkenntnisse aus Forschungsprojekten des BMBF-Programms “Ökonomie des Klimawandels” zusammenführt, die Kosten des Klimawandels abgeschätzt haben.
+> - Hirschfeld et al. 2015b: [Ökonomie des Klimawandels. Einführung in das Schwerpunktthema](https://www.oekologisches-wirtschaften.de/index.php/oew/article/view/1400/1376): Wir haben einen Schwerpunkt in der Zeitschrift Ökologisches Wirtschaften herausgegeben, in dem die innerhalb von econCCadapt verfolgten Ansätze präsentiert wurden.
+> - Pissarskoi et al. 2015: [Abschätzung von Kosten und Nutzen der Anpassung an Hitzeereignisse](http://www.oekonomie-klimawandel.de/data/oekl/user_upload/Dateien/KNA_Hitze_Koeln_VorgehenErgebnisse_final.pdf): dieser Arbeitsbericht fasst die Ergebnisse unserer Arbeiten zu einer normativ mehrdimensionalen Bewertung von Anpassungsmaßnahmen an Hitze in einer deutschen Großstadt.
+
+> **NOTE:**
+>
+> Dieses [Forschungsvorhaben im Auftrag des Umweltbundesamtes](https://www.umweltbundesamt.de/themen/klima-energie/klimafolgen-anpassung/werkzeuge-der-anpassung/projektkatalog/deutschland-im-klimawandel-anpassungskapazitaet) hat
+>
+> - die Struktur der deutschen Anpassungspolitik analysiert und bewertet
+> - Visionen einer klimaresilienten Gesellschaft und Transformationspfade dorthin in einem transdisziplinären Prozess erarbeitet.
+>
+> Ich habe die Erstellung der Visionen klimaresilienter Gesellschaft in einer transdisziplinären Workshopreihe inhaltlich koordiniert. Die Ergebnisse sind dokumentiert in:
+>
+> - Rupp et al. 2015: [Deutschland im Klimawandel](https://www.umweltbundesamt.de/sites/default/files/medien/656/dokumente/ioew_dik_endb_finale_fassung.pdf.pdf): Endbericht des Vorhabens. Kapitel 4 stellt die Ergebnisse der Visionsbildung und die erarbeiteten Transformationspfade dar.
+> - Rupp und Pissarskoi 2015: [Klimaanpassung im Stadtquartier](https://doi.org/10.14512/OEW300218): In diesem Aufsatz erläutern wir, wie eine transformative (im Gegensatz zu einer bewahrenden) Anpassungspolitik in Städten und urbanen Räumen ausgestaltet werden könnte.
+
+## Energiesysteme
+
+Dekarbonisierung der Energieversorgung in Deutschland erfordert eine umfangreiche Transformation des Energiesystems. Gesellschaftliche Konflikte bei der Realisierung dieser Transformation resultieren zum einen aus einer Uneinigkeit über die Ziele, die ein dekarbonisiertes Energieversorgungssystem leisten soll, und zum anderen aus hohen Unsicherheiten über die verfügbaren Technologieoptionen, ihre zukünftige Preisentwicklung, den Aufwand für ihre Realisierung etc.
+
+Im Rahmen von den folgenden Forschungsvorhaben habe ich Wertkonflikte bei der Transformation des Energiesystems analysiert:
+
+- [LOBSTER](https://www.itas.kit.edu/projekte_betz10_lobster.php): Forschungsgruppe „Limits and Objectivity of Scientific Foreknowledge: The Case of Energy Outlooks” (LOBSTER)
+- [Resystra](http://www.resystra.de/): Analyse der Zielanforderungen an ein dekarbonisiertes Energieversorgungssystem und der Konflikte zwischen den Zielen.
+
+> **NOTE:**
+>
+> In dieser Arbeit analysiere ich, wie Zukunftsprognosen, die mit Hilfe von energieökonomische Modelle erstellt werden, verwendet werden, um energiepolitische Handlungsempfehlungen zu begründen. Hierzu betrachte ich wissenschaftliche Studien, die zur Begründung der Entscheidung über eine Laufzeitverlängerung der Kernkraftwerke in Deutschland erstellt wurden. Die Studien haben jeweils ökonomische Konsequenzen von Szenarien von Laufzeitverlängerungen zu bestimmen versucht.
+>
+> - Ich kritisiere am Beispiel von diesen Studien, dass der Grad der Gewissheit über die getroffenen energieökonomischen Vorhersagen nicht präzise kommuniziert wird. Es lässt sich belegen, dass Formulierungen in den Studien suggerieren, die getroffenen Vorhersagen seien eindeutige Zukunftsprognosen. Eine solche Gewissheit haben die Ergebnisse der Modelle allerdings nicht.
+> - Ich präsentiere Vorschläge, wie Kommunikation von unsicheren Prognosen durch die Wissenschaft in demokratischen Gesellschaften erfolgen sollte.
+
+> **NOTE:**
+>
+> Im Rahmen des Projektes [Resystra](http://www.resystra.de/) habe ich Argumente rekonstruiert, mit denen Zielvorstellungen eines zukünftigen Energiesystems in Deutschland begründet werden. Zwei Visionen haben sich als kontroverse Extreme gezeigt: ein zentrales Großversorgungssystem versus ein dezentrales Selbstversorgunssystem. Die Argumentanalyse hat dabei ergeben:
+>
+> - Die beiden Visionen beinhalten unterschiedliche Anforderungen, die ein Energiesystem erfüllen soll.
+> - Es herrscht Uneinigkeit darüber, in welchem Maße die jeweiligen Visionen des Energiesystems ihre Anforderungen realisieren können.
+>
+> Hieraus lassen sich Empfehlungen dazu ableiten, wie eine konstruktive gesellschaftliche Debatte über ein zukünftiges Energiesystem gestaltet werden sollte:
+>
+> - Anforderungen an ein Energiesystem sollten in einer gesellschaftlichen Deliberation beurteilt und gemäß demokratischen Verfahren festgelegt werden.
+> - Die identifizierten empirischen Unsicherheiten sollten nach Möglichkeit durch entsprechende empirische Forschung beseitigt werden.
+>
+> Die Argumentanalyse ist dokumentiert worden in [Wachsmuth et al. 2015, Kapitel 5.3](https://nextclouds.webo.hosting/s/HZKS6WbXmBndT3m).
+
+## Ressourcen
+
+Nach welchen Kriterien sollte beurteilt werden, ob eine Nutzung von natürlichen Ressourcen gerecht oder ungerecht ist? – in den folgenden Aufsätzen mache ich Vorschläge dazu.
+
+> **NOTE:**
+>
+> In [diesem Aufsatz](https://www.oekom.de/ausgabe/zukunftsfaehige-chemie-80924) begründe ich, warum die gegenwärtige Nutzung von natürlichen Rohstoffen in Deutschland ungerecht ist. Zwei Gründe bringe ich vor:
+>
+> - **ungerechte Aneignung**: die aktuelle international akzeptierte Praxis der Aneignung und des Handels von natürlichen Ressourcen ist nicht vernünftig rechtfertigbar
+> - **Übertragung von Risiken auf zukünftige Generationen**: durch die Nutzung von nicht-erneuerbaren Rohstoffen verringern wir die verbleibenden Bestände für die zukünftigen Generationen. Da wir nicht ausschließen können, dass zukünftige Generationen auf diese Bestände angewiesen sein werden, ist es ungerecht, sie für Zwecke zu verwenden, auf die wir nicht angewiesen sind.
+
+> **NOTE:**
+>
+> Der [Lexikonsbeitrag](https://rdcu.be/d0nGf) gibt einen Überblick über normative Prinzipien und die sie begründenden normativen Theorien, die in der philosophischen Literatur diskutiert werden, um Ansprüche auf Zugang und Nutzung natürlicher Ressourcen zu begründen.
+
+## Ernährung
+
+> **NOTE:**
+>
+> In [diesem Aufsatz](https://doi.org/10.1080/21550085.2021.1961201) unterbreiten und verteidigen wir einen pragmatischen Politikvorschlag, um Fleischkonsum signifikant zu reduzieren, und von dem wir glauben, dass er öffentlich akzeptiert werden dürfte. Es enthält zwei Instrumente:
+>
+> - Regulierung, die bewirkt, dass Nutztiere nur artgerecht gehalten werden dürfen;
+> - Bedingungsloses Grundeinkommen in einer Höhe, die es erlaubt, das durchschnittliche Niveau an Fleischkonsum trotz der durch die tierethische Regulierung stark angestiegener Preise (gemäß (i)) aufrechtzuerhalten.
+>
+> Eine nicht-akademische Darstellung der Idee haben Wir
+>
+> - auf [medium.com auf Englisch](https://medium.com/@matthias.kiesselbach/meat-backlash-94290f6eec8f)
+> - auf [nd-aktuell.de auf Deutsch](https://www.nd-aktuell.de/artikel/1157244.grundeinkommen-weniger-fleisch-mehr-geld.html) veröffentlicht.
+
+## Umwelt- und Naturschutz
+
+> **NOTE:**
+>
+> In [diesem Aufsatz](https://nextclouds.webo.hosting/s/JYiyJoWfaeSzcMp) (erschienen in den [Loccumer Protokollen](https://www.loccum.de/publikationen/9783817281176/)) argumentiere ich dafür, dass es nicht zielführend ist, Anliegen der Naturschutzpolitik durch Verweise auf den Eigenwert der Natur zu begründen. Mein Gedankengang geht folgendermaßen:
+>
+> - es ist nicht schwer zu begrünen (und dürfte unkontrovers sein), dass alles, was lebendig ist, prima facie wertvoll und schützenswert ist.
+> - Es gibt aber sehr viele Arten des Lebendigen. Und neben dem Lebendigen gibt es aber viele weitere Belange, die prima facie wertvoll und schützenswert sind.
+> - Politische Handlungsentscheidungen müssen alle diesen normativ berücksichtigungswürdigen Belange berücksichtigen und zwischen ihnen abwägen. Die Prinzipien für eine Abwägung, bei der alle berücksichtigungswürdigen lebendigen Entitäten angemessen berücksichtigt werden, zu finden und transparent zu kommunizieren, ist eine relevantere, wenn auch anspruchsvollere Aufgabe für die Naturschutzpolitik.
+
+> **NOTE:**
+>
+> - Schäfer et al. 2015: [Umwelt- und Naturschutzpolitik – Konzepte und zukünftige Herausforderungen](https://www.umweltbundesamt.de/sites/default/files/medien/378/publikationen/texte_94_2015_umwelt-_und_naturschutzpolitik_als_gesellschaftspolitik_0.pdf): Dieser Bericht enthält Empfehlungen, wie Gerechtigkeitsbelange in der Umwelt- und Naturschutzpolitik erkannt und kommuniziert werden sollten.
+> - Neuhäuser und Pissarskoi 2011: [Umweltgerechtigkeit – Von der Verantwortung in Politik und Unternehmen](https://oekologisches-wirtschaften.de/index.php/oew/article/view/1101): der Anlass dieses Schwerpunktes in Ökologisches Wirtschaften war die Beobachtung, dass Auseinandersetzungen über Gerechtigkeit in der Umwelt- und Klimapolitik kaum stattfinden, obwohl alle verfügbaren politischen Handlungsoptionen unterschiedliche Gerechtigkeitsprinzipien anstreben. Die Aufsätze in dem Schwerpunkt diskutieren einzelne Gerechtigkeitsaspekte.
+
+## 2.3 Technikfolgenbewertung
+
+## Online Social Networks
+
+Im Rahmen des Projektes [TWON](https://www.twon-project.eu/) werden digitale Twins von online sozialen Netzwerken (wie Facebook, Twitter/X, TikTok etc.) entwickelt. Das Ziel ist, die digitalen Twins dazu zu nutzen, um die Algorithmen der sozialen Netzwerke besser analysieren zu können. Verfügbarkeit von digitalen Twins von online sozialen Netzwerken birgt allerdings auch eigene Gefahren.
+
+Um ein besseres Verständnis über die Chancen und Risiken von der neu entstehenden Technologie zu verschaffen und Governance-Optionen für diese Technologie zu identifizieren, habe ich in Kooperation mit den Entwickler\*innen eine Ethik-Analyse erstellt.
+
+Die wesentlichen Ergebnisse sind im [Policy Brief](https://www.twon-project.eu/?p=3508) zusammengefasst.
+
+> **NOTE:**
+>
+> In [diesem Bericht](https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e50a9b9303&appId=PPGMS)
+>
+> - unterscheiden wir vier Wege, wie digitale Twins von online sozialen Netzwerken – wir nennen sie TWONs – reguliert werden können: von freiem Zugang zu TWONs auf dem einen Extrem bis zur Nutzung von TWONs nur auf Gerichtsbeschluss auf dem anderen;
+> - rekonstruieren Argumente, die für und gegen alle vier Regulierungsweisen vorgebracht werden können;
+> - unsere Analyse der Argumente zeigt, dass keine Regulierungsweise überzeugend begründet, aber auch keine Regulierungsweise überzeugend zurückgewiesen werden kann. Denn alle Argumente setzen Prämissen ein, die entweder sehr unsicher sind oder ethisch kontrovers.
+> - hieraus leiten wir Empfehlungen ab, was erforscht werden müsste und welche ethischen Festlegungen gesellschaftlich diskutiert werden sollten, damit eine begründete Entscheidung über die Nutzung von TWONs getroffen werden kann.
+>
+> Kurzzusammenfassung der zentralen Aussagen unseres Berichts findet sich im [Policy Brief](https://www.twon-project.eu/?p=3508).
+
+## Smart Grids
+
+> **NOTE:**
+>
+> Im Rahmen von InnoSmart habe ich Argumente rekonstruiert, in denen Vor- und Nachteile aus einer flächendeckenden Einführung von Smart Grids abgewogen werden. Diese Argumentanalysen haben ergeben, dass eine Beurteilung dieser Technologie wesentlich davon abhängt,
+>
+> - zu welchen Kostenersparnissen für das Energiesystem die Einführung von Smart Grids führen wird
+> - welche Datenschutzrisiken genau nicht vermieden werden können.
+>
+> Eine gesellschaftliche Auseinandersetzung über die Einführung dieser Technologie würde von der Verfügbarkeit dieser Informationen signifikant profitieren. Die Argumentanalyse ist dokumentiert
+>
+> - ausführlich in [Abschnitt 5 des Arbeitsberichtes](https://nextclouds.webo.hosting/s/XCTM98dRmiXgJXR) (Konrad et al. 2017)
+> - in einer Zusammenfassung in [Kapitel 4.6 des Schlussberichts des Projektes](https://publica-rest.fraunhofer.de/server/api/core/bitstreams/5d8d05b0-ad27-489b-8363-4e59231764c2/content) (Mohaupt et al. 2016)
+
+## Converging Technologies
+
+In einigen Forschungsvorhaben habe ich daran mitgewirkt zu analysieren, welchen Beitrag neu entstehende Technologien auf die Ziele Nachhaltiger Entwicklung haben können.
+
+> **NOTE:**
+>
+> Was charakterisiert Forschung zu Bionik bzw. Biomimetik und wie sieht die Forschungslandschaft in Deutschland aus? – diesen Fragen sind wir im Forschungsvorhaben “Potentiale und Trends der Bionik” nachgegangen. Hierbei haben wir
+>
+> - drei Entwicklungsstränge der Bionik zu unterscheiden: Bionik als Funktionsmorphologie, Bionik als Biokybernetik (Robotik und Künstliche Intelligenz) sowie Nanobionik. Insbesondere die letzten beiden Stränge bilden einen Teil der Entstehung von so genannten “Converging Technologies”, einer Verschmelzung von Datenverarbeitenden Technologien, Kognitionswissenschaften, Robotik, Bio- und Gentechnik und Nanotechnologien.
+> - eine empirische Bestandsaufnahme der deutschen Forschungslandschaft erstellt
+> - Treiber und Hemmnisse der bionischen Innovationen identifiziert.
+>
+> Der Projektbericht ist erschienen
+>
+> - auf Deutsch [Bionik. Aktuelle Trends und zukünftige Potenziale](https://www.ioew.de/fileadmin/user_upload/DOKUMENTE/Publikationen/2007/Bionik_Aktuelle_Trends_und_zuk%C3%BCnftige_Potenziale.pdf)
+> - auf Englisch als Sammelband bei Springer [Potentials and Trends in Biomimetics](https://link.springer.com/book/10.1007/978-3-642-05246-0)
+
+> **NOTE:**
+>
+> Im Rahmen [dieses Projektes](https://www.ioew.de/projekt/Selbstorganisierende_adaptive_Systeme/) wurde versucht, eine begründete Einschätzung zu marktlichen Potentialen, gesellschaftlichen Risiken und rechtlichen Hemmnissen von aus der Wissenschaft getriebenen Forschungsansätzen unter dem Namen “Organic Computing”.
+
+Back to top
+
+## Footnotes
+
+[^1]: oder Wohlergehen oder Wohlstand oder soziale Wohlfahrt oder Gutes Leben
+
+[^2]: beispielsweise Aussagen darüber, welche Klimaziele gerecht bzw. erstrebenswert sind, welche Strategien gewählt werden sollen und welche nicht
+
+[^3]: wie Bewertungen oder Handlungsempfehlungen
+
+[^4]: Integrated Assessment Models (IAM): sie koppeln Teile ökologischer Systeme (beispielsweise den Kreislauf der Treibhausgase) mit ökonomischen Systemen und können berechnen, wie ökonomische Systeme (z.B. ökonomische Wertschöpfung) in Reaktion auf Veränderungen in ökologischen Systemen reagieren
+
+[^5]: die sich dezidiert mit der Auseinandersetzung mit normativen Fragen in gesellschaftlichen Kontroversen beschäftigt
+
+[^6]: beispielsweise: Welchen Einfluss hat vegane Ernährung auf die Lebensqualität? Wie wirkt ein Umstieg vom Auto auf Fahrrad und öffentliche Verkehrsmittel auf die individuelle Lebensqualität?
