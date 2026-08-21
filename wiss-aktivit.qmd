@@ -1,5 +1,5 @@
 ---
-title: Wissenschaftliche Geschäftigkeit^[Mit dem Ausdruck "Geschäftigkeit" hat [Peter Bieri](https://de.wikipedia.org/wiki/Peter_Bieri) in einem Aufsatz die etablierten Qualitätskriterien wissenschaftlicher Arbeit (Anzahl von Publikationen und ihren Zitationen, Anzahl von Drittmittelprojekten, ihr finanzieller Umfang etc.) kritisiert. Bieri machte darauf aufmerksam, dass die etablierten Kriterien bestenfalls die Geschäftigkeit eines/er Wissenschaftler*in belegten, keineswegs jedoch die Qualität seiner/ihrer Arbeit. Auf dieser Seite liste ich auf, womit ich mich in der Zeit meiner wissenschaftlichen Arbeit beschäftigt habe.] 
+title: Geschäftigkeit^[Mit dem Ausdruck "Geschäftigkeit" hat [Peter Bieri](https://de.wikipedia.org/wiki/Peter_Bieri) in einem Aufsatz die etablierten Qualitätskriterien wissenschaftlicher Arbeit (Anzahl von Publikationen und ihren Zitationen, Anzahl von Drittmittelprojekten, ihr finanzieller Umfang etc.) kritisiert. Bieri machte darauf aufmerksam, dass die etablierten Kriterien bestenfalls die Geschäftigkeit eines/er Wissenschaftler*in belegten, keineswegs jedoch die Qualität seiner/ihrer Arbeit. Auf dieser Seite liste ich auf, womit ich mich in der Zeit meiner wissenschaftlichen Arbeit beschäftigt habe.] 
 subtitle: chronologische Auflistung
 ---
 
@@ -72,7 +72,11 @@ Ulrich Petschow und Eugen Pissarskoi, 2010, [Wie wollen wir in der Zukunft leben
 :::
 
 ::: {.callout-note collapse="true" icon="false"}
-## Publikationen für nicht-wissenschaftliches Publikum
+## Beiträge für nicht-wissenschaftliches Publikum
+
+Eugen Pissarskoi (2026): [Vorreiter-Rolle in der Klimapolitik – Argumentanalyse einer aktuellen Kontroverse]().  
+
+Eugen Pissarskoi und Patrick Goldbach (2026): [Podacst-Gespräch zu Klima und Wirtschaft](https://open.spotify.com/episode/2uepKONX6zxi8So8CyE9tr?si=2hzfSyXSQeGMKbZ1ao544Q&nd=1&dlsi=7f525fbd250041d5) auf dem Podcast [Hochspannung – powered by Volt](https://open.spotify.com/show/6b0AFJN249hJy4YAdbvTTx). 
 
 Matthias Fersterer, janas gebauer und Eugen Pissarskoi (2025) [Unleashing Fantasy for Transformation. Mit Spekulativer Fiktion am Utopischen arbeiten](https://www.shop-hirnkost.de/produkt/das-science-fiction-jahr-2025/). In: Melanie Wylutzki \& Hardy Kettlitz (Hrsg.): Das Science Fiction Jahr 2025. Hirnkost, Berlin, 37-48.
 
