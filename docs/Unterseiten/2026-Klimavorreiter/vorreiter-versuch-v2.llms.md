@@ -8,8 +8,6 @@ Published
 
 June 20, 2026
 
-Argumentanalyse kann dazu beitragen, argumentative Wege in einer vertrackten öffentlichen Kontroverse aufzuzeigen: die Debatte über die Vorreiter-Rolle in der Klimapolitik.
-
 # Die Kontroverse
 
 Klimaschutz ist ein kollektives Unterfangen. Wenn ich sofort aufhöre, jegliche Treibhausgase zu emittieren, wird ein klimapolitisches Ziel, wie Begrenzung der Erderwärmung auf 1,5 oder 2° C, nicht erreicht. Auch wenn die Bundesrepublik Deutschland ihre Treibhausemissionen von heute auf morgen auf Null reduziert, wird die Erderwärmung nicht ausreichend stark reduziert.[^1] Um das vereinbarte Klimaziel der Begrenzung der Erderwärmung auf 1,5 bis 2° C zu erreichen, müssen hinreichend viele Menschen weltweit dazu beitragen, indem sie ihre Treibhausgasemissionen reduzieren.
@@ -173,15 +171,15 @@ Die Präzisierung der Wirksamkeits-Behauptungen verdeutlicht, dass sowohl die Be
 
 scheinen eine proportionale Wirksamkeit zu unterstellen
 
-diese Behauptung ist falsch
+❌
 
 **Gegner\*innen der Vorreiter-Rolle**
 
 unterstellen keine oder negative Wirkung;
 
-diese Behauptung ist falsch
+❌
 
-Die empirisch haltbare Behauptung **“schwache Wirksamkeit”** findet sich hingegen weder in der Argumentation der Befürworter\*innen noch der Gegner\*innen.
+Die empirisch haltbare Behauptung **“schwache Wirksamkeit”** ✅ findet sich hingegen weder in der Argumentation der Befürworter\*innen noch der Gegner\*innen.
 
 Was bedeutet dies für den weiteren Gang der Argumentation?
 
@@ -391,7 +389,7 @@ Back to top
 
 ## Footnotes
 
-[^1]: Deutschland emittiert etwa 2% der globalen Treibhausgasemissionen. Für die Begrenzung der Erderwärmung auf 2° C müssten die globalen THG-Emissionen um etwa XYZ% sinken. – Quellen ergänzen und nachrecherchieren
+[^1]: Deutschland emittiert etwa 2% der globalen Treibhausgasemissionen. Für die Begrenzung der Erderwärmung auf 1,5-2° C müssten die globalen jährlichen THG-Emissionen von etwa 55 Gt CO₂-Äquivalente auf rund 10-15 Gt, also um etwa 80% sinken (Schätzungen aus dem 6. Sachstandsbericht des IPCC, Working Group 3, Abschnitt 3.3, [Graphik 3.10](https://www.ipcc.ch/report/ar6/wg3/figures/chapter-3/figure-3-5)). Deutschland hat 2025 rund 0,65 Gt CO₂e emittiert.
 
 [^2]: “Auf nationaler Ebene muss dafür Sorge getragen werden, dass die mit der Pariser Klimakonvention von Deutschland eingegangenen Verpflichtungen rasch und effektiv erfüllt werden.” (S. 105), siehe auch Diskussion auf S.93f.
 

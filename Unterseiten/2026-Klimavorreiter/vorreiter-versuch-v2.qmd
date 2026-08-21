@@ -2,15 +2,14 @@
 title: Vorreiter-Rolle in der Klimapolitik -- Argumentanalyse einer aktuellen Kontroverse
 author: Eugen Pissarskoi
 date: 2026-06-20
+from: markdown+emoji
 ---
-
-Argumentanalyse kann dazu beitragen, argumentative Wege in einer vertrackten öffentlichen Kontroverse aufzuzeigen: die Debatte über die Vorreiter-Rolle in der Klimapolitik.
 
 # Die Kontroverse
 
-Klimaschutz ist ein kollektives Unterfangen. Wenn ich sofort aufhöre, jegliche Treibhausgase zu emittieren, wird ein klimapolitisches Ziel, wie  Begrenzung der Erderwärmung auf 1,5 oder 2° C, nicht erreicht. Auch wenn die Bundesrepublik Deutschland ihre Treibhausemissionen von heute auf morgen auf Null reduziert, wird die Erderwärmung nicht ausreichend stark reduziert.[^1] Um das vereinbarte Klimaziel der Begrenzung der Erderwärmung auf 1,5 bis 2° C zu erreichen, müssen hinreichend viele Menschen weltweit dazu beitragen, indem sie ihre Treibhausgasemissionen reduzieren. 
+Klimaschutz ist ein kollektives Unterfangen. Wenn ich sofort aufhöre, jegliche Treibhausgase zu emittieren, wird ein klimapolitisches Ziel, wie  Begrenzung der Erderwärmung auf 1,5 oder 2° C, nicht erreicht. Auch wenn die Bundesrepublik Deutschland ihre Treibhausemissionen von heute auf morgen auf Null reduziert, wird die Erderwärmung nicht ausreichend stark reduziert.[^1] Um die Erderwärmung auf 1,5 bis 2° C zu begrenzen, müssen hinreichend viele Menschen weltweit ihre Treibhausgasemissionen reduzieren. 
 
-[^1]: Deutschland emittiert etwa 2% der globalen Treibhausgasemissionen. Für die Begrenzung der Erderwärmung auf 2° C müssten  die globalen THG-Emissionen um etwa XYZ% sinken. -- Quellen ergänzen und nachrecherchieren
+[^1]: Deutschland emittiert etwa 2% der globalen Treibhausgasemissionen. Für die Begrenzung der Erderwärmung auf 1,5-2° C müssten die globalen jährlichen THG-Emissionen von etwa 55 Gt CO~2~-Äquivalente auf rund 10-15 Gt, also um etwa 80% sinken (Schätzungen aus dem 6. Sachstandsbericht des IPCC, Working Group 3, Abschnitt 3.3, [Graphik 3.10](https://www.ipcc.ch/report/ar6/wg3/figures/chapter-3/figure-3-5)). Deutschland hat 2025 rund 0,65 Gt CO~2~e emittiert. 
 
 Auf der internationalen Ebene sieht es derzeit aber nicht danach aus, dass ausreichend viele Staaten klimapolitisch kooperieren, um das 2°-Ziel zu erreichen. Vor diesem Hintergrund stellt sich für die deutsche Politik die Frage: 
 
@@ -271,7 +270,7 @@ Die Präzisierung der Wirksamkeits-Behauptungen verdeutlicht, dass sowohl die Be
 
 scheinen eine proportionale Wirksamkeit zu unterstellen
 
-[diese Behauptung ist falsch]{style="color: #f33"}
+<!--[diese Behauptung ist falsch]{style="color: #f33"}--> :x:
 </div>
 
 :::
@@ -285,7 +284,7 @@ scheinen eine proportionale Wirksamkeit zu unterstellen
 
  unterstellen keine oder negative Wirkung; 
 
-[diese Behauptung ist falsch]{style="color: #f33"}
+<!--[diese Behauptung ist falsch]{style="color: #f33"}--> :x:
 </div>
 
 :::
@@ -301,7 +300,7 @@ scheinen eine proportionale Wirksamkeit zu unterstellen
 :::
 
 ::: {.column width="90%"}
-Die empirisch haltbare Behauptung **"schwache Wirksamkeit"** findet sich hingegen weder in der Argumentation der Befürworter\*innen noch der Gegner\*innen.
+Die empirisch haltbare Behauptung :white_check_mark: **"schwache Wirksamkeit"** findet sich hingegen weder in der Argumentation der Befürworter\*innen noch der Gegner\*innen.
 :::
 
 ::: {.column width="5%"}
