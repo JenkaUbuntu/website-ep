@@ -10,7 +10,7 @@ June 20, 2026
 
 Zahlreiche Gesichtspunkte sprechen dafür, dass sich München um die Ausrichtung Olympischer Spiele bewirbt; es gibt aber auch unbestreitbar Gesichtspunkte, die dagegen sprechen.[^1] Wie kann man nun angesichts dieser unübersichtlichen Vielzahl von Pros und Contras zu einer reflektierten Entscheidung gelangen, ob die Bewerbung Münchens unterstützt werden soll oder nicht? – eine Reflexionsanleitung
 
-[Graphische Darstellung](https://eugenpissarskoi.de)
+[Graphische Darstellung](../../Unterseiten/2026-Olympia-Bewerbung/olympia-bewerbung-mue-interaktiv.llms.md)
 
 ## Schritt 1: Sortierung der vorgebrachten Gesichtspunkte in Pro- und Contra-Gründe
 

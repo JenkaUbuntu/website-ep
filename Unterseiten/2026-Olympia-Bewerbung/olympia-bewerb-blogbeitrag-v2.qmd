@@ -23,7 +23,7 @@ Zahlreiche Gesichtspunkte sprechen dafür, dass sich München um die Ausrichtung
 
 ::: {.column-margin}
 
-[Graphische Darstellung](https://eugenpissarskoi.de){.btn .btn-outline-primary role="button"}
+[Graphische Darstellung](./olympia-bewerbung-mue-interaktiv.qmd){.btn .btn-outline-primary role="button"}
 :::
 
 
