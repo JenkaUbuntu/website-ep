@@ -12,7 +12,6 @@ format:
         smaller: true
         embed-resources: true
         from: markdown+emoji
-        theme: default
         slide-number: c/t
         footer: "ArgumentationsAgentur | <a href=\"#/gliederung\">zurück zu Gliederung</a>"
         reference-location: document
@@ -328,7 +327,7 @@ Ausbau von Sportstätten; Förderung von Sport
 :::
 
 ::: footer
-ArgumentationsAgentur | [zurück zu Gliederung](#gliederung) | [**Hintergrund**: warum manche der angeführten **Pro-Gesichtspunkte keine Gründe** sind]() 
+ArgumentationsAgentur | [zurück zu **Gliederung**](#gliederung) | [zurück zum **Blogartikel**](./olympia-bewerb-blogbeitrag-v2.qmd#gründe-für-eine-bewerbung-münchens) | [**Hintergrund**: warum manche der angeführten **Pro-Gesichtspunkte keine Gründe** sind]() 
 :::
 
 ## Tatsächliche Gründe gegen die Spiele {#tatsächliche-gründe-gegen-die-spiele}

@@ -10,7 +10,7 @@ June 20, 2026
 
 Zahlreiche Gesichtspunkte sprechen dafür, dass sich München um die Ausrichtung Olympischer Spiele bewirbt; es gibt aber auch unbestreitbar Gesichtspunkte, die dagegen sprechen.[^1] Wie kann man nun angesichts dieser unübersichtlichen Vielzahl von Pros und Contras zu einer reflektierten Entscheidung gelangen, ob die Bewerbung Münchens unterstützt werden soll oder nicht? – eine Reflexionsanleitung
 
-[Graphische Darstellung](../../Unterseiten/2026-Olympia-Bewerbung/olympia-bewerbung-v4-interaktiv.llms.md)
+[**Graphische Darstellung**](../../Unterseiten/2026-Olympia-Bewerbung/olympia-bewerbung-v4-interaktiv.llms.md)
 
 ## Schritt 1: Sortierung der vorgebrachten Gesichtspunkte in Pro- und Contra-Gründe
 
@@ -55,7 +55,7 @@ Zunächst müssen daher die vorgebrachten Gesichtspunkte daraufhin sortiert werd
 - Einzigartige Erlebnisse: Olympische Spiele werden emotionale Erlebnisse liefern, möglicherweise gesellschaftlichen Zusammenhalt stärken und Breitensport populärer machen.\
 - Image-Verbesserung: Das Ansehen der Stadt wird noch weiter gefestigt.
 
-[Gründe für eine Bewerbung](olympia-bewerbung-v4-interaktiv.llms.md#/tatsächliche-gründe-für-die-spiele)
+[**Gründe für eine Bewerbung**](olympia-bewerbung-v4-interaktiv.llms.md#/tatsächliche-gründe-für-die-spiele)
 
 #### Gründe gegen eine Bewerbung Münchens
 
@@ -63,13 +63,13 @@ Zunächst müssen daher die vorgebrachten Gesichtspunkte daraufhin sortiert werd
 - Ökologische Belastungen: Durchführung der Olympischen Spiele wird zu unverhältnismäßig hohen negativen ökologischen Belastungen in München führen:
 - IOC ist ein unfairer Partner: Durchführung der Olympischen Spiele erfordert Kooperation mit einem unfairen Partner, dem Internationalen Olympischen Komitee.
 
-[Gründe gegen eine Bewerbung](olympia-bewerbung-v4-interaktiv.llms.md#/tatsächliche-gründe-gegen-die-spiele)
+[**Gründe gegen eine Bewerbung**](olympia-bewerbung-v4-interaktiv.llms.md#/tatsächliche-gründe-gegen-die-spiele)
 
 Angesichts dieser Gründe für und gegen eine Bewerbung ergibt sich das **argumentative Rätsel**:
 
 - Wie sehen Argumente aus, die im Lichte dieser beitragenden Pro- und Contra-Gründe die Entscheidung für und gegen die Olympia-Bewerbung Münchens rechtfertigen?
 
-[das argumentative Rätsel]()
+[**das argumentative Rätsel**](../../Unterseiten/2026-Olympia-Bewerbung/olympia-bewerbung-v4-interaktiv.llms.md#das-argumentations-puzzle)
 
 ## Schritt 2: Rekonstruierte Argumente
 
@@ -79,7 +79,7 @@ Angesichts dieser Gründe für und gegen eine Bewerbung ergibt sich das **argume
 - A2: Argument der Chancen-Ergreifung
 - A3: Argument der Zurückweisung von Nachteilen
 
-[Pro-Argumente]()
+[**Pro-Argumente**](../../Unterseiten/2026-Olympia-Bewerbung/olympia-bewerbung-v4-interaktiv.llms.md#pro-argumente)
 
 **Gegen die Ausrichtung** der Spiele in München lassen sich folgende Argumente rekonstruieren:
 
@@ -87,7 +87,7 @@ Angesichts dieser Gründe für und gegen eine Bewerbung ergibt sich das **argume
 - A5: Bessere Alternative zu Olympia-Durchführung
 - A6: Vermeidung unkalkulierbarer Risiken
 
-[Contra-Argumente]()
+[**Contra-Argumente**](../../Unterseiten/2026-Olympia-Bewerbung/olympia-bewerbung-v4-interaktiv.llms.md#contra-argumente)
 
 ##### Hintergrund: Rekonstruktion von Argumenten
 
@@ -113,7 +113,7 @@ Angesichts dieser Gründe für und gegen eine Bewerbung ergibt sich das **argume
 
 Eine Rekonstruktion der identifizierten [Pro- und Kontra-Argumente](#schritt-2:-rekonstruierte-argumente) verdeutlicht, dass einige der vorgebrachten Argumente nicht entscheidbar sind: sie basieren auf Behauptungen, bei denen wir nicht wissen – und aller Voraussicht nach in der nächsten Zukunft nicht wissen werden, ob sie wahr oder falsch sind.
 
-[Unentscheidbare Argumente]()
+[**Unentscheidbare Argumente**](../../Unterseiten/2026-Olympia-Bewerbung/olympia-bewerbung-v4-interaktiv.llms.md#unentscheidbare-argumente)
 
 > **CAUTION:**
 >
@@ -141,7 +141,7 @@ Allerdings: Vorbringen von Argumenten, die auf unbegründeten Prämissen basiere
 
 Aus der [Argumentrekonstruktion](#hintergrund:-rekonstruktion-von-argumenten) ergeben sich aber auch Hinweise, wie die Kontroverse konstruktiv weitergeführt werden kann.
 
-[Konstruktive Fortführung der Debatte]()
+[**Konstruktive Fortführung der Debatte**](../../Unterseiten/2026-Olympia-Bewerbung/olympia-bewerbung-v4-interaktiv.llms.md#möglichkeit-einer-konstruktiven-fortführung-der-kontroverse)
 
 > **TIP:**
 >

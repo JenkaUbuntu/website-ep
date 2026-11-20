@@ -23,7 +23,7 @@ Zahlreiche Gesichtspunkte sprechen dafür, dass sich München um die Ausrichtung
 
 ::: {.column-margin}
 
-[Graphische Darstellung](./olympia-bewerbung-v4-interaktiv.qmd){.btn .btn-outline-primary role="button"}
+[**Graphische Darstellung**](./olympia-bewerbung-v4-interaktiv.qmd){.btn .btn-outline-primary role="button"}
 :::
 
 
@@ -135,7 +135,7 @@ Text in der Box.
 * [Image-Verbesserung]{style="color:green;"}: Das Ansehen der Stadt wird noch weiter gefestigt. 
 
 ::: {.column-margin}
-[Gründe für eine Bewerbung](./olympia-bewerbung-v4-interaktiv.html#/tatsächliche-gründe-für-die-spiele){.btn .btn-outline-primary role="button"}
+[**Gründe für eine Bewerbung**](./olympia-bewerbung-v4-interaktiv.html#/tatsächliche-gründe-für-die-spiele){.btn .btn-outline-primary role="button"}
 :::
 
 #### Gründe gegen eine Bewerbung Münchens
@@ -145,7 +145,7 @@ Text in der Box.
 * [IOC ist ein unfairer Partner]{style="color:red;"}: Durchführung der Olympischen Spiele erfordert Kooperation mit einem unfairen Partner, dem Internationalen Olympischen Komitee. 
 
 ::: {.column-margin}
-[Gründe gegen eine Bewerbung](./olympia-bewerbung-v4-interaktiv.html#/tatsächliche-gründe-gegen-die-spiele){.btn .btn-outline-primary role="button"}
+[**Gründe gegen eine Bewerbung**](./olympia-bewerbung-v4-interaktiv.html#/tatsächliche-gründe-gegen-die-spiele){.btn .btn-outline-primary role="button"}
 :::
 
 Angesichts dieser Gründe für und gegen eine Bewerbung ergibt sich das **argumentative Rätsel**:
@@ -153,7 +153,7 @@ Angesichts dieser Gründe für und gegen eine Bewerbung ergibt sich das **argume
 * Wie sehen Argumente aus, die im Lichte dieser beitragenden Pro- und Contra-Gründe die Entscheidung für und gegen die Olympia-Bewerbung Münchens rechtfertigen? 
 
 ::: {.column-margin}
-[das argumentative Rätsel](){.btn .btn-outline-primary role="button"}
+[**das argumentative Rätsel**](./olympia-bewerbung-v4-interaktiv.qmd#das-argumentations-puzzle){.btn .btn-outline-primary role="button"}
 :::
 
 ## Schritt 2: Rekonstruierte Argumente {#schritt-2:-rekonstruierte-argumente}
@@ -199,7 +199,7 @@ Angesichts dieser Gründe für und gegen eine Bewerbung ergibt sich das **argume
 * A3: Argument der Zurückweisung von Nachteilen
 
 ::: {.column-margin}
-[Pro-Argumente](){.btn .btn-outline-primary role="button"}
+[**Pro-Argumente**](./olympia-bewerbung-v4-interaktiv.qmd#pro-argumente){.btn .btn-outline-primary role="button"}
 :::
 
 [**Gegen die Ausrichtung**]{style="color:red;"} der Spiele in München lassen sich folgende Argumente rekonstruieren:
@@ -209,7 +209,7 @@ Angesichts dieser Gründe für und gegen eine Bewerbung ergibt sich das **argume
 * A6: Vermeidung unkalkulierbarer Risiken
 
 ::: {.column-margin}
-[Contra-Argumente](){.btn .btn-outline-primary role="button"}
+[**Contra-Argumente**](./olympia-bewerbung-v4-interaktiv.qmd#contra-argumente){.btn .btn-outline-primary role="button"}
 :::
 
 
@@ -276,7 +276,7 @@ Angesichts dieser Gründe für und gegen eine Bewerbung ergibt sich das **argume
 Eine Rekonstruktion der identifizierten [Pro- und Kontra-Argumente](#schritt-2:-rekonstruierte-argumente) verdeutlicht, dass einige der vorgebrachten Argumente nicht entscheidbar sind: sie basieren auf Behauptungen, bei denen wir nicht wissen -- und aller Voraussicht nach in der nächsten Zukunft nicht wissen werden, ob sie wahr oder falsch sind. 
 
 ::: {.column-margin}
-[Unentscheidbare Argumente](){.btn .btn-outline-primary role="button"}
+[**Unentscheidbare Argumente**](./olympia-bewerbung-v4-interaktiv.qmd#unentscheidbare-argumente){.btn .btn-outline-primary role="button"}
 :::
 
 
@@ -317,7 +317,7 @@ Allerdings: Vorbringen von Argumenten, die auf unbegründeten Prämissen basiere
 Aus der [Argumentrekonstruktion](#hintergrund:-rekonstruktion-von-argumenten) ergeben sich aber auch Hinweise, wie die Kontroverse konstruktiv weitergeführt werden kann.
 
 ::: {.column-margin}
-[Konstruktive Fortführung der Debatte](){.btn .btn-outline-primary role="button"}
+[**Konstruktive Fortführung der Debatte**](./olympia-bewerbung-v4-interaktiv.qmd#möglichkeit-einer-konstruktiven-fortführung-der-kontroverse){.btn .btn-outline-primary role="button"}
 :::
 
 
