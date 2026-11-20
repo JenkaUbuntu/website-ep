@@ -23,7 +23,7 @@ Zahlreiche Gesichtspunkte sprechen dafür, dass sich München um die Ausrichtung
 
 ::: {.column-margin}
 
-[Graphische Darstellung](./olympia-bewerbung-mue-interaktiv.qmd){.btn .btn-outline-primary role="button"}
+[Graphische Darstellung](./olympia-bewerbung-v4-interaktiv.qmd){.btn .btn-outline-primary role="button"}
 :::
 
 
@@ -32,7 +32,7 @@ Zahlreiche Gesichtspunkte sprechen dafür, dass sich München um die Ausrichtung
 Um zu reflektieren, ob die Bewerbung der Stadt München unterstützenswert ist, benötigen wir alle Gründe, die für und gegen die Bewerbung der Stadt München sprechen. In der Öffentlichkeit werden zahlreiche zustimmende und ablehnende Gesichtspunkte genannt. 
 
 ::: {.column-margin}
-[**Öffentlich vorgebrachte Pro- und Contra-Gesichtspunkte**](){.btn .btn-outline-primary role="button"}
+[**Öffentlich vorgebrachte Pro- und Contra-Gesichtspunkte**](./olympia-bewerbung-v4-interaktiv.qmd#/öffentliche-debatte){.btn .btn-outline-primary role="button"}
 :::
 
 Nicht alle von ihnen sind allerdings genuine Gründe: Einige der vorgebrachten Gesichtspunkte stellen sich beispielsweise als unterstützende Gründe für die beitragenden Gründe heraus, andere als Einwände gegen die Behauptungen der Gegenseite, einige auch als rhetorische Mittel (d.h. Behauptungen, denen keine argumentative Rolle zukommt).
@@ -135,7 +135,7 @@ Text in der Box.
 * [Image-Verbesserung]{style="color:green;"}: Das Ansehen der Stadt wird noch weiter gefestigt. 
 
 ::: {.column-margin}
-[Gründe für eine Bewerbung](){.btn .btn-outline-primary role="button"}
+[Gründe für eine Bewerbung](./olympia-bewerbung-v4-interaktiv.html#/tatsächliche-gründe-für-die-spiele){.btn .btn-outline-primary role="button"}
 :::
 
 #### Gründe gegen eine Bewerbung Münchens
@@ -145,7 +145,7 @@ Text in der Box.
 * [IOC ist ein unfairer Partner]{style="color:red;"}: Durchführung der Olympischen Spiele erfordert Kooperation mit einem unfairen Partner, dem Internationalen Olympischen Komitee. 
 
 ::: {.column-margin}
-[Gründe gegen eine Bewerbung](){.btn .btn-outline-primary role="button"}
+[Gründe gegen eine Bewerbung](./olympia-bewerbung-v4-interaktiv.html#/tatsächliche-gründe-gegen-die-spiele){.btn .btn-outline-primary role="button"}
 :::
 
 Angesichts dieser Gründe für und gegen eine Bewerbung ergibt sich das **argumentative Rätsel**:
