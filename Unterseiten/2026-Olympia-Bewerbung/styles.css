@@ -9,3 +9,60 @@ hr {
   display: block;
   text-align: left;
 }
+
+/* Footer-Link Layout */
+.reveal .footer a {
+    color: inherit;
+    text-decoration: underline;
+}
+
+/* Pfeile hinter die Callouts
+.callout { position: relative; z-index: 1; background: var(--r-background-color, white); } */
+
+
+.hintergrund {
+  /* border with rounded corners */
+  border: 1px solid #787b79;
+  border-radius: 0.375rem;      /* callouts use about 0.25rem; increase for rounder corners */
+
+  /* background */
+  background-color: #eaf5ee;
+
+  /* distance between the box edge and the text */
+  padding: 0.75rem 1rem 0.75rem 1rem;   /* top right bottom left */
+
+  /* font */
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 0.95rem;
+  color: #1f3d2b;
+
+  /* spacing to surrounding content */
+  margin: 1rem 0;
+}
+
+.infobox {
+  --box: var(--bs-primary);
+  --box-bg: var(--bs-primary-bg-subtle);
+  --box-text: var(--bs-primary-text-emphasis);
+  --bg-strength: 100%;
+
+  border: 1px solid var(--box);
+  background-color: color-mix(in srgb, var(--box-bg) var(--bg-strength), transparent);
+  color: var(--box-text);
+  border-radius: 0.375rem;
+  padding: 0.75rem 1rem 0.75rem 1rem;
+  margin-bottom: 1.5rem;   /* distance to the text below the box */
+}
+.infobox.success {
+  --box: var(--bs-success);
+  --box-bg: var(--bs-success-bg-subtle);
+  --box-text: var(--bs-success-text-emphasis);
+}
+.infobox.secondary {
+  --box: var(--bs-secondary);
+  --box-bg: var(--bs-secondary-bg-subtle);
+  --box-text: var(--bs-secondary-text-emphasis);
+}
+.infobox.disabled {
+  --bg-strength: 40%;
+}

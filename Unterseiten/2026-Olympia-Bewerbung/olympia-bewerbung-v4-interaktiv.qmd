@@ -1,0 +1,1664 @@
+---
+title: Soll sich München um die Olympischen Spiele 2036/40/44 bewerben?
+author: Eugen Pissarskoi
+date: 2025-12-20
+lang: de
+format: 
+    revealjs: 
+        css: styles.css
+        controls: true
+        incremental: true
+        scrollable: true
+        smaller: true
+        embed-resources: true
+        from: markdown+emoji
+        theme: default
+        slide-number: c/t
+        footer: "ArgumentationsAgentur | <a href=\"#/gliederung\">zurück zu Gliederung</a>"
+        reference-location: document
+        logo: ./graphiken/logoAA.svg
+---
+
+## Gliederung {#gliederung auto-animate="true"} 
+
+::: {.nonincremental}
+
+::: {.columns}
+
+::: {.column width="59%"}
+::: {.callout-note icon="false"}
+### [[**Schritt 1: Das argumentative Puzzle angesichts von Gründen für und gegen eine Olympia-Bewerbung**]{style="color:#d95f0e"}](#schirtt-1-das-argumentative-puzzle-angesichts-von-pros-und-cons)
+
+* [**1.1: Öffentlich vorgebrachte Pro- und Contra-Gesichtspunkte**](#öffentliche-debatte)
+* [**1.2: Tatsächliche Pro-Gründe**](#tatsächliche-gründe-für-die-spiele)
+* [**1.3: Tatsächliche Contra-Gründe**](#tatsächliche-gründe-gegen-die-spiele)
+* [**1.4: Das resultierende Argumentations-Puzzle**](#dialektik-angesichts-von-pro--und-kontra-gründen)
+
+:::
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="39%"}
+::: {.callout-note icon="false"}
+### [[**Schritt 2: Rekonstruktion von Argumenten**]{style="color:#d95f0e"}](#schritt-2-rekonstruierte-argumente)
+
+* [**2.1: Argumente für eine Olympia-Bewerbung Münchens**](#pro-argumente)
+* [**2.2: Argumente gegen eine Olympia-Bewerbung Münchens**](#contra-argumente)
+:::
+:::
+:::
+
+::: {.columns}
+
+::: {.column width="49%"}
+::: {.callout-note icon="false"}
+### [[**Schritt 3: Diskussion der Argumente**]{style="color:#d95f0e"}](#schritt-3-diskussion-der-argumente)
+ 
+* [**3.1: Argumente, die unentscheidbar sind**](#3.1:-unentscheidbare-argumente)
+* [**3.2: Konstruktive Fortführung der Kontroverse**](#möglichkeit-einer-konstruktiven-fortführung-der-kontroverse) 
+
+:::
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="49%"}
+::: {.callout-note icon="false"}
+### [[**Fazit: Lehre aus der Argumentanalyse**]{style="color:#d95f0e"}](#fa)
+  
+
+:::
+:::
+:::
+:::
+
+## Gliederung -- mit Hintergründen {auto-animate="true" visibility="uncounted"}
+
+::: {.nonincremental}
+
+::: {.columns}
+
+::: {.column width="59%"}
+::: {.callout-note icon="false"}
+### [[**Schritt 1: Das argumentative Puzzle angesichts von Gründen für und gegen eine Olympia-Bewerbung**]{style="color:#d95f0e"}](#schirtt-1-das-argumentative-puzzle-angesichts-von-pros-und-cons)
+
+* [**1.1: Öffentlich vorgebrachte Pro- und Contra-Gesichtspunkte**](#öffentliche-debatte)
+* [**1.2: Tatsächliche Pro-Gründe**](#tatsächliche-gründe-für-die-spiele)
+  * [Hintergrund: Warum manche der angeführten Pro- Gesichtspunkte keine Gründe sind](#sortierung-der-pro-gesichtspunkte)
+* [**1.3: Tatsächliche Contra-Gründe**](#tatsächliche-gründe-gegen-die-spiele)
+  * [Hintergrund: Warum manche der angeführten Contra-Gesichtspunkte keine Gründe sind](#sortierung-der-contra-gesichtspunkte)
+* [**1.4: Das resultierende Argumentations-Puzzle**](#dialektik-angesichts-von-pro--und-kontra-gründen)
+
+:::
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="39%"}
+::: {.callout-note icon="false"}
+### [[**Schritt 2: Rekonstruktion von Argumenten**]{style="color:#d95f0e"}](#schritt-2-rekonstruierte-argumente)
+
+* [**2.1: Argumente für eine Olympia-Bewerbung Münchens**](#pro-argumente)
+  * [Hintergrund: Rekonstruktion von Pro-Argumenten]()
+* [**2.2: Argumente gegen eine Olympia-Bewerbung Münchens**](#contra-argumente)
+  * [Hintergrund: Rekonstruktion von Contra-Argumenten]()
+:::
+:::
+:::
+
+::: {.columns}
+
+::: {.column width="49%"}
+::: {.callout-note icon="false"}
+### [[**Schritt 3: Diskussion der Argumente**]{style="color:#d95f0e"}](#schritt-3-diskussion-der-argumente)
+ 
+* [**3.1: Argumente, die unentscheidbar sind**](#3.1:-unentscheidbare-argumente)
+  * [Hintergrund: warum die Argumente unentscheidbar sind]()
+* [**3.2: Konstruktive Fortführung der Kontroverse**](#möglichkeit-einer-konstruktiven-fortführung-der-kontroverse) 
+
+:::
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="49%"}
+::: {.callout-note icon="false"}
+### [[**Fazit: Lehre aus der Argumentanalyse**]{style="color:#d95f0e"}](#fazit)
+  
+
+:::
+:::
+:::
+:::
+
+# [Schritt 1: Das argumentative Puzzle angesichts von Pros und Cons]{#schritt-1:-das-argumentative-puzzle-angesichts-von-pros-und-cons style="color:#d95f0e"}
+
+## Öffentliche Debatte {#öffentliche-debatte}
+
+::: {.nonincremental}
+
+::: {.panel-tabset}
+### Pro-Gesichtspunkte
+
+::: {.columns}
+::: {.column width="49%"}
+::: {.callout-tip icon="false"}
+### Begründung des Stadtrats
+* Das Bewerbungskonzept verbindet "das richtige Maß" mit visionären Ideen.
+
+* Die Wettkampfstätten werden nachhaltig geplant.
+
+* Wichtige Projekte für die Stadtentwicklung kommen schneller voran.
+
+* Der Sport und die Inklusion werden gestärkt.
+
+* Olympische und Paralympische Spiele sind ein Motor für die Wirtschaft
+
+* Olympia verbindet die Menschen und schafft einzigartige Erlebnisse.
+:::
+:::
+::: {.column width="2%"}
+:::
+::: {.column width="49%"}
+::: {.callout-tip icon="false"}
+### [Begründung der Stadt München](https://www.olympiabewerbung-muenchen.com/#fuer-olympia)
+
+*  **Stadtentwicklung**: Olympia ermöglicht wichtige Stadt-Entwicklungsprojekte, die ansonsten gar nicht oder erst viel später realisierbar wären. 
+
+* **Neuer Wohnraum**: Es entstehen rund 4.000 Wohnungen für etwa 10.000 Menschen im neuen Olympischen und Paralympischen Dorf im Münchner Nordosten.
+
+* **ÖPNV-Ausbau**: Verlängerung U4 bis zur Messe, S-Bahn-Ringschluss Nord, Realisierung U9.
+
+* **Nachhaltige Mobilität**: Ausbau von Radschnellwegen, autonomen Fahrens oder Mobility Hubs.
+
+* **Grünflächen**: Grünzüge werden erweitert: unter anderem der Olympiapark und der Hüllgraben. Vorhandene Grünflächen werden vernetzt.
+
+* **Sanierung Sportstätten**: Viele Wettkampfstätten werden saniert und sichern damit auch zukünftige Erträge.
+
+* **Erweiterung Olympiapark**: Der Olympiapark [...] wird ausgeweitet und fit für die Zukunft gemacht.
+
+* **Sportliches München**: Der Sport erhält Impulse. Bewegung wird gestärkt, Infrastruktur wird weiterentwickelt, Breiten- und informeller Sport werden gefördert. Es gibt mehr Trainingsflächen und Trainer*innen.
+
+* **Inklusion**: durch die konsequente Umsetzung von Barrierefreiheit im Olympischen Dorf, bei Sportstätten und im ÖPNV.
+
+* **Wirtschaft**: Die Wirtschaft erfährt einen Schub durch kurzfristige Erträge und langfristige Entwicklungen [...].
+
+* **Aufbruchsstimmung**: Wie schon 1972: Es entstehen Aufbruchsstimmung und großer Mut zu Neuem. Olympia steckt in der Münchner DNA.
+
+* **Verbinden statt spalten**: Die Vorbereitung der Spiele schafft einen Schulterschluss in der Gesellschaft und erzeugt ein Miteinander. Viele rücken zusammen. [...]
+
+* **Image**: Nach außen verändert sich das Image Deutschlands. Wir werden positiver und leistungsstärker wahrgenommen. Das Ansehen der Stadt wird noch weiter gefestigt. 
+
+* **Einzigartige Erlebnisse**: Die Spiele selbst schaffen einzigartige emotionale Erlebnisse in der ganzen Stadt – so wie es zuletzt die European Championships 2022 und Paris 2024 gezeigt haben.
+:::
+:::
+
+:::
+
+### Contra-Gesichtspunkte
+
+::: {.column width="49%"}
+::: {.callout-important icon="false"}
+### Contra-Gesichtspunkte, die [Merkur](https://www.merkur.de/lokales/muenchen/muenchen-olympija-oder-nolympia-pro-contra-buergerentscheid-olympia-in-93981355.html) gesammelt hat
+
+* **Olympia kostet Milliarden**: Seit 1960 hat keine Ausrichterstadt das geplante Olympia-Budget eingehalten, sagen die Gegner\*innen. Zuletzt scherte Paris aus: Statt wie vorgesehen 2,4 Milliarden kostete Olympia 2024 etwa sechs Milliarden Euro. 
+
+* **Bewerbung verschlingt Millionen**
+
+* **Das IOC ist kein fairer Partner**
+
+* **Stadtentwicklung leidet**: München braucht bezahlbare Wohnungen und einen funktionierenden Nahverkehr – heute, nicht erst zu Olympia. 
+
+* **Wohnungen jetzt – nicht erst 2036 oder später**
+
+* **Wettkampfstätten**: Sie sind teuer, temporär, verschwenderisch: Viele Sportarenen werden nur für die Spiele errichtet und danach abgebaut. Beispiel: die Schwimmanlage in der (privat finanzierten, aber noch gar nicht gebauten) Event Arena auf dem Flughafengelände bei Freising, die etliche Millionen kosten würde. 
+
+* **Wirtschaftlicher Nutzen ist kurz und klein**: Der wirtschaftliche Effekt ist gering, kurzfristig und bricht nach den Spielen wieder ein, behauptet das Anti-Olympia-Bündnis. Gewinner sind vor allem die IOC-Sponsoren, nicht die lokale Wirtschaft.
+
+* European Championships sind kein Maßstab: Die Championships waren erfolgreich, weil sie offen, günstig und bürgernah waren. Olympia ist das Gegenteil: abgesperrte Sicherheitszonen, hohe Ticketpreise, Kommerzialisierung und strikte Exklusivrechte für Sponsoren. 
+
+* München kann ohne Olympia begeistern: Konzerte, Sport, Biergärten: München ist attraktiv, lebendig, weltoffen. Dafür braucht es kein IOC. München-Werbung durch Olympia ist unnötig, jeder weiß, wie schön es hier ist.
+:::
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="49%"}
+::: {.callout-important icon="false"}
+
+### Contra-Gesichtspunkte, die [Radiogong](https://www.radiogong.de/olympia-bewerbung-muenchen-sommer-spiele-pro-und-kontra-olympiaparkt2025-2036-2040-2044) gesammelt hat
+
+* **Nachhaltigkeit bleibt ein leeres Versprechen**: Die olympische Idee verspricht nachhaltige Entwicklung, die Realität sieht anders aus. In Athen und Rio verfallen die Sportstätten. Auch München müsste neu bauen, da viele Anlagen nicht mehr den IOC-Standards entsprechen.
+
+* **Wohnraum wird unbezahlbar**: 
+In früheren Austragungsstädten wie Barcelona, London oder Peking stiegen die Mieten um bis zu 144 %. Olympia kurbelt, laut Kritikern, die Immobilienspekulation an und macht das Leben für Normalverdiener unerschwinglich, auch in München drohe dieser Effekt.
+
+* **Verdrängung durch Gentrifizierung**: 
+Mit Olympia komme oft die Gentrifizierung: Menschen mit niedrigem Einkommen kämen in finanzielle Nöte. Internationale Investoren drängen auf den Wohnungsmarkt und erschwinglicher Wohnraum verschwände. Soziale Ungleichheit könnte sich verschärfen.
+
+* **Kein Vorteil für den Breitensport**: Kritiker befürchten, dass trotz teurer Neubauten lokale Sportvereine kaum profitieren. Kinder fänden während der Spiele keinen Platz im Schwimmkurs, Vereine keine Hallenzeiten. Olympia bringe Show, aber keine nachhaltige Förderung des Breitensports und löse keine bestehenden Probleme.
+
+* **Grüne Flächen gehen verloren**: In Daglfing soll für das Olympische Dorf Ackerboden versiegelt werden. Dort wachsen heute regionale Lebensmittel, dort leben bedrohte Tierarten. Diese ökologisch sensiblen Flächen für ein zweiwöchiges Event zu opfern, seien unverantwortlich.
+
+:::
+:::
+:::
+:::
+
+ 
+## Tatsächliche Gründe für die Spiele {#tatsächliche-gründe-für-die-spiele}
+
+<div style="position: relative; margin-top: 5%;">
+
+::: {.columns}
+::: {.column width="19%"}
+::: {.callout-tip icon="false"}
+### Förderung der Stadtentwicklung
+Zusätzlicher Wohnraum; Ausbau ÖPNV; Nachhaltige Mobilität etc. 
+:::
+:::
+::: {.column width="15%"}
+::: {.callout-tip icon="false"}
+### Stärkung von Breitensport
+Ausbau von Sportstätten; Förderung von Sport
+:::
+:::
+::: {.column width="18%"}
+::: {.callout-tip icon="false"}
+### Verbesserung der Inklusion
+:::
+:::
+::: {.column width="18%"}
+::: {.callout-tip icon="false"}
+### Kurzfristige Wirtschafts\-gewinne
+:::
+:::
+::: {.column width="14%"}
+::: {.callout-tip icon="false"}
+### Einzigartige Erlebnisse
+:::
+:::
+::: {.column width="16%"}
+::: {.callout-tip icon="false"}
+### Image-Verbesserung
+:::
+:::
+:::
+</div>
+
+::: {.fragment}
+<div style="position: relative; margin-top: 7%;">
+  
+::: {.columns}
+::: {.column width="4%"}
+:::
+::: {.column width="45%"}
+::: {.callout-tip icon="false" .nonincremental}
+
+#### Finanzielle Zuschüsse vom Bund und Land
+  Beim Zuschlag für die Ausrichtung der Spiele werden Bund und Land zusätzliche Finanzmittel bereitstellen, die die Stadtentwicklung beschleunigen und die Kommunalfinanzen entlasten.
+:::
+:::
+::: {.column width="50%"}
+:::
+:::
+</div>
+
+<!-- CSS Arrows -->
+<div style="position: relative; height: 0px; margin-top: -298px;">
+  <!-- Arrow to "Stadtentwicklung"  -->
+  <div style="position: absolute; left: 20.5%; top: -38px; width: 2px; height: 190px; background: green; transform: rotate(305deg);"></div>
+  <div style="position: absolute; left: 12.7%; top: -1px; width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 12px solid green; transform: rotate(305deg);"></div>
+
+  <!-- Arrow to "Breitensport" -->
+  <div style="position: absolute; left: 27.5%; top: 1px; width: 2px; height: 110px; background: green; transform: rotate(356deg);"></div>
+  <div style="position: absolute; left: 26.5%; top: 0px; width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 12px solid green; transform: rotate(356deg);"></div>
+
+  <!-- Arrow to "Inklusion" (3rd box) -->
+ <div style="position: absolute; left: 35.7%; top: -149px; width: 2px; height: 286px; background: green; transform: rotate(35deg);"></div>
+<div style="position: absolute; left: 42.9%; top: -127px; width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 12px solid green; transform: rotate(35deg);"></div>
+</div>
+
+:::
+
+::: footer
+ArgumentationsAgentur | [zurück zu Gliederung](#gliederung) | [**Hintergrund**: warum manche der angeführten **Pro-Gesichtspunkte keine Gründe** sind]() 
+:::
+
+## Tatsächliche Gründe gegen die Spiele {#tatsächliche-gründe-gegen-die-spiele}
+
+<div style="position: relative; margin-top: 5%;">
+
+::: {.columns}
+::: {.column width="3%"}
+:::
+::: {.column width="24%"}
+::: {.callout-important icon="false" .nonincremental}
+### Olympia-Spiele kosten unverhältnismäßig viel
+:::
+:::
+::: {.column width="3%"}
+:::
+::: {.column width="32%"}
+::: {.callout-important icon="false" .nonincremental}
+### Das IOC ist ein unfairer Partner, mit dem nicht kooperiert werden sollte
+:::
+:::
+::: {.column width="4%"}
+:::
+::: {.column width="30%"}
+::: {.callout-important icon="false" .nonincremental}
+### ökologische Belastungen durch Olympische Spiele
+:::
+:::
+::: {.column width="4%"}
+:::
+:::
+
+</div>
+
+::: {.fragment}
+
+<div style="position: relative; margin-top: 7%;">
+
+::: {.columns}
+::: {.column width="16%"}
+::: {.callout-important icon="false"}
+### Zusätzliche Kosten für den Stadthaushalt
+:::
+:::
+::: {.column width="14%"}
+::: {.callout-important icon="false"}
+### Finanzrisiken für den Stadthaushalt
+:::
+:::
+::: {.column width="16%"}
+::: {.callout-important icon="false"}
+### Gefahr einer Abhängigkeit vom IOC
+:::
+:::
+::: {.column width="16%"}
+::: {.callout-important icon="false"}
+### Unfaire Verteilung der Gewinne
+:::
+:::
+::: {.column width="22%"}
+::: {.callout-important icon="false"}
+### Ressourcenverschwen\-dung durch temporäre Sportanlagen
+:::
+:::
+::: {.column width="16%"}
+::: {.callout-important icon="false"}
+### Eingriffe in schützenswerte Natur
+:::
+:::
+:::
+</div>
+
+<!-- CSS Arrows -->
+<div style="position: relative; height: 0px; margin-top: -226px;">
+  <!-- Arrow from "Zusätzliche Kosten" to "kosten viel"  -->
+  <div style="position: absolute; left: 10%; top: -5px; width: 2px; height: 125px; background: green; transform: rotate(30deg);"></div>
+  <div style="position: absolute; left: 12.2%; top: 0px; width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 12px solid green; transform: rotate(30deg);"></div>
+
+  <!-- Arrow from "Finanzrisiken" to "kosten viel" -->
+  <div style="position: absolute; left: 20%; top: -5px; width: 2px; height: 125px; background: green; transform: rotate(330deg);"></div>
+  <div style="position: absolute; left: 16.35%; top: 0px; width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 12px solid green; transform: rotate(330deg);"></div>
+
+  <!-- Arrow from "Gefahr einer Abhängigkeit" to "unfairer Partner" -->
+  <div style="position: absolute; left: 40%; top: -5px; width: 2px; height: 125px; background: green; transform: rotate(30deg);"></div>
+  <div style="position: absolute; left: 42.2%; top: 0px; width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 12px solid green; transform: rotate(30deg);"></div>
+
+  <!-- Arrow from "Unfaire Verteilung" to "unfairer Partner" -->
+  <div style="position: absolute; left: 50.4%; top: -5px; width: 2px; height: 125px; background: green; transform: rotate(330deg);"></div>
+  <div style="position: absolute; left: 46.8%; top: 0px; width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 12px solid green; transform: rotate(330deg);"></div>
+
+  <!-- Arrow from "Ressourcenverschwendung" to "ökologische Belastungen"  -->
+  <div style="position: absolute; left: 77%; top: -5px; width: 2px; height: 125px; background: green; transform: rotate(30deg);"></div>
+  <div style="position: absolute; left: 79.3%; top: 0px; width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 12px solid green; transform: rotate(30deg);"></div>
+
+  <!-- Arrow from "Eingriffe in Natur" to "ökologische Belastungen" -->
+  <div style="position: absolute; left: 88%; top: -5px; width: 2px; height: 125px; background: green; transform: rotate(330deg);"></div>
+  <div style="position: absolute; left: 84.35%; top: 0px; width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 12px solid green; transform: rotate(330deg);"></div>
+</div>
+
+:::
+
+::: footer
+ArgumentationsAgentur | [zurück zu Gliederung](#gliederung) | [**Hintergrund**: warum manche der angeführten **Contra-Gesichtspunkte keine Gründe** sind]() 
+:::
+
+## Dialektik angesichts von Pro- und Kontra-Gründen {#dialektik-angesichts-von-pro--und-kontra-gründen auto-animate="true"}
+
+<div style="position: relative; margin-top: 3%;">
+
+::: {.columns}
+::: {.column width="10%"}
+:::
+::: {.column width="36%"}
+::: {.callout-tip icon="false"}
+#### Pro-Olympia-Bewerbung
+Die Stadt München sollte sich um die Ausrichtung der Olympischen Spiele 2036/40/44 bewerben.
+:::
+:::
+::: {.column width="15%"}
+:::
+::: {.column width="35%"}
+::: {.callout-important icon="false"}
+#### Gegen-Olympia-Bewerbung
+Die Stadt München sollte sich nicht um die Ausrichtung der Olympischen Spiele 2036/40/44 bewerben.
+:::
+:::
+::: {.column width="4%"}
+:::
+:::
+</div>
+
+<div style="position: relative; margin-top: 3%;">
+
+::: {.columns}
+::: {.column width="18%"}
+::: {.callout-tip icon="false"}
+#### Förderung der Stadtentwicklung
+:::
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="18%"}
+::: {.callout-tip icon="false"}
+#### Kurzfristige Wirt\-schaftsgewinne
+:::
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="18%"}
+::: {.callout-tip icon="false"}
+#### Image-Verbesserung
+:::
+:::
+
+::: {.column width="4%"}
+:::
+::: {.column width="18%"}
+::: {.callout-important icon="false"}
+#### Zu hohe Kosten und Finanzrisiken
+:::
+:::
+::: {.column width="2%"}
+:::
+::: {.column width="15%"}
+::: {.callout-important icon="false"}
+#### ökologische Belastungen
+:::
+:::
+:::
+
+::: {.columns}
+
+::: {.column width="9%"}
+:::
+
+::: {.column width="18%"}
+::: {.callout-tip icon="false"}
+#### Verbesserung der Inklusion
+:::
+:::
+
+::: {.column width="3%"}
+:::
+
+::: {.column width="18%"}
+::: {.callout-tip icon="false"}
+#### Einzigartige Erlebnisse
+:::
+:::
+
+::: {.column width="24%"}
+:::
+
+::: {.column width="18%"}
+::: {.callout-important icon="false"}
+#### Das IOC ist ein unfairer Partner
+:::
+:::
+
+:::
+
+</div>
+
+<svg id="arrows" style="position:absolute; left:0; top:0; width:100%; height:100%; overflow:visible; pointer-events:none; z-index:0;">
+  <defs>
+    <marker id="head-green" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="green"/>
+    </marker>
+    <marker id="head-red" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="firebrick"/>
+    </marker>
+  </defs>
+</svg>
+
+<script>
+window.addEventListener("load", function () {
+  const svg = document.getElementById("arrows");
+  const section = svg.closest("section");
+  const NS = "http://www.w3.org/2000/svg";
+
+  function draw() {
+    svg.querySelectorAll(":scope > line, :scope > path").forEach(l => l.remove());
+    if (!section.offsetWidth) return;               // slide not visible
+
+    const sr = section.getBoundingClientRect();
+    const k = sr.width / section.offsetWidth;       // reveal.js scale factor
+    const pos = el => {
+      const r = el.getBoundingClientRect();
+      return {
+        cx: (r.left + r.width / 2 - sr.left) / k,
+        left: (r.left - sr.left) / k,
+        right: (r.right - sr.left) / k,
+        top: (r.top - sr.top) / k,
+        bottom: (r.bottom - sr.top) / k
+      };
+    };
+
+    function add(tag, attrs) {
+      const el = document.createElementNS(NS, tag);
+      for (const a in attrs) el.setAttribute(a, attrs[a]);
+      el.setAttribute("stroke", "green");
+      el.setAttribute("stroke-width", 2);
+      el.setAttribute("marker-end", "url(#head-green)");
+      svg.appendChild(el);
+    }
+
+    // DOM order: 0 = pro box, 1 = contra box, 2.. = the eight argument boxes
+    const boxes = [...section.querySelectorAll(".callout")];
+    const target = { green: pos(boxes[0]), red: pos(boxes[1]) };
+
+    const args = boxes.slice(2).map(b => ({
+      color: b.classList.contains("callout-tip") ? "green" : "red",
+      s: pos(b)
+    }));
+
+    // row 2 = boxes with the smallest top; everything else is row 3
+    const minTop = Math.min(...args.map(a => a.s.top));
+    const row2 = args.filter(a => Math.abs(a.s.top - minTop) < 5);
+    const row3 = args.filter(a => !row2.includes(a));
+
+    // vertical lanes: gaps between neighbouring row-2 boxes, plus both outer sides
+    const edges = row2.map(a => a.s).sort((a, b) => a.left - b.left);
+    const lanes = [edges[0].left - 15];
+    for (let i = 1; i < edges.length; i++) {
+      if (edges[i].left - edges[i - 1].right >= 6)      // ignore gaps that are too narrow
+        lanes.push((edges[i - 1].right + edges[i].left) / 2);
+    }
+    lanes.push(edges[edges.length - 1].right + 15);
+
+    const row2Top    = Math.min(...row2.map(a => a.s.top));
+    const row2Bottom = Math.max(...row2.map(a => a.s.bottom));
+    const row3Top    = Math.min(...row3.map(a => a.s.top));
+    const yMid  = (row2Bottom + row3Top) / 2;   // horizontal run between rows 2 and 3
+    const yTurn = row2Top - 12;                 // where the path leaves the lane
+
+    // row 2: straight arrows
+    row2.forEach(a => {
+      const t = target[a.color];
+      add("line", { x1: a.s.cx, y1: a.s.top - 2, x2: t.cx, y2: t.bottom + 2 });
+    });
+
+    // row 3: detour through the nearest lane
+    row3.forEach(a => {
+      const t = target[a.color];
+      const lane = lanes.reduce((best, x) =>
+        Math.abs(x - a.s.cx) < Math.abs(best - a.s.cx) ? x : best);
+      add("path", {
+        d: `M ${a.s.cx} ${a.s.top - 2} V ${yMid} H ${lane} V ${yTurn} L ${t.cx} ${t.bottom + 2}`,
+        fill: "none"
+      });
+    });
+  }
+
+  Reveal.on("ready", draw);
+  Reveal.on("slidechanged", () => setTimeout(draw, 50));
+  Reveal.on("slidetransitionend", draw);
+  Reveal.on("resize", draw);
+  draw();
+});
+</script>
+
+
+## Das Argumentations-Puzzle{auto-animate="true" visibility="uncounted"}
+
+<style>
+.dim .callout,
+.dim .callout * {
+  transition: color 0.2s ease;      /* same duration as reveal.js fragments */
+}
+section:has(.fragment.visible) .dim .callout,
+section:has(.fragment.visible) .dim .callout * {
+  color: grey !important;
+}
+</style>
+
+::: {.dim}
+::: {.columns}
+::: {.column width="10%"}
+:::
+::: {.column width="36%"}
+::: {.callout-tip icon="false"}
+#### Pro-Olympia-Bewerbung
+:::
+:::
+::: {.column width="10%"}
+:::
+::: {.column width="36%"}
+::: {.callout-important icon="false"}
+#### Gegen-Olympia-Bewerbung
+:::
+:::
+::: {.column width="4%"}
+:::
+:::
+:::
+
+::: {.fragment .nonincremental}
+::: {.columns}
+::: {.column width="50%"}
+::: {.callout-tip icon="false"}
+#### Pro-Argument?
+Wie sieht ein Argument aus, das
+
+* im Lichte der Pro-Gesichtspunkte und
+* im Lichte von Kontra-Gesichtspunkten
+* zu schlussfolgern erlaubt, dass München sich **bewerben sollte**?
+:::
+:::
+::: {.column width="50%"}
+::: {.callout-important icon="false"}
+#### Contra-Argument?
+Wie sieht ein Argument aus, das
+
+* im Lichte der Pro-Gesichtspunkte und
+* im Lichte von Kontra-Gesichtspunkten
+* zu schlussfolgern erlaubt, dass München sich **nicht bewerben sollte**?
+:::
+:::
+:::
+
+
+<svg id="arrows2" style="position:absolute; left:0; top:0; width:100%; height:100%; overflow:visible; pointer-events:none; z-index:0;">
+  <defs>
+    <marker id="head-green-2" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#99d8c9"/>
+    </marker>
+  </defs>
+</svg>
+
+<script>
+window.addEventListener("load", function () {
+  const svg = document.getElementById("arrows2");
+  const section = svg.closest("section");
+  const NS = "http://www.w3.org/2000/svg";
+  const SPREAD = 12;                       // distance between neighbouring arrowheads (px)
+
+  function draw() {
+    svg.querySelectorAll(":scope > line, :scope > path").forEach(l => l.remove());
+    if (!section.offsetWidth) return;                            // slide not visible
+
+
+    const sr = section.getBoundingClientRect();
+    const k = sr.width / section.offsetWidth;
+    const pos = el => {
+      const r = el.getBoundingClientRect();
+      return {
+        cx: (r.left + r.width / 2 - sr.left) / k,
+        left: (r.left - sr.left) / k,
+        right: (r.right - sr.left) / k,
+        top: (r.top - sr.top) / k,
+        bottom: (r.bottom - sr.top) / k
+      };
+    };
+    function add(tag, attrs) {
+      const el = document.createElementNS(NS, tag);
+      for (const a in attrs) el.setAttribute(a, attrs[a]);
+      el.setAttribute("stroke", "#99d8c9");
+      el.setAttribute("stroke-width", 2);
+      el.setAttribute("marker-end", "url(#head-green-2)");
+      svg.appendChild(el);
+    }
+
+    // DOM order: 0/1 = row 1, 2/3 = row 2, 4.. = the eight boxes of rows 3 and 4
+    const boxes = [...section.querySelectorAll(".callout")];
+    const row1 = { green: pos(boxes[0]), red: pos(boxes[1]) };
+    const row2 = { green: pos(boxes[2]), red: pos(boxes[3]) };
+
+    const args = boxes.slice(4).map(b => ({
+      color: b.classList.contains("callout-tip") ? "green" : "red",
+      s: pos(b)
+    }));
+    const minTop = Math.min(...args.map(a => a.s.top));
+    const row3 = args.filter(a => Math.abs(a.s.top - minTop) < 5);
+    const row4 = args.filter(a => !row3.includes(a));
+
+    // lanes = gaps between neighbouring row-3 boxes, plus both outer sides
+    const edges = row3.map(a => a.s).sort((a, b) => a.left - b.left);
+    const lanes = [edges[0].left - 15];
+    for (let i = 1; i < edges.length; i++)
+      if (edges[i].left - edges[i - 1].right >= 6)
+        lanes.push((edges[i - 1].right + edges[i].left) / 2);
+    lanes.push(edges[edges.length - 1].right + 15);
+
+    const row2Bottom = row2.green.bottom;
+    const row3Top    = Math.min(...row3.map(a => a.s.top));
+    const row3Bottom = Math.max(...row3.map(a => a.s.bottom));
+    const row4Top    = Math.min(...row4.map(a => a.s.top));
+    const yTurn = (row2Bottom + row3Top) / 2;      // between rows 2 and 3
+    const yMid  = (row3Bottom + row4Top) / 2;      // between rows 3 and 4
+
+    // exit x of each arrow (own centre, or the lane for row 4), used for ordering
+    row3.forEach(a => a.key = a.s.cx);
+    row4.forEach(a => a.key = lanes.reduce((best, x) =>
+      Math.abs(x - a.s.cx) < Math.abs(best - a.s.cx) ? x : best));
+
+    // rows 3 and 4 -> row 2
+    ["green", "red"].forEach(color => {
+      const t = row2[color];
+      const group = args.filter(a => a.color === color).sort((a, b) => a.key - b.key);
+      group.forEach((a, n) => {
+        const x2 = t.cx + (n - (group.length - 1) / 2) * SPREAD;
+        const y2 = t.bottom + 2;
+        if (row3.includes(a))
+          add("line", { x1: a.s.cx, y1: a.s.top - 2, x2: x2, y2: y2 });
+        else
+          add("path", {
+            d: `M ${a.s.cx} ${a.s.top - 2} V ${yMid} H ${a.key} V ${yTurn} L ${x2} ${y2}`,
+            fill: "none"
+          });
+      });
+    });
+
+    // row 2 -> row 1
+    ["green", "red"].forEach(color => {
+      const s = row2[color], t = row1[color];
+      add("line", { x1: s.cx, y1: s.top - 2, x2: t.cx, y2: t.bottom + 2 });
+    });
+  }
+
+  Reveal.on("ready", draw);
+  Reveal.on("slidechanged", () => setTimeout(draw, 50));
+  Reveal.on("slidetransitionend", draw);
+  Reveal.on("resize", draw);
+  draw();
+});
+</script>
+:::
+
+::: {.dim}
+::: {.columns}
+::: {.column width="18%"}
+::: {.callout-tip icon="false"}
+#### Förderung der Stadtentwicklung
+:::
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="18%"}
+::: {.callout-tip icon="false"}
+#### Kurzfristige Wirt\-schaftsgewinne
+:::
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="18%"}
+::: {.callout-tip icon="false"}
+#### Image-Verbesserung
+:::
+:::
+
+::: {.column width="4%"}
+:::
+::: {.column width="18%"}
+::: {.callout-important icon="false"}
+#### Zu hohe Kosten und Finanzrisiken
+:::
+:::
+::: {.column width="2%"}
+:::
+::: {.column width="15%"}
+::: {.callout-important icon="false"}
+#### ökologische Belastungen
+:::
+:::
+:::
+:::
+
+::: {.dim}
+::: {.columns}
+
+::: {.column width="9%"}
+:::
+
+::: {.column width="18%"}
+::: {.callout-tip icon="false"}
+#### Verbesserung der Inklusion
+:::
+:::
+
+::: {.column width="3%"}
+:::
+
+::: {.column width="18%"}
+::: {.callout-tip icon="false"}
+#### Einzigartige Erlebnisse
+:::
+:::
+
+::: {.column width="24%"}
+:::
+
+::: {.column width="18%"}
+::: {.callout-important icon="false"}
+#### Das IOC ist ein unfairer Partner
+:::
+:::
+
+:::
+:::
+
+# [Schritt 2: Rekonstruierte Argumente]{#schritt-2:-rekonstruierte-argumente style="color:#d95f0e"}
+
+## Pro-Argumente {#pro-argumente}
+
+::: {.nonincremental}
+
+<!--
+::: {.columns}
+::: {.column width="32%"}
+:::
+::: {.column width="36%"}
+::: {.callout-tip icon="false"}
+#### Pro-Olympia-Bewerbung
+:::
+:::
+::: {.column width="32%"}
+:::
+:::
+-->
+::: {.columns}
+
+::: {.column width="25%"}
+::: {.callout-tip icon="false"}
+#### A1: Pro-Abwägung^[[Detailrekonstruktion A1: Pro-Abwägung]()]
+Idee des Arguments:
+
+* Die gesamten erwarteten Vorteile, die eine Ausrichtung der Olympischen Spiele mit sich bringt, überwiegen die gesamten erwarteten Nachteile aus ihrer Ausrichtung.
+:::
+:::
+
+::: {.column width="41%"}
+::: {.callout-tip icon="false"}
+#### A2: Argument der Chancen-Ergreifung^[[Detailrekonstruktion A2: Chancen-Ergreifung]()]
+Idee des Arguments:
+
+* Es ist nicht seriös abschätzbar, wie hoch die erwarteten Vorteile und die erwarteten Nachteile aus der Ausrichtung der Olympischen Spiele sein werden.
+* Dennoch sollte die Stadt München die Olympischen Spiele ausrichten, denn:
+  * die Chancen sind sehr bedeutsam: im Idealfall bringen die Spiele sehr hohe und sehr bedeutsame Vorteile für die Stadt und ihre Bewohner\*innen;
+  * die Risiken sind fair aufteilbar: schlimmstenfalls können die Nachteile aus der Durchführung der Spiele so aufgeteilt werden, dass niemand von den die Verluste Tragenden gewichtig benachteiligt wird.
+:::
+:::
+
+::: {.column width="34%"}
+::: {.callout-tip icon="false"}
+#### A3: Zurückweisung der Nachteile^[[Detailrekonstruktion A3: Zurückweisung der Nachteile]()]
+Idee des Arguments:
+
+* Die aus der Ausrichtung der Olympischen Spiele befürchteten Nachteile – Finanzrisiken, Kooperation mit dem IOC und Ausrichtungskosten – sind nicht gewichtig.
+* Da die Ausrichtung der Spiele bedeutsame Vorteile realisieren kann und die möglichen Nachteile nicht gewichtig sind, sollte sich München um die Ausrichtung bewerben. 
+:::
+:::
+
+:::
+:::
+
+::: footer
+ArgumentationsAgentur | [zurück zu Gliederung](#gliederung) | [**Hintergrund**: Detailrekonstruktion der Pro-Argumente]() 
+:::
+
+
+## Contra-Argumente {#contra-argumente}
+
+::: {.nonincremental}
+
+::: {.columns}
+::: {.column width="25%"}
+::: {.callout-important icon="false"}
+#### A4: Kontra-Abwägung^[[Detailrekonstruktion A4: Kontra-Abwägung]()]
+Idee des Arguments:
+
+* Die gesamten erwarteten Nachteile, die eine Ausrichtung der Olympischen Spiele mit sich bringt, überwiegen die gesamten erwarteten Vorteile aus ihrer Ausrichtung.
+:::
+:::
+
+::: {.column width="33%"}
+::: {.callout-important icon="false"}
+#### A5: Bessere Alternativen zu Olympia^[[Detailrekonstruktion A5: Bessere-Alternativen]()]
+Idee des Arguments:
+
+* Wenn die Stadt München die Stadtentwicklungsvorhaben, die bei Ausrichtung von Olympia vom Bund und Freistaat bezuschusst werden, selbst finanziert, hat sie insgesamt geringere Nachteile zu tragen als aus der Ausrichtung von Olympischen Spielen.
+:::
+:::
+
+::: {.column width="42%"}
+::: {.callout-important icon="false"}
+#### A6: Vermeidung unkalkulierbarer Risiken^[[Detailrekonstruktion A6: Vermeidung unkalkulierbarer Risiken]()]
+Idee des Arguments:
+
+* Es ist nicht seriös abschätzbar, wie hoch die erwarteten Vorteile und die erwarteten Nachteile aus der Ausrichtung der Olympischen Spiele sein werden.
+* Die Stadt München sollte sich nicht um die Ausrichtung bewerben, denn:
+  * schlimmstenfalls können die Verluste aus der Ausrichtung -- ökologische Schäden sowie unerwartete finanzielle Belastungen -- deutlich höher ausfallen als die maximal möglichen Vorteile.
+  * Die maximal möglichen Verluste aus der Ausrichtung können derart gravierend werden, dass sie nicht fair aufgefangen werden können: es wird zu Kürzungen in unbeteiligten Bereichen des Stadthaushalts führen.
+:::
+:::
+:::
+:::
+
+
+
+::: footer
+ArgumentationsAgentur | [zurück zu Gliederung](#gliederung) | [**Hintergrund**: Detailrekonstruktion der Kontra-Argumente]() 
+:::
+
+# [Schritt 3: Diskussion der Argumente]{#schritt-3:-diskussion-der-argumente style="color:#d95f0e"}
+
+# [3.1: Unentscheidbare Argumente]{#3.1:-unentscheidbare-argumente style="color:#d95f0e"}
+
+## Abwägungs-Argumente (A1 und A4) sind unentscheidbar
+
+::: {.columns}
+
+::: {.column width="1%"}
+:::
+
+::: {.column width="42%"}
+::: {.callout-tip icon="false"}
+### Pro-Abwägung (A1)
+Die gesamten erwarteten Vorteile, die eine Ausrichtung der Olympischen Spiele mit sich bringt, überwiegen die gesamten erwarteten Nachteile aus ihrer Ausrichtung.
+:::
+:::
+
+::: {.column width="14%"}
+:::
+
+::: {.column width="42%"}
+::: {.callout-important icon="false"}
+### Kontra-Abwägung (A4)
+Die gesamten erwarteten Nachteile, die eine Ausrichtung der Olympischen Spiele mit sich bringt, überwiegen die gesamten erwarteten Vorteile aus ihrer Ausrichtung.
+:::
+:::
+::: {.column width="1%"}
+:::
+:::
+
+<svg id="arrows3" style="position:absolute; left:0; top:0; width:100%; height:100%; overflow:visible; pointer-events:none; z-index:0;">
+  <defs>
+    <marker id="head-red-3" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto-start-reverse">
+      <path d="M0,0 L8,4 L0,8 z" fill="#c62828"/>
+    </marker>
+  </defs>
+</svg>
+
+<script>
+window.addEventListener("load", function () {
+  const svg = document.getElementById("arrows3");
+  const section = svg.closest("section");
+  const NS = "http://www.w3.org/2000/svg";
+  const PAD = 6;                              // free space between arrowhead and box (px)
+
+  function draw() {
+    svg.querySelectorAll(":scope > line").forEach(l => l.remove());
+    if (!section.offsetWidth) return;         // slide not visible
+
+    const sr = section.getBoundingClientRect();
+    const k = sr.width / section.offsetWidth;
+    const rel = el => {
+      const r = el.getBoundingClientRect();
+      return {
+        left: (r.left - sr.left) / k,
+        right: (r.right - sr.left) / k,
+        cy: (r.top + r.height / 2 - sr.top) / k
+      };
+    };
+
+    const [pro, contra] = section.querySelectorAll(".callout");
+    const a = rel(pro), b = rel(contra);
+    const y = (a.cy + b.cy) / 2;              // vertically centred between the boxes
+
+    const line = document.createElementNS(NS, "line");
+    line.setAttribute("x1", a.right + PAD);   line.setAttribute("y1", y);
+    line.setAttribute("x2", b.left - PAD);    line.setAttribute("y2", y);
+    line.setAttribute("stroke", "#c62828");
+    line.setAttribute("stroke-width", 3);
+    line.setAttribute("marker-start", "url(#head-red-3)");
+    line.setAttribute("marker-end", "url(#head-red-3)");
+    svg.appendChild(line);
+  }
+
+  Reveal.on("ready", draw);
+  Reveal.on("slidechanged", () => setTimeout(draw, 50));
+  Reveal.on("slidetransitionend", draw);
+  Reveal.on("resize", draw);
+  draw();
+});
+</script>
+
+<div style="position: relative; margin-top: 4%;">
+::: {.columns .fragment}
+
+::: {.nonincremental}
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="80%"}
+
+::: {.callout-caution icon="false"}
+#### Diese Kontroverse ist unentscheidbar
+
+* diese Kontroverse kann nur durch eine präzisere Schätzung des gesamtgesellschaftlichen Werts der Konsequenzen aus der Ausrichtung der Olympischen Spiele aufgelöst werden.
+
+* die mir [bekannte Schätzung](https://mcube-cluster.de/wp-content/uploads/2025/10/251009_MCube_Olympia_07.pdf) ist nicht präzise genug: sie gibt keine Wahrscheinlichkeitswerte an.
+
+  * ich vermute, dass es nicht möglich ist, hinreichend präzise Schätzungen des Erwartungswertes zu erhalten.
+  * In diesem Fall sollten diese Argumente nicht verwendet werden.
+:::
+:::
+
+::: {.column width="10%"}
+:::
+
+:::
+:::
+</div>
+
+## A3: "Zurückweisung der Nachteile" ist unbegründbar
+
+::: {.nonincremental}
+
+* Das Argument erfordert Festlegungen auf Behauptungen, die nicht begründet werden können:
+
+::: {.columns}
+::: {.column width="30%"}
+::: {.callout-tip icon="false"}
+### Es ist nicht zu erwarten, dass das IOC auf eine untragbare Weise das Ausrichtungskonzept der Stadt München beeinflusst 
+
+* Derzeit kann niemand wissen, wie das IOC mit dem Ausrichtungskonzept der Stadt München umgehen wird. 
+:::
+:::
+
+::: {.column width="30%"}
+::: {.callout-tip icon="false"}
+### Es ist nicht zu erwarten, dass die Ausrichtung der Olympischen Spiele dem Stadthaushalt unerwartete Kosten aufbürdet
+
+* Es ist derzeit unabsehbar, welche Kosten die Ausrichtung der Olympischen Spiele erfordern wird. 
+:::
+:::
+
+::: {.column width="40%"}
+::: {.callout-tip icon="false"}
+### Es ist nicht zu erwarten, dass die Ausrichtung der Olympischen Spiele dazu führt, dass andere Haushalts\-posten der Stadt signifikant gekürzt werden 
+
+* Es ist derzeit unabsehbar, welche Konsequenzen für den Stadthaushalt die Mehrbelastungen durch die Ausrichtung der Olympischen Spiele mit sich bringen werden.
+:::
+:::
+:::
+
+
+::: {.columns}
+
+::: {.column width="30%"}
+<div style="text-align: center;">
+:x:
+</div>
+:::
+
+::: {.column width="30%"}
+<div style="text-align: center;">
+:x:
+</div>
+:::
+
+::: {.column width="40%"}
+<div style="text-align: center;">
+:x:
+</div>
+:::
+
+:::
+:::
+
+# [Möglichkeit einer konstruktiven Fortführung der Kontroverse]{#möglichkeit-einer-konstruktiven-fortführung-der-kontroverse style="color:#d95f0e"}
+
+## Kontroversen angesichts von Unsicherheiten {auto-animate="true"}
+
+::: {.nonincremental}
+
+::: {.columns}
+
+::: {.column width="47%"}
+::: {.callout-tip icon="false"}
+### Argument der Chancen-Ergreifung (A2)
+
+* Ausrichtung der Spiele bietet der Stadt bedeutsame Entwicklungschancen. 
+* Die Risiken können schlimmstenfalls fair aufgeteilt werden. 
+:::
+:::
+
+::: {.column width="6%"}
+:::
+
+::: {.column width="47%"}
+::: {.callout-important icon="false"}
+### Vermeidung unkalkulierbarer Risiken (A6)
+
+* Schlimmstenfalls können die Verluste aus der Ausrichtung der Spiele nicht fair aufgefangen werden. 
+:::
+:::
+:::
+:::
+
+
+::: {.nonincremental .fragment}
+<div style="position: relative; margin-top: 5%;">
+
+::: {.columns}
+
+::: {.column width="7%"}
+<div style="position: relative; margin-top: 2%; font-size:0.7em; text-align:center; color:grey;">
+  [1. Kontrov.](#1.-kontroverse:-verluste)
+</div>
+:::
+
+::: {.column width="15%"}
+:::
+
+::: {.column width="25%"}
+::: {.callout-tip icon="false"}
+### Mögliche Verluste sind fair tragbar
+:::
+:::
+
+::: {.column width="6%"}
+:::
+
+::: {.column width="25%"}
+::: {.callout-important icon="false"}
+### Maximale Verluste sind nicht fair tragbar
+:::
+:::
+
+::: {.column width="22%"}
+:::
+:::
+
+::: {.columns}
+
+::: {.column width="10%"}
+<div style="position: relative; margin-top: 2%; font-size:0.7em; text-align:center; color:grey;">
+  [2. Kontrov.](#2.-kontroverse:-alternativen)
+</div>
+:::
+
+::: {.column width="27%"}
+::: {.callout-tip icon="false"}
+### Keine bessere Alternative für Stadtentwicklung
+:::
+:::
+
+::: {.column width="26%"}
+:::
+
+::: {.column width="27%"}
+::: {.callout-important icon="false"}
+### Bessere Stadtentwicklung unabhängig von Olympia-Zuschüssen
+:::
+:::
+
+:::
+</div>
+
+<div id="label4" style="position:absolute; font-size:0.6em; text-align:center; color:grey; line-height:1.2;">
+  Einander widersprechende Prämissen in den Argumenten 
+  A2 und A6
+</div>
+
+<svg id="arrows4" style="position:absolute; left:0; top:0; width:100%; height:100%; overflow:visible; pointer-events:none; z-index:0;">
+  <defs>
+    <marker id="head-green-4" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#2e7d32"/>
+    </marker>
+    <marker id="head-red-4" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto-start-reverse">
+      <path d="M0,0 L8,4 L0,8 z" fill="#c62828"/>
+    </marker>
+  </defs>
+</svg>
+
+<script>
+window.addEventListener("load", function () {
+  const svg = document.getElementById("arrows4");
+  const section = svg.closest("section");
+  const NS = "http://www.w3.org/2000/svg";
+  const GREEN = "#2e7d32", RED = "#c62828";
+  const SPREAD = 12;      // distance between the two arrowheads at a row-1 box (px)
+  const PAD = 0;          // free space between a double arrow and its boxes (px)
+  const LANE = 15;        // distance of a detour from the side of a row-2 box (px)
+
+  function draw() {
+    svg.querySelectorAll(":scope > line, :scope > path").forEach(l => l.remove());
+    if (!section.offsetWidth) return;                 // slide not visible
+
+    const sr = section.getBoundingClientRect();
+    const k = sr.width / section.offsetWidth;         // reveal.js scale factor
+    const pos = el => {
+      const r = el.getBoundingClientRect();
+      return {
+        cx: (r.left + r.width / 2 - sr.left) / k,
+        cy: (r.top + r.height / 2 - sr.top) / k,
+        left: (r.left - sr.left) / k,
+        right: (r.right - sr.left) / k,
+        top: (r.top - sr.top) / k,
+        bottom: (r.bottom - sr.top) / k
+      };
+    };
+    function add(tag, attrs, color, double) {
+      const el = document.createElementNS(NS, tag);
+      for (const a in attrs) el.setAttribute(a, attrs[a]);
+      el.setAttribute("stroke", color);
+      el.setAttribute("stroke-width", double ? 2 : 2);
+      el.setAttribute("marker-end", `url(#head-${color === GREEN ? "green" : "red"}-4)`);
+      if (double) el.setAttribute("marker-start", "url(#head-red-4)");
+      svg.appendChild(el);
+    }
+
+    // DOM order: 0/1 = row 1 (green/red), 2/3 = row 2, 4/5 = row 3
+    const p = [...section.querySelectorAll(".callout")].map(pos);
+    const row1 = { green: p[0], red: p[1] };
+    const row2 = { green: p[2], red: p[3] };
+    const row3 = { green: p[4], red: p[5] };
+
+    const yTurn = (Math.max(p[0].bottom, p[1].bottom) + Math.min(p[2].top, p[3].top)) / 2; // rows 1|2
+    const yMid  = (Math.max(p[2].bottom, p[3].bottom) + Math.min(p[4].top, p[5].top)) / 2; // rows 2|3
+
+    // green arrows: rows 2 and 3 -> row 1
+    ["green", "red"].forEach(c => {
+      const t = row1[c], s2 = row2[c], s3 = row3[c];
+
+      // the row-3 box lies below its row-2 box -> detour around the outer side
+      const detour = s3.cx > s2.left - 5 && s3.cx < s2.right + 5;
+      const lane = s3.cx < s2.cx ? s2.left - LANE : s2.right + LANE;
+
+      const sources = [
+        { kind: 2, key: s2.cx },
+        { kind: 3, key: detour ? lane : s3.cx }
+      ].sort((a, b) => a.key - b.key);           // arrowheads ordered left to right
+
+      sources.forEach((s, n) => {
+        const x2 = t.cx + (n - 0.5) * SPREAD, y2 = t.bottom + 2;
+        if (s.kind === 2)
+          add("line", { x1: s2.cx, y1: s2.top - 2, x2: x2, y2: y2 }, GREEN);
+        else if (detour)
+          add("path", {
+            d: `M ${s3.cx} ${s3.top - 2} V ${yMid} H ${lane} V ${yTurn} L ${x2} ${y2}`,
+            fill: "none"
+          }, GREEN);
+        else
+          add("line", { x1: s3.cx, y1: s3.top - 2, x2: x2, y2: y2 }, GREEN);
+      });
+    });
+
+    // red double arrows: green <-> red in rows 2 and 3
+    [row2, row3].forEach(r => {
+      const y = (r.green.cy + r.red.cy) / 2;
+      add("line", { x1: r.green.right + PAD, y1: y, x2: r.red.left - PAD, y2: y }, RED, true);
+    });
+
+    // label: right of the red boxes, vertically between rows 2 and 3
+    const label = document.getElementById("label4");
+    const rightEdge = Math.max(row2.red.right, row3.red.right);
+    const slideW = section.offsetWidth;
+    const gap = 10;                                    // distance to the red boxes (px)
+    label.style.width = Math.max(slideW - rightEdge - gap, 60) + "px";
+    label.style.left = (rightEdge + gap) + "px";
+    const yCenter = (row2.red.bottom + row3.red.top) / 2;
+    label.style.top = (yCenter - label.offsetHeight / 2) + "px";
+  }
+
+  Reveal.on("ready", draw);
+  Reveal.on("slidechanged", () => setTimeout(draw, 50));
+  Reveal.on("slidetransitionend", draw);
+  Reveal.on("resize", draw);
+  draw();
+});
+</script>
+
+:::
+
+## 1. Kontroverse: Verluste {#1.-kontroverse:-verluste auto-animate="true"}
+
+::: {.nonincremental}
+
+::: {.columns}
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="39%"}
+::: {.callout-tip icon="false"}
+### Argument der Chancen-Ergreifung (A2)
+:::
+:::
+
+::: {.column width="14%"}
+:::
+
+::: {.column width="39%"}
+::: {.callout-important icon="false"}
+### Vermeidung unkalkulierbarer Risiken (A6)
+:::
+:::
+::: {.column width="4%"}
+:::
+:::
+
+::: {.columns}
+
+::: {.column width="47%"}
+::: {.callout-tip icon="false"}
+### Mögliche Verluste sind fair tragbar
+Mögliche Verluste können, sollten sie auftreten, so aufgeteilt werden, dass dadurch niemand moralisch signifikant benachteiligt wird.
+:::
+:::
+
+::: {.column width="6%"}
+:::
+
+::: {.column width="47%"}
+::: {.callout-important icon="false"}
+### Maximale Verluste sind nicht fair tragbar
+Die maximal möglichen Verluste aus der Ausrichtung können derart gravierend werden, dass ihr Auffangen zu moralisch signifikanten Benachteiligungen führen wird.
+:::
+:::
+:::
+:::
+
+<svg id="arrows5" style="position:absolute; left:0; top:0; width:100%; height:100%; overflow:visible; pointer-events:none; z-index:0;">
+  <defs>
+    <marker id="head-green-5" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#2e7d32"/>
+    </marker>
+  </defs>
+</svg>
+
+<script>
+window.addEventListener("load", function () {
+  const svg = document.getElementById("arrows5");
+  const section = svg.closest("section");
+  const NS = "http://www.w3.org/2000/svg";
+  const SPREAD = 12;                       // distance between neighbouring arrowheads (px)
+
+  function draw() {
+    svg.querySelectorAll(":scope > line, :scope > path").forEach(l => l.remove());
+    if (!section.offsetWidth) return;                            // slide not visible
+
+
+    const sr = section.getBoundingClientRect();
+    const k = sr.width / section.offsetWidth;
+    const pos = el => {
+      const r = el.getBoundingClientRect();
+      return {
+        cx: (r.left + r.width / 2 - sr.left) / k,
+        left: (r.left - sr.left) / k,
+        right: (r.right - sr.left) / k,
+        top: (r.top - sr.top) / k,
+        bottom: (r.bottom - sr.top) / k
+      };
+    };
+    function add(tag, attrs) {
+      const el = document.createElementNS(NS, tag);
+      for (const a in attrs) el.setAttribute(a, attrs[a]);
+      el.setAttribute("stroke", "#2e7d32");
+      el.setAttribute("stroke-width", 2);
+      el.setAttribute("marker-end", "url(#head-green-5)");
+      svg.appendChild(el);
+    }
+
+    // DOM order: 0/1 = row 1, 2/3 = row 2, 4.. = the eight boxes of rows 3 and 4
+    const boxes = [...section.querySelectorAll(".callout")];
+    const row1 = { green: pos(boxes[0]), red: pos(boxes[1]) };
+    const row2 = { green: pos(boxes[2]), red: pos(boxes[3]) };
+
+    const args = boxes.slice(4).map(b => ({
+      color: b.classList.contains("callout-tip") ? "green" : "red",
+      s: pos(b)
+    }));
+    const minTop = Math.min(...args.map(a => a.s.top));
+    const row3 = args.filter(a => Math.abs(a.s.top - minTop) < 5);
+    const row4 = args.filter(a => !row3.includes(a));
+
+    // row 2 -> row 1
+    ["green", "red"].forEach(color => {
+      const s = row2[color], t = row1[color];
+      add("line", { x1: s.cx, y1: s.top - 2, x2: t.cx, y2: t.bottom + 2 });
+    });
+  }
+
+  Reveal.on("ready", draw);
+  Reveal.on("slidechanged", () => setTimeout(draw, 50));
+  Reveal.on("slidetransitionend", draw);
+  Reveal.on("resize", draw);
+  draw();
+});
+</script>
+
+::: {.fragment .nonincremental}
+#### Fragen zum konstruktiven Weiterdiskutieren
+
+::: {.columns}
+::: {.column width="49%"}
+<div style="text-align: center; font-size: 0.8em; color: green;">
+Befürworter\*innen:
+</div>
+
+::: {style="font-size: 0.8em;"} 
+* Aufzeigen einer Strategie zum fairen Aufteilen möglicher Zusatzlasten
+:::
+
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="49%"}
+<div style="text-align: center; font-size: 0.8em; color: red;">
+Gegner\*innen:
+</div>
+
+::: {style="font-size: 0.8em;"}
+* Aufzeigen, wie hoch die ungeplanten finanziellen und ökologischen Belastungen ausfallen können und wer sie jeweils tragen müsste.
+:::
+:::
+:::
+
+:::
+
+## 2. Kontroverse: Alternativen {#2.-kontroverse:-alternativen auto-animate="true" style="font-size: 0.8em;"}
+
+::: {.nonincremental}
+
+::: {.columns}
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="39%"}
+::: {.callout-tip icon="false"}
+### Argument der Chancen-Ergreifung (A2)
+:::
+:::
+
+::: {.column width="14%"}
+:::
+
+::: {.column width="39%"}
+::: {.callout-important icon="false"}
+### Vermeidung unkalkulierbarer Risiken (A6)
+:::
+:::
+::: {.column width="4%"}
+:::
+:::
+
+::: {.columns}
+
+::: {.column width="47%"}
+::: {.callout-tip icon="false"}
+### Keine bessere Alternative für Stadtentwicklung
+Es gibt keinen anderen Weg, mit geringeren Nachteilen als denen, die durch eine Olympia-Ausrichtung entstehen können, die positiven Konsequenzen für die Stadt zu realisieren, die von der Ausrichtung der Olympischen Spiele zu erwarten sind.
+:::
+:::
+
+::: {.column width="6%"}
+:::
+
+::: {.column width="47%"}
+::: {.callout-important icon="false"}
+### Bessere Alternative für Stadtentwicklung vorhanden
+Wenn die Stadt München die Infrastrukturvorhaben, die sie im Zuge der Olympia-Ausrichtung realisieren will, vollständig selbst finanziert, hat sie insgesamt geringere Nachteile zu tragen als mittels Olympia-Ausrichtung.
+:::
+:::
+:::
+:::
+
+<svg id="arrows6a" style="position:absolute; left:0; top:0; width:100%; height:100%; overflow:visible; pointer-events:none; z-index:0;">
+  <defs>
+    <marker id="head-green-6" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#2e7d32"/>
+    </marker>
+  </defs>
+</svg>
+
+::: {.fragment .nonincremental}
+
+<svg id="arrows6b" style="position:absolute; left:0; top:0; width:100%; height:100%; overflow:visible; pointer-events:none; z-index:0;">
+</svg>
+
+::: {.columns}
+
+::: {.column width="43%"}
+::: {.callout-tip icon="false"}
+### Zuschüsse für Infrastruktur wichtiger als Olympia-Risiken
+Die zusätzliche Belastung des Stadthaushalts (durch den Wegfall der Zuschüsse) hat insgesamt höhere Nachteile als das Tragen der Risiken aus der Kooperation mit dem IOC.
+:::
+:::
+
+::: {.column width="14%"}
+<div style="font-size:0.6em; text-align:center; color:grey; line-height:1.2;">
+  Einander widersprechende Prämissen aus den Stützargumenten der Befürworter\*innen und der Gegner\*innen
+</div>
+:::
+
+::: {.column width="43%"}
+::: {.callout-important icon="false"}
+### Risiken der IOC-Kooperation schlimmer als Verzicht auf finanzielle Zuschüsse
+
+Die zusätzliche Belastung des Stadthaushalts für die Realisierung der Infrastrukturvorhaben ist insgesamt leichter zu bewältigen als das Tragen der Risiken aus der Kooperation mit dem IOC.
+:::
+:::
+:::
+
+#### Fragen zum konstruktiven Weiterdiskutieren
+
+::: {.columns}
+::: {.column width="49%"}
+<div style="text-align: center;">
+Befürworter\*innen:
+</div>
+
+* Aufzeigen, dass mögliche IOC-Eingriffe keine Kostensteigerungen oder andere Nachteile (ökologische Eingriffe) induzieren können, die die Vorteile der Spiele überwiegen.
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="49%"}
+<div style="text-align: center;">
+Gegner\*innen:
+</div>
+
+* Aufzeigen, wie hoch die ungeplanten finanziellen und ökologischen Belastungen durch mögliche Eingriffe des IOC ausfallen können.
+:::
+:::
+
+:::
+
+<script>
+window.addEventListener("load", function () {
+  const svgA = document.getElementById("arrows6a");   // row 2 -> row 1
+  const svgB = document.getElementById("arrows6b");   // row 3 -> row 2 (in the fragment)
+  const section = svgA.closest("section");
+  const NS = "http://www.w3.org/2000/svg";
+  const GREEN = "#2e7d32";
+
+  function draw() {
+    [svgA, svgB].forEach(s =>
+      s.querySelectorAll(":scope > line").forEach(l => l.remove()));
+    if (!section.offsetWidth) return;                 // slide not visible
+
+    const sr = section.getBoundingClientRect();
+    const k = sr.width / section.offsetWidth;         // reveal.js scale factor
+    const pos = el => {
+      const r = el.getBoundingClientRect();
+      return {
+        cx: (r.left + r.width / 2 - sr.left) / k,
+        top: (r.top - sr.top) / k,
+        bottom: (r.bottom - sr.top) / k
+      };
+    };
+    function arrow(svg, from, to) {                   // top middle of `from` -> bottom middle of `to`
+      const line = document.createElementNS(NS, "line");
+      line.setAttribute("x1", from.cx);  line.setAttribute("y1", from.top - 2);
+      line.setAttribute("x2", to.cx);    line.setAttribute("y2", to.bottom + 2);
+      line.setAttribute("stroke", GREEN);
+      line.setAttribute("stroke-width", 2);
+      line.setAttribute("marker-end", "url(#head-green-6)");
+      svg.appendChild(line);
+    }
+
+    // DOM order: 0/1 = row 1 (green/red), 2/3 = row 2, 4/5 = row 3
+    const p = [...section.querySelectorAll(".callout")].map(pos);
+    [0, 1].forEach(i => {                             // 0 = green, 1 = red
+      arrow(svgA, p[2 + i], p[i]);                    // row 2 -> row 1
+      arrow(svgB, p[4 + i], p[2 + i]);                // row 3 -> row 2
+    });
+  }
+
+  Reveal.on("ready", draw);
+  Reveal.on("slidechanged", () => setTimeout(draw, 50));
+  Reveal.on("slidetransitionend", draw);
+  Reveal.on("resize", draw);
+  draw();
+});
+</script>
+
+## [Fazit]{#fazit style="color:#d95f0e"}
