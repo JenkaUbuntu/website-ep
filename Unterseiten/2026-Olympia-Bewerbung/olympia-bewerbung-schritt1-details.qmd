@@ -61,12 +61,14 @@ format:
 :::
 </div>
 
+<!--
 <div style="position: relative; margin-top: 2%;">
 ::: {.callout-note icon="false"}
 
 ### [1.4 Das argumentative Rätsel](#1.4-das-argumentative-rätsel)
 :::
 </div>
+-->
 :::
 
 ## [Öffentlich angeführte Pro- und Contra-Gesichtspunkte]{#sec-öffentlich-angeführte-pro--und-contra-gesichtspunkte} 
