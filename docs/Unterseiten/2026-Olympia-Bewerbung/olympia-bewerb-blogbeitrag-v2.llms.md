@@ -46,30 +46,36 @@ Zunächst müssen daher die vorgebrachten Gesichtspunkte daraufhin sortiert werd
 
 ### Ergebnis der Sortierung
 
-#### Gründe für eine Bewerbung Münchens
+Diese Sortierung zeigt, dass einige der vorgebrachten unterstützenden Gesichtspunkte und der Einwände keine genuinen Gründe darstellen, sondern eine unterstützende argumentative Rolle spielen, und dass einige der Gesichtspunkte einer empirischen Überprüfung nicht standhalten bzw. stark umstritten sind.
 
-- Förderung der Stadtentwicklung: Durchführung von Olympischen Spielen wird die Realisierung von städtischen Infrastrukturprojekten – Schaffung zusätzlichen Wohnraums, Ausbau des ÖPNV und der nachhaltigen Mobilitätsoptionen – beschleunigen und sie für die Stadt kostengünstiger machen;
-- Stärkung von Breitensport: Durch die Ausrichtung der Spiele werden Sportstätten ausgebaut und saniert; Breiten- und informeller Sport erhalten zusätzliche/verbesserte Infrastruktur.
-- Verbesserung der Inklusion: Durchführung von Olympischen Spielen wird zur Verbesserung der Barrierefreiheit in der Stadt führen.
-- Kurzfristige Wirtschafts-gewinne: Lokale Wirtschaft erfährt einen Schub durch kurzfristige Erträge und langfristige Entwicklungen.
-- Einzigartige Erlebnisse: Olympische Spiele werden emotionale Erlebnisse liefern, möglicherweise gesellschaftlichen Zusammenhalt stärken und Breitensport populärer machen.\
-- Image-Verbesserung: Das Ansehen der Stadt wird noch weiter gefestigt.
+Doch unabhängig davon bleiben genuine Gründe, die dafür sprechen, dass sich die Stadt München um die Olympischen Spiele bewirbt, als auch genuine Gründe gegen eine Bewerbung:
 
 [**Gründe für eine Bewerbung**](olympia-bewerbung-v4-interaktiv.llms.md#/tatsächliche-gründe-für-die-spiele)
 
-#### Gründe gegen eine Bewerbung Münchens
-
-- Zu hohe Kosten: Durchführung der Olympischen Spiele ist mit unverhältnismäßig hohen Kosten und Finanzrisiken für den Stadthaushalt verbunden;
-- Ökologische Belastungen: Durchführung der Olympischen Spiele wird zu unverhältnismäßig hohen negativen ökologischen Belastungen in München führen:
-- IOC ist ein unfairer Partner: Durchführung der Olympischen Spiele erfordert Kooperation mit einem unfairen Partner, dem Internationalen Olympischen Komitee.
-
 [**Gründe gegen eine Bewerbung**](olympia-bewerbung-v4-interaktiv.llms.md#/tatsächliche-gründe-gegen-die-spiele)
 
-Angesichts dieser Gründe für und gegen eine Bewerbung ergibt sich das **argumentative Rätsel**:
+> **TIP:**
+>
+> - Förderung der Stadtentwicklung: Durchführung von Olympischen Spielen wird die Realisierung von städtischen Infrastrukturprojekten – Schaffung zusätzlichen Wohnraums, Ausbau des ÖPNV und der nachhaltigen Mobilitätsoptionen – beschleunigen und sie für die Stadt kostengünstiger machen;
+> - Stärkung von Breitensport: Durch die Ausrichtung der Spiele werden Sportstätten ausgebaut und saniert; Breiten- und informeller Sport erhalten zusätzliche/verbesserte Infrastruktur.
+> - Verbesserung der Inklusion: Durchführung von Olympischen Spielen wird zur Verbesserung der Barrierefreiheit in der Stadt führen.
+> - Kurzfristige Wirtschaftsgewinne: Lokale Wirtschaft erfährt einen Schub durch kurzfristige Erträge und langfristige Entwicklungen.
+> - Einzigartige Erlebnisse: Olympische Spiele werden emotionale Erlebnisse liefern, möglicherweise gesellschaftlichen Zusammenhalt stärken und Breitensport populärer machen.\
+> - Image-Verbesserung: Das Ansehen der Stadt wird noch weiter gefestigt.
+
+> **IMPORTANT:**
+>
+> - Zu hohe Kosten: Durchführung der Olympischen Spiele ist mit unverhältnismäßig hohen Kosten und Finanzrisiken für den Stadthaushalt verbunden;
+> - Ökologische Belastungen: Durchführung der Olympischen Spiele wird zu unverhältnismäßig hohen negativen ökologischen Belastungen in München führen:
+> - IOC ist ein unfairer Partner: Durchführung der Olympischen Spiele erfordert Kooperation mit einem unfairen Partner, dem Internationalen Olympischen Komitee.
+
+Angesichts dieser Gründe für und gegen eine Bewerbung ergibt sich eine **kontroverse Dialektik** und das **argumentative Rätsel**:
+
+[**Kontroverse Dialektik**](../../Unterseiten/2026-Olympia-Bewerbung/olympia-bewerbung-v4-interaktiv.llms.md#dialektik-angesichts-von-pro--und-kontra-gründen)
 
 - Wie sehen Argumente aus, die im Lichte dieser beitragenden Pro- und Contra-Gründe die Entscheidung für und gegen die Olympia-Bewerbung Münchens rechtfertigen?
 
-[**das argumentative Rätsel**](../../Unterseiten/2026-Olympia-Bewerbung/olympia-bewerbung-v4-interaktiv.llms.md#das-argumentations-puzzle)
+[**Das argumentative Rätsel**](../../Unterseiten/2026-Olympia-Bewerbung/olympia-bewerbung-v4-interaktiv.llms.md#das-argumentations-puzzle)
 
 ## Schritt 2: Rekonstruierte Argumente
 
