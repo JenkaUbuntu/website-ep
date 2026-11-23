@@ -292,21 +292,21 @@ Angesichts dieser Gründe für und gegen eine Bewerbung ergibt sich eine **kontr
 ::: {.columns}
 
 ::: {.column width="32%"}
-[Detailrekonstruktion A1: Pro-Abwägung](){.btn .btn-outline-primary role="button"}
+[Detailrekonstruktion A1: Pro-Abwägung](./olympia-bewerbung-argumentrekos.qmd#rekonstruktion-von-a1-abwägung-für-die-ausrichtung){.btn .btn-outline-primary role="button"}
 :::
 
 ::: {.column width="2%"}
 :::
 
 ::: {.column width="32%"}
-[Detailrekonstruktion A2: Argument der Chancen-Ergreifung](){.btn .btn-outline-primary role="button"}
+[Detailrekonstruktion A2: Argument der Chancen-Ergreifung](./olympia-bewerbung-argumentrekos.qmd#rekonstruktion-von-a2-argument-der-chancen-ergreifung){.btn .btn-outline-primary role="button"}
 :::
 
 ::: {.column width="2%"}
 :::
 
 ::: {.column width="32%"}
-[Detailrekonstruktion A3: Zurückweisung der Nachteile](){.btn .btn-outline-primary role="button"}
+[Detailrekonstruktion A3: Zurückweisung der Nachteile](./olympia-bewerbung-argumentrekos.qmd#rekonstruktion-von-a3-zurückweisung-der-nachteile){.btn .btn-outline-primary role="button"}
 :::
 :::
 :::

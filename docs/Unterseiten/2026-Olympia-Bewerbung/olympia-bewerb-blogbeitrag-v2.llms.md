@@ -113,11 +113,11 @@ Angesichts dieser Gründe für und gegen eine Bewerbung ergibt sich eine **kontr
 
 > **NOTE:**
 >
-> [Detailrekonstruktion A1: Pro-Abwägung]()
+> [Detailrekonstruktion A1: Pro-Abwägung](../../Unterseiten/2026-Olympia-Bewerbung/olympia-bewerbung-argumentrekos.llms.md#rekonstruktion-von-a1-abwägung-für-die-ausrichtung)
 >
-> [Detailrekonstruktion A2: Argument der Chancen-Ergreifung]()
+> [Detailrekonstruktion A2: Argument der Chancen-Ergreifung](../../Unterseiten/2026-Olympia-Bewerbung/olympia-bewerbung-argumentrekos.llms.md#rekonstruktion-von-a2-argument-der-chancen-ergreifung)
 >
-> [Detailrekonstruktion A3: Zurückweisung der Nachteile]()
+> [Detailrekonstruktion A3: Zurückweisung der Nachteile](../../Unterseiten/2026-Olympia-Bewerbung/olympia-bewerbung-argumentrekos.llms.md#rekonstruktion-von-a3-zurückweisung-der-nachteile)
 
 > **NOTE:**
 >
