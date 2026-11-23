@@ -1520,7 +1520,7 @@ Durch die Ausrichtung der Spiele in München werden die Mietpreise für Wohnunge
 :::
 :::
 
-## [Faktencheck: Contra-Gesichtspunkte] {#faktencheck:-contra-gesichtspunkte auto-animate="true"}
+## [Faktencheck: Contra-Gesichtspunkte]{#faktencheck:-contra-gesichtspunkte auto-animate="true"}
 
 ::: {.columns}
 ::: {.column width="23%"}
