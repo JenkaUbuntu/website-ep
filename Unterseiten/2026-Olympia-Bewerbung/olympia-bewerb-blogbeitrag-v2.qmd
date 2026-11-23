@@ -317,21 +317,21 @@ Angesichts dieser Gründe für und gegen eine Bewerbung ergibt sich eine **kontr
 ::: {.columns}
 
 ::: {.column width="32%"}
-[Detailrekonstruktion A4: Contra-Abwägung](){.btn .btn-outline-primary role="button"}
+[Detailrekonstruktion A4: Contra-Abwägung](./olympia-bewerbung-argumentrekos.qmd#a4-abwägungsargument-gegen-die-ausrichtung-der-olympischen-spiele){.btn .btn-outline-primary role="button"}
 :::
 
 ::: {.column width="2%"}
 :::
 
 ::: {.column width="32%"}
-[Detailrekonstruktion A5: Bessere Alternativen zu Olympia](){.btn .btn-outline-primary role="button"}
+[Detailrekonstruktion A5: Bessere Alternativen zu Olympia](./olympia-bewerbung-argumentrekos.qmd#a5-argument-der-besseren-alternativen){.btn .btn-outline-primary role="button"}
 :::
 
 ::: {.column width="2%"}
 :::
 
 ::: {.column width="32%"}
-[Detailrekonstruktion A6: Vermeidung unkalkulierbarer Risiken](){.btn .btn-outline-primary role="button"}
+[Detailrekonstruktion A6: Vermeidung unkalkulierbarer Risiken](./olympia-bewerbung-argumentrekos.qmd#a6-argument-der-vermeidung-unkalkulierbarer-risiken){.btn .btn-outline-primary role="button"}
 :::
 :::
 

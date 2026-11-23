@@ -121,11 +121,11 @@ Angesichts dieser Gründe für und gegen eine Bewerbung ergibt sich eine **kontr
 
 > **NOTE:**
 >
-> [Detailrekonstruktion A4: Contra-Abwägung]()
+> [Detailrekonstruktion A4: Contra-Abwägung](../../Unterseiten/2026-Olympia-Bewerbung/olympia-bewerbung-argumentrekos.llms.md#a4-abwägungsargument-gegen-die-ausrichtung-der-olympischen-spiele)
 >
-> [Detailrekonstruktion A5: Bessere Alternativen zu Olympia]()
+> [Detailrekonstruktion A5: Bessere Alternativen zu Olympia](../../Unterseiten/2026-Olympia-Bewerbung/olympia-bewerbung-argumentrekos.llms.md#a5-argument-der-besseren-alternativen)
 >
-> [Detailrekonstruktion A6: Vermeidung unkalkulierbarer Risiken]()
+> [Detailrekonstruktion A6: Vermeidung unkalkulierbarer Risiken](../../Unterseiten/2026-Olympia-Bewerbung/olympia-bewerbung-argumentrekos.llms.md#a6-argument-der-vermeidung-unkalkulierbarer-risiken)
 
 ## Schritt 3: Diskussion der Argumente
 
