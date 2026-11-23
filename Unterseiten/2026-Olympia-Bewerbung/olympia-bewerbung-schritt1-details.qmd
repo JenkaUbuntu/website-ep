@@ -905,7 +905,7 @@ Schub für die lokale Wirtschaft
 :::
 :::
 
-## [Faktencheck der Pro-Gesichtspunkte] {#faktencheck-der-pro-gesichtspunkte auto-animate="true"}
+## [Faktencheck der Pro-Gesichtspunkte]{#faktencheck-der-pro-gesichtspunkte auto-animate="true"}
 
 ::: {.fragment}
 
@@ -938,7 +938,7 @@ Umsetzung der Barrierefreiheit
 ::: {.column width="32%"}
 ::: {.callout-tip icon="false"}
 ### [Stärkung sozialen Zusammenhalts]{style="color:#99d8c9"}
-[Es lässt sich nicht verlässlich Vorhersagen, ob ein Großereignis wie Olympische Spiele soziale Dynamiken wie "Schulterschluss in der Gesellschaft" schafft.]{style="color:#bdbdbd"} 
+[Es lässt sich nicht verlässlich Vorhersagen, ob ein Großereignis wie die Olympischen Spiele soziale Dynamiken wie "Schulterschluss in der Gesellschaft" auslöst.]{.text-warning-emphasis} 
 :::
 :::
 ::: {.column width="1%"}
@@ -963,7 +963,7 @@ Schub für die lokale Wirtschaft
 ::: {.column width="32%"}
 ::: {.callout-tip icon="false"}
 ### [Aufbruchstimmung und Mut zu Neuem]{style="color:#99d8c9"}
-[Auch eine solche Konsequenz lässt sich nicht verlässlich vorhersagen. Es ist möglich, dass sich eine Aufbruchstimmung unter der Stadtbevölkerung ausbreitet, es ist aber auch möglich, dass sich eine solche soziale Dynamik nicht mehr wiederholt.]{style="color:#bdbdbd"} 
+[Auch eine solche Konsequenz lässt sich nicht verlässlich vorhersagen. Es ist möglich, dass sich eine Aufbruchstimmung unter der Stadtbevölkerung ausbreitet, es ist aber auch möglich, dass sich eine solche soziale Dynamik nicht mehr wiederholt.]{.text-warning-emphasis} 
 :::
 :::
 ::: {.column width="1%"}
@@ -1027,7 +1027,7 @@ einzigartige emotionale Erlebnisse für die Stadtbewohner\*innen
 ::: {.column width="32%"}
 ::: {.callout-tip icon="false"}
 ### [~~Motor für die Wirtschaft~~]{style="color:#99d8c9"} Kurzfristige Gewinne für die lokale Wirtschaft
-[Abschätzungen von erwarteten Gewinnen und Kosten aus Großereignissen wie Olympischen Spielen sind unsicher. Kurzfristige Gewinne für die lokale Wirtschaft sind jedoch naheliegend.]{style="color:#bdbdbd"}
+[Abschätzungen von erwarteten Gewinnen und Kosten aus Großereignissen wie Olympischen Spielen sind unsicher.^[Quellen: [Studie im Auftrag der Stadt München](https://www.olympiabewerbung-muenchen.com/app/uploads/2025/10/MCube_Olympia_Studie.pdf); Überblick über Kostenschätzungen aus einem [Artikel in der Süddeutschen Zeitung](https://www.sueddeutsche.de/projekte/artikel/politik/olympia-bewerbung-faktencheck-pro-contra-e104509/).] Kurzfristige Gewinne für die lokale Wirtschaft sind jedoch naheliegend.]{.text-warning-emphasis}
 :::
 :::
 :::

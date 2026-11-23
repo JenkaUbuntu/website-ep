@@ -44,28 +44,71 @@ Zunächst müssen daher die vorgebrachten Gesichtspunkte daraufhin sortiert werd
 ##### Hintergrund: Sortierung der vorgebrachten Pro- und Cons
 
 ::: {.callout-note icon="false" collapse="true"}
-#### Sortierung
+#### [Sortierung]{.text-primary}
 
-DSZu
+Das Ziel der Sortierung von öffentlich vorgebrachten Gesichtspunkten, die für oder gegen eine Bewerbung sprechen, liegt darin, die argumentative Rolle dieser Gesichtspunkte zu klären:
+
+* manche Gesichtspunkte dienen nicht dazu, die eigene These zu begründen, sondern einen möglichen Einwand der Andersdenkenden zurückzuweisen;
+* manche Gesichtspunkte dienen dazu, eigentliche Gründe für die eigene These zu unterstützen oder zu erklären
+* manche Gesichtspunkte sind Umformulierungen eines Grundes
+
+Nachfolgend stellen wir die Sortier-Arbeit im Detail vor:
+
+
+::: {.columns}
+
+::: {.column width="49%"}
+
+[**Sortierung der Pro-Gesichtspunkte**](./olympia-bewerbung-schritt1-details.qmd#sortierung-der-pro-gesichtspunkte-zu-pro-gründen){.btn .btn-outline-primary role="button"}
+
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="49%"}
+
+[**Sortierung der Contra-Gesichtspunkte**](./olympia-bewerbung-schritt1-details.qmd#sortierung-der-contra-gesichtspunkte-zu-contra-gründen){.btn .btn-outline-primary role="button"}
+
+:::
+:::
 :::
 
 
 ::: {.callout-note icon="false" collapse="true"}
-#### Faktencheck
+#### [Faktencheck]{.text-primary}
 
 Die identifizierten Gründe für und gegen die Bewerbung unterstellen zahlreiche empirische Behauptungen, meist von der Form: 
 
-* Ausrichtung der Olympischen Spiele wird zu denen und jenen Konsequenzen führen (und diese Konsequenzen sind positiv/negativ für die Stadt).
+* Ausrichtung der Olympischen Spiele wird zu diesen und jenen Konsequenzen führen (und diese Konsequenzen sind positiv/negativ für die Stadt). 
 
-Die Plausibilität der Gründe hängt entscheidend von der Plausibilität dessen ab, ob die darin behaupteten Konsequenzen tatsächlich eintreten werden. 
-
-Vorhersagen von langfristigen sozial-ökonomischen Konsequenzen von politischen Maßnahmen sind meist sehr unsicher bzw. schwer zu belegen. Dies gilt auch in Bezug auf viele der diskutierten Konsequenzen der Olympischen Spiele:
+Die Plausibilität der Gründe hängt entscheidend von der Plausibilität dessen ab, ob die darin behaupteten Konsequenzen tatsächlich eintreten werden. Vorhersagen von langfristigen sozial-ökonomischen Konsequenzen von politischen Maßnahmen sind meist sehr unsicher bzw. schwer zu belegen. Dies gilt auch in Bezug auf viele der diskutierten Konsequenzen der Olympischen Spiele:
 
 * Auswirkungen auf den Breitensport: Es gibt eine [Studie](https://api.unil.ch/iris/server/api/core/bitstreams/7f0f0803-9b33-4fa1-ab9f-b0d7abaa6a44/content), die untersucht hat, ob es Evidenz dafür gibt, dass die Durchführung von Olympischen Spielen die Teilnahme am Breitensport gestärkt hätte. Aus der Untersuchung von Daten zu drei Spielen hat sie keine Belege dafür gefunden. Das zeigt allerdings nicht, dass es keinen Effekt von Olympischen Spielen auf den Breitensport gäbe (da die bisherigen Erhebungen nicht umfassend genug waren). Dies zeigt lediglich, dass wir wenig über diesen Effekt wissen: möglicherweise besteht er, möglicherweise besteht er nicht. 
 
 * Soziale Auswirkungen: Analoges gilt für die Behauptung der Gegner\*innen der Olympischen Spiele, letztere würden Gentrifizierungseffekte verursachen. Auch hierzu findet sich kaum robuste Evidenz. Dies kann aber daran liegen, dass dieser Effekt nicht gründlich genug gemessen wurde (und dass er schwer zu messen ist aufgrund von sehr vielen möglichen Einflussfaktoren auf beispielsweise Mieten in einer Großstadt).
 
 * Investitionskosten und Finanzrisiken: hierzu hat eine [Studie](https://www.olympiabewerbung-muenchen.com/app/uploads/2025/10/MCube_Olympia_Studie.pdf) im Auftrag der Stadt München eine Prognose mit mehreren Szenarien erstellt. In einem [Artikel in der Süddeutschen Zeitung](https://www.sueddeutsche.de/projekte/artikel/politik/olympia-bewerbung-faktencheck-pro-contra-e104509/) gibt es einen Überblick über Kostenschätzungen und Kosten der vergangenen Spiele. Diese Überblicke verdeutlichen, dass auch die Abschätzung von Kosten sowie von erwarteten Gewinnen für die lokale Wirtschaft mit vielen Unsicherheiten behaftet ist.
+
+Unsere Beurteilung der empirischen Plausibilität der vorgebrachten Gründe findet sich hier:
+
+::: {.columns}
+
+::: {.column width="49%"}
+
+[**Faktencheck der Pro-Gesichtspunkte**](./olympia-bewerbung-schritt1-details.qmd#faktencheck-der-pro-gesichtspunkte){.btn .btn-outline-primary role="button"}
+
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="49%"}
+
+[**Faktencheck der Contra-Gesichtspunkte**](./olympia-bewerbung-schritt1-details.qmd#faktencheck-contra-gesichtspunkte){.btn .btn-outline-primary role="button"}
+
+:::
+:::
 
 :::
 
@@ -243,7 +286,7 @@ Angesichts dieser Gründe für und gegen eine Bewerbung ergibt sich eine **kontr
 ##### Hintergrund: Rekonstruktion von Argumenten{#hintergrund:-rekonstruktion-von-argumenten}
 
 ::: {.callout-note icon="false" collapse="true"}
-### Rekonstruktion von Pro-Argumenten
+### [Rekonstruktion von Pro-Argumenten]{.text-primary}
 
 
 ::: {.columns}
@@ -269,7 +312,7 @@ Angesichts dieser Gründe für und gegen eine Bewerbung ergibt sich eine **kontr
 :::
 
 ::: {.callout-note icon="false" collapse="true"}
-### Rekonstruktion von Contra-Argumenten
+### [Rekonstruktion von Contra-Argumenten]{.text-primary}
 
 ::: {.columns}
 

@@ -66,3 +66,6 @@ hr {
 .infobox.disabled {
   --bg-strength: 40%;
 }
+
+.text-info-emphasis    { color: var(--bs-info-text-emphasis, #055160) !important; }
+.text-warning-emphasis { color: var(--bs-warning-text-emphasis, #664d03) !important; }
