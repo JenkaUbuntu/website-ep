@@ -102,9 +102,9 @@ format:
 ### [[**Schritt 2: Rekonstruktion von Argumenten**]{style="color:#d95f0e"}](#schritt-2-rekonstruierte-argumente)
 
 * [**2.1: Argumente für eine Olympia-Bewerbung Münchens**](#pro-argumente)
-  * [Hintergrund: Rekonstruktion von Pro-Argumenten](./olympia-bewerbung-argumentrekos.qmd#schritt-2.1-rekonstruktion-von-pro-argumenten)
+  * [Hintergrund: Rekonstruktion von Pro-Argumenten](./olympia-bewerbung-argumentrekos.qmd#schritt-2.1:-rekonstruktion-von-pro-argumenten)
 * [**2.2: Argumente gegen eine Olympia-Bewerbung Münchens**](#contra-argumente)
-  * [Hintergrund: Rekonstruktion von Contra-Argumenten](./olympia-bewerbung-argumentrekos.qmd#schritt-2.2-rekonstruktion-von-contra-argumenten)
+  * [Hintergrund: Rekonstruktion von Contra-Argumenten](./olympia-bewerbung-argumentrekos.qmd#schritt-2.2:-rekonstruktion-von-contra-argumenten)
 :::
 :::
 :::
@@ -116,7 +116,8 @@ format:
 ### [[**Schritt 3: Diskussion der Argumente**]{style="color:#d95f0e"}](#schritt-3-diskussion-der-argumente)
  
 * [**3.1: Argumente, die unentscheidbar sind**](#3.1:-unentscheidbare-argumente)
-  * [Hintergrund: warum die Argumente unentscheidbar sind]()
+  * [Hintergrund: Unentscheidbarkeit von A1 und A4](#abwägungs-argumente-a1-und-a4-sind-unentscheidbar)
+  * [Hintergrund: Unbegründbare Prämissen in A3](#a3-zurückweisung-der-nachteile-ist-unbegründbar)
 * [**3.2: Konstruktive Fortführung der Kontroverse**](#möglichkeit-einer-konstruktiven-fortführung-der-kontroverse) 
 
 :::
@@ -994,7 +995,7 @@ ArgumentationsAgentur | [zurück zu Gliederung](#gliederung) | [zum Blog](./olym
 
 # [3.1: Unentscheidbare Argumente]{#3.1:-unentscheidbare-argumente style="color:#d95f0e"}
 
-## [Abwägungs-Argumente (A1 und A4) sind unentscheidbar]{#abwägungs-argumente-(a1-und-a4)-sind-unentscheidbar}
+## [Abwägungs-Argumente A1 und A4 sind unentscheidbar]{#abwägungs-argumente-a1-und-a4-sind-unentscheidbar}
 
 ::: {.columns}
 
@@ -1102,7 +1103,7 @@ window.addEventListener("load", function () {
 :::
 </div>
 
-## [A3: "Zurückweisung der Nachteile" ist unbegründbar]{#a3:-"zurückweisung-der-nachteile"-ist-unbegründbar}
+## [A3: Zurückweisung der Nachteile ist unbegründbar]{#a3:-zurückweisung-der-nachteile-ist-unbegründbar}
 
 ::: {.nonincremental}
 

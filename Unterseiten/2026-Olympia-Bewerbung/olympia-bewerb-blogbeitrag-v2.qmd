@@ -355,7 +355,7 @@ Eine Rekonstruktion der identifizierten [Pro- und Kontra-Argumente](#schritt-2:-
 Zwischen den beiden Abwägungsargumenten für (A1) und gegen (A4) die Ausrichtung der Spiele besteht Uneinigkeit darüber, wie hoch der [**erwartete Nutzen**]{.text-success} und die [**erwarteten Kosten bzw. Schäden**]{.text-danger} aus der Ausrichtung der Spiele sein werden. 
 
 ::: {.column-margin}
-[Unentscheidbarkeit A1 und A4](./olympia-bewerbung-v4-interaktiv.qmd#abwägungs-argumente-(a1-und-a4)-sind-unentscheidbar){.btn .btn-outline-primary role="button"}
+[Unentscheidbarkeit A1 und A4](./olympia-bewerbung-v4-interaktiv.qmd#abwägungs-argumente-a1-und-a4-sind-unentscheidbar){.btn .btn-outline-primary role="button"}
 :::
 
 ##### Möglichkeit zur Auflösung

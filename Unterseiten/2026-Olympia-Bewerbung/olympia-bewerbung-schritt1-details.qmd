@@ -13,7 +13,7 @@ format:
         embed-resources: true
         theme: simple
         slide-number: c/t
-        footer: "ArgumentationsAgentur | <a href=\"#/gliederung\">zurück zu Gliederung</a>"
+        footer: "ArgumentationsAgentur | <a href=\"#/gliederung\">zurück zu Gliederung</a> | <a href=\"./olympia-bewerb-blogbeitrag-v2.qmd\">zum <b>Blogartikel</b></a>"
         logo: ./graphiken/logoAA.svg
         reference-location: document
 ---

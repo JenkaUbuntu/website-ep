@@ -35,22 +35,23 @@ Veröffentlichungsdatum
 >
 > - [**1.1: Öffentlich vorgebrachte Pro- und Contra-Gesichtspunkte**](#öffentliche-debatte)
 > - [**1.2: Tatsächliche Pro-Gründe**](#tatsächliche-gründe-für-die-spiele)
->   - [Hintergrund: Warum manche der angeführten Pro- Gesichtspunkte keine Gründe sind](#sortierung-der-pro-gesichtspunkte)
+>   - [Hintergrund: Warum manche der angeführten Pro- Gesichtspunkte keine Gründe sind](../../Unterseiten/2026-Olympia-Bewerbung/olympia-bewerbung-schritt1-details.llms.md#sortierung-der-pro-gesichtspunkte-zu-pro-gründen)
 > - [**1.3: Tatsächliche Contra-Gründe**](#tatsächliche-gründe-gegen-die-spiele)
->   - [Hintergrund: Warum manche der angeführten Contra-Gesichtspunkte keine Gründe sind](#sortierung-der-contra-gesichtspunkte)
+>   - [Hintergrund: Warum manche der angeführten Contra-Gesichtspunkte keine Gründe sind](../../Unterseiten/2026-Olympia-Bewerbung/olympia-bewerbung-schritt1-details.llms.md#sortierung-der-contra-gesichtspunkte-zu-contra-gründen)
 > - [**1.4: Das resultierende Argumentations-Puzzle**](#dialektik-angesichts-von-pro--und-kontra-gründen)
 
 > **NOTE:**
 >
 > - [**2.1: Argumente für eine Olympia-Bewerbung Münchens**](#pro-argumente)
->   - [Hintergrund: Rekonstruktion von Pro-Argumenten]()
+>   - [Hintergrund: Rekonstruktion von Pro-Argumenten](../../Unterseiten/2026-Olympia-Bewerbung/olympia-bewerbung-argumentrekos.llms.md#schritt-2.1:-rekonstruktion-von-pro-argumenten)
 > - [**2.2: Argumente gegen eine Olympia-Bewerbung Münchens**](#contra-argumente)
->   - [Hintergrund: Rekonstruktion von Contra-Argumenten]()
+>   - [Hintergrund: Rekonstruktion von Contra-Argumenten](../../Unterseiten/2026-Olympia-Bewerbung/olympia-bewerbung-argumentrekos.llms.md#schritt-2.2:-rekonstruktion-von-contra-argumenten)
 
 > **NOTE:**
 >
 > - [**3.1: Argumente, die unentscheidbar sind**](#3.1:-unentscheidbare-argumente)
->   - [Hintergrund: warum die Argumente unentscheidbar sind]()
+>   - [Hintergrund: Unentscheidbarkeit von A1 und A4](#abwägungs-argumente-a1-und-a4-sind-unentscheidbar)
+>   - [Hintergrund: Unbegründbare Prämissen in A3](#a3-zurückweisung-der-nachteile-ist-unbegründbar)
 > - [**3.2: Konstruktive Fortführung der Kontroverse**](#möglichkeit-einer-konstruktiven-fortführung-der-kontroverse)
 
 > **NOTE:**
@@ -322,7 +323,7 @@ ArgumentationsAgentur \| [zurück zu Gliederung](#gliederung) \| [zum Blog](../.
 
 # 3.1: Unentscheidbare Argumente
 
-## \[Abwägungs-Argumente (A1 und A4) sind unentscheidbar\]{#abwägungs-argumente-(a1-und-a4)-sind-unentscheidbar}
+## Abwägungs-Argumente A1 und A4 sind unentscheidbar
 
 > **TIP:**
 >
@@ -343,7 +344,7 @@ ArgumentationsAgentur \| [zurück zu Gliederung](#gliederung) \| [zum Blog](../.
 >   - ich vermute, dass es nicht möglich ist, hinreichend präzise Schätzungen des Erwartungswertes zu erhalten.
 >   - In diesem Fall sollten diese Argumente nicht verwendet werden.
 
-## A3: “Zurückweisung der Nachteile” ist unbegründbar
+## A3: Zurückweisung der Nachteile ist unbegründbar
 
 - Das Argument erfordert Festlegungen auf Behauptungen, die nicht begründet werden können:
 

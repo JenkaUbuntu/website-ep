@@ -28,8 +28,6 @@ Veröffentlichungsdatum
 >
 >   - [Ergebnis von 1.3: Gründe gegen die Bewerbung Münchens](#resultierende-contra-gesichtspunkte)
 
-> **NOTE:**
-
 ## Öffentlich angeführte Pro- und Contra-Gesichtspunkte
 
 ## Pro-Gesichtspunkte
@@ -492,7 +490,7 @@ Veröffentlichungsdatum
 
 > **TIP:**
 
-## [Faktencheck der Pro-Gesichtspunkte](#faktencheck-der-pro-gesichtspunkte-1)
+## Faktencheck der Pro-Gesichtspunkte
 
 > **TIP:**
 >
@@ -508,7 +506,7 @@ Veröffentlichungsdatum
 
 > **TIP:**
 >
-> Es lässt sich nicht verlässlich Vorhersagen, ob ein Großereignis wie Olympische Spiele soziale Dynamiken wie “Schulterschluss in der Gesellschaft” schafft.
+> Es lässt sich nicht verlässlich Vorhersagen, ob ein Großereignis wie die Olympischen Spiele soziale Dynamiken wie “Schulterschluss in der Gesellschaft” auslöst.
 
 > **TIP:**
 >
@@ -546,7 +544,7 @@ Veröffentlichungsdatum
 
 > **TIP:**
 >
-> Abschätzungen von erwarteten Gewinnen und Kosten aus Großereignissen wie Olympischen Spielen sind unsicher. Kurzfristige Gewinne für die lokale Wirtschaft sind jedoch naheliegend.
+> Abschätzungen von erwarteten Gewinnen und Kosten aus Großereignissen wie Olympischen Spielen sind unsicher.[^1] Kurzfristige Gewinne für die lokale Wirtschaft sind jedoch naheliegend.
 
 > **TIP:**
 
@@ -785,7 +783,7 @@ Veröffentlichungsdatum
 >
 > Durch die Ausrichtung der Spiele in München werden die Mietpreise für Wohnungen in München steigen.
 
-## \[Faktencheck: Contra-Gesichtspunkte\]
+## Faktencheck: Contra-Gesichtspunkte
 
 > **IMPORTANT:**
 >
@@ -840,85 +838,8 @@ Veröffentlichungsdatum
 
 > **IMPORTANT:**
 
-# 1.4 Das Argumentative Rätsel
-
-## Dialektische Lage im Lichte der vorgebrachten Pros und Cons
-
-## Dialektische Lage im Lichte der vorgebrachten Pros und Cons
-
-## Interpretation der Dialektik
-
-Einige der vorgebrachten Pro- und Kontra-Gründe sind umstritten:
-
-- Beispielsweise wenden die Gegner\*innen ein, Olympische Spiele würden zu unverhältnismäßig hohen ökologischen Belastungen führen. Dem widersprechen jedoch die Befürworter\*innen: nach ihren Planungen sollen die Spiele in Einklang mit den Zielen Nachhaltiger Entwicklung durchgeführt werden und unverhältnismäßige Ressourcennutzung oder Bodenversiegelung vermieden werden
-- Beispielsweise führen die Befürworter\*innen an, die Ausrichtung der Spiele würde das Image der Stadt verbessern. Dagegen wenden die Gegner\*innen ein, dass eine Imageverbesserung für München gar nicht erforderlich sei.
-
-Mehrere der vorgebrachten Gründe dafür und dagegen sind aber unstrittig. Darauf konzentrieren wir uns:
-
-Mit welchen Argumenten kann eine Zustimmung oder eine Ablehnung der Olympia-Bewerbung begründet werden, angesichts dessen, dass einige Gesichtspunkte dafür, andere jedoch dagegen sprechen?
-
-## Dialektik angesichts unstrittiger Pro- und Kontra-Gründe
-
-## Dialektik
-
-> **TIP:**
->
-> Die Stadt München sollte sich um die Ausrichtung der Olympischen Spiele 2036/40/44 bewerben.
-
-> **IMPORTANT:**
->
-> Die Stadt München sollte sich nicht um die Ausrichtung der Olympischen Spiele 2036/40/44 bewerben.
-
-> **TIP:**
-
-> **TIP:**
-
-> **TIP:**
-
-> **TIP:**
-
-> **IMPORTANT:**
-
-> **IMPORTANT:**
-
-## ArgDown-Graphik
-
-## Dialektik angesichts unstrittiger Pro- und Kontra-Gründe
-
-## Das Argumentations-Puzzle: Struktur
-
-> **TIP:**
-
-> **IMPORTANT:**
-
-> **TIP:**
->
-> Wie sieht ein Argument aus, das
->
-> - im Lichte der Pro-Gesichtspunkte und
-> - im Lichte von Kontra-Gesichtspunkten
-> - zu schlussfolgern erlaubt, dass München sich **bewerben sollte**?
-
-> **IMPORTANT:**
->
-> Wie sieht ein Argument aus, das
->
-> - im Lichte der Pro-Gesichtspunkte und
-> - im Lichte von Kontra-Gesichtspunkten
-> - zu schlussfolgern erlaubt, dass München sich **nicht bewerben sollte**?
-
-> **TIP:**
-
-> **TIP:**
-
-> **TIP:**
-
-> **TIP:**
-
-> **IMPORTANT:**
-
-> **IMPORTANT:**
-
-## ArgDown-Graphik
-
 Zurück nach oben
+
+## Fußnoten
+
+[^1]: Quellen: [Studie im Auftrag der Stadt München](https://www.olympiabewerbung-muenchen.com/app/uploads/2025/10/MCube_Olympia_Studie.pdf); Überblick über Kostenschätzungen aus einem [Artikel in der Süddeutschen Zeitung](https://www.sueddeutsche.de/projekte/artikel/politik/olympia-bewerbung-faktencheck-pro-contra-e104509/).

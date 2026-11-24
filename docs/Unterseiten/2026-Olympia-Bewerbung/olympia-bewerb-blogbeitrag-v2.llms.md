@@ -139,7 +139,7 @@ Eine Rekonstruktion der identifizierten [Pro- und Kontra-Argumente](#schritt-2:-
 >
 > Zwischen den beiden Abwägungsargumenten für (A1) und gegen (A4) die Ausrichtung der Spiele besteht Uneinigkeit darüber, wie hoch der **erwartete Nutzen** und die **erwarteten Kosten bzw. Schäden** aus der Ausrichtung der Spiele sein werden.
 >
-> [Unentscheidbarkeit A1 und A4](../../Unterseiten/2026-Olympia-Bewerbung/olympia-bewerbung-v4-interaktiv.llms.md#abwägungs-argumente-(a1-und-a4)-sind-unentscheidbar)
+> [Unentscheidbarkeit A1 und A4](../../Unterseiten/2026-Olympia-Bewerbung/olympia-bewerbung-v4-interaktiv.llms.md#abwägungs-argumente-a1-und-a4-sind-unentscheidbar)
 >
 > ##### Möglichkeit zur Auflösung
 >

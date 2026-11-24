@@ -41,7 +41,7 @@ format:
 
 ::: {.column width="49%"}
 ::: {.callout-note icon="false"}
-### [Schritt 2.2: Rekonstruktion von Contra-Argumenten](#schritt-2.2-rekonstruktion-von-contra-argumenten)
+### [Schritt 2.2: Rekonstruktion von Contra-Argumenten](#schritt-2.2:-rekonstruktion-von-contra-argumenten)
 
 * [A4: Abwägung gegen die Ausrichtung](#a4-abwägungsargument-gegen-die-ausrichtung-der-olympischen-spiele)
   * [Ergebnis: das rekonstruierte A4]()
@@ -431,7 +431,7 @@ Befürworter*innen dieser Behauptung müssen folgende Argumente vorbringen:
 </iframe>
 ```
 
-# [Schritt 2.2: Rekonstruktion von Contra-Argumenten]{#schritt-2.2:-rekonstruktion-von-contra-argumenten style="color:#d95f0e"} 
+# [Schritt 2.2: Rekonstruktion von Contra-Argumenten]{#schritt-2.2:-rekonstruktion-von-contra-argumenten style="color:#d95f0e"}
 
 # [A4 Abwägungsargument gegen die Ausrichtung der Olympischen Spiele]{#a4-abwägungsargument-gegen-die-ausrichtung-der-olympischen-spiele style="color:#d95f0e"}
 
