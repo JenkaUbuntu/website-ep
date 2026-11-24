@@ -187,12 +187,12 @@ Doch unabhängig davon bleiben genuine Gründe, die dafür sprechen, dass sich d
 ::: {.callout-tip icon="false" collapse="true"}
 #### Gründe dafür
 
-* [Förderung der Stadtentwicklung]{style="color:green;"}: Durchführung von Olympischen Spielen wird die Realisierung von städtischen Infrastrukturprojekten -- Schaffung zusätzlichen Wohnraums, Ausbau des ÖPNV und der nachhaltigen Mobilitätsoptionen -- beschleunigen und sie für die Stadt kostengünstiger machen; 
-* [Stärkung von Breitensport]{style="color:green;"}: Durch die Ausrichtung der Spiele werden Sportstätten ausgebaut und saniert; Breiten- und informeller Sport erhalten zusätzliche/verbesserte Infrastruktur.
-* [Verbesserung der Inklusion]{style="color:green;"}: Durchführung von Olympischen Spielen wird zur Verbesserung der Barrierefreiheit in der Stadt führen. 
-* [Kurzfristige Wirtschaftsgewinne]{style="color:green;"}: Lokale Wirtschaft erfährt einen Schub durch kurzfristige Erträge und langfristige Entwicklungen.
-* [Einzigartige Erlebnisse]{style="color:green;"}: Olympische Spiele werden emotionale Erlebnisse liefern, möglicherweise gesellschaftlichen Zusammenhalt stärken und Breitensport populärer machen.  
-* [Image-Verbesserung]{style="color:green;"}: Das Ansehen der Stadt wird noch weiter gefestigt. 
+* [Förderung der Stadtentwicklung]{.text-success}: Durchführung von Olympischen Spielen wird die Realisierung von städtischen Infrastrukturprojekten -- Schaffung zusätzlichen Wohnraums, Ausbau des ÖPNV und der nachhaltigen Mobilitätsoptionen -- beschleunigen und sie für die Stadt kostengünstiger machen; 
+* [Stärkung von Breitensport]{.text-success}: Durch die Ausrichtung der Spiele werden Sportstätten ausgebaut und saniert; Breiten- und informeller Sport erhalten zusätzliche/verbesserte Infrastruktur.
+* [Verbesserung der Inklusion]{.text-success}: Durchführung von Olympischen Spielen wird zur Verbesserung der Barrierefreiheit in der Stadt führen. 
+* [Kurzfristige Wirtschaftsgewinne]{.text-success}: Lokale Wirtschaft erfährt einen Schub durch kurzfristige Erträge und langfristige Entwicklungen.
+* [Einzigartige Erlebnisse]{.text-success}: Olympische Spiele werden emotionale Erlebnisse liefern, möglicherweise gesellschaftlichen Zusammenhalt stärken und Breitensport populärer machen.  
+* [Image-Verbesserung]{.text-success}: Das Ansehen der Stadt wird noch weiter gefestigt. 
 :::
 
 :::
@@ -205,9 +205,9 @@ Doch unabhängig davon bleiben genuine Gründe, die dafür sprechen, dass sich d
 ::: {.callout-important icon="false" collapse="true"}
 #### Gründe dagegen
 
-* [Zu hohe Kosten]{style="color:red;"}: Durchführung der Olympischen Spiele ist mit unverhältnismäßig hohen Kosten und Finanzrisiken für den Stadthaushalt verbunden;
-* [Ökologische Belastungen]{style="color:red;"}: Durchführung der Olympischen Spiele wird zu unverhältnismäßig hohen negativen ökologischen Belastungen in München führen:
-* [IOC ist ein unfairer Partner]{style="color:red;"}: Durchführung der Olympischen Spiele erfordert Kooperation mit einem unfairen Partner, dem Internationalen Olympischen Komitee.
+* [Zu hohe Kosten]{.text-danger}: Durchführung der Olympischen Spiele ist mit unverhältnismäßig hohen Kosten und Finanzrisiken für den Stadthaushalt verbunden;
+* [Ökologische Belastungen]{.text-danger}: Durchführung der Olympischen Spiele wird zu unverhältnismäßig hohen negativen ökologischen Belastungen in München führen:
+* [IOC ist ein unfairer Partner]{.text-danger}: Durchführung der Olympischen Spiele erfordert Kooperation mit einem unfairen Partner, dem Internationalen Olympischen Komitee.
 :::
 :::
 
@@ -261,7 +261,7 @@ Angesichts dieser Gründe für und gegen eine Bewerbung ergibt sich eine **kontr
 :::
 -->
 
-[**Für die Ausrichtung**]{style="color:green;"} der Spiele in München lassen sich folgende Argumente rekonstruieren:
+[**Für die Ausrichtung**]{.text-success} der Spiele in München lassen sich folgende Argumente rekonstruieren:
 
 * A1: Abwägung der Vor- und Nachteile zugunsten der Durchführung
 * A2: Argument der Chancen-Ergreifung
@@ -271,7 +271,7 @@ Angesichts dieser Gründe für und gegen eine Bewerbung ergibt sich eine **kontr
 [**Pro-Argumente**](./olympia-bewerbung-v4-interaktiv.qmd#pro-argumente){.btn .btn-outline-primary role="button"}
 :::
 
-[**Gegen die Ausrichtung**]{style="color:red;"} der Spiele in München lassen sich folgende Argumente rekonstruieren:
+[**Gegen die Ausrichtung**]{.text-danger} der Spiele in München lassen sich folgende Argumente rekonstruieren:
 
 * A4: Abwägung der Vor- und Nachteile gegen die Durchführung
 * A5: Bessere Alternative zu Olympia-Durchführung
@@ -352,27 +352,50 @@ Eine Rekonstruktion der identifizierten [Pro- und Kontra-Argumente](#schritt-2:-
 ::: {.callout-caution icon="false" collapse="true"}
 ### Abwägungsargumente A1 und A4 sind unentscheidbar
 
-Kommentar A1
+Zwischen den beiden Abwägungsargumenten für (A1) und gegen (A4) die Ausrichtung der Spiele besteht Uneinigkeit darüber, wie hoch der [**erwartete Nutzen**]{.text-success} und die [**erwarteten Kosten bzw. Schäden**]{.text-danger} aus der Ausrichtung der Spiele sein werden. 
 
 ::: {.column-margin}
-[Rekonstruktion A1](){.btn .btn-outline-primary role="button"}
+[Unentscheidbarkeit A1 und A4](./olympia-bewerbung-v4-interaktiv.qmd#abwägungs-argumente-(a1-und-a4)-sind-unentscheidbar){.btn .btn-outline-primary role="button"}
 :::
 
-Kommentar A4
+##### Möglichkeit zur Auflösung
 
+* diese Kontroverse kann nur durch eine präzisere Schätzung des gesamtgesellschaftlichen Werts der Konsequenzen aus der Ausrichtung der Olympischen Spiele aufgelöst werden. 
+
+##### Problem der Auflösung
+
+* die mir [bekannte Schätzung](https://mcube-cluster.de/wp-content/uploads/2025/10/251009_MCube_Olympia_07.pdf) ist nicht präzise genug: 
+  * sie gibt keine Wahrscheinlichkeitswerte an, die erforderlich sind, um Erwartungswerte zu bestimmen;
+
+* ich vermute, dass es nicht möglich ist, hinreichend präzise Schätzungen des Erwartungswertes zu erhalten.
+  
 ::: {.column-margin}
-[Rekonstruktion A4](){.btn .btn-outline-primary role="button"}
+[Hintergrund: Karte der Dialektik Abwägungsargumente](){.btn .btn-outline-secondary role="button"}
 :::
 :::
 
 ::: {.callout-caution icon="false" collapse="true"}
 ### A3: Zurückweisung der Nachteile ist unbegründbar
 
-shdjf
+Vertreter\*innen von A3 legen sich auf die Behauptung fest, dass alle (!) befürchteten Nachteile aus der Ausrichtung Olympischer Spiele nicht bzw. nicht im bedeutenden Ausmaß auftreten werden. 
 
 ::: {.column-margin}
-[Rekonstruktion A3](){.btn .btn-outline-primary role="button"}
+[Unbegründbare Prämissen in A3](./olympia-bewerbung-v4-interaktiv.qmd#a3-zurückweisung-der-nachteile-ist-unbegründbar){.btn .btn-outline-primary role="button"}
 :::
+
+Bringt man dieses Argument vor, legt man sich auf Behauptungen fest, deren Wahrheit nicht gesichert ist und vermutlich auch nicht gesichert werden kann:
+
+* Keine finanziellen Risiken: 
+
+  * Es ist nicht zu erwarten, dass die Ausrichtung der Olympischen Spiele dem Stadthaushalt unerwartete Kosten aufbürdet.
+  * Es ist nicht zu erwarten, dass die Ausrichtung der Olympischen Spiele dazu führt, dass andere Haushaltsposten der Stadt signifikant gekürzt werden
+
+* Keine Risiken aus der Kooperation mit dem IOC: Es ist nicht zu erwarten, dass das IOC auf eine untragbare Weise das Ausrichtungskonzept der Stadt München beeinflusst.
+
+::: {.column-margin}
+[Hintergrund: Karte der Dialektik von A3](){.btn .btn-outline-secondary role="button"}
+:::
+
 :::
 
 #### Was ist von unentscheidbaren Argumenten zu halten?
@@ -393,30 +416,30 @@ Aus der [Argumentrekonstruktion](#hintergrund:-rekonstruktion-von-argumenten) er
 ::: {.callout-tip icon="false" collapse="true"}
 #### Kontroverse über die Verteilung der Risiken
 
-Das Pro-Argument [A2: Argument der Chancen-Ergreifung]() und das Kontra-Argument [A6: Vermeidung unkalkulierbarer Risiken]() enthalten einander widersprechende Prämissen:
+Das Pro-Argument [A2: Argument der Chancen-Ergreifung](./olympia-bewerbung-v4-interaktiv.qmd#pro-argumente) und das Kontra-Argument [A6: Vermeidung unkalkulierbarer Risiken](./olympia-bewerbung-v4-interaktiv.qmd#contra-argumente) enthalten einander widersprechende Prämissen:
 
 ::: {.column-margin}
-[Verteilung der Risiken](){.btn .btn-outline-primary role="button"}
+[Verteilung der Risiken](./olympia-bewerbung-v4-interaktiv.qmd#1.-kontroverse:-verluste){.btn .btn-outline-primary role="button"}
 :::
 
 ::: {.columns}
 
 ::: {.column width="49%"}
 
-<div style="text-align:center; color:green;">
-Mögliche Verluste aus der Durchführung Olympischer Spiele sind fair tragbar
+<div style="text-align:center;">
+[Mögliche Verluste aus der Durchführung Olympischer Spiele sind fair tragbar]{.text-success}
 </div>
 
-diese Behauptung ist in [A2: Argument der Chancen-Ergreifung]() enthalten;
+diese Behauptung ist in [A2: Argument der Chancen-Ergreifung](./olympia-bewerbung-v4-interaktiv.qmd#pro-argumente) enthalten;
 :::
 ::: {.column width="2%"}
 :::
 ::: {.column width="49%"}
-<div style="text-align:center; color:red;">
-Maximale Verluste aus der Durchführung Olympischer Spiele sind nicht fair tragbar
+<div style="text-align:center;">
+[Maximale Verluste aus der Durchführung Olympischer Spiele sind nicht fair tragbar]{.text-danger}
 </div>
 
-diese Behauptung ist in [A6: Vermeidung unkalkulierbarer Risiken]() enthalten
+diese Behauptung ist in [A6: Vermeidung unkalkulierbarer Risiken](./olympia-bewerbung-v4-interaktiv.qmd#contra-argumente) enthalten
 :::
 :::
 
@@ -438,14 +461,14 @@ Diese Kontroverse richtet sich auf die Frage, wie mögliche Nachteile aus der Au
 Argumente der Befürworter\*innen der Olympischen Spiele, insbesondere das [A2: Argument der Chancenergreifung](), enthalten die Prämisse "Keine besseren Alternativen zu Olympia". Die Gegner\*innen behaupten hingegen im Argument [A5: Bessere Alternativen zu Olympia]() die Gegenthese.
 
 ::: {.column-margin}
-[Verfügbarkeit von Alternativen](){.btn .btn-outline-primary role="button"}
+[Verfügbarkeit von Alternativen](./olympia-bewerbung-v4-interaktiv.qmd#2.-kontroverse:-alternativen){.btn .btn-outline-primary role="button"}
 :::
 
 ::: {.columns}
 
 ::: {.column width="49%"}
 
-::: {style="text-align:center; color:green;"}
+::: {.text-success style="text-align:center;"}
 Keine Alternativen zu Olympia:
 
 Es gibt keine alternativen Wege, die Vorteile zu realisieren, die die Ausrichtung der Olympischen Spiele der Stadt München bringen würde. 
@@ -456,7 +479,7 @@ Es gibt keine alternativen Wege, die Vorteile zu realisieren, die die Ausrichtun
 :::
 ::: {.column width="49%"}
 
-::: {style="text-align:center; color:red;"}
+::: {.text-danger style="text-align:center;"}
 Bessere Alternative:
 
 Wenn die Stadt München die Infrastrukturvorhaben, die sie im Zuge der Olympia-Ausrichtung realisieren will, vollständig selbst finanziert, hat sie insgesamt geringere Nachteile zu tragen als mittels Olympia-Ausrichtung.
@@ -474,7 +497,7 @@ Somit sind die folgenden Behauptungen kontrovers:
 
 ::: {.column width="49%"}
 
-::: {style="text-align:center; color:green;"}
+::: {.text-success style="text-align:center;"}
 
 Zuschüsse für Infrastruktur wichtiger als Olympia-Risiken
 
@@ -486,7 +509,7 @@ Die zusätzliche Belastung des Stadthaushalts (durch den Wegfall der Zuschüsse)
 :::
 ::: {.column width="49%"}
 
-::: {style="text-align:center; color:red;"}
+::: {.text-danger style="text-align:center;"}
 Risiken der IOC-Kooperation schlimmer als Verzicht auf finanzielle Zuschüsse
 
 Die zusätzliche Belastung des Stadthaushalts für die Realisierung der Infrastrukturvorhaben ist insgesamt leichter zu bewältigen als das Tragen der Risiken aus der Kooperation mit dem IOC.

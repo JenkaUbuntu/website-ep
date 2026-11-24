@@ -28,6 +28,8 @@ Veröffentlichungsdatum
 > - [A6: Argument der Vermeidung unkalkulierbarer Risiken](#a6-argument-der-vermeidung-unkalkulierbarer-risiken)
 >   - [Ergebnis: das rekonstruierte A6]()
 
+> **NOTE:**
+
 # Schritt 2.1: Rekonstruktion von Pro-Argumenten
 
 # Rekonstruktion von A1: Abwägung für die Ausrichtung
@@ -460,4 +462,239 @@ Dieses Argument begründet die Kernthese (Contra-Olympia-Bewerbung) unter der An
 
 ## Graphik der Dialektik der Contra-Argumente
 
+# Anhang: Rekonstruktionen von Stützargumenten
+
+# Argumentrekonstruktionen
+
+## A1.1: Erwartungswert-Argument
+
+## Idee des Arguments
+
+#### Zweck
+
+Dieses Argument soll begründen, wie genau die Vor- und die Nachteile aus der Ausrichtung Olympischer Spiele – die als unstrittig betrachtet werden – miteinander verrechnet wurden.
+
+#### Grundidee
+
+Das Argument greift auf ein bekanntes Prinzip für die Bewertung von Handlungsoptionen mit unsicheren Konsequenzen zurück: der Wert einer Handlungsoption entspricht dem erwarteten Nutzen ihrer Konsequenzen.
+
+#### Anmerkungen
+
+- Das Argument ist voraussetzungsreich und dürfte kontrovers sein:
+  - Prämisse 1 behauptet implizit, dass die Bewertung mit der Theorie des erwarteten Nutzens, die beste Theorie für die Bewertung darstellt.
+  - Prämisse 2 behauptet das Ergebnis der Bewertung. Ihre Begründung – die Berechnung des erwarteten Nutzens der Ausrichtung von Olympischen Spiele in einer Stadt – ist höchst komplex.
+    - Eine Abschätzung der möglichen Nutzen der für die Ausrichtung der Spiele geplanten Infrastrukturmaßnahmen hat eine Studie der MCube Consulting GmbH [(Schröder und Waldner 2025)](https://mcube-cluster.de/wp-content/uploads/2025/10/251009_MCube_Olympia_07.pdf) vorgenommen. Demnach
+      - kann die Ausrichtung nach 65 Jahren im besten Fall einen gesamtwirtschaftlichen Gewinn in Höhe von 17 Mrd Euro bringen;
+      - im schlechtesten Fall bleibt nach 65 Jahren ein Verlust in Höhe von 4 Mrd Euro.
+      - eine quantitative Abschätzung dessen, wie wahrscheinlich es ist, dass das beste und das schlechteste Szenario eintreten, geben die Autor\*innen nicht an.
+- Diese Rekonstruktion macht zwei Behauptungen explizit, die Befürworter\*innen der Olympischen Spiele begründen müssen, wenn sie schlüssig argumentieren wollen.
+
+## Rekonstruktion
+
+1.  `[Normative Grundlage: Erwarteter Nutzen]`: Das Herbeiführen der möglichen Vorteile einer Handlungsoption ist dann besser als das Vermeiden ihrer möglichen Nachteile, wenn der erwartete gesamtgesellschaftliche Nutzen der möglichen Vorteile höher ist als der erwartete gesamtgesellschaftliche Schaden aus den möglichen Nachteilen.
+
+2.  `[Erwarteter Nutzen von Olympischen Spielen]`: Der erwartete gesamtgesellschaftliche Nutzen aus den möglichen Vorteilen der Ausrichtung Olympischer Spiele
+
+    - Infrastrukturausbau,
+    - einzigartige Erlebnisse,
+    - finanzielle Gewinne für die lokale Wirtschaft
+
+    ist höher als der erwartete gesamtgesellschaftliche Schaden aus den möglichen Nachteilen der Ausrichtung:
+
+    - Kosten- und Finanzrisiken sowie
+    - Kooperation mit einem unfairen Partner.
+
+------------------------------------------------------------------------
+
+3.  `[Abwägung-1 Pro-Olympia]`: Trotz der Nachteile und Risiken aus der Ausrichtung der Olympischen Spiele ist es ingesamt besser sie auszurichten, um ihre Vorteile zu realisieren.
+
+## A1.2: Finanzielle Zuschüsse
+
+## Idee des Arguments
+
+#### Zweck
+
+Dieses Argument begründet die `[Optimalitäts-Behauptung]` in der Prämisse (5)[^1].
+
+#### Grundidee
+
+- Der Zuschlag für die Ausrichtung der Olympischen Spiele in München führt dazu, dass der Bund und der Freistaat Bayern sich an der Finanzierung der Infrastrukturvorhaben beteiligen. Das wiederum senkt die Kosten der Infrastrukturprojekte, die die Stadt München tragen muss und ermöglicht, dass sie früher realisiert werden als ohne die Zuschüsse.
+
+- Der finanzielle Zuschuss ist derart bedeutend, dass es sich lohnt, dafür die Nachteile der Ausrichtung der Olympischen Spiele (Risiken aus der Kooperation mit dem IOC) in Kauf zu nehmen.
+
+#### Anmerkungen
+
+In den mir bekannten öffentlichen Debatten wurde diese Argumentation nicht vorgebracht. Diese Rekonstruktion ist als ein Vorschlag zu interpretieren, wie eine Begründung der Prämisse `[Optimalität der Olympia-Bewerbung]` aussehen kann.
+
+- Auch dieses Argument dürfte sehr kontrovers sein:
+
+  - Prämisse 6 `[Finanzielle Zuschüsse wichtiger als Risiken IOC-Kooperation]` enthält eine Abwägung zwischen dem Nutzen der finanziellen Zuschüsse und dem erwarteten Schaden aus den Nachteilen der Ausrichtung der Spiele.
+  - Sie ist begründungsbedürftig, Begründungen hierfür aus der öffentlichen Debatte sind mir nicht bekannt.
+
+## Rekonstruktion
+
+1.  `[Zuschüsse vom Bund und Land]`: Genau dann, wenn die Stadt München den Zuschlag für die Ausrichtung der Olympischen Spiele bekommt, erhält sie finanzielle Zuschüsse vom Bund und Land für die Realisierung ihrer Infrastrukturprojekte.
+
+------------------------------------------------------------------------
+
+2.  Wenn die Stadt München ihre Infrastrukturprojekte umsetzt und nicht die Olympischen Spiele ausrichtet, erhält sie keine finanziellen Zuschüsse vom Land und Bund.
+
+3.  Realisierung von Infrastrukturprojekten der Stadt München ohne die Zuschüsse vom Land und Bund führt zu höherer Belastung von Stadthaushalt.
+
+4.  Wenn die Stadt München ihre Infrastrukturprojekte umsetzt und nicht die Olympischen Spiele ausrichtet, geht sie keine Risiken aus der Kooperation mit dem IOC.
+
+------------------------------------------------------------------------
+
+5.  Wenn die Stadt München ihre Infrastrukturprojekte umsetzt und nicht die Olympischen Spiele ausrichtet, wird das Stadthaushalt höher belastet und es gibt keine Risiken aus der Kooperation mit dem IOC.
+
+6.  `[Finanzielle Zuschüsse wichtiger als Risiken IOC-Kooperation]`: Die zusätzliche Belastung des Stadthaushalts (durch den Wegfall der Zuschüsse) hat insgesamt höhere Nachteile als das Tragen der Risiken aus der Kooperation mit dem IOC.
+
+------------------------------------------------------------------------
+
+7.  Wenn die Stadt München ihre Infrastrukturprojekte umsetzt und nicht die Olympischen Spiele ausrichtet, hat sie größere Nachteile als wenn sie die Olympischen Spiele ausrichtet und dabei die Infrastrukturprojekte umsetzt.
+
+8.  Entweder wird die Stadt München ihre Infrastrukturprojekte realisieren und Olympische Spiele ausrichten oder sie wird sie realisieren und keine Olympischen Spiele ausrichten.
+
+------------------------------------------------------------------------
+
+9.  `[Optimalität der Olympia-Bewerbung]`: Es ist nicht möglich, die Vorteile der Ausrichtung der Olympischen Spiele zu realisieren (Infrastrukturprojekte) und geringere Nachteile als denen, die durch eine erfolgreiche Olympia-Bewerbung entstehen können (Risiken aus der Kooperation mit dem IOC), in Kauf zu nehmen.
+
+## A3.1-3.3: Nachteile-Debunking-Argumente
+
+## A3.1 Finanzrisiken überschaubar
+
+#### Zweck
+
+Das Argument soll die folgende Behauptung begründen:
+
+- Es ist nicht zu erwarten, dass die Ausrichtung der Olympischen Spiele ungeplante finanzielle Lasten für den Stadthaushalt verursacht.
+
+#### Anmerkungen
+
+Aus den öffentlichen Debatten ist mir keine Begründung dieser Behauptung bekannt.
+
+- Bei der Diskussion der Kosten der Ausrichtung der Spiele verweist die Stadt München in den [FAQs](https://www.olympiabewerbung-muenchen.com/#faq) wird nicht darauf eingangen, dass Kosten der Infrastrukturvorhaben vielfach höher ausfallen als ursprünglich geplant.
+
+Der Studie der MCube Consulting GmbH [(Schröder und Waldner 2025)](https://mcube-cluster.de/wp-content/uploads/2025/10/251009_MCube_Olympia_07.pdf) lässt sich eine Idee dafür entnehmen, wie für diese Behauptung argumentiert werden könnte:
+
+- die Studie bewertet die geplanten Infrastrukturvorhaben nach dem Höhe ihrer Risiken (Abb. 16, S.61).
+- Die Befürworter\*innen können auf dieser Basis Risiken minimierende Strategien wählen:
+  - sich verpflichten, nur diejenigen Infrastrukturmaßnahmen umzusetzen, die geringe finanzielle Risiken mit sich bringen;
+  - Konzepte vorstellen, mit denen vermieden werden kann, dass die Risiken sich realisieren.
+
+## A3.2 Ausrichtungskosten tragbar
+
+#### Zweck
+
+Das Argument soll die folgende Behauptung begründen:
+
+- Es ist nicht zu erwarten, dass die Finanzierung der Ausrichtung der Olympischen Spiele dazu führt, dass andere Haushaltsposten der Stadt München hierfür gekürzt werden.
+
+#### Anmerkungen
+
+Aus den öffentlichen Debatten ist mir keine Begründung dieser Behauptung bekannt.
+
+- Bei der Diskussion der Kosten der Ausrichtung der Spiele verweist die Stadt München in den [FAQs](https://www.olympiabewerbung-muenchen.com/#faq) darauf, dass die Durchführung der Spiele sich selbst tragen soll und dass die Infrastrukturinvestitionen durch den Bund und möglicherweise privaten Sektor bezuschusst werden.
+
+- Das erklärt aber nicht, wie die dennoch verbleibenden Infrastrukturkosten, die die Stadt tragen muss, finanziert werden und wie die Gefahr vermieden werden kann, dass dadurch in anderen Bereichen des Haushalts gekürzt wird.
+
+## A3.3 Reformiertes IOC
+
+#### Zweck
+
+Das Argument soll die folgende Behauptung begründen:
+
+- Es ist nicht zu erwarten, dass das IOC auf eine untragbare Weise das Ausrichtungskonzept der Stadt München beeinflusst.
+
+#### Grundidee
+
+- Nach der Reform der Vergabebedingungen strebt das IOC es an, dass die Spiele kostengünstig und nachhaltig ausgerichtet werden, so die Befürworter\*innen der Ausrichtung (siehe [Argumentationssheet – Aufbruch für die Gesellschaft](https://www.olympiabewerbung-muenchen.com/wp-content/uploads/2025/09/OlympiJa-PRO-Argumente-vertieft.pdf), Seite 7).
+- Weil Kostendeckelung und Nachhaltigkeit zu den Grundzielen des IOC gehören, ist es nicht zu erwarten, dass das IOC die Stadt München daran hindert, die Spiele kostenminimierend und nachhaltig durchzuführen.
+
+## A4.1: Erwartungswert-Argument gegen Olympia
+
+## Grundidee
+
+1.  Das Herbeiführen der möglichen Vorteile einer Handlungsoption ist dann besser als das Vermeiden ihrer möglichen Nachteile, wenn der erwartete gesamtgesellschaftliche Nutzen der möglichen Vorteile höher ist als der erwartete gesamtgesellschaftliche Schaden aus den möglichen Nachteilen.
+
+2.  `[erwartete Nachteile überwiegen erwartete Vorteile]`: Der erwartete gesamtgesellschaftliche Nutzen aus den möglichen Vorteilen der Ausrichtung Olympischer Spiele – Infrastrukturausbau, einzigartige Erlebnisse, finanzielle Gewinne für die lokale Wirtschaft – ist geringer als der erwartete gesamtgesellschaftliche Schaden aus den möglichen Nachteilen der Ausrichtung (Kosten- und Finanzrisiken, Kooperation mit einem unfairen Partner, zusätzliche ökologische Belastungen durch die Spiele).
+
+------------------------------------------------------------------------
+
+3.  `[Abwägung Kontra-Olympia]`: Die erwarteten positiven Konsequenzen aus einer Ausrichtung von Olympischen Spielen in München überwiegen nicht die erwarteten Nachteile aus den Finanzrisiken und der unvermeidbaren Kooperation mit einem unfairen Partner.
+
+## Rekonstruktion
+
+## A5.1: Infrastrukturausbau unabhängig von Olympia
+
+## Idee des Arguments
+
+1.  Wenn die Stadt München ihre Infrastrukturprojekte umsetzt und nicht die Olympischen Spiele ausrichtet, wird das Stadthaushalt höher belastet und es gibt keine Risiken aus der Kooperation mit dem IOC.
+
+    \<+ [`<A5.1.1: Ohne Olympia-Ausrichtung keine Zuschüsse>`](#a5.1.1.-ohne-olympia-ausrichtung-keine-zuschüsse)
+
+2.  \[Risiken der IOC-Kooperation schlimmer als Verzicht auf finanzielle Zuschüsse\]: Die zusätzliche Belastung des Stadthaushalts (durch den Wegfall der Zuschüsse) für die Realisierung der Infrastrukturvorhaben ist insgesamt leichter zu bewältigen als das Tragen der Risiken aus der Kooperation mit dem IOC.
+
+------------------------------------------------------------------------
+
+3.  Wenn die Stadt München ihre Infrastrukturprojekte umsetzt und nicht die Olympischen Spiele ausrichtet, hat sie größere Nachteile als wenn sie die Olympischen Spiele ausrichtet und dabei die Infrastrukturprojekte umsetzt.
+
+------------------------------------------------------------------------
+
+4.  `[Bessere Alternative]`: Wenn die Stadt München die Infrastrukturvorhaben, die sie im Zuge der Olympia-Ausrichtung realisieren will, vollständig selbst finanziert, hat sie insgesamt geringere Nachteile zu tragen als durch ihre Realisierung mittels Olympia-Ausrichtung, auch wenn dadurch auf einmalige Erlebnisse verzichtet wird.
+
+## Rekonstruktion
+
+## A5.1.1. Ohne Olympia-Ausrichtung keine Zuschüsse
+
+## Idee
+
+1.  `[Zuschüsse vom Bund und Land]`: Genau dann, wenn die Stadt München den Zuschlag für die Ausrichtung der Olympischen Spiele bekommt, erhält sie finanzielle Zuschüsse vom Bund und Land für die Realisierung ihrer Infrastrukturprojekte.
+
+------------------------------------------------------------------------
+
+2.  Wenn die Stadt München ihre Infrastrukturprojekte umsetzt und nicht die Olympischen Spiele ausrichtet, erhält sie keine finanziellen Zuschüsse vom Land und Bund.
+3.  Realisierung von Infrastrukturprojekten der Stadt München ohne die Zuschüsse vom Land und Bund führt zu höherer Belastung von Stadthaushalt.
+4.  Wenn die Stadt München ihre Infrastrukturprojekte umsetzt und nicht die Olympischen Spiele ausrichtet, geht sie keine Risiken aus der Kooperation mit dem IOC.
+
+------------------------------------------------------------------------
+
+5.  Wenn die Stadt München ihre Infrastrukturprojekte umsetzt und nicht die Olympischen Spiele ausrichtet, wird das Stadthaushalt höher belastet und es gibt keine Risiken aus der Kooperation mit dem IOC.
+
+## Rekonstruktion
+
+## A6.1. Risiken aus einer Kooperation mit dem IOC
+
+## Idee des Arguments
+
+1.  `[Risiko aus der Gewinnorientierung des IOC]`: Bei der Festlegung des Konzepts der Olympischen Spiele ist damit zu rechnen, dass das IOC auf zahlreichen Lösungen besteht, die die IOC-Einnahmen maximieren und die Spiele für die Stadt München teurer und weniger nachhaltig machen.
+
+    \<+ [\<A6.1.1. Das IOC ist ein unfairer Kooperationspartner\>](#a6.1.1-das-ioc-ist-ein-unfairer-kooperationspartner)
+
+2.  Wenn da IOC auf zahlreichen Lösungen besteht, die die Spiele die Spiele für die Stadt München teurer und weniger nachhaltig machen, können die Verluste aus der Ausrichtung der Spiele die Gewinne deutlich übertreffen.
+
+------------------------------------------------------------------------
+
+3.  Die maximal möglichen Verluste an gesamtgesellschaftlichem Nutzen aus der Ausrichtung der Olympischen Spiele – ökologische Schäden sowie unerwartete finanzielle Belastungen – können deutlich höher ausfallen als die maximal möglichen Gewinne – Infrastrukturausbau, Sporterlebnisse, finanzielle Gewinne.
+
+## Rekonstruktion
+
+## A6.1.1 Das IOC ist ein unfairer Kooperationspartner
+
+## Grundidee
+
+1.  Beim IOC spielt das Interesse, mit den Olympischen Spielen, möglichst hohe Einnahmen zu generieren, eine prioritäre Rolle.
+2.  Wenn ein Ausrichter einer Veranstaltung das Ziel Z priorisiert, dann ist damit zu rechnen, dass der Ausrichter bei Zielkonflikten häufig für die Realisierung von Z entscheiden wird.
+3.  Bei der Festlegung des Konzepts der Olympischen Spiele zwischen der Stadt München und dem IOC ist mit zahlreichen Konflikten zwischen dem Finanzinteresse des IOC und den Zielen der Stadt München (Nachhaltigkeit, Kostenreduktion) zu rechnen.
+
+------------------------------------------------------------------------
+
+4.  `[Risiko aus der Gewinnorientierung des IOC]`: Bei der Festlegung des Konzepts der Olympischen Spiele ist damit zu rechnen, dass das IOC auf zahlreichen Lösungen besteht, die die IOC-Einnahmen maximieren und die Spiele für die Stadt München teurer und weniger nachhaltig machen.
+
+## Rekonstruktion
+
 Zurück nach oben
+
+## Fußnoten
+
+[^1]: Es gibt keinen anderen Weg, mit geringeren Nachteilen als denen, die durch eine erfolgreiche Olympia-Bewerbung entstehen können, die positiven Konsequenzen für die Stadt zu realisieren, die von der Ausrichtung der Olympischen Spiele zu erwarten sind.

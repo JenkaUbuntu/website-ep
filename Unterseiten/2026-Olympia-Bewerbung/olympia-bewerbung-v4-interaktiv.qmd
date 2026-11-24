@@ -13,7 +13,7 @@ format:
         embed-resources: true
         from: markdown+emoji
         slide-number: c/t
-        footer: "ArgumentationsAgentur | <a href=\"#/gliederung\">zurück zu Gliederung</a>"
+        footer: "ArgumentationsAgentur | <a href=\"#/gliederung\">zurück zu Gliederung</a> | <a href=\"./olympia-bewerb-blogbeitrag-v2.qmd\">zum <b>Blogartikel</b></a>"
         reference-location: document
         logo: ./graphiken/logoAA.svg
 ---
@@ -86,9 +86,9 @@ format:
 
 * [**1.1: Öffentlich vorgebrachte Pro- und Contra-Gesichtspunkte**](#öffentliche-debatte)
 * [**1.2: Tatsächliche Pro-Gründe**](#tatsächliche-gründe-für-die-spiele)
-  * [Hintergrund: Warum manche der angeführten Pro- Gesichtspunkte keine Gründe sind](#sortierung-der-pro-gesichtspunkte)
+  * [Hintergrund: Warum manche der angeführten Pro- Gesichtspunkte keine Gründe sind](./olympia-bewerbung-schritt1-details.qmd#sortierung-der-pro-gesichtspunkte-zu-pro-gründen)
 * [**1.3: Tatsächliche Contra-Gründe**](#tatsächliche-gründe-gegen-die-spiele)
-  * [Hintergrund: Warum manche der angeführten Contra-Gesichtspunkte keine Gründe sind](#sortierung-der-contra-gesichtspunkte)
+  * [Hintergrund: Warum manche der angeführten Contra-Gesichtspunkte keine Gründe sind](./olympia-bewerbung-schritt1-details.qmd#sortierung-der-contra-gesichtspunkte-zu-contra-gründen)
 * [**1.4: Das resultierende Argumentations-Puzzle**](#dialektik-angesichts-von-pro--und-kontra-gründen)
 
 :::
@@ -102,9 +102,9 @@ format:
 ### [[**Schritt 2: Rekonstruktion von Argumenten**]{style="color:#d95f0e"}](#schritt-2-rekonstruierte-argumente)
 
 * [**2.1: Argumente für eine Olympia-Bewerbung Münchens**](#pro-argumente)
-  * [Hintergrund: Rekonstruktion von Pro-Argumenten]()
+  * [Hintergrund: Rekonstruktion von Pro-Argumenten](./olympia-bewerbung-argumentrekos.qmd#schritt-2.1-rekonstruktion-von-pro-argumenten)
 * [**2.2: Argumente gegen eine Olympia-Bewerbung Münchens**](#contra-argumente)
-  * [Hintergrund: Rekonstruktion von Contra-Argumenten]()
+  * [Hintergrund: Rekonstruktion von Contra-Argumenten](./olympia-bewerbung-argumentrekos.qmd#schritt-2.2-rekonstruktion-von-contra-argumenten)
 :::
 :::
 :::
@@ -327,7 +327,7 @@ Ausbau von Sportstätten; Förderung von Sport
 :::
 
 ::: footer
-ArgumentationsAgentur | [zurück zu **Gliederung**](#gliederung) | [zurück zum **Blogartikel**](./olympia-bewerb-blogbeitrag-v2.qmd#gründe-für-eine-bewerbung-münchens) | [**Hintergrund**: warum manche der angeführten **Pro-Gesichtspunkte keine Gründe** sind]() 
+ArgumentationsAgentur | [zurück zu **Gliederung**](#gliederung) | [zum **Blogartikel**](./olympia-bewerb-blogbeitrag-v2.qmd#gründe-für-eine-bewerbung-münchens) | [**Hintergrund**: warum manche der angeführten **Pro-Gesichtspunkte keine Gründe** sind]() 
 :::
 
 ## Tatsächliche Gründe gegen die Spiele {#tatsächliche-gründe-gegen-die-spiele}
@@ -430,7 +430,7 @@ ArgumentationsAgentur | [zurück zu **Gliederung**](#gliederung) | [zurück zum 
 :::
 
 ::: footer
-ArgumentationsAgentur | [zurück zu Gliederung](#gliederung) | [**Hintergrund**: warum manche der angeführten **Contra-Gesichtspunkte keine Gründe** sind]() 
+ArgumentationsAgentur | [zurück zu Gliederung](#gliederung) | [zum Blogbeitrag](./olympia-bewerb-blogbeitrag-v2.qmd) | [**Hintergrund**: warum manche der angeführten **Contra-Gesichtspunkte keine Gründe** sind]() 
 :::
 
 ## Dialektik angesichts von Pro- und Kontra-Gründen {#dialektik-angesichts-von-pro--und-kontra-gründen auto-animate="true"}
@@ -882,49 +882,48 @@ window.addEventListener("load", function () {
 
 ::: {.nonincremental}
 
-<!--
-::: {.columns}
-::: {.column width="32%"}
-:::
-::: {.column width="36%"}
-::: {.callout-tip icon="false"}
-#### Pro-Olympia-Bewerbung
-:::
-:::
-::: {.column width="32%"}
-:::
-:::
--->
 ::: {.columns}
 
 ::: {.column width="25%"}
 ::: {.callout-tip icon="false"}
-#### A1: Pro-Abwägung^[[Detailrekonstruktion A1: Pro-Abwägung]()]
+#### A1: Pro-Abwägung
 Idee des Arguments:
 
 * Die gesamten erwarteten Vorteile, die eine Ausrichtung der Olympischen Spiele mit sich bringt, überwiegen die gesamten erwarteten Nachteile aus ihrer Ausrichtung.
+:::
+
+::: {style="text-align:center;"}
+[Datailrekonstruktion A1](./olympia-bewerbung-argumentrekos.qmd#a1-pro-abwägung-abwägungsprinzip){.btn-rev .btn-rev-outline-secondary target="_blank"}
 :::
 :::
 
 ::: {.column width="41%"}
 ::: {.callout-tip icon="false"}
-#### A2: Argument der Chancen-Ergreifung^[[Detailrekonstruktion A2: Chancen-Ergreifung]()]
+#### A2: Argument der Chancen-Ergreifung
 Idee des Arguments:
 
 * Es ist nicht seriös abschätzbar, wie hoch die erwarteten Vorteile und die erwarteten Nachteile aus der Ausrichtung der Olympischen Spiele sein werden.
 * Dennoch sollte die Stadt München die Olympischen Spiele ausrichten, denn:
-  * die Chancen sind sehr bedeutsam: im Idealfall bringen die Spiele sehr hohe und sehr bedeutsame Vorteile für die Stadt und ihre Bewohner\*innen;
+  * die Chancen sind für die Stadt und ihre Bewohner\*innen sehr bedeutsam;
   * die Risiken sind fair aufteilbar: schlimmstenfalls können die Nachteile aus der Durchführung der Spiele so aufgeteilt werden, dass niemand von den die Verluste Tragenden gewichtig benachteiligt wird.
+:::
+
+::: {style="text-align:center;"}
+[Datailrekonstruktion A2](./olympia-bewerbung-argumentrekos.qmd#a2-argument-der-chancen-ergreifung){.btn-rev .btn-rev-outline-secondary target="_blank"}
 :::
 :::
 
 ::: {.column width="34%"}
 ::: {.callout-tip icon="false"}
-#### A3: Zurückweisung der Nachteile^[[Detailrekonstruktion A3: Zurückweisung der Nachteile]()]
+#### A3: Zurückweisung der Nachteile
 Idee des Arguments:
 
 * Die aus der Ausrichtung der Olympischen Spiele befürchteten Nachteile – Finanzrisiken, Kooperation mit dem IOC und Ausrichtungskosten – sind nicht gewichtig.
 * Da die Ausrichtung der Spiele bedeutsame Vorteile realisieren kann und die möglichen Nachteile nicht gewichtig sind, sollte sich München um die Ausrichtung bewerben. 
+:::
+
+::: {style="text-align:center;"}
+[Datailrekonstruktion A3](./olympia-bewerbung-argumentrekos.qmd#a3-nachteile-zurückweisung){.btn-rev .btn-rev-outline-secondary target="_blank"}
 :::
 :::
 
@@ -932,7 +931,7 @@ Idee des Arguments:
 :::
 
 ::: footer
-ArgumentationsAgentur | [zurück zu Gliederung](#gliederung) | [**Hintergrund**: Detailrekonstruktion der Pro-Argumente]() 
+ArgumentationsAgentur | [zurück zu Gliederung](#gliederung) | [zum Blog](./olympia-bewerb-blogbeitrag-v2.qmd) | [**Hintergrund**: Detailrekonstruktion der Pro-Argumente](./olympia-bewerbung-argumentrekos.qmd#schritt-2.1-rekonstruktion-von-pro-argumenten) 
 :::
 
 
@@ -943,31 +942,43 @@ ArgumentationsAgentur | [zurück zu Gliederung](#gliederung) | [**Hintergrund**:
 ::: {.columns}
 ::: {.column width="25%"}
 ::: {.callout-important icon="false"}
-#### A4: Kontra-Abwägung^[[Detailrekonstruktion A4: Kontra-Abwägung]()]
+#### A4: Kontra-Abwägung
 Idee des Arguments:
 
 * Die gesamten erwarteten Nachteile, die eine Ausrichtung der Olympischen Spiele mit sich bringt, überwiegen die gesamten erwarteten Vorteile aus ihrer Ausrichtung.
+:::
+
+::: {style="text-align:center;"}
+[Datailrekonstruktion A4](./olympia-bewerbung-argumentrekos.qmd#a4-abwägungsargument-gegen-die-ausrichtung-der-olympischen-spiele){.btn-rev .btn-rev-outline-secondary target="_blank"}
 :::
 :::
 
 ::: {.column width="33%"}
 ::: {.callout-important icon="false"}
-#### A5: Bessere Alternativen zu Olympia^[[Detailrekonstruktion A5: Bessere-Alternativen]()]
+#### A5: Bessere Alternativen zu Olympia
 Idee des Arguments:
 
 * Wenn die Stadt München die Stadtentwicklungsvorhaben, die bei Ausrichtung von Olympia vom Bund und Freistaat bezuschusst werden, selbst finanziert, hat sie insgesamt geringere Nachteile zu tragen als aus der Ausrichtung von Olympischen Spielen.
+:::
+
+::: {style="text-align:center;"}
+[Datailrekonstruktion A5](./olympia-bewerbung-argumentrekos.qmd#a5-argument-der-besseren-alternativen){.btn-rev .btn-rev-outline-secondary target="_blank"}
 :::
 :::
 
 ::: {.column width="42%"}
 ::: {.callout-important icon="false"}
-#### A6: Vermeidung unkalkulierbarer Risiken^[[Detailrekonstruktion A6: Vermeidung unkalkulierbarer Risiken]()]
+#### A6: Vermeidung unkalkulierbarer Risiken
 Idee des Arguments:
 
 * Es ist nicht seriös abschätzbar, wie hoch die erwarteten Vorteile und die erwarteten Nachteile aus der Ausrichtung der Olympischen Spiele sein werden.
 * Die Stadt München sollte sich nicht um die Ausrichtung bewerben, denn:
-  * schlimmstenfalls können die Verluste aus der Ausrichtung -- ökologische Schäden sowie unerwartete finanzielle Belastungen -- deutlich höher ausfallen als die maximal möglichen Vorteile.
-  * Die maximal möglichen Verluste aus der Ausrichtung können derart gravierend werden, dass sie nicht fair aufgefangen werden können: es wird zu Kürzungen in unbeteiligten Bereichen des Stadthaushalts führen.
+  * schlimmstenfalls können die Verluste aus der Ausrichtung -- unerwartete ökologische Schäden oder finanzielle Belastungen -- deutlich höher ausfallen als die möglichen Vorteile.
+  * Die maximal möglichen Verluste können derart gravierend werden, dass sie nicht fair aufgefangen werden können: es wird zu Kürzungen in unbeteiligten Bereichen des Stadthaushalts führen.
+:::
+
+::: {style="text-align:center;"}
+[Datailrekonstruktion A6](./olympia-bewerbung-argumentrekos.qmd#a6-argument-der-vermeidung-unkalkulierbarer-risiken){.btn-rev .btn-rev-outline-secondary target="_blank"}
 :::
 :::
 :::
@@ -976,14 +987,14 @@ Idee des Arguments:
 
 
 ::: footer
-ArgumentationsAgentur | [zurück zu Gliederung](#gliederung) | [**Hintergrund**: Detailrekonstruktion der Kontra-Argumente]() 
+ArgumentationsAgentur | [zurück zu Gliederung](#gliederung) | [zum Blog](./olympia-bewerb-blogbeitrag-v2.qmd) | [**Hintergrund**: Detailrekonstruktion der Kontra-Argumente](./olympia-bewerbung-argumentrekos.qmd#schritt-2.2-rekonstruktion-von-contra-argumenten) 
 :::
 
 # [Schritt 3: Diskussion der Argumente]{#schritt-3:-diskussion-der-argumente style="color:#d95f0e"}
 
 # [3.1: Unentscheidbare Argumente]{#3.1:-unentscheidbare-argumente style="color:#d95f0e"}
 
-## Abwägungs-Argumente (A1 und A4) sind unentscheidbar
+## [Abwägungs-Argumente (A1 und A4) sind unentscheidbar]{#abwägungs-argumente-(a1-und-a4)-sind-unentscheidbar}
 
 ::: {.columns}
 
@@ -1091,7 +1102,7 @@ window.addEventListener("load", function () {
 :::
 </div>
 
-## A3: "Zurückweisung der Nachteile" ist unbegründbar
+## [A3: "Zurückweisung der Nachteile" ist unbegründbar]{#a3:-"zurückweisung-der-nachteile"-ist-unbegründbar}
 
 ::: {.nonincremental}
 
@@ -1353,7 +1364,7 @@ window.addEventListener("load", function () {
 
 :::
 
-## 1. Kontroverse: Verluste {#1.-kontroverse:-verluste auto-animate="true"}
+## [1. Kontroverse: Verluste]{#1.-kontroverse:-verluste auto-animate="true"}
 
 ::: {.nonincremental}
 
@@ -1501,7 +1512,7 @@ Gegner\*innen:
 
 :::
 
-## 2. Kontroverse: Alternativen {#2.-kontroverse:-alternativen auto-animate="true" style="font-size: 0.8em;"}
+## [2. Kontroverse: Alternativen]{#2.-kontroverse:-alternativen auto-animate="true" style="font-size: 0.8em;"}
 
 ::: {.nonincremental}
 

@@ -137,19 +137,38 @@ Eine Rekonstruktion der identifizierten [Pro- und Kontra-Argumente](#schritt-2:-
 
 > **CAUTION:**
 >
-> Kommentar A1
+> Zwischen den beiden Abwägungsargumenten für (A1) und gegen (A4) die Ausrichtung der Spiele besteht Uneinigkeit darüber, wie hoch der **erwartete Nutzen** und die **erwarteten Kosten bzw. Schäden** aus der Ausrichtung der Spiele sein werden.
 >
-> [Rekonstruktion A1]()
+> [Unentscheidbarkeit A1 und A4](../../Unterseiten/2026-Olympia-Bewerbung/olympia-bewerbung-v4-interaktiv.llms.md#abwägungs-argumente-(a1-und-a4)-sind-unentscheidbar)
 >
-> Kommentar A4
+> ##### Möglichkeit zur Auflösung
 >
-> [Rekonstruktion A4]()
+> - diese Kontroverse kann nur durch eine präzisere Schätzung des gesamtgesellschaftlichen Werts der Konsequenzen aus der Ausrichtung der Olympischen Spiele aufgelöst werden.
+>
+> ##### Problem der Auflösung
+>
+> - die mir [bekannte Schätzung](https://mcube-cluster.de/wp-content/uploads/2025/10/251009_MCube_Olympia_07.pdf) ist nicht präzise genug:
+>   - sie gibt keine Wahrscheinlichkeitswerte an, die erforderlich sind, um Erwartungswerte zu bestimmen;
+> - ich vermute, dass es nicht möglich ist, hinreichend präzise Schätzungen des Erwartungswertes zu erhalten.
+>
+> [Hintergrund: Karte der Dialektik Abwägungsargumente]()
 
 > **CAUTION:**
 >
-> shdjf
+> Vertreter\*innen von A3 legen sich auf die Behauptung fest, dass alle (!) befürchteten Nachteile aus der Ausrichtung Olympischer Spiele nicht bzw. nicht im bedeutenden Ausmaß auftreten werden.
 >
-> [Rekonstruktion A3]()
+> [Unbegründbare Prämissen in A3](../../Unterseiten/2026-Olympia-Bewerbung/olympia-bewerbung-v4-interaktiv.llms.md#a3-zurückweisung-der-nachteile-ist-unbegründbar)
+>
+> Bringt man dieses Argument vor, legt man sich auf Behauptungen fest, deren Wahrheit nicht gesichert ist und vermutlich auch nicht gesichert werden kann:
+>
+> - Keine finanziellen Risiken:
+>
+>   - Es ist nicht zu erwarten, dass die Ausrichtung der Olympischen Spiele dem Stadthaushalt unerwartete Kosten aufbürdet.
+>   - Es ist nicht zu erwarten, dass die Ausrichtung der Olympischen Spiele dazu führt, dass andere Haushaltsposten der Stadt signifikant gekürzt werden
+>
+> - Keine Risiken aus der Kooperation mit dem IOC: Es ist nicht zu erwarten, dass das IOC auf eine untragbare Weise das Ausrichtungskonzept der Stadt München beeinflusst.
+>
+> [Hintergrund: Karte der Dialektik von A3]()
 
 #### Was ist von unentscheidbaren Argumenten zu halten?
 
@@ -165,17 +184,17 @@ Aus der [Argumentrekonstruktion](#hintergrund:-rekonstruktion-von-argumenten) er
 
 > **TIP:**
 >
-> Das Pro-Argument [A2: Argument der Chancen-Ergreifung]() und das Kontra-Argument [A6: Vermeidung unkalkulierbarer Risiken]() enthalten einander widersprechende Prämissen:
+> Das Pro-Argument [A2: Argument der Chancen-Ergreifung](../../Unterseiten/2026-Olympia-Bewerbung/olympia-bewerbung-v4-interaktiv.llms.md#pro-argumente) und das Kontra-Argument [A6: Vermeidung unkalkulierbarer Risiken](../../Unterseiten/2026-Olympia-Bewerbung/olympia-bewerbung-v4-interaktiv.llms.md#contra-argumente) enthalten einander widersprechende Prämissen:
 >
-> [Verteilung der Risiken]()
+> [Verteilung der Risiken](../../Unterseiten/2026-Olympia-Bewerbung/olympia-bewerbung-v4-interaktiv.llms.md#1.-kontroverse:-verluste)
 >
 > Mögliche Verluste aus der Durchführung Olympischer Spiele sind fair tragbar
 >
-> diese Behauptung ist in [A2: Argument der Chancen-Ergreifung]() enthalten;
+> diese Behauptung ist in [A2: Argument der Chancen-Ergreifung](../../Unterseiten/2026-Olympia-Bewerbung/olympia-bewerbung-v4-interaktiv.llms.md#pro-argumente) enthalten;
 >
 > Maximale Verluste aus der Durchführung Olympischer Spiele sind nicht fair tragbar
 >
-> diese Behauptung ist in [A6: Vermeidung unkalkulierbarer Risiken]() enthalten
+> diese Behauptung ist in [A6: Vermeidung unkalkulierbarer Risiken](../../Unterseiten/2026-Olympia-Bewerbung/olympia-bewerbung-v4-interaktiv.llms.md#contra-argumente) enthalten
 >
 > **Wege zum Weiterdiskutieren**
 >
@@ -189,7 +208,7 @@ Aus der [Argumentrekonstruktion](#hintergrund:-rekonstruktion-von-argumenten) er
 >
 > Argumente der Befürworter\*innen der Olympischen Spiele, insbesondere das [A2: Argument der Chancenergreifung](), enthalten die Prämisse “Keine besseren Alternativen zu Olympia”. Die Gegner\*innen behaupten hingegen im Argument [A5: Bessere Alternativen zu Olympia]() die Gegenthese.
 >
-> [Verfügbarkeit von Alternativen]()
+> [Verfügbarkeit von Alternativen](../../Unterseiten/2026-Olympia-Bewerbung/olympia-bewerbung-v4-interaktiv.llms.md#2.-kontroverse:-alternativen)
 >
 > Keine Alternativen zu Olympia:
 >
