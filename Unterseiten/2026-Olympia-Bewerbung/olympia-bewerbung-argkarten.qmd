@@ -1,0 +1,166 @@
+---
+title: Argumentkarten zum Blogbeitrag Olympia-Bewerbung Münchens
+author: Eugen Pissarskoi
+date: 2025-12-20
+lang: de
+format: 
+    revealjs: 
+        css: styles.css
+        controls: true
+        incremental: true
+        scrollable: true
+        smaller: true
+        embed-resources: true
+        theme: simple
+        slide-number: c/t
+        footer: "ArgumentationsAgentur | <a href=\"#/gliederung\">zurück zu <b> Gliederung</b></a> | <a href=\"./olympia-bewerb-blogbeitrag-v2.qmd#schritt-2-rekonstruierte-argumente\">zurück zum <b>Blogartikel</b></a>" 
+        logo: ./graphiken/logoAA.svg
+        reference-location: document
+---
+
+## Gliederung{#gliederung .smaller}
+
+::: {.nonincremental}
+::: {.columns}
+
+::: {.column width="49%"}
+::: {.callout-note icon="false"}
+### [Schritt 2.1: Rekonstruktion von Pro-Argumenten](#schritt-2.1:-rekonstruktion-von-pro-argumenten)
+
+* [A1: Abwägung für die Ausrichtung](#rekonstruktion-von-a1-abwägung-für-die-ausrichtung)
+  * [Ergebnis: das rekonstruierte A1]()
+* [A2: Argument der Chancen-Ergreifung](#rekonstruktion-von-a2-argument-der-chancen-ergreifung)
+  * [Ergebnis: das rekonstruierte A2]()
+* [A3: Zurückweisung der Nachteile](#rekonstruktion-von-a3-zurückweisung-der-nachteile)
+  * [Ergebnis: das rekonstruierte A3]()
+:::
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="49%"}
+::: {.callout-note icon="false"}
+### [Schritt 2.2: Rekonstruktion von Contra-Argumenten](#schritt-2.2:-rekonstruktion-von-contra-argumenten)
+
+* [A4: Abwägung gegen die Ausrichtung](#a4-abwägungsargument-gegen-die-ausrichtung-der-olympischen-spiele)
+  * [Ergebnis: das rekonstruierte A4]()
+
+* [A5: Argument der besseren Alternativen](#a5-argument-der-besseren-alternativen)
+  * [Ergebnis: das rekonstruierte A5]()
+
+* [A6: Argument der Vermeidung unkalkulierbarer Risiken](#a6-argument-der-vermeidung-unkalkulierbarer-risiken)
+  * [Ergebnis: das rekonstruierte A6]()
+:::
+:::
+:::
+
+
+
+:::
+
+# [Karte Schritt 1 Pro- und Kontra-Gründe]{#karten-schritt-1-pro--und-kontra-gründe style="color:#d95f0e"}
+
+
+```{=html}
+<iframe class="r-stretch" src="./arg-rekos/dialektik-pro-con-gesichtspunkte-v2.html">
+</iframe>
+```
+
+<!--
+## Unstrittige Pro- und Kontra-Gründe
+
+```{=html}
+<iframe class="r-stretch" src="./arg-rekos/dialektik-unstrittig.html">
+</iframe>
+```
+-->
+
+# [Karten Schritt 2 Rekonstruktion von Argumenten]{#karten-schritt-2-rekonstruktion-von-argumenten style="color:#d95f0e"}
+
+# [2.1: Karten von Pro-Argumenten]{#2.1:-karten-von-pro-argumenten style="color:#d95f0e"}
+
+## A1 Pro-Abwägung
+
+```{=html}
+<iframe class="r-stretch" src="./arg-rekos/a1-pro-dialektik.html">
+</iframe>
+```
+
+## A2 Argument der Chancen-Ergreifung
+
+```{=html}
+<iframe class="r-stretch" src="./arg-rekos/a2-pro-dialektik.html">
+</iframe>
+```
+
+## A3 Zurückweisung der Nachteile
+
+```{=html}
+<iframe class="r-stretch" src="./arg-rekos/a3-pro-dialektik.html">
+</iframe>
+```
+
+# [2.2: Karten von Kontra-Argumenten]{#2.2:-karten-von-kontra-argumenten style="color:#d95f0e"}
+
+## A4 Kontra-Abwägung
+
+```{=html}
+<iframe class="r-stretch" src="./arg-rekos/a4-contra-abwaegung.html">
+</iframe>
+```
+
+## A5 Bessere Alternativen zu Olympia
+
+```{=html}
+<iframe class="r-stretch" src="./arg-rekos/A5-contra-alternativen.html">
+</iframe>
+```
+
+## A6 Vermeidung unkalkulierbarer Risiken
+
+```{=html}
+<iframe class="r-stretch" src="./arg-rekos/a6-contra-ungewissheit.html">
+</iframe>
+```
+
+## Karte der Kontra-Argumente
+
+```{=html}
+<iframe class="r-stretch" src="./arg-rekos/dialektik-contra-argumentation.html">
+</iframe>
+```
+
+
+# [Karten Schritt 3 Diskussion der Argumente]{#karten-schritt-3-diskussion-der-argumente style="color:#d95f0e"}
+
+# [Karten Unentscheidbare Argumente]{#karten-unentscheidbare-argumente style="color:#d95f0e"}
+
+## Abwägungsargumente A1 und A4
+
+```{=html}
+<iframe class="r-stretch" src="./arg-rekos/kontroverse-erwartungswert-a1-a4.html">
+</iframe>
+```
+
+## Zurückweisung der Nachteile A2
+
+```{=html}
+<iframe class="r-stretch" src="./arg-rekos/bewertung-a3-debunking.html">
+</iframe>
+```
+# [Karten Konstruktives Weiterdiskutieren]{#karten-konstruktives-weiterdiskutieren style="color:#d95f0e"}
+
+## Weiterdiskutieren über die Verteilung der Risiken
+
+```{=html}
+<iframe class="r-stretch" src="./arg-rekos/kontroverse-unsicherheit-max-verluste.html">
+</iframe> 
+```
+
+## Weiterdiskutieren über Alternativen zu Olympia
+
+```{=html}
+<iframe class="r-stretch" src="./arg-rekos/kontroverse-unsicherheit-altern.html">
+</iframe>
+```
